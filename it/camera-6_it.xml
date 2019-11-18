@@ -1,0 +1,2146 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Manuela Martinelli" date="13-marzo-2017" id="cam6_1" language="it" product_id="B00HQCW7SS" rating="5" title="Macchina eccellente">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Da sempre utilizzatore di NIKON, mi piace tantissimo il tipo di scatto, la lucentezza delle foto e la capacità di cogliere la luce anche dove non c'è."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="giancarlo" date="17-febbraio-2017" id="cam6_2" language="it" product_id="B00HQCW7SS" rating="5" title="migliore delle aspettative">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="La macchina Ha superato le aspettative, consegna rapida."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bonsai" date="6-febbraio-2017" id="cam6_3" language="it" product_id="B00HQCW7SS" rating="5" title="Come neofita di una reflex ottimo acquisto">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Ciao,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Giovanni Carboni" date="4-febbraio-2017" id="cam6_4" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Molto soddisfatto dell'acquisto."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Torno da ogni occasione con foto nettamente migliori di quelle cui ero abituato prima."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="4:3">
+                <Text text="Va studiata bene per sfruttarne tutte le capacità."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="2-gennaio-2017" id="cam6_5" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Ottima macchina fotografica mi è stata consegnata dopo qualche giorno dal mio ordine."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Piccola maneggevole e con l' obbiettivo in dotazione si riescono a fare delle ottime foto, buono anche l' imballaggio."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Francesco Sica" date="29-dicembre-2016" id="cam6_6" language="it" product_id="B00HQCW7SS" rating="5" title="Bellissima">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Nikon D3300, non sarà una delle reflex top gamma della Nikon, ma possiede tutte le caratteristiche necessarie per farvi divertire e realizzare foto indimenticabili"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Albertone72" date="25-dicembre-2016" id="cam6_7" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon d3300">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Prima di prendere questa d3300, le ho provate tutte."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Canon, Sony, Olympus, pentax, ma della nikon ho subito apprezzato la manegevolezza."/>
+            </Sentence>
+            <Sentence id="7:3">
+                <Text text="Ho preso un obiettivo 18 200 usato e sono pienamente soddisfatto."/>
+            </Sentence>
+            <Sentence id="7:4">
+                <Text text="Sicuramente aumenta di peso e anche di ingombro, ma sinceramente per me queste cose non sono affatto un problema, la qualità delle foto con la reflex è tutta un altra cosa."/>
+            </Sentence>
+            <Sentence id="7:5">
+                <Text text="La consiglio a tutte le persone che vogliono iniziare a fare belle foto."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Roberto Frari" date="14-dicembre-2016" id="cam6_8" language="it" product_id="B00HQCW7SS" rating="5" title="Consigliato">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="ECCELLENTE."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="13-dicembre-2016" id="cam6_9" language="it" product_id="B00HQCW7SS" rating="4" title="Nessun problema">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="Tutto a posto."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="LL'nica dificolta per me ha stato il manuale in altra lingua (parlo spagnolo)."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manuale"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="Confezione ottima e tutto in funzionamento."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="confezione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gaetano" date="6-dicembre-2016" id="cam6_10" language="it" product_id="B00HQCW7SS" rating="5" title="Reflex NIkon D3300: un'ottima compagna di scatti!">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Il prodotto acquistato senza la Prime Option, è arrivato in 8 giorni lavorativi, con un giorno di anticipo, perfettamente imballato e nella sua confezione originale."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="confezione"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="All'interno tutto come accuratamente esposto dal venditore."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="chiara" date="19-novembre-2017" id="cam6_11" language="it" product_id="B00HQCW7SS" rating="5" title="fotocamera">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Fotocamera spettacolare, sempre un ottimo prodotto nikon, spedita ed arrivata subito, senza prime l'ho comprata venerdi sera ed è arrivata martedi mattina...soddisfatta...la consiglio"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="12-ottobre-2017" id="cam6_12" language="it" product_id="B00HQCW7SS" rating="5" title="Le Nikon non smentiscono mai">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Ho acquistato qualche mese fa questa Reflex Nikon D3300 e ho voluto aspettare un pò di tempo prima di recensirla, per vedere come andasse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cristina Di Natale" date="27-settembre-2017" id="cam6_13" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima entry-level">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Una reflex per chi non ha molte pretese e vuole introdursi nel magico mondo della fotografia."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:2">
+                <Text text="Ovviamente la consiglio anche a chi sta iniziando a studiare fotografia e deve passare da una compatta a una reflex."/>
+            </Sentence>
+            <Sentence id="13:3">
+                <Text text="Ce l'ho da due anni e non mi ha mai dato nessuno problema."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bee S." date="25-settembre-2017" id="cam6_14" language="it" product_id="B00HQCW7SS" rating="5" title="PERFETTA FA FOTO ECCELLENTI">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="NON LA USO PERSONALMENTE MA CHI L'HO REGALATA SEMBRA SODDISFATTO - MI HA FATTO VEDERE FOTO BELLISSIME - BUON RAPPORTO QUALITA PREZZO"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MICHELA BELTRAMO" date="21-settembre-2017" id="cam6_15" language="it" product_id="B00HQCW7SS" rating="5" title="Otitima soluzione per entrare nel mondo delle reflex">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Ottimo prodotto, completo, in linea con la tradizione Nikon."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Un buon obbiettivo è un buon corpo macchina abbinabile agli obbiettivi disponibili."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="corpo macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="L'ingresso nel mondo delle reflex ad un prezzo ragionevole."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="noris" date="16-settembre-2017" id="cam6_16" language="it" product_id="B00HQCW7SS" rating="4" title="Reflex Molto buona">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Ottimo corpo macchina adatto per chi inizia a scattare, presa 8 mesi mi sono trovato molto bene menu semplice ed efficace, il corpo si presenta robusto ed i tasti sono comodi, qualita prezzo ottima"/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="corpo macchina"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="12-settembre-2017" id="cam6_17" language="it" product_id="B00HQCW7SS" rating="5" title="Non ce bisogno di pubblicare.">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Come posso dire che il prodotto era privo dell libretto d'istruzioni?"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Perché non è lecito farlo presente?"/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Se escludete le recensioni che non vanno bene, siete poco credibili."/>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="Non lo pubblicate questo, era soltanto per esprimere un mio disapunto."/>
+            </Sentence>
+            <Sentence id="17:5">
+                <Text text="Saluti"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Arianna" date="11-settembre-2017" id="cam6_18" language="it" product_id="B00HQCW7SS" rating="5" title="Per iniziare">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Una macchina reflex digitale entry level che va benissimo per i principianti della fotografia."/>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="Belle fotografie, abbastanza maneggevole e intuitiva."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografie"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio" date="28-agosto-2017" id="cam6_19" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima fotocamera">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Tutto perfetto."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="La fotocamera è arrivata un giorno in anticipo e in ottime condizioni d'imballaggio."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="Per quanto riguarda il manuale d'uso, che arriva il lingua straniera, lo si può scaricare in italiano dal sito della Nikon in qualche secondo."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manuale"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hu4" date="24-agosto-2017" id="cam6_20" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Ottimo prodotto, la confezione era ben custodita e il prodotto è esattamente quello che mi aspettavo, ottima macchina fotografica per imparare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Micali Norberto Liborio" date="30-agosto-2014" id="cam6_21" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D3300 18-105">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="La fotocamera reflex con la sua ottica corrispondeva al mio ordine e fu consegnata prima del previsto imballata in perfette condizioni"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="vincenzo brancaccio" date="24-agosto-2014" id="cam6_22" language="it" product_id="B00HQCW7SS" rating="5" title="ottimo">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Ottima acquisto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Pur essendo un dilettante, con questa macchina si fanno foto perfette."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="GIULIANO" date="8-agosto-2014" id="cam6_23" language="it" product_id="B00HQCW7SS" rating="5" title="ottimo">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="grazie di tutto  cu6 df56 f6865f tf 6ctf tdf8u6d5 dc 8 5d8 d56 f 9f f f9f 7tf ff bnukvb f5"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Trilli" date="31-luglio-2014" id="cam6_24" language="it" product_id="B00HQCW7SS" rating="4" title="Nikon D3300">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Appena arrivata e nell'attesa che si carichi la batteria per poterla usare non posso che complimentarmi un'altra volta con Amazon e con la serietà del venditore che in tempi davvero velocissimi mi hanno fatto arrivare questa meraviglia, un sogno diventato realtà!"/>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Non ho messo 5 stelle solo per il fatto di non averla usata ma sospetto che entro domani sicuramente l'ultima stella mi sarò pentita di non averla messa perché pienamente fiduciosa sulla qualità dei prodotti Amazon."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="In poche parole soddisfatta e adesso non mi resta che iniziare la mia avventura fotografica con la mia nuova Nikon D 3300 ."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nik" date="28-luglio-2014" id="cam6_25" language="it" product_id="B00HQCW7SS" rating="5" title="Amazon come sempre tutto OK">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Mai avuto una Nikon prima e mai usato una Reflex seriamente quindi la mia recensione non sarà un dettaglio delle qualità tecniche da inutile copia/incolla (che si trovano in cinque minuti su centinaia di blog e dal sito del produttore tra parentesi) ma solo una conferma dei tempi, modi e pacco sempre impeccabili di Amazon per cui comprando materiale elettronico avevo qualche remora inizialmente ed invece sono sempre più convinto che continuerò a servirmi da voi: complimenti !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fabio Oggiano" date="28-luglio-2014" id="cam6_26" language="it" product_id="B00HQCW7SS" rating="5" title="ok">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="ok bello funziona arrivato non ho tempo per le recensioni era un regalo non mio e ee e e e"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea Baggiani" date="10-luglio-2014" id="cam6_27" language="it" product_id="B00HQCW7SS" rating="5" title="grande sorpresa">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="macchina ordinata il 2 con arrivo previsto il giorno 8 luglio invece è arrivata  il 4 luglio a sorpresa con grande piacere"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sergio" date="18-giugno-2014" id="cam6_28" language="it" product_id="B00HQCW7SS" rating="5" title="Gustosa">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="La nikon d3300 è una entry level di tutto rispetto in grado di soddisfare il neofita come l'appasionato  più esperto."/>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="Molto intuitiva e grazie alla modalità 'guida', è impossibile sbagliare uno scatto!!"/>
+            </Sentence>
+            <Sentence id="28:3">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gaci P." date="27-maggio-2014" id="cam6_29" language="it" product_id="B00HQCW7SS" rating="5" title="pecato">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="5 stelle per il suporto AMAZON : ho comprato questa machina fotografica pero non ho avuto il modo per usarla perche mi è stata fregata per la strada ....."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="GiuseppeG" date="26-maggio-2014" id="cam6_30" language="it" product_id="B00HQCW7SS" rating="5" title="Signora entry level">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Sono un amatore alla mia prima reflex, in molti mi hanno consigliato questa D3300 e non sono rimasto deluso."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefano Proserpio" date="5-dicembre-2016" id="cam6_31" language="it" product_id="B00HQCW7SS" rating="5" title="macchina perfetta">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="se cercate una macchina fotografica entry level la 3300 fa per voi."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="per iniziare il 18-55 va benissimo ma se ci si spinge oltre puntare sul 105 o su obiettivi non nikon"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Davide" date="26-novembre-2016" id="cam6_32" language="it" product_id="B00HQCW7SS" rating="5" title="Informazioni costo">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Buongiorno, ma è normale che la 18-105 costi 339€?"/>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="La 18-55 ha un obbiettivo inferiore e costa di piu?"/>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="Se la 18-105 ovunque costa almeno 450 euro, se viene rilasciata con corpo e obbiettivo allora ottimo affare."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="18-novembre-2016" id="cam6_33" language="it" product_id="B00HQCW7SS" rating="5" title="UN REGALO GRADITO">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Vedere la stupenda reazione del mio compagno nel ricevere questo stupendo articolo non ha prezzo!"/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="!La nikon D3300 è fantastica!"/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="!foto e video favolosi con i suoi 25megapixel è ottima e facile da usare."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alberto" date="15-novembre-2016" id="cam6_34" language="it" product_id="B00HQCW7SS" rating="4" title="Bella, ottime foto, semplice nel suo utilizzo">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Ero alla ricerca di una macchina reflex di semplice utilizzo, ma che mi permettesse di 'giocare' con le immagini, che potesse essere utilizzata in diverse condizioni di luminosità perchè ero un po stanco delle foto da cellulare."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luca" date="8-novembre-2016" id="cam6_35" language="it" product_id="B00HQCW7SS" rating="5" title="Prodotto eccellente">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Il prodotto è arrivato nei tempi previsti,non ho potuto visualizzare il tracking,la fotocamera è arrivata assieme all'obbiettivo nella sua scatola originale Nikon più scatola brandizzata Amazon."/>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="Prodotto integro e funzionante."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniele Porciatti" date="4-novembre-2016" id="cam6_36" language="it" product_id="B00HQCW7SS" rating="5" title="nikon fotocamera">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="la macchina è molto bella e funzionale (la conoscevo comunque) ed è arrivata in tempi estremamente rapidi, il tutto a buon prezzo"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michele" date="4-novembre-2016" id="cam6_37" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon perfetta">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Arrivata in anticipo, buono l'imballaggio la consiglio a chi volesse comprarla."/>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Costa abbastanza ma ne vale la pena."/>
+            </Sentence>
+            <Sentence id="37:3">
+                <Text text="Nella scatola sono presenti tutti i cavi e manuali, che però sono in tedesco, unica pecca"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aleksandar Markovic" date="14-ottobre-2016" id="cam6_38" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Che dire, se avete una passione e volete entrare nel mondo della fotografia, questa D3300 è perfetta."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="d3300"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Semplice da usare, foto eccellenti, zoom discreto ma ovviamente potete comprare e montare qualsiasi obbiettivo, in base alle vostre esigenze."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marco P." date="11-ottobre-2016" id="cam6_39" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima reflex per iniziare">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Ho comprato questo modello come mia prima reflex e ne sono soddisfattissimo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="Il livello di dettaglio è buono, i colori sono molto ben riprodotti, i comandi sono abbastanza intuitivi (non per questo non dovete leggere il manuale)."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Carlo" date="8-ottobre-2016" id="cam6_40" language="it" product_id="B00HQCW7SS" rating="4" title="Ottima entry level">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Non spendo altre parole sulla buona qualità della 3300."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Ho atteso l'uscita della d3400 per fare l'upgrade della mia vecchietta ma ancora arzilla D40, ma, a mio avviso, la d3400 presenta caratteristiche più scarse della d3300: pare, addirittura, che il tanto decantato incremento di autonomia sia stato reso depotenziando il flash..."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="d3300"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="21-agosto-2016" id="cam6_41" language="it" product_id="B00HQCW7SS" rating="4" title="Nikon 3300">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Tutto apposto, consegna nei tempi prestabiliti, unica pecca che il caricatore non aveva la presa italiana ma inglese(americana) per il resto perfetto"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="G. B." date="10-agosto-2016" id="cam6_42" language="it" product_id="B00HQCW7SS" rating="3" title="BUON COMPROMESSO">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Buona fotocamera per chi deve iniziare o per chi desidera un secondo corpo macchina con poche pretese a poco costoso da battaglia."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                    <Opinion category="DIMENSION" target="corpo macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcello" date="6-agosto-2016" id="cam6_43" language="it" product_id="B00HQCW7SS" rating="5" title="Una reflex per iniziare">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Macchina bella e funzionale, ad un prezzo molto competitivo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="L'obiettivo nikor è comunque ottimo."/>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="Tantissime come sempre le opzioni, con anche la connessione al cellulare (per autoscatto  o per condivisione social)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="5-agosto-2016" id="cam6_44" language="it" product_id="B00HQCW7SS" rating="3" title="Soddisfatta ma col dubbio ....">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="La spedizione è avvenuta nei tempi e l'articolo corrispondeva."/>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="L'unica nota negativa è che sulla confezione era indicato che c'era scheda di memoria e custodia inclusa che però all'interno non c'erano."/>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="Tutto questo mi è stato comunicato da chi ha ricevuto l'oggetto che era un regalo per cui non ho potuto constatarlo direttamente e non sono riuscita francamente dall'ordine da me effettuato se questi due optional fossero inclusi."/>
+            </Sentence>
+            <Sentence id="44:4">
+                <Text text="Resta il fatto che se sulla confezione della macchina fotografica c'era scritto chi ha ricevuto si aspettasse di trovarli e in un certo senso una mezza figuraccia l'ho fatta."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="4-agosto-2016" id="cam6_45" language="it" product_id="B00HQCW7SS" rating="5" title="reflex ottima">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Non pensavo visto il prezzo ma è Veramente un ottima reflex.. Peccato per le istruzioni in russo ma si possono scaricare dal sito.. Consigliata"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eleonora Sartor" date="28-luglio-2016" id="cam6_46" language="it" product_id="B00HQCW7SS" rating="5" title="ottimo">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="L'acquisto è stato ottimo:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="KBeta" date="27-luglio-2016" id="cam6_47" language="it" product_id="B00HQCW7SS" rating="5" title="Fotocamera molto bella">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="La fotocamera è molto bella, maneggievole, poco pesante e facile da utilizzare."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Ottima per inziare ad approcciarsi alla fotografia con le reflex."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Sono presenti diverse funzionalità, la guida permette di imparare piccole nozioni senza il supporto del manuale."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="funzionalità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:4">
+                <Text text="Inoltre le diverse funzionalità sullo schermo sono sempre corredate da immaginette di facile intuizione che portano l'utilizzatore a comprendere prima a cosa servano."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="funzionalità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="27-luglio-2016" id="cam6_48" language="it" product_id="B00HQCW7SS" rating="5" title="GIUDIZIO OTTIMO">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Ottimo prodotto ad un prezzo altrettanto ottimo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="Presenti tutti i gadget necessari e ha rispettato tutte le aspettative."/>
+            </Sentence>
+            <Sentence id="48:3">
+                <Text text="Molto soddisfatto"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="BeaMay" date="21-luglio-2016" id="cam6_49" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima macchina fotografica per amatori">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Ho sostituito, con questa Nikon D3300, una vecchia D80 di seconda mano e che necessitava di una riparazione molto costosa."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="S." date="20-luglio-2016" id="cam6_50" language="it" product_id="B00HQCW7SS" rating="4" title="Tutto bene ma l'obiettivo...">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Spedizione ottima, imballata con cura."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="La macchina è un entry level dal rapporto qualità prezzo difficilmente battibile."/>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Unico appunto l'obiettivo dallo zoom insufficiente."/>
+            </Sentence>
+            <Sentence id="50:4">
+                <Text text="Da cambiare il prima possibile con qualcosa di più utile."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="roby33" date="4-dicembre-2014" id="cam6_51" language="it" product_id="B00HQCW7SS" rating="4" title="sono parzialmente condento">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="sono da 2 settimane in possesso della  Nikon D3300 alla quale ho già aggiunto il tele Nikkor 55-300."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="La camera ed il tele e tipo (versione EU) Ho trovato un caricabatteria compreso, ma le Istruzioni d'uso della machina sono purtroppo in Polacco, e questo e un grande NEO."/>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="Ma e possibile scaricare in italiano, e quello che ho fatto."/>
+            </Sentence>
+            <Sentence id="51:4">
+                <Text text="Ho speso €.10,0 per rilegare."/>
+            </Sentence>
+            <Sentence id="51:5">
+                <Text text="Sono neofitta e senza le istruzioni poi usare la machina solo in automatico."/>
+            </Sentence>
+            <Sentence id="51:6">
+                <Text text="La garanzia e senza timbro del venditore, speriamo bene."/>
+            </Sentence>
+            <Sentence id="51:7">
+                <Text text="Ci si aspetta di pagare meno comprando da amazon, ma non a costo della qualità, vedi anche il solo anno di garanzia, che già per legge in Italia e di anni 2."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="garanzia"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="reJulien" date="18-novembre-2014" id="cam6_52" language="it" product_id="B00HQCW7SS" rating="5" title="E' la 'piccola' reflex di Nikon... ma con 24,2 Megapixel !">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Rapporto qualità prezzo incredibile."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Fotocamera leggera e maneggevole che trasmette comunque un'idea di solidità."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="Bella da tenere in mano, è' piena di funzioni di ogni genere e copre ampiamente qualunque esigenza di scatto per il fotoamatore."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="funzioni"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:4">
+                <Text text="Ha un bel sensore DX che ritorna immagini dense di dettagli e con dei gran bei colori."/>
+            </Sentence>
+            <Sentence id="52:5">
+                <Text text="A proposito del sensore dx, tenete presente il fatto che sia proprio dx per l'acquisto degli obiettivi: un obiettivo da 50 mm, montato su una dx diventa da 75 mm in termini di angolo di campo (non di zoom)."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="John F." date="7-novembre-2014" id="cam6_53" language="it" product_id="B00HQCW7SS" rating="4" title="Cosa aggiungere?">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="Della qualità di questa macchina è stato detto tutto o quasi, così come del suo prezzo un tantino elevato (che io non ho trovato tale, poichè a pari livello di prestazioni, onestamente non vedo molte camere sul mercato paragonabili e a prezzi inferiori)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="PRICE" target="prezzi"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniele Dalla Valle" date="22-ottobre-2014" id="cam6_54" language="it" product_id="B00HQCW7SS" rating="5" title="Grande Nikon">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Macchina eccezionale anche in condizioni di poca luminosità."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Arrivata con un giorno di ritardo ma accettabile."/>
+            </Sentence>
+            <Sentence id="54:3">
+                <Text text="Ottima confezione."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="confezione"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:4">
+                <Text text="Istruzioni in italiano scaricate dal sito."/>
+            </Sentence>
+            <Sentence id="54:5">
+                <Text text="Consigliata"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Enrico C." date="22-ottobre-2014" id="cam6_55" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo prodotto!!!">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Macchinetta davvero ottima consigliata anche ai principianti che si avvicinano per la prima volta al mondo delle reflex!!"/>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="neffolo" date="18-ottobre-2014" id="cam6_56" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Sono appena entrato nel mondo delle reflex, dopo settimane di reiterate ricerche ho optato per questo modello."/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="Fin da subito mi ha fatto un ottima impressione per i materiali e la consistenza."/>
+            </Sentence>
+            <Sentence id="56:3">
+                <Text text="Dopo le prime foto , alcuni risultati si vedono , dico alcuni perchè per padroneggiare con le reflex bisogna fare TANTA esperienza."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="56:4">
+                <Text text="Sono soddisfattissimo dell'acquisto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pinto" date="6-ottobre-2014" id="cam6_57" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo prodotto">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="Ottimo prodotto, leggero, maneggevole, facile da utilizzare anche per i non esperti."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alessandro Melegari" date="24-settembre-2014" id="cam6_58" language="it" product_id="B00HQCW7SS" rating="5" title="top">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Ottimo prodotto nuovo nessun problema spedizione veloce e precisa."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="58:2">
+                <Text text="E' un piacere fare affari con voi."/>
+            </Sentence>
+            <Sentence id="58:3">
+                <Text text="Spero di poter comprare ancora"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Itlink Srl" date="20-settembre-2014" id="cam6_59" language="it" product_id="B00HQCW7SS" rating="5" title="Niente di meglio">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="La consegna è stata come da previsione, il pacco è arrivato integro (nonostante vagabondasse per il cassone del furgone...) La macchina fotografica è come da descrizione, il libretto è solo in tedesco ma si può scaricare quello italiano."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="Purtroppo non è molto chiara la garanzia, avendo richiesto la fattura (che gentilmente mi è stata mandata per email dal venditore) crediamo comunque che sia soltanto di un anno."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="garanzia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="59:3">
+                <Text text="Abbiao registrato i prodotti sul sito come consigliato."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Giuseppe Pierucci" date="6-settembre-2014" id="cam6_60" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Top gamma stupenda veramente divertente da usare"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="4-luglio-2017" id="cam6_61" language="it" product_id="B00HQCW7SS" rating="5" title="ottimo">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="ottima macchina fotografica, rispetta in pieno la descrizione e le aspettative e arriva completa di accessori (batteria, carica batteria, cavetti e tracolla)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniele" date="16-giugno-2017" id="cam6_62" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Pratica e manegevole."/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="Fa ottime foto e cattura bene i colori."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="62:3">
+                <Text text="Per un appassionato di foto principiante è comoda da usare e non richiede grande competenza."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="31-maggio-2017" id="cam6_63" language="it" product_id="B00HQCW7SS" rating="5" title="Davvero bella">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Consegna puntualissima come sempre con amazon e fotocamera altrettanto bella qualita foto ottima per il prezzo è un ottimo prodotto la consiglio"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="R." date="29-maggio-2017" id="cam6_64" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Sono entusiasta di questa reflex, che aspettavo da molto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="Consegna puntuale e foto e video mozzafiato, allego esempi di foto fatte con l'obiettivo 18-55."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea" date="24-maggio-2017" id="cam6_65" language="it" product_id="B00HQCW7SS" rating="1" title="Merce usata">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Anche a me arrivata priva di sigilli , il manuale che si vede già usato da altri."/>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="Mi hanno rifilato il reso di un altro."/>
+            </Sentence>
+            <Sentence id="65:3">
+                <Text text="Anche io la rimando indietro."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="15-maggio-2017" id="cam6_66" language="it" product_id="B00HQCW7SS" rating="1" title="VERGOGNOSI non comprerò più su amazon, ritorno ad acquistare su EBAY">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="priva di sigilli di garanzia, manca la scheda di memoria, gli oggetti interni si vede che sono stati usati."/>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="sicuramente mi hanno rifilato il reso di qualcuno."/>
+            </Sentence>
+            <Sentence id="66:3">
+                <Text text="VERGOGNOSI"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fruit Ninja" date="29-aprile-2017" id="cam6_67" language="it" product_id="B00HQCW7SS" rating="5" title="Acquistata ieri, in negozio">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Era da tanto che volevo prenderla, ero indeciso fra questa e la Canon 1300D che oltre a costar meno, mi è stata consigliata dal 70% di persone."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="28-aprile-2017" id="cam6_68" language="it" product_id="B00HQCW7SS" rating="5" title="Acquisto come da aspettativa">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Ottimo acquisto: costo ben proporzionato alla qualità del prodotto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="Almeno, così sembrerebbe dalle ultime sessioni di utilizzo."/>
+            </Sentence>
+            <Sentence id="68:3">
+                <Text text="Sicuramente lo consiglio."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mauro" date="8-aprile-2017" id="cam6_69" language="it" product_id="B00HQCW7SS" rating="5" title="Buon acquisto">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Ottimo acquisto , stavo proprio cercando una fotocamera così leggera pratica e facile da usare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:2">
+                <Text text="E con caratteristiche di sensibilitá elevate a buon prezzo."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="29-marzo-2017" id="cam6_70" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo prodotto">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="Tutto perfetto, prodotto arrivato in anticipo."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="Funzionante e con tutto in regola."/>
+            </Sentence>
+            <Sentence id="70:3">
+                <Text text="Il manuale è in un'altra lingua, ma dal sito nikon si può scaricare la versione italiana."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="bellatrix" date="29-giugno-2015" id="cam6_71" language="it" product_id="B00HQCW7SS" rating="4" title="Discreta">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Classica Entry level delle reflex."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Roberto Furlan" date="16-aprile-2015" id="cam6_72" language="it" product_id="B00HQCW7SS" rating="5" title="contento aquirente">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Semplicemente la più bella reflex che abbia mai avuto .spesa minima e grande resa .e la chiamano entry level!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Credo che il divertimento sia assicurato se non si e' un profi"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniele Bisceglia" date="31-marzo-2015" id="cam6_73" language="it" product_id="B00HQCW7SS" rating="5" title="Dalla 60D a Nikon D3300">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Di sicuro qualcuno si sta facendo una risata, questa è una mia opinione dopo anni di uso, ma capirei la vostra risata."/>
+            </Sentence>
+            <Sentence id="73:2">
+                <Text text="Non so davvero da dove iniziare ma ci provo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniele Bisceglia" date="31-marzo-2015" id="cam6_74" language="it" product_id="B00HQCW7SS" rating="5" title="Dalla 60D a Nikon D3300">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Di sicuro qualcuno si sta facendo una risata, questa è una mia opinione dopo anni di uso, ma capirei la vostra risata."/>
+            </Sentence>
+            <Sentence id="74:2">
+                <Text text="Non so davvero da dove iniziare ma ci provo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="gio10" date="6-marzo-2015" id="cam6_75" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D3300">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="La macchina è eccellente, non c'è bisogno di ripeterlo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="75:2">
+                <Text text="Val bene per chi vuole intraprendere l'hobby della fotografia, anche se ci vuole del tempo per assimilare tutte le funzioni che offre."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paolo" date="1-marzo-2015" id="cam6_76" language="it" product_id="B00HQCW7SS" rating="5" title="molto buona!">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="La qualità é indiscutibile!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Molto versatile da usare, leggera e con un bellissimo grip dovuto alla superficie opaca della macchina!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:3">
+                <Text text="Bellissima!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea" date="14-gennaio-2015" id="cam6_77" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetto">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="Puntuale, prodotto perfetto impacchettato bene."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="77:2">
+                <Text text="Presente l'assicurazione."/>
+            </Sentence>
+            <Sentence id="77:3">
+                <Text text="Manuale dell'obiettivo in più lingue, incluso Italiano."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manuale"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="77:4">
+                <Text text="Manuale della maccina non Italiano, ma tanto quello Italiano è disponibile online sul sito Nikon come pdf."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luciano Campani" date="4-gennaio-2015" id="cam6_78" language="it" product_id="B00HQCW7SS" rating="4" title="Nikon D3300 con obiettivo AF-S 18-55 VR II (vers. EU)">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Sono molto soddisfatto del prodotto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Girolamo" date="18-dicembre-2014" id="cam6_79" language="it" product_id="B00HQCW7SS" rating="5" title="grande amazon!!!">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Che dire...decido di acquistare la nikon D3300 EU il 17 novembre, ma non disponibile in magazzino, a 429,99€ (venduto e spedito da amazon) e dopo quasi un mese, il 15 dicembre ricevo a casa con stupore la versione Nital con 4 anni di garanzia è una sd da 8gb!"/>
+            </Sentence>
+            <Sentence id="79:2">
+                <Text text=":D"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daddo" date="10-dicembre-2014" id="cam6_80" language="it" product_id="B00HQCW7SS" rating="5" title="regalo perfetto">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="L ho reGalata a mia sorella per il suo compleanno."/>
+            </Sentence>
+            <Sentence id="80:2">
+                <Text text=".come entry level..va più che bene..ottima  nitidezza e velocità."/>
+            </Sentence>
+            <Sentence id="80:3">
+                <Text text="."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Leonardo" date="1-ottobre-2016" id="cam6_81" language="it" product_id="B00HQCW7SS" rating="5" title="Consigliato">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Sono un principiante e,  quindi,  non ho ancora scoperto tutte le funzionalità della mia Nikon,  ma le foto che ho fatto utilizzando la guida immediata (utilizzabile sulla stessa macchina)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="81:2">
+                <Text text="Tornassi indietro prenderei il corpo macchina ed un obiettivo più ampio a parte"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fabrizio" date="28-settembre-2016" id="cam6_82" language="it" product_id="B00HQCW7SS" rating="5" title="Alto livello, spesa minima">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Il top e a un prezzo più che ragionevole."/>
+            </Sentence>
+            <Sentence id="82:2">
+                <Text text="Perfetta per cominciare o per chi è già esperto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MARIA" date="28-settembre-2016" id="cam6_83" language="it" product_id="B00HQCW7SS" rating="5" title="nikon sempre ok">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Per essere al primo livello di reflex è , come sempre per le Nikon, un ottimo prodotto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="83:2">
+                <Text text="E' leggera anche perché la plastica abbonda."/>
+            </Sentence>
+            <Sentence id="83:3">
+                <Text text="L'uso è semplice ed intuitivo."/>
+            </Sentence>
+            <Sentence id="83:4">
+                <Text text="Le istruzioni son arrivate in russo, ma le ho scaricate dalla rete"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gianluca" date="14-settembre-2016" id="cam6_84" language="it" product_id="B00HQCW7SS" rating="5" title="Eccellente">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="Davvero una bella macchina fotografica,leggera e comoda,ho iniziato a scattare da poco ed è oltre le mie aspettative,complimenti davvero nikon."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="daniele scassa" date="13-settembre-2016" id="cam6_85" language="it" product_id="B00HQCW7SS" rating="5" title="perfetta">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="comprata per essere regalata, arrivata in anticipo ed in perfette condizioni."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Enrico Maria Porru" date="12-settembre-2016" id="cam6_86" language="it" product_id="B00HQCW7SS" rating="5" title="superba">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="non sapevo che esistevano fotocamere di questa definizione ... sono rimasto davvero soddisfatto ... la consiglio e vi consiglio di prendere l obiettivo Tamron AF 18 - 200mm F/3.5 - 6.3 ... io ho fatto cosi ;)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fabio Ferrante" date="1-settembre-2016" id="cam6_87" language="it" product_id="B00HQCW7SS" rating="5" title="Macchina ottima VENDITORE PESSIMO">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="La D3300 è un'ottima macchina,"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="d3300"/>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claudio z." date="1-settembre-2016" id="cam6_88" language="it" product_id="B00HQCW7SS" rating="4" title="nikon d3300">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="La macchina sembra nuova , ho notato un segno sul monitor solo due  giorni , quindi do il bene ficio del dubbio , peto manca manuale in italiano"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luciano di pace" date="28-agosto-2016" id="cam6_89" language="it" product_id="B00HQCW7SS" rating="4" title="Manuale in ceco">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="La fotocamera é perfetta, ma il manuale é in ceco perciò non si capisce niente, tutto il resto va bene."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anna" date="27-agosto-2016" id="cam6_90" language="it" product_id="B00HQCW7SS" rating="5" title="Bella fotocamera!">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Ho acquistato la Nikon per un regalo."/>
+            </Sentence>
+            <Sentence id="90:2">
+                <Text text="Il prodotto è arrivato in perfette condizioni e funziona bene."/>
+            </Sentence>
+            <Sentence id="90:3">
+                <Text text="Ottimo acquisto, la consiglio!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MauroN" date="6-giugno-2016" id="cam6_91" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="Ottima macchina per peso ne che vogliono entrare nel mondo delle fotografia digitale ad un livello più alto che una semplice compatta"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="gianluigi" date="5-giugno-2016" id="cam6_92" language="it" product_id="B00HQCW7SS" rating="4" title="Nikon 3300">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="Buon rapporto prezzo qualita'."/>
+            </Sentence>
+            <Sentence id="92:2">
+                <Text text="Richiede un minimo di cognizioni di fotografia."/>
+            </Sentence>
+            <Sentence id="92:3">
+                <Text text="Non adatta a principinti digiuni di un minimo di esperienza superiore alle compatte automatiche"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alessandro" date="3-giugno-2016" id="cam6_93" language="it" product_id="B00HQCW7SS" rating="5" title="ottima macchina">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="la nuova nikon D3300 è veramente un'ottima macchina di fascia media, ricca di funzioni e personalizzazioni oltre ad elementi che aiutano anche i neofiti come noi."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="OTHER" target="funzioni"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Argia" date="2-giugno-2016" id="cam6_94" language="it" product_id="B00HQCW7SS" rating="5" title="ottima base">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="regalata ad un ragazzo alle prime armi."/>
+            </Sentence>
+            <Sentence id="94:2">
+                <Text text="Ottima per cominciare ad amare la fotografia."/>
+            </Sentence>
+            <Sentence id="94:3">
+                <Text text="Ha tutto quello che occorre per imparare a miscelare bene luce e tempi"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dario L." date="13-maggio-2016" id="cam6_95" language="it" product_id="B00HQCW7SS" rating="5" title="Il miglior inizio">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="Ottima per chi vuole iniziare ad approcciarsi alla fotografia."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:2">
+                <Text text="Leggerezza e compattezza la rendono ideale durante un viaggio, qualità dell'immagine indiscussa."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alessandro Bonanno" date="12-maggio-2016" id="cam6_96" language="it" product_id="B00HQCW7SS" rating="3" title="Pacco arrivato puntualmente e in perfette condizioni">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="Il pacco arrivato puntualmente e in perfette condizioni, peccato per il manuale solo in tedesco e per la mancanza di una ricevuta fiscale."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea P." date="27-aprile-2016" id="cam6_97" language="it" product_id="B00HQCW7SS" rating="5" title="Soddisfatto">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="Prezzo di acquisto agevole per le soddisfazioni che riesce a regalarti."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="97:2">
+                <Text text="Non sono un fotografo di professione, ma la trovo maneggevole, ben costruita e curata."/>
+            </Sentence>
+            <Sentence id="97:3">
+                <Text text="Ottima per chi entra nel mondo delle reflex e non vuole spendere un patrimonio, regalandoti un'ottima resa."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aromi" date="25-aprile-2016" id="cam6_98" language="it" product_id="B00HQCW7SS" rating="4" title="Sicuramente all'altezza delle aspettative.">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="Non posso esprimere una valutazione strettamente tecnica, poiché questa fotocamera l'ho acquistata per un regalo."/>
+            </Sentence>
+            <Sentence id="98:2">
+                <Text text="Tuttavia, dalle considerazioni espresse dal destinatario, posso senza dubbi affermare che si tratta di un un buon prodotto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="98:3">
+                <Text text="Una mia impressione di carattere generale è che, in questi ultimi tempi, anche le fotocamere, per così dire 'economiche', per chi non avesse esigenze fotografiche altamente specifiche, hanno raggiunto livelli qualitativi molto elevati, in grado di soddisfare pienamente le aspirazioni di un fotoamatore di medio livello."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="NICOLA" date="31-marzo-2016" id="cam6_99" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D 3300">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="La reflex funziona benissimo è una macchina direi perfetta per i primi approcci alla fotografia digitale, certo l'obbiettivo è limitante ma fa il suo dovere egregiamente."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="99:2">
+                <Text text="Una particolare ringraziamento per il venditore particolarmente cortese e pronto a soddisfare le esigenze del cliente, la spedizione è stata rapidissima e puntuale."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="maurizio re" date="25-marzo-2016" id="cam6_100" language="it" product_id="B00HQCW7SS" rating="4" title="anche se entry level ottima qualirta' dell'immagine">
+        <Sentences>
+            <Sentence id="100:1">
+                <Text text="a poco da invidiare a quelle sopra di qualche gradino, leggermente lento il raw negli scatti continui ma cosa si puo' pretendere, regge bene agli alto iso , 3200 è tranquillo, quasi addio flash in molte occasioni."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ettore" date="18-luglio-2016" id="cam6_101" language="it" product_id="B00HQCW7SS" rating="4" title="Economica ma potente">
+        <Sentences>
+            <Sentence id="101:1">
+                <Text text="Non fatevi ingannare sul fatto che sia una macchina economica."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="101:2">
+                <Text text="Non ha nulla da invidiare rispetto le sorelle maggiori."/>
+            </Sentence>
+            <Sentence id="101:3">
+                <Text text="Unica nota negativa, perdita della messa a fuoco automatica se viene abbinata ad obbiettivi di tipo vecchio."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="18-luglio-2016" id="cam6_102" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo prodotto">
+        <Sentences>
+            <Sentence id="102:1">
+                <Text text="Prodotto ottimo..qualitá eccellente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pasqualino Della Mura" date="17-luglio-2016" id="cam6_103" language="it" product_id="B00HQCW7SS" rating="5" title="NIKON SEMPRE E COMUNQUE">
+        <Sentences>
+            <Sentence id="103:1">
+                <Text text="Ero indeciso tra acquistare questa fotocamera e la Canon d1300, innanzitutto con poca differenza di prezzo, prendete la nikon che ha un sensore da 24 megapixel anzichè da 18."/>
+            </Sentence>
+            <Sentence id="103:2">
+                <Text text="Poi il sensor è anche più grande, e la qualità delle immagini è nettamente superiore a Canon."/>
+            </Sentence>
+            <Sentence id="103:3">
+                <Text text="Gli obiettivi per le Nikon costano sicuramente di più di quelli per Canon, però la qualità si paga."/>
+            </Sentence>
+            <Sentence id="103:4">
+                <Text text="Alla fine considerato tutto, si spendono più o meno 50 euro in più ad obiettivo, quindi non parliamo di una differenza di prezzo esagerata."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Simone Vaia" date="15-luglio-2016" id="cam6_104" language="it" product_id="B00HQCW7SS" rating="5" title="A DIR POCO PERFETTA!">
+        <Sentences>
+            <Sentence id="104:1">
+                <Text text="Affascinato già dalla prima vista di questa fotocamera ho deciso successivamente di acquistarla da TIS ITALIA STORE; ero molto impaziente per l'arrivo del pacco arrivato in 1 giorno lavorativo, intatto e con articolo perfettamente imballato."/>
+            </Sentence>
+            <Sentence id="104:2">
+                <Text text="Affascinato totalmente dalla bellezza in sè della reflex ho deciso di provarla da subito,ricaricato subito la batteria e iniziato a scattare."/>
+            </Sentence>
+            <Sentence id="104:3">
+                <Text text="Ho avuto modo di provare la fotocamera per circa una settimana fino ad oggi ma ho già notato la perfetta qualità delle foto scattate fino ad ora anche avendo acquistato il kit con l'obiettivo 18-55mm"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefano Di Pastina" date="14-luglio-2016" id="cam6_105" language="it" product_id="B00HQCW7SS" rating="5" title="Uno dei migliori acquisti che io abbia mai fatto fin'ora.">
+        <Sentences>
+            <Sentence id="105:1">
+                <Text text="Ottimo prodotto !!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="105:2">
+                <Text text="PERFETTO per chi come me vuole entrare nel mondo della fotografia."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fulvio M." date="7-luglio-2016" id="cam6_106" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D3300 solo corpo">
+        <Sentences>
+            <Sentence id="106:1">
+                <Text text="Puntuale, imballo conforme caratteristiche macchina come nelle aspettative."/>
+            </Sentence>
+            <Sentence id="106:2">
+                <Text text="Un buon compromesso per chi accettando ingombro tipico da reflex vuole migliorare ed avere garanzie di ottime foto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                    <Opinion category="OTHER" target="garanzie"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jacopo" date="26-giugno-2016" id="cam6_107" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima Entry Level">
+        <Sentences>
+            <Sentence id="107:1">
+                <Text text="Completamente soddisfatto dell'acquisto."/>
+            </Sentence>
+            <Sentence id="107:2">
+                <Text text="L'ho acquistata per un regalo, apprezzato a pieno."/>
+            </Sentence>
+            <Sentence id="107:3">
+                <Text text="La fotocamera è eccezionale, un'ottima entry level."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:4">
+                <Text text="Fotografie spettacolari anche con un 18-55."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografie"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:5">
+                <Text text="La spedizione ottima, addirittura un giorno in anticipo e il pacco perfettamente imballato."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:6">
+                <Text text="La confezione ricomprende: corpo macchina Nikon D3300, obiettivo AF-P 18-55, batteria ricaricabile, caricabatterie, cavi di collegamento a TV e PC, Cd installante per ottimizzare il trasferimento delle fotografie sul PC, libretto di istruzioni."/>
+            </Sentence>
+            <Sentence id="107:7">
+                <Text text="Che dire, la consiglio vivamente a chiunque voglia approcciarsi al mondo della fotografia"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Robbicarlo" date="15-giugno-2016" id="cam6_108" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="108:1">
+                <Text text="Che dire, super macchina,!!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="108:2">
+                <Text text="È stato un regalo,  ma chi l'ha ricevuta è rimasta super  contenta!!"/>
+            </Sentence>
+            <Sentence id="108:3">
+                <Text text="Macchina abbastanza leggera, foto molto belle e abbastanza semplice da usare!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="108:4">
+                <Text text="Ideale per chi è alle prime armi....  Spedizione super veloce e imballaggio perfetto!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vanni" date="10-giugno-2016" id="cam6_109" language="it" product_id="B00HQCW7SS" rating="5" title="Grande acquisto">
+        <Sentences>
+            <Sentence id="109:1">
+                <Text text="Una piccola grande fotocamera con numerose funzioni e la solita indiscussa qualità Nikon."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                    <Opinion category="OTHER" target="funzioni"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="109:2">
+                <Text text="Consiglio in abbinamento il Tamron 70-300 SP"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michele" date="9-giugno-2016" id="cam6_110" language="it" product_id="B00HQCW7SS" rating="5" title="La scelta migliore come prima fotocamera">
+        <Sentences>
+            <Sentence id="110:1">
+                <Text text="Per le impressioni sulla qualità della Nikon d3300 non ho parole, sono stupito; prima di acquistarla ho fatto molte ricerche."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefano Donadelli" date="14-marzo-2016" id="cam6_111" language="it" product_id="B00HQCW7SS" rating="4" title="ottimo prodotto">
+        <Sentences>
+            <Sentence id="111:1">
+                <Text text="Ho acquistato questo prodotto e la consegna è stata più celere del previsto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Enak Zoiche" date="6-marzo-2016" id="cam6_112" language="it" product_id="B00HQCW7SS" rating="4" title="Ottima.">
+        <Sentences>
+            <Sentence id="112:1">
+                <Text text="Tutto ok, proprio quello che mi aspettavo."/>
+            </Sentence>
+            <Sentence id="112:2">
+                <Text text="Prodotto ottimo che rispecchia perfettamente i commenti entusiasti che si leggono in rete."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="roberto" date="12-febbraio-2016" id="cam6_113" language="it" product_id="B00HQCW7SS" rating="4" title="Valutazione complessiva">
+        <Sentences>
+            <Sentence id="113:1">
+                <Text text="Tutto ok per quanto riguarda sia la spedizione che il prodotto."/>
+            </Sentence>
+            <Sentence id="113:2">
+                <Text text="Per questi due aspetti sono veramente soddisfatto."/>
+            </Sentence>
+            <Sentence id="113:3">
+                <Text text="L'unica nota negativa (ecco perché non ho dato le 5 stelle) è che il libretto informativo non è in italiano."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="landini.m" date="8-febbraio-2016" id="cam6_114" language="it" product_id="B00HQCW7SS" rating="5" title="Un buon inizio">
+        <Sentences>
+            <Sentence id="114:1">
+                <Text text="Non mi soffermo sulle specifiche tecniche di macchina fotografica e obiettivo, facilmente reperibili in rete."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Roberto Chiffi" date="8-febbraio-2016" id="cam6_115" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima.">
+        <Sentences>
+            <Sentence id="115:1">
+                <Text text="Ragazzi, tempo fa comprai una reflex marca sony.. no per denigrare altri marchi o quant'altro.. ma la Nikon non la batte nessuno!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="115:2">
+                <Text text="Ottimo acquisto, ottimo prodotto, ottima affidabilità e ottima serietà del venditore!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="115:3">
+                <Text text="Arrivata prima della data prevista in una confezione ben protetta.."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Roberto Antoniutti" date="4-febbraio-2016" id="cam6_116" language="it" product_id="B00HQCW7SS" rating="3" title="Peccato per il manuale">
+        <Sentences>
+            <Sentence id="116:1">
+                <Text text="Solita impeccabile e veloce consegna di amazon."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="116:2">
+                <Text text="Purtroppo il manuale della camera è solo in una lingua sconosciuta, nemmeno in inglese."/>
+            </Sentence>
+            <Sentence id="116:3">
+                <Text text="Si può scaricarlo dal sito,ma non è stampabile e comunque sarebbero 126 pagine"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tino Maggiani" date="1-febbraio-2016" id="cam6_117" language="it" product_id="B00HQCW7SS" rating="5" title="grande nikon!">
+        <Sentences>
+            <Sentence id="117:1">
+                <Text text="Ottima macchina niente da dire le reflex sono il top e per di più è molto facile da usare visto che ci sono varie modalità di scatto dal tutto automatico come una compatta a tutto in manuale ma sempre con una qualità spettacolare!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="GL" date="8-gennaio-2016" id="cam6_118" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo 'usato'">
+        <Sentences>
+            <Sentence id="118:1">
+                <Text text="Acquistata 'usata' a 339 euro su Amazon Warehouse."/>
+            </Sentence>
+            <Sentence id="118:2">
+                <Text text="In realtà nuova."/>
+            </Sentence>
+            <Sentence id="118:3">
+                <Text text="Perfetta."/>
+            </Sentence>
+            <Sentence id="118:4">
+                <Text text="Solo corpo macchina senza obiettivo (comprato a parte)."/>
+            </Sentence>
+            <Sentence id="118:5">
+                <Text text="Tutto come da descrizione."/>
+            </Sentence>
+            <Sentence id="118:6">
+                <Text text="Garanzia europea di 2 anni."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="garanzia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="118:7">
+                <Text text="Ottima per principianti come me."/>
+            </Sentence>
+            <Sentence id="118:8">
+                <Text text="Prezzo relativamente basso e alta qualità tecnologica."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="118:9">
+                <Text text="La batteria dura solo se si fanno foto col mirino."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="118:10">
+                <Text text="Usando il display per foto o filmati o per altre operazioni fa presto a scaricarsi."/>
+            </Sentence>
+            <Sentence id="118:11">
+                <Text text="Consiglio l'acquisto di una batteria di riserva."/>
+            </Sentence>
+            <Sentence id="118:12">
+                <Text text="Manuale in italiano scaricabile dal sito della Nikon sia per pc che per smartphone."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Giulio GMDB" date="6-gennaio-2016" id="cam6_119" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo">
+        <Sentences>
+            <Sentence id="119:1">
+                <Text text="La macchina ha un ottimo rapporto qualità/prezzo soprattutto per un neofita."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="rapporto qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="119:2">
+                <Text text="Ricordarsi di ordinare il filtro skylight o UV per proteggere la lente (diametro 52mm)."/>
+            </Sentence>
+            <Sentence id="119:3">
+                <Text text="Io l'ho dimenticato e stranamente Amazon non me l'ha suggerito al momento dell'acquisto..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vescovi Loriana" date="4-gennaio-2016" id="cam6_120" language="it" product_id="B00HQCW7SS" rating="5" title="Regalo">
+        <Sentences>
+            <Sentence id="120:1">
+                <Text text="Ho regalato questa reflex a mia figlia.......è la prima reflex che usa...mi sembra un buon acquisto, io sto usando una Nikon D90 e sono molto contenta...."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="25-dicembre-2015" id="cam6_121" language="it" product_id="B00HQCW7SS" rating="5" title="nikon d3300 con 18-55 stabilizzato">
+        <Sentences>
+            <Sentence id="121:1">
+                <Text text="Perfettamente corrispondente alle mie aspettative."/>
+            </Sentence>
+            <Sentence id="121:2">
+                <Text text="La migliore reflex in questa fascia di prezzo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="121:3">
+                <Text text="Peso ed ingombro contenuti."/>
+            </Sentence>
+            <Sentence id="121:4">
+                <Text text="L'unico neo è il display non touch."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="5-dicembre-2015" id="cam6_122" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="122:1">
+                <Text text="Spedizione puntualissima come sempre."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="luca paravano" date="28-novembre-2015" id="cam6_123" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta">
+        <Sentences>
+            <Sentence id="123:1">
+                <Text text="Trovata ad un prezzo ottimo in condizioni perfette ."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="123:2">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:3">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:4">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:5">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:6">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:7">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:8">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:9">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:10">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:11">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:12">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:13">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:14">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:15">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:16">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="123:17">
+                <Text text="."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Glamour Group" date="26-ottobre-2015" id="cam6_124" language="it" product_id="B00HQCW7SS" rating="5" title="Reflex bellissima">
+        <Sentences>
+            <Sentence id="124:1">
+                <Text text="Leggera e funzionale, è straricca di funzioni che non abbiamo ancora sperimentato."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="funzioni"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="124:2">
+                <Text text="Molto soddisfatti dell'acquisto, ad un prezzo veramente conveniente."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alessandro" date="17-ottobre-2015" id="cam6_125" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta e pure qualcosina dippiù.">
+        <Sentences>
+            <Sentence id="125:1">
+                <Text text="C'è da premettere che sono un neofita per quanto riguarda le reflex e che cercavo qualcosa che potesse andare bene,ma che non fosse troppo 'di base'.Ho valutato diverse macchine e mi sono informato ed alla fine ho optato per questa Nikon D3300.Oltre le caratteristiche indiscusse della macchina ho considerato molto interessante il rapporto qualità prezzo,che mi ha spinto ulteriormente all'acquisto.Sono da poco stato in viaggio ed ho aspettato prima di scrivere questa breve recensione proprio perché volevo prima provare la macchina.Che dire è ottima,dà molta soddisfazione e se non si sa fare qualcosa c'è anche la guida che a schermo ti aiuta nell'impostarla per ottenere le foto volute.Batteria ha un'ottima durata ,ma per avere la resa massima deve avere più cicli di carica alle spalle.Consiglio a chi la vuole acquistare di aggiungere qualcosina e prendere anche una seconda batteria in aggiunta.Unico neo il manuale cartaceo che non è in lingua italiana,ma comunque si può sempre scaricare sul sito ufficiale.Ottimo prodotto ed eccellente Amazon nella spedizione."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manuale"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                    <Opinion category="OTHER" target="amazon"/>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alfonso Ara" date="15-ottobre-2015" id="cam6_126" language="it" product_id="B00HQCW7SS" rating="4" title="Aspettative rispettate!">
+        <Sentences>
+            <Sentence id="126:1">
+                <Text text="Ero consapevole che non si trattasse  di una macchina di gamma alta, ma assolve le mie richieste lavorative permettendomi scatti rispettabilissimi."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="salvatore" date="12-settembre-2015" id="cam6_127" language="it" product_id="B00HQCW7SS" rating="5" title="Articolo consigliatissimo!">
+        <Sentences>
+            <Sentence id="127:1">
+                <Text text="Consegna rapidissima, articolo perfetto e nessun tipo di problema."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="127:2">
+                <Text text="Non sono certo un esperto ma la fotocamera scatta foto davvero ottime e la modalità auto permette di non doversi preoccupare più di tanto delle impostazioni."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="127:3">
+                <Text text="Rapporto qualità/prezzo fenomenale!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="rapporto qualità"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcodea" date="2-agosto-2015" id="cam6_128" language="it" product_id="B00HQCW7SS" rating="3" title="Ottima camera ma non nuova">
+        <Sentences>
+            <Sentence id="128:1">
+                <Text text="Arrivata nei tempi previsti ma usata!"/>
+            </Sentence>
+            <Sentence id="128:2">
+                <Text text="Imballo chiuso con adesivi che certificassero l'integrità del prodotto ma internamente tutte le bustine erano stropicciate."/>
+            </Sentence>
+            <Sentence id="128:3">
+                <Text text="Funziona correttamente ma sono rimasto molto deluso."/>
+            </Sentence>
+            <Sentence id="128:4">
+                <Text text="Diffidate da questo venditore!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Giada" date="5-luglio-2015" id="cam6_129" language="it" product_id="B00HQCW7SS" rating="5" title="Bellissima">
+        <Sentences>
+            <Sentence id="129:1">
+                <Text text="Premettendo che non sono una professionista, è davvero fantastica!"/>
+            </Sentence>
+            <Sentence id="129:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paolo_t" date="4-luglio-2015" id="cam6_130" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta e ad un prezzo inetressante">
+        <Sentences>
+            <Sentence id="130:1">
+                <Text text="Entry level che permette già di fare foto bellissime, tenendo conto che l'alternativa è lo smartphone o la fotocamerina compatta."/>
+            </Sentence>
+            <Sentence id="130:2">
+                <Text text="Ottimo prodotto, grande Nikon."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anita Pasetto" date="21-maggio-2014" id="cam6_131" language="it" product_id="B00HQCW7SS" rating="5" title="Acquisto sicuro e venditore serio">
+        <Sentences>
+            <Sentence id="131:1">
+                <Text text="Tutto secondo le mie aspettative!"/>
+            </Sentence>
+            <Sentence id="131:2">
+                <Text text="Consegna super veloce e prodotto perfetto!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="consegna"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="131:3">
+                <Text text="Venditore molto serio e professionale, ottima comunicazione e spedizione,consigliato."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="nicola rossi" date="20-maggio-2014" id="cam6_132" language="it" product_id="B00HQCW7SS" rating="5" title="ditta seria">
+        <Sentences>
+            <Sentence id="132:1">
+                <Text text="Ditta seria e puntuale arrivato il tutto un giorno prima del giorno prestabilito tutto ben imballato ed integro complimenti alla prossima"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="28-gennaio-2019" id="cam6_133" language="it" product_id="B00HQCW7SS" rating="5" title="Macchina fotografica">
+        <Sentences>
+            <Sentence id="133:1">
+                <Text text="Ottimo rapporto qualità prezzo."/>
+            </Sentence>
+            <Sentence id="133:2">
+                <Text text="Fa il suo dovere."/>
+            </Sentence>
+            <Sentence id="133:3">
+                <Text text="Consiglio l,' acquisto"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea" date="9-dicembre-2018" id="cam6_134" language="it" product_id="B00HQCW7SS" rating="4" title="Una delle migliori entry level">
+        <Sentences>
+            <Sentence id="134:1">
+                <Text text="Ottima fotocamera, per il momento mi trovo benissimo e la uso quotidianamente, ho acquistato la versione con la garanzia europea, quindi i due manuali cartacei presenti nella confezione erano in inglese e spagnolo, poco male perché sul sito della nikon si é presente il manuale pdf."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                    <Opinion category="OTHER" target="garanzia"/>
+                    <Opinion category="OTHER" target="confezione"/>
+                    <Opinion category="OTHER" target="manuale"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="134:2">
+                <Text text="in lingua italiana."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="vera" date="27-novembre-2018" id="cam6_135" language="it" product_id="B00HQCW7SS" rating="5" title="Molto soddisfatta">
+        <Sentences>
+            <Sentence id="135:1">
+                <Text text="Fotocamera compatta ma dalle caratteristiche e prestazioni molto soddisfacenti ."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="salvatore" date="8-luglio-2018" id="cam6_136" language="it" product_id="B00HQCW7SS" rating="2" title="Reflex">
+        <Sentences>
+            <Sentence id="136:1">
+                <Text text="La fotocamera si presenta in buone condizioni sia estetiche che di funzionamento, dalla descrizione parla degli accessori che potrebbero avere difetti estetici, peccato che gli accessori non ci siano, compreso il caricabatterie e una scheda sd omaggio come da confezione."/>
+            </Sentence>
+            <Sentence id="136:2">
+                <Text text="Ora sarò costretto ad acquistarlo separatamente il caricabatterie."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="7-giugno-2018" id="cam6_137" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon è sempre una garanzia">
+        <Sentences>
+            <Sentence id="137:1">
+                <Text text="Comprato come regalo, io uso la sorella più anzianotta D3100."/>
+            </Sentence>
+            <Sentence id="137:2">
+                <Text text="Devo dire che a parità di obiettivo c'è differenza nella qualità delle foto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="137:3">
+                <Text text="Molto bella: comoda, compatta e funzionale."/>
+            </Sentence>
+            <Sentence id="137:4">
+                <Text text="Entrylevel, e qualcosina in più secondo me"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Deborah" date="5-aprile-2018" id="cam6_138" language="it" product_id="B00HQCW7SS" rating="4" title="Ottima per principianti">
+        <Sentences>
+            <Sentence id="138:1">
+                <Text text="Ottima macchina tutto fare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="138:2">
+                <Text text="È l'ideale per chi è alle prime armi con una reflex, la uso da due anni e non mi ha mai dato problemi, anche la batteria è molto soddisfacente."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Francesco" date="28-marzo-2018" id="cam6_139" language="it" product_id="B00HQCW7SS" rating="5" title="Perfetta">
+        <Sentences>
+            <Sentence id="139:1">
+                <Text text="Fa esattamente tutto quello che le si viene richiesto."/>
+            </Sentence>
+            <Sentence id="139:2">
+                <Text text="Bisogna tener conto che è una entry level per cui ha funzionalità ridotte."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="funzionalità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="139:3">
+                <Text text="Queste però sono tutte ottimizzate al meglio."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Razvan" date="19-dicembre-2017" id="cam6_140" language="it" product_id="B00HQCW7SS" rating="4" title="Discreta">
+        <Sentences>
+            <Sentence id="140:1">
+                <Text text="Una buona macchina fotografica per chi è alle prime armi, prezzo abbastanza giusto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ale Fab" date="17-dicembre-2017" id="cam6_141" language="it" product_id="B00HQCW7SS" rating="5" title="Ottimo acquisto">
+        <Sentences>
+            <Sentence id="141:1">
+                <Text text="Tutto a posto, ottima macchina, tantissime funzionalità, indicata  per principianti e non,  rifarei sicuramente tale acquisto, non vedo l'ora di fare un corso per saperla usare nel modo migliore"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="AngelC" date="24-novembre-2017" id="cam6_142" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D3300 5 stelle non bastano!">
+        <Sentences>
+            <Sentence id="142:1">
+                <Text text="Ho avuto modo di comprare e testare questa fantastica Reflex, ottima per ogni genere di fotografo, una 'Entry Level' eccellente per fotografi alle prime armi e professionisti."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michela" date="23-agosto-2017" id="cam6_143" language="it" product_id="B00HQCW7SS" rating="5" title="arrivata in tempi previsti con ottime condizioni d'imballaggio">
+        <Sentences>
+            <Sentence id="143:1">
+                <Text text="Per ciò che compete la spedizione l'articolo è arrivato nei tempi previsti e in ottime condizioni d'imballaggio."/>
+            </Sentence>
+            <Sentence id="143:2">
+                <Text text="La reflex è fenomenale per chi si vuole avvicinare in maniera  più 'professionale' al mondo della fotografia in quanto è essa stessa un manuale d'istruzione grazie alle molteplici funzioni che ha."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="reflex"/>
+                    <Opinion category="OTHER" target="funzioni"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="143:3">
+                <Text text="Unica pecca è il dvd che installa il programma per l'utilizzo del programma nikon che è disponibile in giapponese,inglese o spagnolo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Francesco" date="14-agosto-2017" id="cam6_144" language="it" product_id="B00HQCW7SS" rating="4" title="Spedizione lenta, ma macchina straordinaria.">
+        <Sentences>
+            <Sentence id="144:1">
+                <Text text="Tra il rivenditore non italiano e la spedizione affidata alle Poste Italiane, il pacco è arrivato dopo un lungo periodo dal suo ordine."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="144:2">
+                <Text text="Indipendentemente dal viaggio, la macchina è ottima e, come già consultabile attraverso recensioni ben più approfondite, ha un notevole rapporto qualità/prezzo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="GENERAL" target="rapporto qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="144:3">
+                <Text text="Straordinaria."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon1" date="12-agosto-2017" id="cam6_145" language="it" product_id="B00HQCW7SS" rating="5" title="Molto buona">
+        <Sentences>
+            <Sentence id="145:1">
+                <Text text="Era imballata davvero bene, ogni singolo pezzo era incartato singolarmente e poi messo nella scatola che quindi conteneva il corpo della macchina fotografica, l'obbiettivo, due cavi per attaccare la macchina alla tv o al computer, batteria, caricabatteria con spina italiana, un cd e un libretto istruzioni che a me è arrivato in inglese."/>
+            </Sentence>
+            <Sentence id="145:2">
+                <Text text="È arrivata due giorni prima la data di consegna prevista, si vede che è nuova e ovviamente funziona."/>
+            </Sentence>
+            <Sentence id="145:3">
+                <Text text="Pagata 398 che è già un buon prezzo rispetto alle altre dello stesso modello che si vedono in giro."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ghesboro" date="12-agosto-2017" id="cam6_146" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D3300 con obbiettivo nikkor 18-55 VR">
+        <Sentences>
+            <Sentence id="146:1">
+                <Text text="Arrivata nei tempi previsti, nulla da dire sulla spedizione"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alessandro Cherubini" date="11-agosto-2017" id="cam6_147" language="it" product_id="B00HQCW7SS" rating="5" title="Ottima Reflex Entry Level">
+        <Sentences>
+            <Sentence id="147:1">
+                <Text text="Ottimo prodotto Nikon dal rapporto qualità prezzo difficilmente battibile!"/>
+            </Sentence>
+            <Sentence id="147:2">
+                <Text text="E' leggera e l'uso è semplice ed intuitivo."/>
+            </Sentence>
+            <Sentence id="147:3">
+                <Text text="Reflex che permette di fare foto bellissime con un po' di pratica."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="147:4">
+                <Text text="Per quanto mi riguarda, la spedizione è stata rapida e la macchina era protetta ed imballata con grande attenzione!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="10-agosto-2017" id="cam6_148" language="it" product_id="B00HQCW7SS" rating="5" title="Qualità/Prezzo">
+        <Sentences>
+            <Sentence id="148:1">
+                <Text text="Ottimo corpo macchina, compatto ed ergonomico foto perfette in ogni situazione spedizione velocissima ottimo prodotto da consigliare anche a chi non è esperto nella fotografia."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="corpo macchina"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="GV" date="3-agosto-2017" id="cam6_149" language="it" product_id="B00HQCW7SS" rating="5" title="La macchina ideale!">
+        <Sentences>
+            <Sentence id="149:1">
+                <Text text="La NIkon D3300 è una macchina fotografica Reflex ideale per chi sceglie uno strumento di alto livello ma non ha grossa esperienza in ambito fotografico."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="GENERAL" target="reflex"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="149:2">
+                <Text text="L'ho comprato per un regalo ed il destinatario è stato molto contento del regalo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cinzia" date="1-agosto-2017" id="cam6_150" language="it" product_id="B00HQCW7SS" rating="5" title="Nikon D3300 Kit Fotocamera Reflex Digitale">
+        <Sentences>
+            <Sentence id="150:1">
+                <Text text="Acquistata come regalo, la persona che l'ha ricevuta è stata contentissima sia per la maneggevolezza che per la semplicità d'uso."/>
+            </Sentence>
+            <Sentence id="150:2">
+                <Text text="Le fotografie sono bellissime."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografie"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="150:3">
+                <Text text="Necessita, per essere completa, di un altro obbiettivo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marco" date="19-luglio-2017" id="cam6_151" language="it" product_id="B00HQCW7SS" rating="5" title="Mi piace proprio">
+        <Sentences>
+            <Sentence id="151:1">
+                <Text text="Nulla da dire, è semplicemente fantastica."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="14-luglio-2017" id="cam6_152" language="it" product_id="B00HQCW7SS" rating="1" title="Prodotto usato">
+        <Sentences>
+            <Sentence id="152:1">
+                <Text text="Arrivata oggi la Nikon d3300."/>
+            </Sentence>
+            <Sentence id="152:2">
+                <Text text="Devo ancora utilizzarla ma a prima impressione si vede che il prodotto è usato!"/>
+            </Sentence>
+            <Sentence id="152:3">
+                <Text text="Contenuto riassemblato 'alla meglio', la scatola si vedeva benissimo era già stata aperta, presentava diversi segni e uno strappo nel punto dove si apre, sigilli di garanzia aperti, corpo camera e obiettivo riciclatoli e imballati alla meglio."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="garanzia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="152:4">
+                <Text text="Libretto di utilizzo in cinese e foglio della garanzia assenti."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="garanzia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="152:5">
+                <Text text="La mia non è una recensione sul prodotto bensì sul fornitore che per 400 euro vende un prodotto usato spacciandolo per nuovo!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

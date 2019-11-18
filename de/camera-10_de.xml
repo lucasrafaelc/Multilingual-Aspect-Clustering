@@ -1,0 +1,2770 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Schlömer" date="26.-Januar-2019" id="cam10_1" language="de" product_id="B015JIA97Q" rating="5" title="Sehr schöne Bilder">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Sehr schöne Bilder"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Günnital" date="12.-Januar-2019" id="cam10_2" language="de" product_id="B015JIA97Q" rating="4" title="Alles hat auf Anhieb funktioniert.">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Muss ich erst die Beschenkte befragen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CJS" date="6.-Januar-2019" id="cam10_3" language="de" product_id="B015JIA97Q" rating="1" title="Unbrauchbar, schade!">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Ich kann mich leider nur anschließen, dass die Photoqualität miserabel ist."/>
+            </Sentence>
+            <Sentence id="3:2">
+                <Text text="Aus meiner Sicht werden noch nicht einmal minimalste Ansprüche erfüllt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="hanj13" date="31.-Dezember-2018" id="cam10_4" language="de" product_id="B015JIA97Q" rating="5" title="Eine Frage des Erwartungsmanagements">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Ich habe die Kamera für ca."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="80€ erstanden und finde das Preis-Leistungsverhältnis vollkommen stimmt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="yvi1" date="18.-Dezember-2018" id="cam10_5" language="de" product_id="B015JIA97Q" rating="1" title="Das geld nicht  wert">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Super  schlecht, die bild Qualität ist grauenhaft, egl wie hell der  raum oder  draußen es ist die bilder sind mega dunkel, am liebsten  würde  ich sie wegschmeißen aber  es war ein  geschenk und einfach zu teuer für die schlechte  qualität"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kindle-Kunde" date="12.-Dezember-2018" id="cam10_6" language="de" product_id="B015JIA97Q" rating="5" title="Sind zufrieden">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Ich bin vollstens zufrieden."/>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Leichte Handhabung."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="handhabung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="Bildqualität ist in hellen Räumen gut, in dunkleren Räumen eher nicht zu empfehlen, trotz Blitz."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lucky Duke" date="11.-Dezember-2018" id="cam10_7" language="de" product_id="B015JIA97Q" rating="1" title="Absolut enttäuscht!">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Die Kamera war als Geschenk gedacht."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Mir war klar, dass keine Top-Bildqualität von einer Sofortbildkamera zu erwarten ist - eine gewisse Erwartungshaltung, sicher verbunden mit dem Namen Polaroid, hatte ich trotzdem."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Muggal" date="27.-November-2018" id="cam10_8" language="de" product_id="B015JIA97Q" rating="5" title="Tolle Sofortbildkamera">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Ich habe mir die Polaroid gekauft, weil man die Bilder auch aufkleben kann und weil im Vergleich zu anderen Anbietern die Filme viel günstiger sind."/>
+            </Sentence>
+            <Sentence id="8:2">
+                <Text text="Ich würde die Kamera jederzeit wieder kaufen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="27.-Oktober-2018" id="cam10_9" language="de" product_id="B015JIA97Q" rating="1" title="Ungenügende Fotoqualität">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="Fotos sind teilweise sehr überbelichtet die Gesichter sind orange die Fotoqualität lässt zu wünschen übrig."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="Die besten Fotos entstehen Nachts."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="Die Kamera selbst sieht echt süß aus und wäre sehr handlich und bietet viel."/>
+            </Sentence>
+            <Sentence id="9:4">
+                <Text text="Leider nutzt das nichts wenn die Fotos dem nicht entsprechen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="schwarzerpeter" date="23.-Oktober-2018" id="cam10_10" language="de" product_id="B015JIA97Q" rating="1" title="Das Ding kann man sich sparen - rausgeworfenes Geld.">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Diese Kamera ist rausgeschmissenes Geld, Fotos gelingen nur selten - Bildausschnitt - und die Qualität ist extrem schlecht."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="Habe einen Fotodrucker gekauft und bin seitdem zufrieden."/>
+            </Sentence>
+            <Sentence id="10:3">
+                <Text text="Das Teil hier ging zurück, schade um das Fotopapier was ich noch gekauft hatte."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="fotopapier"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:4">
+                <Text text="Dieses Produkt gehört zu den wenigen bei Amazon, von denen ich richtig enttäuscht bin."/>
+            </Sentence>
+            <Sentence id="10:5">
+                <Text text="Selbst ein Stern ist noch zuviel."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="luckylucy" date="19.-Februar-2016" id="cam10_11" language="de" product_id="B015JIA97Q" rating="5" title="ein großes Geschenk für jedes jugendlich">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="I have to give this item a 5 star review based on the sheer joy and pleasure this has given to my 14 year old daughter."/>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="For years now, she has begged and pleaded for one of those clunky retro Instagram cameras that Urban Outfitters sells ."/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="When this arrived on our doorstep , she nearly fell over."/>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="Apparently not only was it exactly what she had been dreaming of but this was the newest model."/>
+            </Sentence>
+            <Sentence id="11:5">
+                <Text text="Very little that is trendy is perfect and without occasional glitches ( like the iPhone isn't) this however is perfection for a certain audience ."/>
+            </Sentence>
+            <Sentence id="11:6">
+                <Text text="This Snap camera has very cool design , it is small enough to be hand held, has a durable black matte finish ,magnetic lens cover and features the popular Poloraid logo."/>
+            </Sentence>
+            <Sentence id="11:7">
+                <Text text="Super easy setup and easy charging, this is ready to go in no time."/>
+            </Sentence>
+            <Sentence id="11:8">
+                <Text text="While any adult or camera aficionado might have a few words to say about picture quality and the mechanics, you can trust me when I say that this will be an enormous hit with the tween and teen population ."/>
+            </Sentence>
+            <Sentence id="11:9">
+                <Text text="The biggest issue is the prohibitive cost of the Zink paper."/>
+            </Sentence>
+            <Sentence id="11:10">
+                <Text text="I received this item at a discounted rate in exchange for my honest and unbiased review"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stephanie S" date="18.-Februar-2016" id="cam10_12" language="de" product_id="B015JIA97Q" rating="4" title="fun instant camera">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="I do love this camera but I couldn't give it 5 stars and here is why...this camera doesn't come with an instruction booklet."/>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="To learn about certain features I had to do some research online."/>
+            </Sentence>
+            <Sentence id="12:3">
+                <Text text="It comes with a very simple illustration showing how to turn on and how to open the back and that's it."/>
+            </Sentence>
+            <Sentence id="12:4">
+                <Text text="Also after using only twice the camera started flashing the paper light, and I couldn't shut it off or anything, I had to wait for the battery to run out."/>
+            </Sentence>
+            <Sentence id="12:5">
+                <Text text="I searched and searched for troubleshooting and finally found where the reset is which is right beside the USB input."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Holli B." date="18.-Februar-2016" id="cam10_13" language="de" product_id="B015JIA97Q" rating="5" title="I love this camera!">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="I have been a fan of Polaroid cameras as long as I can remember."/>
+            </Sentence>
+            <Sentence id="13:2">
+                <Text text="I remember wanting one when I was little."/>
+            </Sentence>
+            <Sentence id="13:3">
+                <Text text="Then in my twenties, they came out with the mini film for the Polaroid sticker picture things and I had to have that!"/>
+            </Sentence>
+            <Sentence id="13:4">
+                <Text text="Now, they have this and I LOVE it!!"/>
+            </Sentence>
+            <Sentence id="13:5">
+                <Text text="It is so awesome to be able to take a picture and have it get printed out right away!"/>
+            </Sentence>
+            <Sentence id="13:6">
+                <Text text="I can see so many uses for this in my personal life and in my classroom."/>
+            </Sentence>
+            <Sentence id="13:7">
+                <Text text="Now the colors are your typical Polaroid colors- not super bright but good enough."/>
+            </Sentence>
+            <Sentence id="13:8">
+                <Text text="The paper is the size of a wallet size photo."/>
+            </Sentence>
+            <Sentence id="13:9">
+                <Text text="You can put a micro SD card inside and it will save the photos your took so you can share them digitally as well!"/>
+            </Sentence>
+            <Sentence id="13:10">
+                <Text text="This is definitely one cool camera!"/>
+            </Sentence>
+            <Sentence id="13:11">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tim E." date="12.-Februar-2016" id="cam10_14" language="de" product_id="B015JIA97Q" rating="1" title="Blaustichige Bilder">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Die Polaroid Snap kommt, obwohl vollständig aus Plastik, optisch gut verarbeit daher, die Bedienung ist kinderleicht und die Sofortdrucke gehen zügig vonstatten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rob S" date="7.-Februar-2016" id="cam10_15" language="de" product_id="B015JIA97Q" rating="5" title="Bringen Sie Spaß zurück, ein Bild zu nehmen, ich liebe es">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Jeder, der dort alte Polaroid-Kamera genossen einfach die perfekte Kamera für sie gefunden haben, verbindet das Polaroid Schnapp dass Sofortbild-Technologie mit den heutigen Festplattenkapazität Kamera, die Schnapp können Sie genießen, dass Sofortbild oder speichert sie auf einer SD-Karte."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="monkey1" date="30.-Januar-2016" id="cam10_16" language="de" product_id="B015JIA97Q" rating="4" title="Lustige, coole Kamera">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Für Partybilder und Einsatzzwecke wie damals die Polaroids völlig ausreichend."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroids"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mario Moers" date="27.-Januar-2016" id="cam10_17" language="de" product_id="B015JIA97Q" rating="2" title="Extremer Blaustich macht Super-Gadget völlig unbrauchbar">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Der extreme Blaustich macht die Kamera tatsächlich völlig unbrauchbar."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Ich habe inzwischen zwei Modelle ausprobiert und beide litten unter dem beschriebenen Farbfehler."/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Die Bildqualität entsprach nicht ansatzweise dem, was man von einem Ü-100 Euro Gadget 2016 erwartet."/>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="Tatsächlich ist das Design und die Verarbeitung der Kamera absolut Spitze."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="design"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:5">
+                <Text text="Es ist daher sehr enttäuschend, die Kamera zurückzugeben."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:6">
+                <Text text="Aber in der Form ist sie unbrauchbar."/>
+            </Sentence>
+            <Sentence id="17:7">
+                <Text text="Auf der Polaroid-US Seite ist bereits für dieses Jahr ein Nachfolger 'Snap Plus' angekündigt."/>
+            </Sentence>
+            <Sentence id="17:8">
+                <Text text="Der soll dann auch per Bluetooth Handy Bilder ausdrucken können."/>
+            </Sentence>
+            <Sentence id="17:9">
+                <Text text="Es scheint, als seien die offensichtlichen Unzulänglichkeiten des aktuellen Models auch dem Hersteller bekannt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="David Wilke" date="20.-Januar-2016" id="cam10_18" language="de" product_id="B015JIA97Q" rating="5" title="moderne retro kamera">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Absolut tolle kamera."/>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="Die bilder hat man in wenigen sekunden in der hand und zudem auf einer sd karte gespeichert."/>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="Die ausgedruckten bilder haben eine tolle retro qualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:4">
+                <Text text="Nicht perfekt wie es sich für eine polaroid gehört."/>
+            </Sentence>
+            <Sentence id="18:5">
+                <Text text="Die gespeicherten bilder können es ohne probleme mit anderen kompaktkameras aufnehmen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:6">
+                <Text text="Damit lassen sich die bilder auch an fotoautomaten drucken."/>
+            </Sentence>
+            <Sentence id="18:7">
+                <Text text="Dabei geht aber der retroeffekt (abgesehen vom farbfilter) verloren."/>
+            </Sentence>
+            <Sentence id="18:8">
+                <Text text="Dafür gibt es aber dann eine tolle bildqualität."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Steffen" date="11.-Januar-2016" id="cam10_19" language="de" product_id="B015JIA97Q" rating="2" title="Extremer Blaustich! Tausche sie vorerst um..">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Ich habe Nun schon bestimmt um die 20 Bilder vergeudet, alle Farb-modi, mit Rand o. Rand und auch Bildfolge ausprobiert."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Jedes Mal das gleiche Ergebnis."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="Extremer Blaustich!"/>
+            </Sentence>
+            <Sentence id="19:4">
+                <Text text="Hinzu kommt das Quer übers Bild stark sichtbare streifen verlaufen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bild"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:5">
+                <Text text="Falls jemand weiß was ich falsch mache bitte ich um ein Kommentar."/>
+            </Sentence>
+            <Sentence id="19:6">
+                <Text text=":) vorerst Tausche ich sie aber als Defekt um und hoffe das diese dann richtig funktioniert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vincenzo Torre" date="10.-Januar-2016" id="cam10_20" language="de" product_id="B015JIA97Q" rating="1" title="Finger weg">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Die Kamera macht sehr schlechte Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Kommen in einen bläulichen Ton raus."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="Hab für den Preis eine entsprechende Qualität erwartet."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DM" date="21.-April-2017" id="cam10_21" language="de" product_id="B015JIA97Q" rating="2" title="Muss man wissen ob das Geld es wert ist!?">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Die Kamera selbst sieht sehr gut aus und die Verarbeitung ist sehr gut."/>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="Die Bedienung ist nicht gerade intuitiv aber mit Anleitung welche nicht dabei ist schon bedienbar."/>
+            </Sentence>
+            <Sentence id="21:3">
+                <Text text="Die Fotos selbst sind schnell gedruckt, wenn nicht gerade das Papier stecken bleibt weil es sich völlig selbständig in der Kamera gewellt hat...ärgerlich!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:4">
+                <Text text="Die Bildqualität ist auch nur akzeptabel wenn man sie bei Tageslicht verwendet, bei künstlichen Licht oder angehender Dunkelheit bekommen die Fotos Farbstiche und oder Streifen."/>
+            </Sentence>
+            <Sentence id="21:5">
+                <Text text="Hätte von einem Produkt welches schon Jahre davor ausgereift war mehr erwartet."/>
+            </Sentence>
+            <Sentence id="21:6">
+                <Text text="Immerhin die digitalen Fotos sind ganz ok."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas H." date="11.-April-2017" id="cam10_22" language="de" product_id="B015JIA97Q" rating="5" title="Super Teil">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Absolute Kaufempfehlung!"/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Funktioniert super und ist echt klein und Handlich."/>
+            </Sentence>
+            <Sentence id="22:3">
+                <Text text="Die Bilder sehen gut aus und passen perfekt in den Geldbeutel."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Summer" date="14.-März-2017" id="cam10_23" language="de" product_id="B015JIA97Q" rating="5" title="Klasse! Find ich super">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Ich habe mir die Kamera in rot bestellt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Schöne Farbe."/>
+            </Sentence>
+            <Sentence id="23:3">
+                <Text text="Es sind gleich 20 solche Fotopapiere dabei."/>
+            </Sentence>
+            <Sentence id="23:4">
+                <Text text="Man kann die Bilder in drei verschiedenen Farbvarianten drucken."/>
+            </Sentence>
+            <Sentence id="23:5">
+                <Text text="Sie kommen sofort gedruckt raus."/>
+            </Sentence>
+            <Sentence id="23:6">
+                <Text text="Was ich nur negativ finde,  es ist leider keine Anleitung dazu."/>
+            </Sentence>
+            <Sentence id="23:7">
+                <Text text="Also wie rum kommen zb die Fotopapiere rein."/>
+            </Sentence>
+            <Sentence id="23:8">
+                <Text text="Aber sonst alles gut, kann sie nur weiter empfehlen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="onlyfood" date="11.-März-2017" id="cam10_24" language="de" product_id="B015JIA97Q" rating="1" title="Ultimative Spaßbremse">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Die Kamera macht blaustichige und streifige Fotos von sehr schlechter Qualität."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Es liegt ausserdem keine Bedienungsanleitung bei."/>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="Diese Kamera kann man wirklich niemand empfehlen."/>
+            </Sentence>
+            <Sentence id="24:4">
+                <Text text="Eine Unverschämtheit so etwas unter dem Markennamen Polaroid auf den Markt zu bringen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="6.-März-2017" id="cam10_25" language="de" product_id="B015JIA97Q" rating="5" title="Super!">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Excellent Product, on time and you can have lots of fun with it."/>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="I'm happy with my Camera Snap :)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anna Dirschl" date="9.-Januar-2017" id="cam10_26" language="de" product_id="B015JIA97Q" rating="3" title="Nicht wie erwartet">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Die Polaroid Snap hat ein sehr cooles Design und"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="design"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="5.-Januar-2017" id="cam10_27" language="de" product_id="B015JIA97Q" rating="1" title="Unzufrieden">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Ich würde mir niemehr so eine schlechte Sofortbildkamera kaufen!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sofortbildkamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:2">
+                <Text text="Nicht zu empfehlen!"/>
+            </Sentence>
+            <Sentence id="27:3">
+                <Text text="Die Qualität von den Bildern ist sehr schlecht und der Preis passt nicht!"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="28.-Dezember-2016" id="cam10_28" language="de" product_id="B015JIA97Q" rating="1" title="Bitte Beschreibung genau durchlesen.">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Kamera bestsellt  und pünktlich  geliefert."/>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="Nur leider keine Bilder dabei."/>
+            </Sentence>
+            <Sentence id="28:3">
+                <Text text="Somit war die Überraschung und Freude dahin."/>
+            </Sentence>
+            <Sentence id="28:4">
+                <Text text="Am liebsten hätte ich sie sofort zurückgesendet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bugo" date="24.-Dezember-2016" id="cam10_29" language="de" product_id="B015JIA97Q" rating="3" title="Naja">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Keine Bedienungsanleitung,  keine Startfotos  inkl."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="leni holy" date="22.-Dezember-2016" id="cam10_30" language="de" product_id="B015JIA97Q" rating="4" title="Kamera ist sehr schön - bis auf die Gebrauchsanweisung!">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Sehr schöne Kamera, leider ist die Gebrauchsanweisung auf - ich denke - polnisch und ich verstehe nicht genau wie die Kamera funktioniert und wie welche Funktionen sind."/>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="Es wäre schön würde man mir die Anweisung nochmals in deutsch zukommen lassen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gesa F." date="19.-Juni-2018" id="cam10_31" language="de" product_id="B015JIA97Q" rating="4" title="Top">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Sieht super aus."/>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="die vielen Funktionen erfüllen alle male ihren Zeck."/>
+            </Sentence>
+            <Sentence id="31:3">
+                <Text text="nur die Bildqualität ist ist ganz so hervorragend."/>
+            </Sentence>
+            <Sentence id="31:4">
+                <Text text="jedoch besser als die meisten anderen Sofortbildkameras."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sofortbildkameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="31:5">
+                <Text text="Kaufempfehlung der damit gerne spaß haben möchte."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ina" date="11.-Juni-2018" id="cam10_32" language="de" product_id="B015JIA97Q" rating="5" title="Tolle Camera">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Super Fotos mit verschiedenen Bildfarben."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="M.Prahtel" date="26.-April-2018" id="cam10_33" language="de" product_id="B015JIA97Q" rating="4" title="Liebes Spielzeug">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="So gesehen ist es eine lustige und geniale Sache."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gerda Handl" date="11.-März-2018" id="cam10_34" language="de" product_id="B015JIA97Q" rating="4" title="Schöne Kamera! Leider ohne Beschreibung!">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Anlieferung leider ohne genaue Beschreibung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Susa" date="19.-Februar-2018" id="cam10_35" language="de" product_id="B015JIA97Q" rating="5" title="Super schnelle Lieferung und Produkt ist echt klasse.">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Super schnelle Lieferung und das Produkt ist echt klasse."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="lieferung"/>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="Bilder, die man direkt in der Hand hat und einkleben kann."/>
+            </Sentence>
+            <Sentence id="35:3">
+                <Text text="Super."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Heiko H." date="14.-Januar-2018" id="cam10_36" language="de" product_id="B015JIA97Q" rating="5" title="Tolle Kamera">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Sicherlich ist die Bildqualität verbesserungswürdig, jedoch die weiteren Funktionen machen diesen geringen 'Mangel' locker wett.Tolle Funktion Bilder auf Speicherkarte zu speichern."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="Hier stimmen Qualität und Preis"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jack Brown" date="13.-Januar-2018" id="cam10_37" language="de" product_id="B015JIA97Q" rating="5" title="gefällt">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="War ein Geschenk für meine Nichte."/>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Diese ist sehr zufrieden mit dieser Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="37:3">
+                <Text text="Macht genau, was sie soll und man hat kaum Folgekosten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Johannes König" date="10.-Januar-2018" id="cam10_38" language="de" product_id="B015JIA97Q" rating="4" title="Sofortbild">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Hab mich für den Artikel entschieden, wg."/>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="der Speichermöglichkeit."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JK" date="29.-Dezember-2017" id="cam10_39" language="de" product_id="B015JIA97Q" rating="1" title="Schlechte Bildqualität, keine Farbtreue, zu kleines Bildformat">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Masslos enttäuscht."/>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="Die Bilder sind größtenteils verschwommen, haben keine Farbtreue und ein zu kleines Bildformat."/>
+            </Sentence>
+            <Sentence id="39:3">
+                <Text text="Nicht zu vergleichen mit professionellen Fotos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:4">
+                <Text text="An der Kamera ist vorne ein Rädchen, mit dem man einen Farbmodi auswählen muss."/>
+            </Sentence>
+            <Sentence id="39:5">
+                <Text text="Das heisst, es gibt nicht einmal die Möglichkeit für farbtreue Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:6">
+                <Text text="Wir werden nun einen Drucker kaufen, mit dem auch Bilder vom Smartphone in besserer Qualität gedruckt werden können."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Silvia" date="25.-Dezember-2017" id="cam10_40" language="de" product_id="B015JIA97Q" rating="1" title="Katastrophe!">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Meine Freundin hat eine Fuji instax 8 und ich bin begeistert von den kleinen Bildern, also wollte ich mir auch eine Sofortbildkamera zulegen."/>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Aber ich hab mir gedacht, ich kauf das Original weil das ja besser sein sollte."/>
+            </Sentence>
+            <Sentence id="40:3">
+                <Text text="Als ich dann auf Amazon die schlechten Rezesionen für die Polaroid snap gelesen habe, war ich extrem verunsichert ob ich nicht doch auch die Fuji kaufen soll."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:4">
+                <Text text="Aber leider hab ich doch die Snap gekauft - ich wollts einfach ausprobieren!"/>
+            </Sentence>
+            <Sentence id="40:5">
+                <Text text="Sehr schlechte Entscheidung!"/>
+            </Sentence>
+            <Sentence id="40:6">
+                <Text text="Die Fotos sind einw Katastrophe und mit den Bildern von der Fuji nicht zu vergleichen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:7">
+                <Text text="Die Fotos der Snap sind verschwommen, blaustichig und voller Streifen!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="snap"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:8">
+                <Text text="Ich bin so enttäuscht!"/>
+            </Sentence>
+            <Sentence id="40:9">
+                <Text text="Ich verbrauch die 30 Filme die ich umsonst gekauft habe noch u dann wird die sofort umgetauscht!"/>
+            </Sentence>
+            <Sentence id="40:10">
+                <Text text="Hätte mir besseres von einer Polaroid erwartet!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pascal Becker" date="16.-Dezember-2017" id="cam10_41" language="de" product_id="B015JIA97Q" rating="1" title="Sehr unzufrieden, zurückgeschickt">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Leider waren die Bilder von sehr schlechter Qualität, sehr unscharf und blaustichig."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus Müller" date="12.-Dezember-2017" id="cam10_42" language="de" product_id="B015JIA97Q" rating="1" title="Macht alles nur keine Bilder!">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Keine Kaufempfehlung, Kamera sieht lustig aus und wäre total der Bringer wenn, ja wenn Sie auch Bilder machen würde."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="6.-Dezember-2017" id="cam10_43" language="de" product_id="B015JIA97Q" rating="1" title="Meh">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Ich wurde ziemlich von dieser Kamera enttäuscht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marietta Schmid-Kalter" date="23.-Oktober-2017" id="cam10_44" language="de" product_id="B015JIA97Q" rating="5" title="Super Bilder!">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Habe die Kamera für Schnappschüsse zur goldenen Hochzeit gebraucht."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="schnappschüsse"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="Alle waren begeistert."/>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="Top Bilder, super Qualität, sogar noch selbstklebend."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:4">
+                <Text text="WOW"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sitthichai K" date="15.-Oktober-2017" id="cam10_45" language="de" product_id="B015JIA97Q" rating="1" title="Klein quadratisch und total schlechte Qualität und Verarbeitung">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Das Gerät an sich schau total super aus aber die Qualität leider voll für die Tonne !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="maria gurmann" date="25.-September-2017" id="cam10_46" language="de" product_id="B015JIA97Q" rating="5" title="schnell und perfekt">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="hat sehr gut geklappt."/>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="einfache Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="46:3">
+                <Text text="mühsam der Sucher."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="sucher"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="46:4">
+                <Text text="druck mittelmäßig."/>
+            </Sentence>
+            <Sentence id="46:5">
+                <Text text="Versand innerhalb 3 tagen."/>
+            </Sentence>
+            <Sentence id="46:6">
+                <Text text="Kamera mit Spaßfaktor, für partys ..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="25.-September-2017" id="cam10_47" language="de" product_id="B015JIA97Q" rating="2" title="Leider ständige Fehlfunktionen">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Hab mir die Kamera nicht bei Amazon gekauft, sondern direkt im Handel."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Wollte eine kleine Sofortbildkamera für mein Reisetagebuch."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sofortbildkamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Toll ist, dass die Fotos gleich nach dem Ausdruck ins Buch geklebt werden können, bei guten Lichtverhältnissen ist die Qualität auch ganz in Ordnung und die gespeicherten Bilder sind klasse."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lichtverhältnissen"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="11.-September-2017" id="cam10_48" language="de" product_id="B015JIA97Q" rating="1" title="Eine einzige Enttäuschung">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Sehr geehrte Damen und Herren,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="StefanVietze" date="2.-September-2017" id="cam10_49" language="de" product_id="B015JIA97Q" rating="1" title="Schlechte Qualität">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Habe zwei Stück für einen besonderen Anlass gekauft."/>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="Eine von beiden hängte sich nach kurzer Zeit (weniger als 10 Bilder) komplett auf."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="49:3">
+                <Text text="Alle LEDs blinkten und bei druck einer beliebigen Taste wurde ein Piepton wiedergegeben."/>
+            </Sentence>
+            <Sentence id="49:4">
+                <Text text="Nur Reset mittels Resetknopf half die Kamera wieder zum Laufen zu bekommen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="TADH" date="30.-August-2017" id="cam10_50" language="de" product_id="B015JIA97Q" rating="1" title="Nach einer Woche über Elektronikmüll entsorgt.">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Im Großen und Ganzen sehr schlecht."/>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="- Die Bildqualität von Anfang an schlecht, kein Manual dabei, nach einer Woche und insgesamt ca."/>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="40 Fotos dann der Drucker defekt - weggeschmissen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ChessSza" date="20.-Oktober-2018" id="cam10_51" language="de" product_id="B015JIA97Q" rating="5" title="Momentaufnahmen mit Nostalgiecharme">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Schneller Versand, optisch sehr ansprechende Verpackung, tolles wertiges Design der Kamera."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="design"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Als Geschenk super mit zusätzlichem Fotopapier."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="fotopapier"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="Bildqualität für den eigentlichen  Retrozweck vollkommen in Ordnung."/>
+            </Sentence>
+            <Sentence id="51:4">
+                <Text text="Mit knapp 60cent pro Bild natürlich kein günstiger Spaß"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thekillinglies" date="11.-Oktober-2018" id="cam10_52" language="de" product_id="B015JIA97Q" rating="4" title="Als Spielzeug sicherlich in Ordnung.">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="man sollte nicht erwarten, dass diese Kamera die perfekten Bilder ausspuckt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Es ist eine nette Spielerei und ich möchte sie ansich auch nicht missen."/>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="Grade auf größeren Feiern war sie bei uns sehr beliebt."/>
+            </Sentence>
+            <Sentence id="52:4">
+                <Text text="Der Vorteil, dass alle Bilder auf der Kamera gespeichert werden, ist natürlich schon toll."/>
+            </Sentence>
+            <Sentence id="52:5">
+                <Text text="Dennoch sollte man sie besser bei guten Lichtverhältnissen verwenden, wenn man wert auf passable Qualität der Bilder legt."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lichtverhältnissen"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:6">
+                <Text text="Sonst ist die Handhabung schön simpel und sie hält sich angenehm in der Hand."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="handhabung"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lisa" date="9.-Oktober-2018" id="cam10_53" language="de" product_id="B015JIA97Q" rating="2" title="Leider nicht die erwartete Qualität">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="Zunächst einmal ist zu erwähnen, dass ich die Entscheidung zwischen Instax Mini und der Polaroid Kamera getroffen habe."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lisa Einhorn" date="17.-September-2018" id="cam10_54" language="de" product_id="B015JIA97Q" rating="5" title="Eine tolle Kamera">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Sehr gute Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Auf dem Display sehen die Bilder etwas verschwommen aus aber wenn man sich die Bilder in der App auf dem Handy anschaut, sieht man, dass es nur eine Täuschung ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Florian Lauss" date="21.-August-2018" id="cam10_55" language="de" product_id="B015JIA97Q" rating="2" title="Bildqualität mau, Konstruktion katastrophal">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Ich war von den INSTAX-Kameras sehr beeindruckt, doch der klingende Name 'Polaroid' und das schicke Design überzeugten mich zum Kauf dieser Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                    <Opinion category="OTHER" target="design"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="Leider ist die Bildqualität deutlich schlechter gegenüber den INSTAX-Kameras, auch weil diese die Bilder 'entwickeln', während Polaroid die Bilder druckt."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Danny" date="30.-Juli-2018" id="cam10_56" language="de" product_id="B015JIA97Q" rating="5" title="Halt Polaroid - Wir lieben es">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Wir sind total begeistert."/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="Die Bilder habe eine gute Qualität, wie man sie von einer Polaroid-Kamera erwartet."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="56:3">
+                <Text text="Die Bilder versprühen einen Retrocharme und haben einfach Charakter."/>
+            </Sentence>
+            <Sentence id="56:4">
+                <Text text="Sie sind scharf und haben eine gute Farbqualität."/>
+            </Sentence>
+            <Sentence id="56:5">
+                <Text text="Wer bei der Kamera einen super Digitalkamera nach heutigen Standards erwartet, die die Bilder dann noch ausdruckt, hat aus unserer Sicht die Idee dahinter nicht verstanden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Franz" date="30.-Juli-2018" id="cam10_57" language="de" product_id="B015JIA97Q" rating="4" title="Sehr coole Kamera">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="Die Kamera macht ordentliche Fotos und die Ausdrucke sehen auch sehr gut aus."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="reff" date="15.-Juli-2018" id="cam10_58" language="de" product_id="B015JIA97Q" rating="2" title="niedrige Erwartungen nicht erfüllt">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Aufgrund der Rezensionen schon kaum etwas erwartet."/>
+            </Sentence>
+            <Sentence id="58:2">
+                <Text text="Es ging nicht einmal der Ausdruck, man solle das Update machen."/>
+            </Sentence>
+            <Sentence id="58:3">
+                <Text text="Über den Mac praktisch nciht möglich."/>
+            </Sentence>
+            <Sentence id="58:4">
+                <Text text="Bildqualität imVergleich zur Kodak um vieles schlechter."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="58:5">
+                <Text text="Rot deutlich überzeichnet, Hautfarbe praktisch weiß."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Leon R." date="9.-Juli-2018" id="cam10_59" language="de" product_id="B015JIA97Q" rating="4" title="Polaroid Snap gut oder schlecht">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Die Polaroid Snap Kammera ist toll wenn man einfach ein paar Spaßfotos oder Schnappschüsse machen möchte."/>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="Jedoch ist die Bildqualität nicht sehr toll."/>
+            </Sentence>
+            <Sentence id="59:3">
+                <Text text="Die Bilder sind bei mir ein wenig unscharf und überbelichtet, deswegen gibt es 1 stern minus."/>
+            </Sentence>
+            <Sentence id="59:4">
+                <Text text="Was mich jedoch erfreut, ist das die kammera 3 bildfarben zur Auswahl hat (sepia, schwar&amp;weiß und farbig) man kann auswählen zwischen ohne Rand oder mit Rand, und das beste die bilder lassen sich auf einer SD karte speichern."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="59:5">
+                <Text text="Spaßfactor ist auf jedenfall da werde mir aber noch als vergleich eine fujifilm instax mini 9 kaufen."/>
+            </Sentence>
+            <Sentence id="59:6">
+                <Text text="Viel Spaß."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Chris" date="25.-Juni-2018" id="cam10_60" language="de" product_id="B015JIA97Q" rating="1" title="Kamera nicht das Geld wert, verschwommene Fotos">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Bin absolut enttäuscht von der Qualität der Bilder, völlig unscharf, egal bei welcher Einstellung."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="Ist absolut inakzeptabel."/>
+            </Sentence>
+            <Sentence id="60:3">
+                <Text text="Freunde von mir haben sich die Fujifilm Instax Mini 9 um zirka den halben Preis gekauft, allerdings sind diese Bilder mit meinen nicht zu vergleichen."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:4">
+                <Text text="Die Bilder sind viel schärfer und hochwertiger aufgelöst, ist ein absoluter Witz der Preis von der Polaroid!!!"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:5">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sebastian Sieg" date="5.-September-2016" id="cam10_61" language="de" product_id="B015JIA97Q" rating="5" title="Polaroid mit Bilderwedeln war gestern. Super alternative">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Haben die Kamera als Gag für unsere Hochzeit gekauft:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael" date="27.-Juni-2016" id="cam10_62" language="de" product_id="B015JIA97Q" rating="5" title="Perfekt für schöne Andenken!">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Ich habe die Kamera für meine Freundin und mich gekauft, weil wir sehr wenige Bilder von uns hatten."/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="Die Intention des Kaufes war also, mehr Bilder von uns zu machen: ohne Filter, ohne viel Aufwand, einfach spontan."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="N. L." date="15.-Juni-2016" id="cam10_63" language="de" product_id="B015JIA97Q" rating="4" title="Eine super Schnappschusskamera">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Ich habe mich von den sehr durchwachsenen Bewertungen nicht abschrecken lassen und mir die Polaroid zu einem Schnäppchenpreis bei Warehousedeals ergattert."/>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="Meine Erwartungen hatte ich entsprechend heruntergefahren."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tamara Kriechbaum" date="18.-April-2016" id="cam10_64" language="de" product_id="B015JIA97Q" rating="1" title="Bild- und Farbqualität absolut schlecht">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Ich habe schon die Sofortbildkamera von fuji, welche wunderbare Bilder macht, aber diese erstens nicht speichert und zweitens mit 90 Cent pro Bild wirklich teuer ist."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="Darum dachte ich mir, dass die Snap eine tolle Erweiterung wäre - leider falsch gedacht."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="snap"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CR Mama" date="14.-April-2016" id="cam10_65" language="de" product_id="B015JIA97Q" rating="2" title="Naja :-/">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Prinzipiell war ich sehr von dieser Kamera angetan."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="Ich mag den 'Look' von Retrofotos."/>
+            </Sentence>
+            <Sentence id="65:3">
+                <Text text="Und mit dieser Kamera sollte das ja auch gut machbar sein."/>
+            </Sentence>
+            <Sentence id="65:4">
+                <Text text="Leider war schon nach dem Auspacken, Laden und Einschalten meine Freude getrübt, da der Sucher einen Kratzer hatte und generell dreierlei Zonen beim Durchblicken zeigte."/>
+            </Sentence>
+            <Sentence id="65:5">
+                <Text text="Sehr frustrierend... ein Montagsprodukt?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gerald Kummer" date="10.-März-2016" id="cam10_66" language="de" product_id="B015JIA97Q" rating="2" title="netter spaß, aber">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="die bilder sind SEHR klein."/>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="klar bei der kameragröße."/>
+            </Sentence>
+            <Sentence id="66:3">
+                <Text text="etwa ein viertel der fläche von den alten quadratischen polaroids."/>
+            </Sentence>
+            <Sentence id="66:4">
+                <Text text="auf gruppenfotos ist kaum wer zu erkennen."/>
+            </Sentence>
+            <Sentence id="66:5">
+                <Text text="in der farb-einstellung haben die bilder ganz schlechte kontraste mit eher grau-gelb-stich."/>
+            </Sentence>
+            <Sentence id="66:6">
+                <Text text="weiß nicht ob das an der cam liegt."/>
+            </Sentence>
+            <Sentence id="66:7">
+                <Text text="in der sw-einstellung hat man starken blaustich."/>
+            </Sentence>
+            <Sentence id="66:8">
+                <Text text="als erinnerungsfotos nicht wirklich geeignet."/>
+            </Sentence>
+            <Sentence id="66:9">
+                <Text text="vielleicht für tagebucheinträge?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sascha" date="8.-März-2016" id="cam10_67" language="de" product_id="B015JIA97Q" rating="4" title="Klasse Kamera">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Die Bilder sehen bei Tageslicht geschossen sehr gut aus wenn man sie druckt."/>
+            </Sentence>
+            <Sentence id="67:2">
+                <Text text="Bei schlechteren Lichtverhältnissen wirken die Bilder gedruckt sehr dunkel und blass."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lichtverhältnissen"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="67:3">
+                <Text text="Top das die Bilder auch auf SD Karte gespeichert werden bzw die Kamera auch ohne Papier benutzt werden kann."/>
+            </Sentence>
+            <Sentence id="67:4">
+                <Text text="Die Filter sind super für Schnappschüsse geeignet."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="schnappschüsse"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="67:5">
+                <Text text="Macht echt Spaß."/>
+            </Sentence>
+            <Sentence id="67:6">
+                <Text text="Es sollte aber eine Tasche dazu gekauft werden."/>
+            </Sentence>
+            <Sentence id="67:7">
+                <Text text="Meine Freundin trägt sie lose in ihrer Handtasche wodurch bei der Kamera leicht der Sucher geöffnet werden kann wenn die hin und her fällt in der Tasche."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="DISPLAY" target="sucher"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="67:8">
+                <Text text="Wenn der Sucher ausgeklappt ist, ist die Kanera an."/>
+            </Sentence>
+            <Sentence id="67:9">
+                <Text text="Wenn das über mehrerer Stunden so ist dann wird der Akku leer."/>
+            </Sentence>
+            <Sentence id="67:10">
+                <Text text="Ist uns leider schon zweimal so gegangen."/>
+            </Sentence>
+            <Sentence id="67:11">
+                <Text text="Trotz des in der Handtasche transportieren hat die Kanera keine Kratzer oder sonstige Beschädigungen."/>
+            </Sentence>
+            <Sentence id="67:12">
+                <Text text="Sehr robust gebaut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aivaras" date="8.-März-2016" id="cam10_68" language="de" product_id="B015JIA97Q" rating="5" title="Everything was as expected">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="This Polaroid Snap Instant Digital Camera is very compact and super fast."/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="No disappointment, as everything was as I expected"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="1.-März-2016" id="cam10_69" language="de" product_id="B015JIA97Q" rating="1" title="O.E.">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Leider sehr blaue und unscharfe Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:2">
+                <Text text="Da kaufe ich mir lieber die Instax mini und schicke diese Kamera zurück."/>
+            </Sentence>
+            <Sentence id="69:3">
+                <Text text="Ist auch viel teuerer leider"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Boi Phuong" date="27.-Februar-2016" id="cam10_70" language="de" product_id="B015JIA97Q" rating="4" title="le">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="ich habe bestell für meine schwägerin zum Geburtstag."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="..da kann ich nicht sagen denke gut"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ing Thomas Michael Zapf" date="8.-Januar-2016" id="cam10_71" language="de" product_id="B015JIA97Q" rating="1" title="Keine nur annähernd vorstellbare Farbechtheit">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Trifft leider nicht die Erwartung, Fotos unscharf, keine Farbechtheit."/>
+            </Sentence>
+            <Sentence id="71:2">
+                <Text text="Werde noch verschiedene Lichtverhältnisse und anderes ZINK Papier testen."/>
+            </Sentence>
+            <Sentence id="71:3">
+                <Text text="Derzeit total unzufrieden"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="naisi" date="26.-Dezember-2015" id="cam10_72" language="de" product_id="B015JIA97Q" rating="3" title="feines spielzeug">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Lustiges Spielzeug und nette Ergänzung für Leute die viel und gerne fotografieren."/>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Man darf sich von der Qualität der Fotos aber nicht zu viel erwarten auch die Größe der Bilder ist sehr klein"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Adoniran" date="22.-Dezember-2015" id="cam10_73" language="de" product_id="B015JIA97Q" rating="4" title="Schoenes Produkt, teure Bilder">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Das Produkt ist nach zwei Tage gekommen."/>
+            </Sentence>
+            <Sentence id="73:2">
+                <Text text="Ich war ziemlich zufrieden damit."/>
+            </Sentence>
+            <Sentence id="73:3">
+                <Text text="Die Kamera schaut super aus."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="73:4">
+                <Text text="Der einzige Nachteil ist wie teuer das Papier ist."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="papier"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="73:5">
+                <Text text="Man muss neben der Kamera noch 30 Euro pro 20 Bilder mitrechnen.."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Maximus" date="13.-Dezember-2015" id="cam10_74" language="de" product_id="B015JIA97Q" rating="4" title="Anders als das Original aber trotzdem nett!">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="zugegeben, die „echten“ Polaroid's haben einen eigenen Reiz der sich mit einem Drucker (und das ist die kleine Snap im Grunde) nicht erreichen lässt, aber als kompakte Sofortbild-Kamera leistet Snap wirklich gute Dienste."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="74:2">
+                <Text text="Das Design der Kamera ist wirklich gelungen und durchdacht mit vielen schönen Details wie z.B."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="74:3">
+                <Text text="die Magnetische Schutzkappe die nicht nur Magnetisch gehalten wird sondern auch gleichzeitig über einen Magnetschalter verhindert das man versehentlich auslöst wenn der Objektivdeckel noch drauf ist oder der Ausklapp-Sucher der gleichzeitig der ein/aus Schalter ist."/>
+            </Sentence>
+            <Sentence id="74:4">
+                <Text text="Das ganze Design finde ich sehr gelungen, mit einem unaufdringlichem Retro Touch durchdachten Bedienelementen und einem kompakten handschmeichlerischem Format welches auch noch in die Hosentasche passt."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="design"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Der Toby" date="3.-Dezember-2015" id="cam10_75" language="de" product_id="B015JIA97Q" rating="4" title="Sofortbildkamera mit Spaßfaktor">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="Ich bin auf der IFA 2015 am Stand von Polaroid auf diese Kamera aufmerksam geworden und war sofort begeistert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cpldu34" date="22.-Dezember-2016" id="cam10_76" language="de" product_id="B015JIA97Q" rating="4" title="Nostalgie pur! Eine tolle Kamera">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Letztes Jahr hatten ich zwei dieser Kameras als Geschenk für meine Kids gekauft."/>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Schnelle Lieferung."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="lieferung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:3">
+                <Text text="Produkt entspricht den Angaben."/>
+            </Sentence>
+            <Sentence id="76:4">
+                <Text text="Als ich die Kamera mit meinen Jungs ausprobierte war das fast wie früher als ich meine erste Polaroid als Kind bekommen hatte."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:5">
+                <Text text="Die Qualität der Polaroids ist heute jedoch wesentlich besser als früher und man jetzt schönere Bilder schiessen als früher."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:6">
+                <Text text="Eine tolle Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:7">
+                <Text text="Eine Empfehlung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nati" date="19.-Dezember-2016" id="cam10_77" language="de" product_id="B015JIA97Q" rating="4" title="Geburtstagsgeschenk">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="Die Kamera kam 2 Tage nach Bestellung - ohne jegliche Transportschäden oder ähnliches."/>
+            </Sentence>
+            <Sentence id="77:2">
+                <Text text="Da sie als Geschenk zum Geburtstag einer Freundin diente, habe ich die Kamera mit auf die Party genommen und das Geburtstagskind konnte direkt loslegen - ohne vorheriges Aufladen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="J" date="18.-Dezember-2016" id="cam10_78" language="de" product_id="B015JIA97Q" rating="4" title="Spass">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Mit dieser Polaroid Fotos zu machen macht wirklich Spass!"/>
+            </Sentence>
+            <Sentence id="78:2">
+                <Text text="Heutzutage hat man alle fotos nur noch digital und so hat man sie direkt ausgedruckt."/>
+            </Sentence>
+            <Sentence id="78:3">
+                <Text text="An meinem geburtstag habe ich damit mehrere Gruppenfotos gemacht und jeder hat eins bekommen!"/>
+            </Sentence>
+            <Sentence id="78:4">
+                <Text text="Was super ist, ist dass man verschiedene einstellungen zwecks der Farbe vornehmen kann."/>
+            </Sentence>
+            <Sentence id="78:5">
+                <Text text="Weiterhin speichert er die Fotos auf einer Speicherkarte was auch super ist."/>
+            </Sentence>
+            <Sentence id="78:6">
+                <Text text="UND die rückseite der Fotos ist zum abziehen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:7">
+                <Text text="Hat man die folie abgezogen, werden die Bilder selbstklebend!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wanderer" date="9.-Dezember-2016" id="cam10_79" language="de" product_id="B015JIA97Q" rating="3" title="Der erste Eindruck: nicht sehr einladend">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Heute kam die Kamera als Weihnachtsgeschenk."/>
+            </Sentence>
+            <Sentence id="79:2">
+                <Text text="Neugierig haben wir schon mal vorsichtig ausgepackt."/>
+            </Sentence>
+            <Sentence id="79:3">
+                <Text text="Und welche Überraschung: keine Bedienungsanleitung."/>
+            </Sentence>
+            <Sentence id="79:4">
+                <Text text="In der dafür vorgesehenen Schachtel war nur Wellpappe."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="schachtel"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="79:5">
+                <Text text="Und ganz klein versteckt der Hinweis, diese müsse von der homepage geladen werden, was aber seine Tücken hat."/>
+            </Sentence>
+            <Sentence id="79:6">
+                <Text text="Ein Hinweis auf der Verkaufsseite zu dieser sparsamen Ausführung fehlte."/>
+            </Sentence>
+            <Sentence id="79:7">
+                <Text text="Für so viel Kundenunfreundlichkeit 2 Sterne Abzug."/>
+            </Sentence>
+            <Sentence id="79:8">
+                <Text text="Wie dann die Camera sich in der Praxis zeigt sehen wir in zwei Wochen."/>
+            </Sentence>
+            <Sentence id="79:9">
+                <Text text="Wir werden dann später berichten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gabriela Vonwald" date="21.-November-2016" id="cam10_80" language="de" product_id="B015JIA97Q" rating="2" title="Teures Spielzeug">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="Die zwei Sterne vergebe ich für die Idee und weil es mir insgesamt 15mal gelungen ist, nette Bilder zu machen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="80:2">
+                <Text text="Ich wollte die Kamera, um bei meinen Besuchen armer Familien in den Slums (arbeite für eine Hilfsorganisation) gleich ein Andenkenbild schenken zu können."/>
+            </Sentence>
+            <Sentence id="80:3">
+                <Text text="Fazit, nur jedes vierte Bild kommt streifenfrei, alle anderen sind eine Enttäuschung."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bild"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="80:4">
+                <Text text="Legt man mehr als drei Blatt Papier ein, meldet das Gerät ständig Papierstau, bei weniger als drei meldet es, kein Papier im Fach."/>
+            </Sentence>
+            <Sentence id="80:5">
+                <Text text="Man fühlt sich ein wenig verkaspert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Heiko P." date="8.-November-2016" id="cam10_81" language="de" product_id="B015JIA97Q" rating="5" title="Back to the Roots">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Tolle kleine Polaroid Kamera."/>
+            </Sentence>
+            <Sentence id="81:2">
+                <Text text="Sie ist wirklich toll macht schöne Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thomas Ohlmann" date="4.-November-2016" id="cam10_82" language="de" product_id="B015JIA97Q" rating="1" title="Enttäuschung">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Das in der Beschreibung angegebene 1 Zoll Display ist nicht vorhanden und die Schachtel in der das Fotopapier enthalten sein sollte ist mit Karton gefüllt."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="schachtel"/>
+                    <Opinion category="OTHER" target="fotopapier"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="82:2">
+                <Text text="TRAURIG"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="SunShine" date="18.-Oktober-2016" id="cam10_83" language="de" product_id="B015JIA97Q" rating="5" title="Kommt echt gut an !">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Habe die Camera für ein Gästebuch gekauft."/>
+            </Sentence>
+            <Sentence id="83:2">
+                <Text text="Es kam super bei den Gästen an."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="16.-Oktober-2016" id="cam10_84" language="de" product_id="B015JIA97Q" rating="3" title="Top Service - schlechtes Produkt">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="Top Service - schlechtes Produkt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="84:2">
+                <Text text="Kamera war nach ca."/>
+            </Sentence>
+            <Sentence id="84:3">
+                <Text text="7 Monaten defekt."/>
+            </Sentence>
+            <Sentence id="84:4">
+                <Text text="Umtausch in eine neue Kamera verlief problemlos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="84:5">
+                <Text text="Top Service von ElekShop ."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="6.-Oktober-2016" id="cam10_85" language="de" product_id="B015JIA97Q" rating="1" title="das ist mehr ein Spielzeug">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="bin sehr enttäuscht."/>
+            </Sentence>
+            <Sentence id="85:2">
+                <Text text="Einfach nur teuer und ohne Wert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tatjana H." date="27.-August-2017" id="cam10_86" language="de" product_id="B015JIA97Q" rating="4" title="Perfekt für Tagebuch">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Perfekt für die Ergänzung zu einem Tagebuch."/>
+            </Sentence>
+            <Sentence id="86:2">
+                <Text text="Die Bilder sind klein und nehmen daher nicht all zu viel Platz in Anspruch."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="86:3">
+                <Text text="Die Qualität ist OK, aber zu mindestens 12 MP wären wünschenswert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stef" date="16.-August-2017" id="cam10_87" language="de" product_id="B015JIA97Q" rating="1" title="Schwache Batterieleistung -Firma meldet sich trotz Garantie nicht! Nicht zu empfehlen!">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="Nach knapp 6 Monaten lädt die Kamera nicht mehr richtig, d.h. sie ist eigentlich nicht mehr funktionsfähig."/>
+            </Sentence>
+            <Sentence id="87:2">
+                <Text text="War ein Geschenk."/>
+            </Sentence>
+            <Sentence id="87:3">
+                <Text text="Sehr ärgerlich"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea Erlbacher" date="3.-August-2017" id="cam10_88" language="de" product_id="B015JIA97Q" rating="1" title="Polaroid nie wieder!">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="Einfach nur schlecht........."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="30.-Juni-2017" id="cam10_89" language="de" product_id="B015JIA97Q" rating="5" title="einfache Handhabung - gutes Fotoergebnis">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="Die Polaroid snap ist genau das Richtige für schnelle Bilder und Partyspaß."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="89:2">
+                <Text text="Vor allem die Bedienung ist kinderleicht: Einlegen des Fotopapiers, Farbauswahl (farbig, sepia oder s/w), Einstellen des Rahmens mit oder ohne weißen Rand, Doppelausdruck von Bildern."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="C.H.B." date="8.-Juni-2017" id="cam10_90" language="de" product_id="B015JIA97Q" rating="4" title="Eine Kamera die das tut was sie soll.">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Die Lieferung hat wunderbar funktioniert."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="lieferung"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="26.-Mai-2017" id="cam10_91" language="de" product_id="B015JIA97Q" rating="4" title="Schnappschüsse">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="Gute Handhabung, Qualität der Grösse ausreichend, schwierig das gewollte Motiv einzufangen, man braucht Übung, Chipspeicherung finde ich grossartig, nichts geht verloren,"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="handhabung"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. Wenske" date="17.-Mai-2017" id="cam10_92" language="de" product_id="B015JIA97Q" rating="4" title="Eine Kamera, die Freude macht.">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="Das Fotografieren und der sofortige Ausdruck der Bilder hat mir und den menschen, die ich gerade auf einer Reise getroffen habe, viel Freude gemacht."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="92:2">
+                <Text text="Praktisch ist es, dass alle Bilder nicht nur einmalgedruckt, sondern auch auf einer SD Karte gespeichert werden können."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Laura Zöllner" date="28.-April-2017" id="cam10_93" language="de" product_id="B015JIA97Q" rating="5" title="Praktisch und Gut">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="Sehr schöne Kamera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="93:2">
+                <Text text="Finde sie super für kleine Schnappschüsse und macht einfach Spass, das nachfüllen  der Fotopapiere ist einfach und man kann verschiedene Farbfilter einstellen"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="schnappschüsse"/>
+                    <Opinion category="OTHER" target="fotopapiere"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Owain Carter" date="25.-April-2017" id="cam10_94" language="de" product_id="B015JIA97Q" rating="3" title="Der Spaßfaktor gleicht die schlechte Qualität aus">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="Die Qualität der Bilder ist eher schlecht (v.a."/>
+            </Sentence>
+            <Sentence id="94:2">
+                <Text text="bei schlechter Beleuchtung), aber jeder, der diese Kamera benutzt, hat ein riesiges Spaß dran."/>
+            </Sentence>
+            <Sentence id="94:3">
+                <Text text="Bei Partys ist sie der Hit; man muss nur daran denken, genug Photopapier mitzubringen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kalle47" date="23.-April-2017" id="cam10_95" language="de" product_id="B015JIA97Q" rating="1" title="Sofort-Bild und sofort teuer">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="Im ersten Augenblick war ich beim anblick dieser neuen Polaroid  ganz angetan."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:2">
+                <Text text="Aber dann galt mein zweiter Blick der eingebauten Drucktechnik, und da sind wir wieder beim uralten Polaroid-Dilemma, nämlich der Preis pro Foto."/>
+            </Sentence>
+            <Sentence id="95:3">
+                <Text text="Beim alten Sofortbild waren 2 DM bzw."/>
+            </Sentence>
+            <Sentence id="95:4">
+                <Text text="umgerechnet 1 EUR pro Foto fällig, hier bei der aktuellen Polaroid Digitale Instant Snap Kamera sind es noch immer 50 - 60 cent pro Ausdruck, das mach das ganze System doch völlig indiskutabel."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:5">
+                <Text text="Fast Jedermann hat heute einen richtigen Drucker zuhause, und fototaugliches Papier kostet nur den Bruchteil einer Polaroid-Papierpackung."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="papier"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gesa F." date="19.-Juni-2018" id="cam10_96" language="de" product_id="B015JIAGE2" rating="4" title="Top">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="Sieht super aus."/>
+            </Sentence>
+            <Sentence id="96:2">
+                <Text text="die vielen Funktionen erfüllen alle male ihren Zeck."/>
+            </Sentence>
+            <Sentence id="96:3">
+                <Text text="nur die Bildqualität ist ist ganz so hervorragend."/>
+            </Sentence>
+            <Sentence id="96:4">
+                <Text text="jedoch besser als die meisten anderen Sofortbildkameras."/>
+            </Sentence>
+            <Sentence id="96:5">
+                <Text text="Kaufempfehlung der damit gerne spaß haben möchte."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ina" date="11.-Juni-2018" id="cam10_97" language="de" product_id="B015JIAGE2" rating="5" title="Tolle Camera">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="Super Fotos mit verschiedenen Bildfarben."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="M.Prahtel" date="26.-April-2018" id="cam10_98" language="de" product_id="B015JIAGE2" rating="4" title="Liebes Spielzeug">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="So gesehen ist es eine lustige und geniale Sache."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gerda Handl" date="11.-März-2018" id="cam10_99" language="de" product_id="B015JIAGE2" rating="4" title="Schöne Kamera! Leider ohne Beschreibung!">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="Anlieferung leider ohne genaue Beschreibung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Susa" date="19.-Februar-2018" id="cam10_100" language="de" product_id="B015JIAGE2" rating="5" title="Super schnelle Lieferung und Produkt ist echt klasse.">
+        <Sentences>
+            <Sentence id="100:1">
+                <Text text="Super schnelle Lieferung und das Produkt ist echt klasse."/>
+            </Sentence>
+            <Sentence id="100:2">
+                <Text text="Bilder, die man direkt in der Hand hat und einkleben kann."/>
+            </Sentence>
+            <Sentence id="100:3">
+                <Text text="Super."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Heiko H." date="14.-Januar-2018" id="cam10_101" language="de" product_id="B015JIAGE2" rating="5" title="Tolle Kamera">
+        <Sentences>
+            <Sentence id="101:1">
+                <Text text="Sicherlich ist die Bildqualität verbesserungswürdig, jedoch die weiteren Funktionen machen diesen geringen 'Mangel' locker wett.Tolle Funktion Bilder auf Speicherkarte zu speichern."/>
+            </Sentence>
+            <Sentence id="101:2">
+                <Text text="Hier stimmen Qualität und Preis"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jack Brown" date="13.-Januar-2018" id="cam10_102" language="de" product_id="B015JIAGE2" rating="5" title="gefällt">
+        <Sentences>
+            <Sentence id="102:1">
+                <Text text="War ein Geschenk für meine Nichte."/>
+            </Sentence>
+            <Sentence id="102:2">
+                <Text text="Diese ist sehr zufrieden mit dieser Kamera."/>
+            </Sentence>
+            <Sentence id="102:3">
+                <Text text="Macht genau, was sie soll und man hat kaum Folgekosten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Johannes König" date="10.-Januar-2018" id="cam10_103" language="de" product_id="B015JIAGE2" rating="4" title="Sofortbild">
+        <Sentences>
+            <Sentence id="103:1">
+                <Text text="Hab mich für den Artikel entschieden, wg."/>
+            </Sentence>
+            <Sentence id="103:2">
+                <Text text="der Speichermöglichkeit."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JK" date="29.-Dezember-2017" id="cam10_104" language="de" product_id="B015JIAGE2" rating="1" title="Schlechte Bildqualität, keine Farbtreue, zu kleines Bildformat">
+        <Sentences>
+            <Sentence id="104:1">
+                <Text text="Masslos enttäuscht."/>
+            </Sentence>
+            <Sentence id="104:2">
+                <Text text="Die Bilder sind größtenteils verschwommen, haben keine Farbtreue und ein zu kleines Bildformat."/>
+            </Sentence>
+            <Sentence id="104:3">
+                <Text text="Nicht zu vergleichen mit professionellen Fotos."/>
+            </Sentence>
+            <Sentence id="104:4">
+                <Text text="An der Kamera ist vorne ein Rädchen, mit dem man einen Farbmodi auswählen muss."/>
+            </Sentence>
+            <Sentence id="104:5">
+                <Text text="Das heisst, es gibt nicht einmal die Möglichkeit für farbtreue Bilder."/>
+            </Sentence>
+            <Sentence id="104:6">
+                <Text text="Wir werden nun einen Drucker kaufen, mit dem auch Bilder vom Smartphone in besserer Qualität gedruckt werden können."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Silvia" date="25.-Dezember-2017" id="cam10_105" language="de" product_id="B015JIAGE2" rating="1" title="Katastrophe!">
+        <Sentences>
+            <Sentence id="105:1">
+                <Text text="Meine Freundin hat eine Fuji instax 8 und ich bin begeistert von den kleinen Bildern, also wollte ich mir auch eine Sofortbildkamera zulegen."/>
+            </Sentence>
+            <Sentence id="105:2">
+                <Text text="Aber ich hab mir gedacht, ich kauf das Original weil das ja besser sein sollte."/>
+            </Sentence>
+            <Sentence id="105:3">
+                <Text text="Als ich dann auf Amazon die schlechten Rezesionen für die Polaroid snap gelesen habe, war ich extrem verunsichert ob ich nicht doch auch die Fuji kaufen soll."/>
+            </Sentence>
+            <Sentence id="105:4">
+                <Text text="Aber leider hab ich doch die Snap gekauft - ich wollts einfach ausprobieren!"/>
+            </Sentence>
+            <Sentence id="105:5">
+                <Text text="Sehr schlechte Entscheidung!"/>
+            </Sentence>
+            <Sentence id="105:6">
+                <Text text="Die Fotos sind einw Katastrophe und mit den Bildern von der Fuji nicht zu vergleichen."/>
+            </Sentence>
+            <Sentence id="105:7">
+                <Text text="Die Fotos der Snap sind verschwommen, blaustichig und voller Streifen!"/>
+            </Sentence>
+            <Sentence id="105:8">
+                <Text text="Ich bin so enttäuscht!"/>
+            </Sentence>
+            <Sentence id="105:9">
+                <Text text="Ich verbrauch die 30 Filme die ich umsonst gekauft habe noch u dann wird die sofort umgetauscht!"/>
+            </Sentence>
+            <Sentence id="105:10">
+                <Text text="Hätte mir besseres von einer Polaroid erwartet!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tatjana H." date="27.-August-2017" id="cam10_106" language="de" product_id="B015JIAGE2" rating="4" title="Perfekt für Tagebuch">
+        <Sentences>
+            <Sentence id="106:1">
+                <Text text="Perfekt für die Ergänzung zu einem Tagebuch."/>
+            </Sentence>
+            <Sentence id="106:2">
+                <Text text="Die Bilder sind klein und nehmen daher nicht all zu viel Platz in Anspruch."/>
+            </Sentence>
+            <Sentence id="106:3">
+                <Text text="Die Qualität ist OK, aber zu mindestens 12 MP wären wünschenswert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stef" date="16.-August-2017" id="cam10_107" language="de" product_id="B015JIAGE2" rating="1" title="Schwache Batterieleistung -Firma meldet sich trotz Garantie nicht! Nicht zu empfehlen!">
+        <Sentences>
+            <Sentence id="107:1">
+                <Text text="Nach knapp 6 Monaten lädt die Kamera nicht mehr richtig, d.h. sie ist eigentlich nicht mehr funktionsfähig."/>
+            </Sentence>
+            <Sentence id="107:2">
+                <Text text="War ein Geschenk."/>
+            </Sentence>
+            <Sentence id="107:3">
+                <Text text="Sehr ärgerlich"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea Erlbacher" date="3.-August-2017" id="cam10_108" language="de" product_id="B015JIAGE2" rating="1" title="Polaroid nie wieder!">
+        <Sentences>
+            <Sentence id="108:1">
+                <Text text="Einfach nur schlecht........."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="30.-Juni-2017" id="cam10_109" language="de" product_id="B015JIAGE2" rating="5" title="einfache Handhabung - gutes Fotoergebnis">
+        <Sentences>
+            <Sentence id="109:1">
+                <Text text="Die Polaroid snap ist genau das Richtige für schnelle Bilder und Partyspaß."/>
+            </Sentence>
+            <Sentence id="109:2">
+                <Text text="Vor allem die Bedienung ist kinderleicht: Einlegen des Fotopapiers, Farbauswahl (farbig, sepia oder s/w), Einstellen des Rahmens mit oder ohne weißen Rand, Doppelausdruck von Bildern."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="C.H.B." date="8.-Juni-2017" id="cam10_110" language="de" product_id="B015JIAGE2" rating="4" title="Eine Kamera die das tut was sie soll.">
+        <Sentences>
+            <Sentence id="110:1">
+                <Text text="Die Lieferung hat wunderbar funktioniert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="26.-Mai-2017" id="cam10_111" language="de" product_id="B015JIAGE2" rating="4" title="Schnappschüsse">
+        <Sentences>
+            <Sentence id="111:1">
+                <Text text="Gute Handhabung, Qualität der Grösse ausreichend, schwierig das gewollte Motiv einzufangen, man braucht Übung, Chipspeicherung finde ich grossartig, nichts geht verloren,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. Wenske" date="17.-Mai-2017" id="cam10_112" language="de" product_id="B015JIAGE2" rating="4" title="Eine Kamera, die Freude macht.">
+        <Sentences>
+            <Sentence id="112:1">
+                <Text text="Das Fotografieren und der sofortige Ausdruck der Bilder hat mir und den menschen, die ich gerade auf einer Reise getroffen habe, viel Freude gemacht."/>
+            </Sentence>
+            <Sentence id="112:2">
+                <Text text="Praktisch ist es, dass alle Bilder nicht nur einmalgedruckt, sondern auch auf einer SD Karte gespeichert werden können."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Laura Zöllner" date="28.-April-2017" id="cam10_113" language="de" product_id="B015JIAGE2" rating="5" title="Praktisch und Gut">
+        <Sentences>
+            <Sentence id="113:1">
+                <Text text="Sehr schöne Kamera!"/>
+            </Sentence>
+            <Sentence id="113:2">
+                <Text text="Finde sie super für kleine Schnappschüsse und macht einfach Spass, das nachfüllen  der Fotopapiere ist einfach und man kann verschiedene Farbfilter einstellen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Owain Carter" date="25.-April-2017" id="cam10_114" language="de" product_id="B015JIAGE2" rating="3" title="Der Spaßfaktor gleicht die schlechte Qualität aus">
+        <Sentences>
+            <Sentence id="114:1">
+                <Text text="Die Qualität der Bilder ist eher schlecht (v.a."/>
+            </Sentence>
+            <Sentence id="114:2">
+                <Text text="bei schlechter Beleuchtung), aber jeder, der diese Kamera benutzt, hat ein riesiges Spaß dran."/>
+            </Sentence>
+            <Sentence id="114:3">
+                <Text text="Bei Partys ist sie der Hit; man muss nur daran denken, genug Photopapier mitzubringen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kalle47" date="23.-April-2017" id="cam10_115" language="de" product_id="B015JIAGE2" rating="1" title="Sofort-Bild und sofort teuer">
+        <Sentences>
+            <Sentence id="115:1">
+                <Text text="Im ersten Augenblick war ich beim anblick dieser neuen Polaroid  ganz angetan."/>
+            </Sentence>
+            <Sentence id="115:2">
+                <Text text="Aber dann galt mein zweiter Blick der eingebauten Drucktechnik, und da sind wir wieder beim uralten Polaroid-Dilemma, nämlich der Preis pro Foto."/>
+            </Sentence>
+            <Sentence id="115:3">
+                <Text text="Beim alten Sofortbild waren 2 DM bzw."/>
+            </Sentence>
+            <Sentence id="115:4">
+                <Text text="umgerechnet 1 EUR pro Foto fällig, hier bei der aktuellen Polaroid Digitale Instant Snap Kamera sind es noch immer 50 - 60 cent pro Ausdruck, das mach das ganze System doch völlig indiskutabel."/>
+            </Sentence>
+            <Sentence id="115:5">
+                <Text text="Fast Jedermann hat heute einen richtigen Drucker zuhause, und fototaugliches Papier kostet nur den Bruchteil einer Polaroid-Papierpackung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pascal Becker" date="16.-Dezember-2017" id="cam10_116" language="de" product_id="B015JIAGE2" rating="1" title="Sehr unzufrieden, zurückgeschickt">
+        <Sentences>
+            <Sentence id="116:1">
+                <Text text="Leider waren die Bilder von sehr schlechter Qualität, sehr unscharf und blaustichig."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus Müller" date="12.-Dezember-2017" id="cam10_117" language="de" product_id="B015JIAGE2" rating="1" title="Macht alles nur keine Bilder!">
+        <Sentences>
+            <Sentence id="117:1">
+                <Text text="Keine Kaufempfehlung, Kamera sieht lustig aus und wäre total der Bringer wenn, ja wenn Sie auch Bilder machen würde."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="6.-Dezember-2017" id="cam10_118" language="de" product_id="B015JIAGE2" rating="1" title="Meh">
+        <Sentences>
+            <Sentence id="118:1">
+                <Text text="Ich wurde ziemlich von dieser Kamera enttäuscht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marietta Schmid-Kalter" date="23.-Oktober-2017" id="cam10_119" language="de" product_id="B015JIAGE2" rating="5" title="Super Bilder!">
+        <Sentences>
+            <Sentence id="119:1">
+                <Text text="Habe die Kamera für Schnappschüsse zur goldenen Hochzeit gebraucht."/>
+            </Sentence>
+            <Sentence id="119:2">
+                <Text text="Alle waren begeistert."/>
+            </Sentence>
+            <Sentence id="119:3">
+                <Text text="Top Bilder, super Qualität, sogar noch selbstklebend."/>
+            </Sentence>
+            <Sentence id="119:4">
+                <Text text="WOW"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sitthichai K" date="15.-Oktober-2017" id="cam10_120" language="de" product_id="B015JIAGE2" rating="1" title="Klein quadratisch und total schlechte Qualität und Verarbeitung">
+        <Sentences>
+            <Sentence id="120:1">
+                <Text text="Das Gerät an sich schau total super aus aber die Qualität leider voll für die Tonne !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="maria gurmann" date="25.-September-2017" id="cam10_121" language="de" product_id="B015JIAGE2" rating="5" title="schnell und perfekt">
+        <Sentences>
+            <Sentence id="121:1">
+                <Text text="hat sehr gut geklappt."/>
+            </Sentence>
+            <Sentence id="121:2">
+                <Text text="einfache Kamera."/>
+            </Sentence>
+            <Sentence id="121:3">
+                <Text text="mühsam der Sucher."/>
+            </Sentence>
+            <Sentence id="121:4">
+                <Text text="druck mittelmäßig."/>
+            </Sentence>
+            <Sentence id="121:5">
+                <Text text="Versand innerhalb 3 tagen."/>
+            </Sentence>
+            <Sentence id="121:6">
+                <Text text="Kamera mit Spaßfaktor, für partys ..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="25.-September-2017" id="cam10_122" language="de" product_id="B015JIAGE2" rating="2" title="Leider ständige Fehlfunktionen">
+        <Sentences>
+            <Sentence id="122:1">
+                <Text text="Hab mir die Kamera nicht bei Amazon gekauft, sondern direkt im Handel."/>
+            </Sentence>
+            <Sentence id="122:2">
+                <Text text="Wollte eine kleine Sofortbildkamera für mein Reisetagebuch."/>
+            </Sentence>
+            <Sentence id="122:3">
+                <Text text="Toll ist, dass die Fotos gleich nach dem Ausdruck ins Buch geklebt werden können, bei guten Lichtverhältnissen ist die Qualität auch ganz in Ordnung und die gespeicherten Bilder sind klasse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="11.-September-2017" id="cam10_123" language="de" product_id="B015JIAGE2" rating="1" title="Eine einzige Enttäuschung">
+        <Sentences>
+            <Sentence id="123:1">
+                <Text text="Sehr geehrte Damen und Herren,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="StefanVietze" date="2.-September-2017" id="cam10_124" language="de" product_id="B015JIAGE2" rating="1" title="Schlechte Qualität">
+        <Sentences>
+            <Sentence id="124:1">
+                <Text text="Habe zwei Stück für einen besonderen Anlass gekauft."/>
+            </Sentence>
+            <Sentence id="124:2">
+                <Text text="Eine von beiden hängte sich nach kurzer Zeit (weniger als 10 Bilder) komplett auf."/>
+            </Sentence>
+            <Sentence id="124:3">
+                <Text text="Alle LEDs blinkten und bei druck einer beliebigen Taste wurde ein Piepton wiedergegeben."/>
+            </Sentence>
+            <Sentence id="124:4">
+                <Text text="Nur Reset mittels Resetknopf half die Kamera wieder zum Laufen zu bekommen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="TADH" date="30.-August-2017" id="cam10_125" language="de" product_id="B015JIAGE2" rating="1" title="Nach einer Woche über Elektronikmüll entsorgt.">
+        <Sentences>
+            <Sentence id="125:1">
+                <Text text="Im Großen und Ganzen sehr schlecht."/>
+            </Sentence>
+            <Sentence id="125:2">
+                <Text text="- Die Bildqualität von Anfang an schlecht, kein Manual dabei, nach einer Woche und insgesamt ca."/>
+            </Sentence>
+            <Sentence id="125:3">
+                <Text text="40 Fotos dann der Drucker defekt - weggeschmissen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ChessSza" date="20.-Oktober-2018" id="cam10_126" language="de" product_id="B015JIAGE2" rating="5" title="Momentaufnahmen mit Nostalgiecharme">
+        <Sentences>
+            <Sentence id="126:1">
+                <Text text="Schneller Versand, optisch sehr ansprechende Verpackung, tolles wertiges Design der Kamera."/>
+            </Sentence>
+            <Sentence id="126:2">
+                <Text text="Als Geschenk super mit zusätzlichem Fotopapier."/>
+            </Sentence>
+            <Sentence id="126:3">
+                <Text text="Bildqualität für den eigentlichen  Retrozweck vollkommen in Ordnung."/>
+            </Sentence>
+            <Sentence id="126:4">
+                <Text text="Mit knapp 60cent pro Bild natürlich kein günstiger Spaß"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thekillinglies" date="11.-Oktober-2018" id="cam10_127" language="de" product_id="B015JIAGE2" rating="4" title="Als Spielzeug sicherlich in Ordnung.">
+        <Sentences>
+            <Sentence id="127:1">
+                <Text text="man sollte nicht erwarten, dass diese Kamera die perfekten Bilder ausspuckt."/>
+            </Sentence>
+            <Sentence id="127:2">
+                <Text text="Es ist eine nette Spielerei und ich möchte sie ansich auch nicht missen."/>
+            </Sentence>
+            <Sentence id="127:3">
+                <Text text="Grade auf größeren Feiern war sie bei uns sehr beliebt."/>
+            </Sentence>
+            <Sentence id="127:4">
+                <Text text="Der Vorteil, dass alle Bilder auf der Kamera gespeichert werden, ist natürlich schon toll."/>
+            </Sentence>
+            <Sentence id="127:5">
+                <Text text="Dennoch sollte man sie besser bei guten Lichtverhältnissen verwenden, wenn man wert auf passable Qualität der Bilder legt."/>
+            </Sentence>
+            <Sentence id="127:6">
+                <Text text="Sonst ist die Handhabung schön simpel und sie hält sich angenehm in der Hand."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lisa" date="9.-Oktober-2018" id="cam10_128" language="de" product_id="B015JIAGE2" rating="2" title="Leider nicht die erwartete Qualität">
+        <Sentences>
+            <Sentence id="128:1">
+                <Text text="Zunächst einmal ist zu erwähnen, dass ich die Entscheidung zwischen Instax Mini und der Polaroid Kamera getroffen habe."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lisa Einhorn" date="17.-September-2018" id="cam10_129" language="de" product_id="B015JIAGE2" rating="5" title="Eine tolle Kamera">
+        <Sentences>
+            <Sentence id="129:1">
+                <Text text="Sehr gute Kamera."/>
+            </Sentence>
+            <Sentence id="129:2">
+                <Text text="Auf dem Display sehen die Bilder etwas verschwommen aus aber wenn man sich die Bilder in der App auf dem Handy anschaut, sieht man, dass es nur eine Täuschung ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Florian Lauss" date="21.-August-2018" id="cam10_130" language="de" product_id="B015JIAGE2" rating="2" title="Bildqualität mau, Konstruktion katastrophal">
+        <Sentences>
+            <Sentence id="130:1">
+                <Text text="Ich war von den INSTAX-Kameras sehr beeindruckt, doch der klingende Name 'Polaroid' und das schicke Design überzeugten mich zum Kauf dieser Kamera."/>
+            </Sentence>
+            <Sentence id="130:2">
+                <Text text="Leider ist die Bildqualität deutlich schlechter gegenüber den INSTAX-Kameras, auch weil diese die Bilder 'entwickeln', während Polaroid die Bilder druckt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Danny" date="30.-Juli-2018" id="cam10_131" language="de" product_id="B015JIAGE2" rating="5" title="Halt Polaroid - Wir lieben es">
+        <Sentences>
+            <Sentence id="131:1">
+                <Text text="Wir sind total begeistert."/>
+            </Sentence>
+            <Sentence id="131:2">
+                <Text text="Die Bilder habe eine gute Qualität, wie man sie von einer Polaroid-Kamera erwartet."/>
+            </Sentence>
+            <Sentence id="131:3">
+                <Text text="Die Bilder versprühen einen Retrocharme und haben einfach Charakter."/>
+            </Sentence>
+            <Sentence id="131:4">
+                <Text text="Sie sind scharf und haben eine gute Farbqualität."/>
+            </Sentence>
+            <Sentence id="131:5">
+                <Text text="Wer bei der Kamera einen super Digitalkamera nach heutigen Standards erwartet, die die Bilder dann noch ausdruckt, hat aus unserer Sicht die Idee dahinter nicht verstanden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Franz" date="30.-Juli-2018" id="cam10_132" language="de" product_id="B015JIAGE2" rating="4" title="Sehr coole Kamera">
+        <Sentences>
+            <Sentence id="132:1">
+                <Text text="Die Kamera macht ordentliche Fotos und die Ausdrucke sehen auch sehr gut aus."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="reff" date="15.-Juli-2018" id="cam10_133" language="de" product_id="B015JIAGE2" rating="2" title="niedrige Erwartungen nicht erfüllt">
+        <Sentences>
+            <Sentence id="133:1">
+                <Text text="Aufgrund der Rezensionen schon kaum etwas erwartet."/>
+            </Sentence>
+            <Sentence id="133:2">
+                <Text text="Es ging nicht einmal der Ausdruck, man solle das Update machen."/>
+            </Sentence>
+            <Sentence id="133:3">
+                <Text text="Über den Mac praktisch nciht möglich."/>
+            </Sentence>
+            <Sentence id="133:4">
+                <Text text="Bildqualität imVergleich zur Kodak um vieles schlechter."/>
+            </Sentence>
+            <Sentence id="133:5">
+                <Text text="Rot deutlich überzeichnet, Hautfarbe praktisch weiß."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Leon R." date="9.-Juli-2018" id="cam10_134" language="de" product_id="B015JIAGE2" rating="4" title="Polaroid Snap gut oder schlecht">
+        <Sentences>
+            <Sentence id="134:1">
+                <Text text="Die Polaroid Snap Kammera ist toll wenn man einfach ein paar Spaßfotos oder Schnappschüsse machen möchte."/>
+            </Sentence>
+            <Sentence id="134:2">
+                <Text text="Jedoch ist die Bildqualität nicht sehr toll."/>
+            </Sentence>
+            <Sentence id="134:3">
+                <Text text="Die Bilder sind bei mir ein wenig unscharf und überbelichtet, deswegen gibt es 1 stern minus."/>
+            </Sentence>
+            <Sentence id="134:4">
+                <Text text="Was mich jedoch erfreut, ist das die kammera 3 bildfarben zur Auswahl hat (sepia, schwar&amp;weiß und farbig) man kann auswählen zwischen ohne Rand oder mit Rand, und das beste die bilder lassen sich auf einer SD karte speichern."/>
+            </Sentence>
+            <Sentence id="134:5">
+                <Text text="Spaßfactor ist auf jedenfall da werde mir aber noch als vergleich eine fujifilm instax mini 9 kaufen."/>
+            </Sentence>
+            <Sentence id="134:6">
+                <Text text="Viel Spaß."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Chris" date="25.-Juni-2018" id="cam10_135" language="de" product_id="B015JIAGE2" rating="1" title="Kamera nicht das Geld wert, verschwommene Fotos">
+        <Sentences>
+            <Sentence id="135:1">
+                <Text text="Bin absolut enttäuscht von der Qualität der Bilder, völlig unscharf, egal bei welcher Einstellung."/>
+            </Sentence>
+            <Sentence id="135:2">
+                <Text text="Ist absolut inakzeptabel."/>
+            </Sentence>
+            <Sentence id="135:3">
+                <Text text="Freunde von mir haben sich die Fujifilm Instax Mini 9 um zirka den halben Preis gekauft, allerdings sind diese Bilder mit meinen nicht zu vergleichen."/>
+            </Sentence>
+            <Sentence id="135:4">
+                <Text text="Die Bilder sind viel schärfer und hochwertiger aufgelöst, ist ein absoluter Witz der Preis von der Polaroid!!!"/>
+            </Sentence>
+            <Sentence id="135:5">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sebastian Sieg" date="5.-September-2016" id="cam10_136" language="de" product_id="B015JIAGE2" rating="5" title="Polaroid mit Bilderwedeln war gestern. Super alternative">
+        <Sentences>
+            <Sentence id="136:1">
+                <Text text="Haben die Kamera als Gag für unsere Hochzeit gekauft:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael" date="27.-Juni-2016" id="cam10_137" language="de" product_id="B015JIAGE2" rating="5" title="Perfekt für schöne Andenken!">
+        <Sentences>
+            <Sentence id="137:1">
+                <Text text="Ich habe die Kamera für meine Freundin und mich gekauft, weil wir sehr wenige Bilder von uns hatten."/>
+            </Sentence>
+            <Sentence id="137:2">
+                <Text text="Die Intention des Kaufes war also, mehr Bilder von uns zu machen: ohne Filter, ohne viel Aufwand, einfach spontan."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="N. L." date="15.-Juni-2016" id="cam10_138" language="de" product_id="B015JIAGE2" rating="4" title="Eine super Schnappschusskamera">
+        <Sentences>
+            <Sentence id="138:1">
+                <Text text="Ich habe mich von den sehr durchwachsenen Bewertungen nicht abschrecken lassen und mir die Polaroid zu einem Schnäppchenpreis bei Warehousedeals ergattert."/>
+            </Sentence>
+            <Sentence id="138:2">
+                <Text text="Meine Erwartungen hatte ich entsprechend heruntergefahren."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tamara Kriechbaum" date="18.-April-2016" id="cam10_139" language="de" product_id="B015JIAGE2" rating="1" title="Bild- und Farbqualität absolut schlecht">
+        <Sentences>
+            <Sentence id="139:1">
+                <Text text="Ich habe schon die Sofortbildkamera von fuji, welche wunderbare Bilder macht, aber diese erstens nicht speichert und zweitens mit 90 Cent pro Bild wirklich teuer ist."/>
+            </Sentence>
+            <Sentence id="139:2">
+                <Text text="Darum dachte ich mir, dass die Snap eine tolle Erweiterung wäre - leider falsch gedacht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CR Mama" date="14.-April-2016" id="cam10_140" language="de" product_id="B015JIAGE2" rating="2" title="Naja :-/">
+        <Sentences>
+            <Sentence id="140:1">
+                <Text text="Prinzipiell war ich sehr von dieser Kamera angetan."/>
+            </Sentence>
+            <Sentence id="140:2">
+                <Text text="Ich mag den 'Look' von Retrofotos."/>
+            </Sentence>
+            <Sentence id="140:3">
+                <Text text="Und mit dieser Kamera sollte das ja auch gut machbar sein."/>
+            </Sentence>
+            <Sentence id="140:4">
+                <Text text="Leider war schon nach dem Auspacken, Laden und Einschalten meine Freude getrübt, da der Sucher einen Kratzer hatte und generell dreierlei Zonen beim Durchblicken zeigte."/>
+            </Sentence>
+            <Sentence id="140:5">
+                <Text text="Sehr frustrierend... ein Montagsprodukt?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gerald Kummer" date="10.-März-2016" id="cam10_141" language="de" product_id="B015JIAGE2" rating="2" title="netter spaß, aber">
+        <Sentences>
+            <Sentence id="141:1">
+                <Text text="die bilder sind SEHR klein."/>
+            </Sentence>
+            <Sentence id="141:2">
+                <Text text="klar bei der kameragröße."/>
+            </Sentence>
+            <Sentence id="141:3">
+                <Text text="etwa ein viertel der fläche von den alten quadratischen polaroids."/>
+            </Sentence>
+            <Sentence id="141:4">
+                <Text text="auf gruppenfotos ist kaum wer zu erkennen."/>
+            </Sentence>
+            <Sentence id="141:5">
+                <Text text="in der farb-einstellung haben die bilder ganz schlechte kontraste mit eher grau-gelb-stich."/>
+            </Sentence>
+            <Sentence id="141:6">
+                <Text text="weiß nicht ob das an der cam liegt."/>
+            </Sentence>
+            <Sentence id="141:7">
+                <Text text="in der sw-einstellung hat man starken blaustich."/>
+            </Sentence>
+            <Sentence id="141:8">
+                <Text text="als erinnerungsfotos nicht wirklich geeignet."/>
+            </Sentence>
+            <Sentence id="141:9">
+                <Text text="vielleicht für tagebucheinträge?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sascha" date="8.-März-2016" id="cam10_142" language="de" product_id="B015JIAGE2" rating="4" title="Klasse Kamera">
+        <Sentences>
+            <Sentence id="142:1">
+                <Text text="Die Bilder sehen bei Tageslicht geschossen sehr gut aus wenn man sie druckt."/>
+            </Sentence>
+            <Sentence id="142:2">
+                <Text text="Bei schlechteren Lichtverhältnissen wirken die Bilder gedruckt sehr dunkel und blass."/>
+            </Sentence>
+            <Sentence id="142:3">
+                <Text text="Top das die Bilder auch auf SD Karte gespeichert werden bzw die Kamera auch ohne Papier benutzt werden kann."/>
+            </Sentence>
+            <Sentence id="142:4">
+                <Text text="Die Filter sind super für Schnappschüsse geeignet."/>
+            </Sentence>
+            <Sentence id="142:5">
+                <Text text="Macht echt Spaß."/>
+            </Sentence>
+            <Sentence id="142:6">
+                <Text text="Es sollte aber eine Tasche dazu gekauft werden."/>
+            </Sentence>
+            <Sentence id="142:7">
+                <Text text="Meine Freundin trägt sie lose in ihrer Handtasche wodurch bei der Kamera leicht der Sucher geöffnet werden kann wenn die hin und her fällt in der Tasche."/>
+            </Sentence>
+            <Sentence id="142:8">
+                <Text text="Wenn der Sucher ausgeklappt ist, ist die Kanera an."/>
+            </Sentence>
+            <Sentence id="142:9">
+                <Text text="Wenn das über mehrerer Stunden so ist dann wird der Akku leer."/>
+            </Sentence>
+            <Sentence id="142:10">
+                <Text text="Ist uns leider schon zweimal so gegangen."/>
+            </Sentence>
+            <Sentence id="142:11">
+                <Text text="Trotz des in der Handtasche transportieren hat die Kanera keine Kratzer oder sonstige Beschädigungen."/>
+            </Sentence>
+            <Sentence id="142:12">
+                <Text text="Sehr robust gebaut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aivaras" date="8.-März-2016" id="cam10_143" language="de" product_id="B015JIAGE2" rating="5" title="Everything was as expected">
+        <Sentences>
+            <Sentence id="143:1">
+                <Text text="This Polaroid Snap Instant Digital Camera is very compact and super fast."/>
+            </Sentence>
+            <Sentence id="143:2">
+                <Text text="No disappointment, as everything was as I expected"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="1.-März-2016" id="cam10_144" language="de" product_id="B015JIAGE2" rating="1" title="O.E.">
+        <Sentences>
+            <Sentence id="144:1">
+                <Text text="Leider sehr blaue und unscharfe Bilder."/>
+            </Sentence>
+            <Sentence id="144:2">
+                <Text text="Da kaufe ich mir lieber die Instax mini und schicke diese Kamera zurück."/>
+            </Sentence>
+            <Sentence id="144:3">
+                <Text text="Ist auch viel teuerer leider"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Boi Phuong" date="27.-Februar-2016" id="cam10_145" language="de" product_id="B015JIAGE2" rating="4" title="le">
+        <Sentences>
+            <Sentence id="145:1">
+                <Text text="ich habe bestell für meine schwägerin zum Geburtstag."/>
+            </Sentence>
+            <Sentence id="145:2">
+                <Text text="..da kann ich nicht sagen denke gut"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DM" date="21.-April-2017" id="cam10_146" language="de" product_id="B015JIAGE2" rating="2" title="Muss man wissen ob das Geld es wert ist!?">
+        <Sentences>
+            <Sentence id="146:1">
+                <Text text="Die Kamera selbst sieht sehr gut aus und die Verarbeitung ist sehr gut."/>
+            </Sentence>
+            <Sentence id="146:2">
+                <Text text="Die Bedienung ist nicht gerade intuitiv aber mit Anleitung welche nicht dabei ist schon bedienbar."/>
+            </Sentence>
+            <Sentence id="146:3">
+                <Text text="Die Fotos selbst sind schnell gedruckt, wenn nicht gerade das Papier stecken bleibt weil es sich völlig selbständig in der Kamera gewellt hat...ärgerlich!"/>
+            </Sentence>
+            <Sentence id="146:4">
+                <Text text="Die Bildqualität ist auch nur akzeptabel wenn man sie bei Tageslicht verwendet, bei künstlichen Licht oder angehender Dunkelheit bekommen die Fotos Farbstiche und oder Streifen."/>
+            </Sentence>
+            <Sentence id="146:5">
+                <Text text="Hätte von einem Produkt welches schon Jahre davor ausgereift war mehr erwartet."/>
+            </Sentence>
+            <Sentence id="146:6">
+                <Text text="Immerhin die digitalen Fotos sind ganz ok."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas H." date="11.-April-2017" id="cam10_147" language="de" product_id="B015JIAGE2" rating="5" title="Super Teil">
+        <Sentences>
+            <Sentence id="147:1">
+                <Text text="Absolute Kaufempfehlung!"/>
+            </Sentence>
+            <Sentence id="147:2">
+                <Text text="Funktioniert super und ist echt klein und Handlich."/>
+            </Sentence>
+            <Sentence id="147:3">
+                <Text text="Die Bilder sehen gut aus und passen perfekt in den Geldbeutel."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Summer" date="14.-März-2017" id="cam10_148" language="de" product_id="B015JIAGE2" rating="5" title="Klasse! Find ich super">
+        <Sentences>
+            <Sentence id="148:1">
+                <Text text="Ich habe mir die Kamera in rot bestellt."/>
+            </Sentence>
+            <Sentence id="148:2">
+                <Text text="Schöne Farbe."/>
+            </Sentence>
+            <Sentence id="148:3">
+                <Text text="Es sind gleich 20 solche Fotopapiere dabei."/>
+            </Sentence>
+            <Sentence id="148:4">
+                <Text text="Man kann die Bilder in drei verschiedenen Farbvarianten drucken."/>
+            </Sentence>
+            <Sentence id="148:5">
+                <Text text="Sie kommen sofort gedruckt raus."/>
+            </Sentence>
+            <Sentence id="148:6">
+                <Text text="Was ich nur negativ finde,  es ist leider keine Anleitung dazu."/>
+            </Sentence>
+            <Sentence id="148:7">
+                <Text text="Also wie rum kommen zb die Fotopapiere rein."/>
+            </Sentence>
+            <Sentence id="148:8">
+                <Text text="Aber sonst alles gut, kann sie nur weiter empfehlen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="onlyfood" date="11.-März-2017" id="cam10_149" language="de" product_id="B015JIAGE2" rating="1" title="Ultimative Spaßbremse">
+        <Sentences>
+            <Sentence id="149:1">
+                <Text text="Die Kamera macht blaustichige und streifige Fotos von sehr schlechter Qualität."/>
+            </Sentence>
+            <Sentence id="149:2">
+                <Text text="Es liegt ausserdem keine Bedienungsanleitung bei."/>
+            </Sentence>
+            <Sentence id="149:3">
+                <Text text="Diese Kamera kann man wirklich niemand empfehlen."/>
+            </Sentence>
+            <Sentence id="149:4">
+                <Text text="Eine Unverschämtheit so etwas unter dem Markennamen Polaroid auf den Markt zu bringen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="6.-März-2017" id="cam10_150" language="de" product_id="B015JIAGE2" rating="5" title="Super!">
+        <Sentences>
+            <Sentence id="150:1">
+                <Text text="Excellent Product, on time and you can have lots of fun with it."/>
+            </Sentence>
+            <Sentence id="150:2">
+                <Text text="I'm happy with my Camera Snap :)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anna Dirschl" date="9.-Januar-2017" id="cam10_151" language="de" product_id="B015JIAGE2" rating="3" title="Nicht wie erwartet">
+        <Sentences>
+            <Sentence id="151:1">
+                <Text text="Die Polaroid Snap hat ein sehr cooles Design und"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="5.-Januar-2017" id="cam10_152" language="de" product_id="B015JIAGE2" rating="1" title="Unzufrieden">
+        <Sentences>
+            <Sentence id="152:1">
+                <Text text="Ich würde mir niemehr so eine schlechte Sofortbildkamera kaufen!!"/>
+            </Sentence>
+            <Sentence id="152:2">
+                <Text text="Nicht zu empfehlen!"/>
+            </Sentence>
+            <Sentence id="152:3">
+                <Text text="Die Qualität von den Bildern ist sehr schlecht und der Preis passt nicht!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="28.-Dezember-2016" id="cam10_153" language="de" product_id="B015JIAGE2" rating="1" title="Bitte Beschreibung genau durchlesen.">
+        <Sentences>
+            <Sentence id="153:1">
+                <Text text="Kamera bestsellt  und pünktlich  geliefert."/>
+            </Sentence>
+            <Sentence id="153:2">
+                <Text text="Nur leider keine Bilder dabei."/>
+            </Sentence>
+            <Sentence id="153:3">
+                <Text text="Somit war die Überraschung und Freude dahin."/>
+            </Sentence>
+            <Sentence id="153:4">
+                <Text text="Am liebsten hätte ich sie sofort zurückgesendet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bugo" date="24.-Dezember-2016" id="cam10_154" language="de" product_id="B015JIAGE2" rating="3" title="Naja">
+        <Sentences>
+            <Sentence id="154:1">
+                <Text text="Keine Bedienungsanleitung,  keine Startfotos  inkl."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="leni holy" date="22.-Dezember-2016" id="cam10_155" language="de" product_id="B015JIAGE2" rating="4" title="Kamera ist sehr schön - bis auf die Gebrauchsanweisung!">
+        <Sentences>
+            <Sentence id="155:1">
+                <Text text="Sehr schöne Kamera, leider ist die Gebrauchsanweisung auf - ich denke - polnisch und ich verstehe nicht genau wie die Kamera funktioniert und wie welche Funktionen sind."/>
+            </Sentence>
+            <Sentence id="155:2">
+                <Text text="Es wäre schön würde man mir die Anweisung nochmals in deutsch zukommen lassen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Schlömer" date="26.-Januar-2019" id="cam10_156" language="de" product_id="B015JIAGE2" rating="5" title="Sehr schöne Bilder">
+        <Sentences>
+            <Sentence id="156:1">
+                <Text text="Sehr schöne Bilder"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Günnital" date="12.-Januar-2019" id="cam10_157" language="de" product_id="B015JIAGE2" rating="4" title="Alles hat auf Anhieb funktioniert.">
+        <Sentences>
+            <Sentence id="157:1">
+                <Text text="Muss ich erst die Beschenkte befragen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CJS" date="6.-Januar-2019" id="cam10_158" language="de" product_id="B015JIAGE2" rating="1" title="Unbrauchbar, schade!">
+        <Sentences>
+            <Sentence id="158:1">
+                <Text text="Ich kann mich leider nur anschließen, dass die Photoqualität miserabel ist."/>
+            </Sentence>
+            <Sentence id="158:2">
+                <Text text="Aus meiner Sicht werden noch nicht einmal minimalste Ansprüche erfüllt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="hanj13" date="31.-Dezember-2018" id="cam10_159" language="de" product_id="B015JIAGE2" rating="5" title="Eine Frage des Erwartungsmanagements">
+        <Sentences>
+            <Sentence id="159:1">
+                <Text text="Ich habe die Kamera für ca."/>
+            </Sentence>
+            <Sentence id="159:2">
+                <Text text="80€ erstanden und finde das Preis-Leistungsverhältnis vollkommen stimmt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="yvi1" date="18.-Dezember-2018" id="cam10_160" language="de" product_id="B015JIAGE2" rating="1" title="Das geld nicht  wert">
+        <Sentences>
+            <Sentence id="160:1">
+                <Text text="Super  schlecht, die bild Qualität ist grauenhaft, egl wie hell der  raum oder  draußen es ist die bilder sind mega dunkel, am liebsten  würde  ich sie wegschmeißen aber  es war ein  geschenk und einfach zu teuer für die schlechte  qualität"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kindle-Kunde" date="12.-Dezember-2018" id="cam10_161" language="de" product_id="B015JIAGE2" rating="5" title="Sind zufrieden">
+        <Sentences>
+            <Sentence id="161:1">
+                <Text text="Ich bin vollstens zufrieden."/>
+            </Sentence>
+            <Sentence id="161:2">
+                <Text text="Leichte Handhabung."/>
+            </Sentence>
+            <Sentence id="161:3">
+                <Text text="Bildqualität ist in hellen Räumen gut, in dunkleren Räumen eher nicht zu empfehlen, trotz Blitz."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lucky Duke" date="11.-Dezember-2018" id="cam10_162" language="de" product_id="B015JIAGE2" rating="1" title="Absolut enttäuscht!">
+        <Sentences>
+            <Sentence id="162:1">
+                <Text text="Die Kamera war als Geschenk gedacht."/>
+            </Sentence>
+            <Sentence id="162:2">
+                <Text text="Mir war klar, dass keine Top-Bildqualität von einer Sofortbildkamera zu erwarten ist - eine gewisse Erwartungshaltung, sicher verbunden mit dem Namen Polaroid, hatte ich trotzdem."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Muggal" date="27.-November-2018" id="cam10_163" language="de" product_id="B015JIAGE2" rating="5" title="Tolle Sofortbildkamera">
+        <Sentences>
+            <Sentence id="163:1">
+                <Text text="Ich habe mir die Polaroid gekauft, weil man die Bilder auch aufkleben kann und weil im Vergleich zu anderen Anbietern die Filme viel günstiger sind."/>
+            </Sentence>
+            <Sentence id="163:2">
+                <Text text="Ich würde die Kamera jederzeit wieder kaufen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="27.-Oktober-2018" id="cam10_164" language="de" product_id="B015JIAGE2" rating="1" title="Ungenügende Fotoqualität">
+        <Sentences>
+            <Sentence id="164:1">
+                <Text text="Fotos sind teilweise sehr überbelichtet die Gesichter sind orange die Fotoqualität lässt zu wünschen übrig."/>
+            </Sentence>
+            <Sentence id="164:2">
+                <Text text="Die besten Fotos entstehen Nachts."/>
+            </Sentence>
+            <Sentence id="164:3">
+                <Text text="Die Kamera selbst sieht echt süß aus und wäre sehr handlich und bietet viel."/>
+            </Sentence>
+            <Sentence id="164:4">
+                <Text text="Leider nutzt das nichts wenn die Fotos dem nicht entsprechen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="schwarzerpeter" date="23.-Oktober-2018" id="cam10_165" language="de" product_id="B015JIAGE2" rating="1" title="Das Ding kann man sich sparen - rausgeworfenes Geld.">
+        <Sentences>
+            <Sentence id="165:1">
+                <Text text="Diese Kamera ist rausgeschmissenes Geld, Fotos gelingen nur selten - Bildausschnitt - und die Qualität ist extrem schlecht."/>
+            </Sentence>
+            <Sentence id="165:2">
+                <Text text="Habe einen Fotodrucker gekauft und bin seitdem zufrieden."/>
+            </Sentence>
+            <Sentence id="165:3">
+                <Text text="Das Teil hier ging zurück, schade um das Fotopapier was ich noch gekauft hatte."/>
+            </Sentence>
+            <Sentence id="165:4">
+                <Text text="Dieses Produkt gehört zu den wenigen bei Amazon, von denen ich richtig enttäuscht bin."/>
+            </Sentence>
+            <Sentence id="165:5">
+                <Text text="Selbst ein Stern ist noch zuviel."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cpldu34" date="22.-Dezember-2016" id="cam10_166" language="de" product_id="B015JIAGE2" rating="4" title="Nostalgie pur! Eine tolle Kamera">
+        <Sentences>
+            <Sentence id="166:1">
+                <Text text="Letztes Jahr hatten ich zwei dieser Kameras als Geschenk für meine Kids gekauft."/>
+            </Sentence>
+            <Sentence id="166:2">
+                <Text text="Schnelle Lieferung."/>
+            </Sentence>
+            <Sentence id="166:3">
+                <Text text="Produkt entspricht den Angaben."/>
+            </Sentence>
+            <Sentence id="166:4">
+                <Text text="Als ich die Kamera mit meinen Jungs ausprobierte war das fast wie früher als ich meine erste Polaroid als Kind bekommen hatte."/>
+            </Sentence>
+            <Sentence id="166:5">
+                <Text text="Die Qualität der Polaroids ist heute jedoch wesentlich besser als früher und man jetzt schönere Bilder schiessen als früher."/>
+            </Sentence>
+            <Sentence id="166:6">
+                <Text text="Eine tolle Kamera."/>
+            </Sentence>
+            <Sentence id="166:7">
+                <Text text="Eine Empfehlung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nati" date="19.-Dezember-2016" id="cam10_167" language="de" product_id="B015JIAGE2" rating="4" title="Geburtstagsgeschenk">
+        <Sentences>
+            <Sentence id="167:1">
+                <Text text="Die Kamera kam 2 Tage nach Bestellung - ohne jegliche Transportschäden oder ähnliches."/>
+            </Sentence>
+            <Sentence id="167:2">
+                <Text text="Da sie als Geschenk zum Geburtstag einer Freundin diente, habe ich die Kamera mit auf die Party genommen und das Geburtstagskind konnte direkt loslegen - ohne vorheriges Aufladen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="J" date="18.-Dezember-2016" id="cam10_168" language="de" product_id="B015JIAGE2" rating="4" title="Spass">
+        <Sentences>
+            <Sentence id="168:1">
+                <Text text="Mit dieser Polaroid Fotos zu machen macht wirklich Spass!"/>
+            </Sentence>
+            <Sentence id="168:2">
+                <Text text="Heutzutage hat man alle fotos nur noch digital und so hat man sie direkt ausgedruckt."/>
+            </Sentence>
+            <Sentence id="168:3">
+                <Text text="An meinem geburtstag habe ich damit mehrere Gruppenfotos gemacht und jeder hat eins bekommen!"/>
+            </Sentence>
+            <Sentence id="168:4">
+                <Text text="Was super ist, ist dass man verschiedene einstellungen zwecks der Farbe vornehmen kann."/>
+            </Sentence>
+            <Sentence id="168:5">
+                <Text text="Weiterhin speichert er die Fotos auf einer Speicherkarte was auch super ist."/>
+            </Sentence>
+            <Sentence id="168:6">
+                <Text text="UND die rückseite der Fotos ist zum abziehen."/>
+            </Sentence>
+            <Sentence id="168:7">
+                <Text text="Hat man die folie abgezogen, werden die Bilder selbstklebend!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wanderer" date="9.-Dezember-2016" id="cam10_169" language="de" product_id="B015JIAGE2" rating="3" title="Der erste Eindruck: nicht sehr einladend">
+        <Sentences>
+            <Sentence id="169:1">
+                <Text text="Heute kam die Kamera als Weihnachtsgeschenk."/>
+            </Sentence>
+            <Sentence id="169:2">
+                <Text text="Neugierig haben wir schon mal vorsichtig ausgepackt."/>
+            </Sentence>
+            <Sentence id="169:3">
+                <Text text="Und welche Überraschung: keine Bedienungsanleitung."/>
+            </Sentence>
+            <Sentence id="169:4">
+                <Text text="In der dafür vorgesehenen Schachtel war nur Wellpappe."/>
+            </Sentence>
+            <Sentence id="169:5">
+                <Text text="Und ganz klein versteckt der Hinweis, diese müsse von der homepage geladen werden, was aber seine Tücken hat."/>
+            </Sentence>
+            <Sentence id="169:6">
+                <Text text="Ein Hinweis auf der Verkaufsseite zu dieser sparsamen Ausführung fehlte."/>
+            </Sentence>
+            <Sentence id="169:7">
+                <Text text="Für so viel Kundenunfreundlichkeit 2 Sterne Abzug."/>
+            </Sentence>
+            <Sentence id="169:8">
+                <Text text="Wie dann die Camera sich in der Praxis zeigt sehen wir in zwei Wochen."/>
+            </Sentence>
+            <Sentence id="169:9">
+                <Text text="Wir werden dann später berichten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gabriela Vonwald" date="21.-November-2016" id="cam10_170" language="de" product_id="B015JIAGE2" rating="2" title="Teures Spielzeug">
+        <Sentences>
+            <Sentence id="170:1">
+                <Text text="Die zwei Sterne vergebe ich für die Idee und weil es mir insgesamt 15mal gelungen ist, nette Bilder zu machen."/>
+            </Sentence>
+            <Sentence id="170:2">
+                <Text text="Ich wollte die Kamera, um bei meinen Besuchen armer Familien in den Slums (arbeite für eine Hilfsorganisation) gleich ein Andenkenbild schenken zu können."/>
+            </Sentence>
+            <Sentence id="170:3">
+                <Text text="Fazit, nur jedes vierte Bild kommt streifenfrei, alle anderen sind eine Enttäuschung."/>
+            </Sentence>
+            <Sentence id="170:4">
+                <Text text="Legt man mehr als drei Blatt Papier ein, meldet das Gerät ständig Papierstau, bei weniger als drei meldet es, kein Papier im Fach."/>
+            </Sentence>
+            <Sentence id="170:5">
+                <Text text="Man fühlt sich ein wenig verkaspert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Heiko P." date="8.-November-2016" id="cam10_171" language="de" product_id="B015JIAGE2" rating="5" title="Back to the Roots">
+        <Sentences>
+            <Sentence id="171:1">
+                <Text text="Tolle kleine Polaroid Kamera."/>
+            </Sentence>
+            <Sentence id="171:2">
+                <Text text="Sie ist wirklich toll macht schöne Bilder."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thomas Ohlmann" date="4.-November-2016" id="cam10_172" language="de" product_id="B015JIAGE2" rating="1" title="Enttäuschung">
+        <Sentences>
+            <Sentence id="172:1">
+                <Text text="Das in der Beschreibung angegebene 1 Zoll Display ist nicht vorhanden und die Schachtel in der das Fotopapier enthalten sein sollte ist mit Karton gefüllt."/>
+            </Sentence>
+            <Sentence id="172:2">
+                <Text text="TRAURIG"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="SunShine" date="18.-Oktober-2016" id="cam10_173" language="de" product_id="B015JIAGE2" rating="5" title="Kommt echt gut an !">
+        <Sentences>
+            <Sentence id="173:1">
+                <Text text="Habe die Camera für ein Gästebuch gekauft."/>
+            </Sentence>
+            <Sentence id="173:2">
+                <Text text="Es kam super bei den Gästen an."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="16.-Oktober-2016" id="cam10_174" language="de" product_id="B015JIAGE2" rating="3" title="Top Service - schlechtes Produkt">
+        <Sentences>
+            <Sentence id="174:1">
+                <Text text="Top Service - schlechtes Produkt."/>
+            </Sentence>
+            <Sentence id="174:2">
+                <Text text="Kamera war nach ca."/>
+            </Sentence>
+            <Sentence id="174:3">
+                <Text text="7 Monaten defekt."/>
+            </Sentence>
+            <Sentence id="174:4">
+                <Text text="Umtausch in eine neue Kamera verlief problemlos."/>
+            </Sentence>
+            <Sentence id="174:5">
+                <Text text="Top Service von ElekShop ."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="6.-Oktober-2016" id="cam10_175" language="de" product_id="B015JIAGE2" rating="1" title="das ist mehr ein Spielzeug">
+        <Sentences>
+            <Sentence id="175:1">
+                <Text text="bin sehr enttäuscht."/>
+            </Sentence>
+            <Sentence id="175:2">
+                <Text text="Einfach nur teuer und ohne Wert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

@@ -1,0 +1,3234 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Elias Kotschner" date="30.-Januar-2016" id="cam1_1" language="de" product_id="B00DM8R866" rating="2" title="Ich kann die  guten Bewertungen nicht nachvollziehen">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Habe die Kamera bei Saturn gekauft da ich diese kurzfristig auf eine Reise nach Australien mitnehmen wollte."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wolfgang Neumann" date="27.-Januar-2016" id="cam1_2" language="de" product_id="B00DM8R866" rating="4" title="Fast perfekt">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Nachdem meine zehn Jahre alte Spiegelreflex nur im Schrank lag und ich unbefriedigende Fotos mit dem Smartphone leid war, kam die Überlegung nach einer leichten, aber sehr guten 'Überall-dabei-Kamera'."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="Folgende Kriterien mussten erfüllt sein:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Podie" date="5.-Januar-2016" id="cam1_3" language="de" product_id="B00DM8R866" rating="4" title="Für die Klasse herausragend">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Für die Grösse der Kamera sind die Bildergebnisse herausragend."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kindleleser" date="4.-Januar-2016" id="cam1_4" language="de" product_id="B00DM8R866" rating="5" title="Super Bildqualität bei sehr schnellen Messungen">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Nach kurzer Einarbeitung in die Menüs zur manuellen Steuerung Kamera (hatte bisher noch keine Sony) bin ich vollauf zufrieden mit der Kamera."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Die Qualität der Videos ist ebenfalls sehr gut und die Funktionen zur drahtlosen Bildübertragung u. ä, arbeiten tadellos."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bildübertragung"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="25.-Dezember-2015" id="cam1_5" language="de" product_id="B00DM8R866" rating="5" title="Die einzige RX-100 mit Blitzschuh">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Ich habe für diese Kamera mein komplettes Sortiment um meine dafür verkaufte Nikon D7000 aufgelöst in der Hoffnung für ein paar verschmerzbare Einbußen meine Kamera öfter im richtigen Moment dabei zu haben (weil Gepäck habe ich mit drei Kindern in der Regel ohnehin genug)."/>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Diese Rezension schreibe ich, da mir bisher einem aus meiner Sicht sehr wichtigen Punkt zu wenig Aufmerksamkeit geschenkt wird."/>
+            </Sentence>
+            <Sentence id="5:3">
+                <Text text="Wirklich gute ausgeleuchtete Bilder (z.B."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:4">
+                <Text text="Gruppenfotos in Innenräumen) bekommt man häufig nur mit einer indirekten Blitzausleuchtung."/>
+            </Sentence>
+            <Sentence id="5:5">
+                <Text text="Und dafür benötigt man einen entsprechenden Anschluss an der Kamera."/>
+            </Sentence>
+            <Sentence id="5:6">
+                <Text text="Diesen bietet diese RX 100 II, diesen würden Sie aber beim Kauf einer RX 100 I, III oder IV vielleicht schmerzlich vermissen."/>
+            </Sentence>
+            <Sentence id="5:7">
+                <Text text="Von meiner Seite daher klare Kaufempfehlung für die RX 100 II."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Radiohörer" date="19.-Dezember-2015" id="cam1_6" language="de" product_id="B00DM8R866" rating="4" title="Wunderbar, aber...">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Tolle Kamera und zum Schnäppchen Preis bei Amazon bestellt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Letztendlich bekam ich den Gedanken aber nicht geheilt, mit der RX 100 III einen besseren Weitwinkel zu bekommen ... daher ging diese gute Kamera wieder zurück und wurde durch eine sehr gute ersetz (übrigns zum Amazon.fr Schnäppchen Preis)"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="phollb" date="15.-Dezember-2015" id="cam1_7" language="de" product_id="B00DM8R866" rating="4" title="Tolle Kamera, kann ich nur empfehlen">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="ich denke über die Kamera ist schon viel geschrieben worden."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Ich finde sie toll."/>
+            </Sentence>
+            <Sentence id="7:3">
+                <Text text="Schön klein und relativ einfach in der Bedienung."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:4">
+                <Text text="Ein Punkt abzug für das empfindliche Display, ich habe es zu spät mit einer Folie geschützt."/>
+            </Sentence>
+            <Sentence id="7:5">
+                <Text text="Und für das Gehäuse das nicht so gut in der Hand liegt."/>
+            </Sentence>
+            <Sentence id="7:6">
+                <Text text="Von den Bildern die ich bisher gemacht habe bin ich begeistert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="S.K." date="7.-Dezember-2015" id="cam1_8" language="de" product_id="B00DM8R866" rating="3" title="Klasse Bildqualität, fummelige Bedienung">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Da die Kamera mich schon lange reizte, entschloss ich mich letztendlich zum Kauf."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kindle Customer" date="3.-Dezember-2015" id="cam1_9" language="de" product_id="B00DM8R866" rating="5" title="LOVE IT!">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="This camera is light, takes beautiful pictures, and its video function is surprisingly pretty good."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="I'm so glad that my husband recommended this purchase right before our upcoming family trip as it did a fantastic job capturing our memories with stunning quality."/>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="For the price point, I feel that we got more for our money."/>
+            </Sentence>
+            <Sentence id="9:4">
+                <Text text="Highly recommend this purchase to anyone, who is looking to buy an affordable camera that does a spectacular job."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mr. Big" date="1.-Dezember-2015" id="cam1_10" language="de" product_id="B00DM8R866" rating="5" title="Klein aber Fein">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Grundsätzlich bin ich ein eingefleischter Fan von Fuji's X-Series Systemkameras."/>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="Diese bieten, vor allem in Verbindung mit den lichtstarken Festbrennweiten, eine beeindruckende Bildqualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:3">
+                <Text text="Jedoch ist man nicht in jeder Lebenslage gewillt das gesamte Equipment mit sich herumzutragen."/>
+            </Sentence>
+            <Sentence id="10:4">
+                <Text text="Da sich einem ambitionierten Hobbyfotografen aber auch im Alltag immer wieder tolle Motive bieten, eine Handykamera keine wirkliche Alternative darstellt, war ich schon länger auf der Suche nach einer kleinen 'immer dabei' Kamera geeignet für die Jackentasche."/>
+            </Sentence>
+            <Sentence id="10:5">
+                <Text text="Somit galt es etwas im Lager der Kompaktkameras zu finden."/>
+            </Sentence>
+            <Sentence id="10:6">
+                <Text text="Zwar bietet Fujifilm mit der X30 ein faszinierendes Stück Technik, jedoch ist diese recht groß geraten und auch die Bildqualität kann nicht restlos überzeugen."/>
+            </Sentence>
+            <Sentence id="10:7">
+                <Text text="Somit kommt man an Sony's RX Kameras nicht wirklich vorbei, zumal diverse getestete Kameras aus dem Lager von Canon und Panasonic auch nicht restlos überzeugen konnten."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:8">
+                <Text text="So geriet die mittlerweile recht erschwinglich gewordene DSC-RX100 in den Focus."/>
+            </Sentence>
+            <Sentence id="10:9">
+                <Text text="Dank Amazon's Knaller-Preis im Rahmen cyber week 2015 wurde es jetzt sogar die MK II."/>
+            </Sentence>
+            <Sentence id="10:10">
+                <Text text="Nach 2 Tagen in Gebrauch bin ich völlig fasziniert von dieser Kompaktkamera."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:11">
+                <Text text="Dank des recht großen Sensors ist die Bildqualität bis ISO 6400 beeindruckend."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensors"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:12">
+                <Text text="Auch ohne Touchscreen ist die Steuerung, dank der übersichtlichen Menüstruktur, einfach und komfortabel."/>
+            </Sentence>
+            <Sentence id="10:13">
+                <Text text="Neben diversen Automatikprogrammen ist natürlich auch die von mir bevorzugte Teil- oder Vollmanuelle Steuerung möglich."/>
+            </Sentence>
+            <Sentence id="10:14">
+                <Text text="Haptik und Verarbeitung der Kamera sind herausragend, bei äußerst kompakten Abmaßen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:15">
+                <Text text="Somit eine klare Kaufempfehlung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="K.J" date="15.-Mai-2014" id="cam1_11" language="de" product_id="B00DM8R866" rating="5" title="Begeisterung">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Völlig unvoreingenommen bin ich an die DSC RX 100 II gegangen und wurde begeistert."/>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="Ich habe Erfahrung mit Fotografie, Bildbearbeitung usw."/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="und wollte jetzt eine kompakte Kamera, die sich nicht vor der großen Spiegelreflex verstecken muss und habe sie gefunden."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="Die Resultate können sich wirklich sehen lassen."/>
+            </Sentence>
+            <Sentence id="11:5">
+                <Text text="Wahnsinnig tiefe,  kräftige Fotografien sind die Belohnung für den Fotografen."/>
+            </Sentence>
+            <Sentence id="11:6">
+                <Text text="Nicht umsonst ist die 100 II momentan in jedem Test vorn mit dabei und durchweg positiv bewertet."/>
+            </Sentence>
+            <Sentence id="11:7">
+                <Text text="Ich empfehle es aber trotzdem jedem, vorher einen ausführlichen, unabhängigen Test einzusehen."/>
+            </Sentence>
+            <Sentence id="11:8">
+                <Text text="Diese Rezension schildert daher bewusst nur meine persönlichen Eindrücke."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Capybara" date="14.-Mai-2014" id="cam1_12" language="de" product_id="B00DM8R866" rating="5" title="Super Bildqualität zum stolzen Preis">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Die Kamera liefert detailreiche Bilder mit sehr wenig Rauschen bis ISO800."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="Aber auch ISO1600 geht noch völlig in der Bildschirmansicht in Ordnung."/>
+            </Sentence>
+            <Sentence id="12:3">
+                <Text text="Für eine Kompaktkamera unfassbar gut."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bohne, Ramon" date="10.-Mai-2014" id="cam1_13" language="de" product_id="B00DM8R866" rating="5" title="Vollste Zufriedenheit :-)">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text=".... weil ich genau das bekommen habe....."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael Zorn" date="7.-Mai-2014" id="cam1_14" language="de" product_id="B00DM8R866" rating="3" title="Ich habe etwas mehr erwartet">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Positiv:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Julia Koch" date="7.-Mai-2014" id="cam1_15" language="de" product_id="B00DM8R866" rating="5" title="Die Qulität ist der Hammer!">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Ich bin eigentlich ein Spiegelreflexfotograf (nur DX, aber immerhin) und lege auf Qualität, besonders auf Schärfe, großen Wert."/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Ich suchte nach einer Immer-dabei-haben Kamera, die ausreichend Qualität liefert, Raw aufnehmen kann, manuelle Einstellmöglichkeiten bietet, und dabei möglichst klein ist."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="Was soll ich sagen: die Qualität der Bilder steht meiner D7000 mit Vollformatobjektiv (70-200 f4) in nichts nach!"/>
+            </Sentence>
+            <Sentence id="15:4">
+                <Text text="Der einzige Grund noch ne Spiegelreflex in die Hand zu nehmen sind Tele (diese hier ist sehr weitwinklig), schnelle Auslöseverzögerung, besserer Autofokus (besonders im Dämmerlicht) und bessere Bedienbarkeit."/>
+                <Opinions>
+                    <Opinion category="LENS" target="autofokus"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:5">
+                <Text text="Qualität ist definitiv kein Grund."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Olaf Blaesig" date="28.-April-2014" id="cam1_16" language="de" product_id="B00DM8R866" rating="4" title="Der beste Kompromiss zwischen Größe und Bildqualität">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Ganz lange habe ich überlegt ob ich mir eine Kompakte mit Wechselobjektiv (a la MFT, Emount, etc) kaufen soll oder nicht."/>
+            </Sentence>
+            <Sentence id="16:2">
+                <Text text="Mein Anspruch war allerdings eine Hosentaschenkamera und seien wir mal ehrlich, wenn ich mir eine Kamera mit Wechselobjektiv kaufe, dann werde ich auch Objektive wechseln und daher wieder mehr „schleppen“ müsste."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tires" date="27.-April-2014" id="cam1_17" language="de" product_id="B00DM8R866" rating="5" title="Das Beste was es für diese Größe gibt">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Nachdem ich mich zwei Jahre lang selbst auf Android-Kameras eingeschränkt hatte, bin ich nun auf diese Kompaktkamera umgestiegen."/>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Vorher und nebenher habe ich eine Unzahl von Kameras im Besitz gehabt, sodass ich durchaus einen Vergleich ziehen kann."/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Im Folgenden werde ich auf die Vorzüge der RX100 Mark II eingehen."/>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="Mit ist aufgefallen, dass gerade bei diesem Produkt die Rezensionen erheblich voneinander abweichen, daher werde ich speziell darauf eingehen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tobias Reichensperger" date="22.-April-2014" id="cam1_18" language="de" product_id="B00DM8R866" rating="3" title="Mein Modell hatte leider ein denzentriertes Objektiv :-(">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Grundsätzlich scheint die RX100ii eine topp Kompakte zu sein."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompakte"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="N. Müller" date="8.-April-2014" id="cam1_19" language="de" product_id="B00DM8R866" rating="5" title="tolles Teil">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Kann die Kamera nur empfehlen."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Einzig die W-lan Funktion stelle ich in Frage, hatte die Hoffnung direkt an Dropbox senden zu können, geht aber nur über z.B."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="ein Handy."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jürgen Stahlberg" date="6.-April-2014" id="cam1_20" language="de" product_id="B00DM8R866" rating="5" title="Wunderbar">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Habe seit einer Woche meine RX100M2 und bin davon wirklich begeistert."/>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Habe diese zu einer vorhandenen Sony NEX 5N angeschafft da ich als 'Senior' auch immer noch begeisterter Motorradfahrer bin und hier noch eine kleine aber hochwertige Kamera suchte."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="Ich kann bisher nichts negatives feststellen -- egal welche Einstellung oder Aufnahme gewählt wird."/>
+            </Sentence>
+            <Sentence id="20:4">
+                <Text text="Nichts unscharf, nichts verwackelt usw."/>
+            </Sentence>
+            <Sentence id="20:5">
+                <Text text="Allerdings bin ich noch in der Übungs- und Einstellphase."/>
+            </Sentence>
+            <Sentence id="20:6">
+                <Text text="Hierzu sei auch das Buch von Martin Vieten über diese Kamera empfohlen."/>
+            </Sentence>
+            <Sentence id="20:7">
+                <Text text="Habe mir dies angeschafft und es ist sehr hilfreich die verschiedenen Dinge besser zu verstehen."/>
+            </Sentence>
+            <Sentence id="20:8">
+                <Text text="Als Zubehör habe ich mir die wirklich tollen Filter ( UV und Moose Warm Circ +PL ) und Adapter von Lensmate USA aus Amerika zugelegt."/>
+            </Sentence>
+            <Sentence id="20:9">
+                <Text text="Nicht ganz billig aber passend und praktisch."/>
+            </Sentence>
+            <Sentence id="20:10">
+                <Text text="Tasche Sony LCS-CSJ passt dann auch mit einem aufgeschraubten Adapter und Filter sowie 2."/>
+            </Sentence>
+            <Sentence id="20:11">
+                <Text text="Batterie und 2."/>
+            </Sentence>
+            <Sentence id="20:12">
+                <Text text="Karte."/>
+            </Sentence>
+            <Sentence id="20:13">
+                <Text text="Lowepro Dashpoint 20 passt ebenfalls gut."/>
+            </Sentence>
+            <Sentence id="20:14">
+                <Text text="Ich denke diese Kamera erfüllt höchste Ansprüche."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:15">
+                <Text text="Man sollte sich aber erst einmal mit allen Möglichkeiten intensiv beschäftigen und nicht nach Kurzem die Kamera wg."/>
+            </Sentence>
+            <Sentence id="20:16">
+                <Text text="angeblichem Mangel kritisieren und zurückgeben."/>
+            </Sentence>
+            <Sentence id="20:17">
+                <Text text="Sie macht sicher bessere Photos als ein Smartphone!!"/>
+            </Sentence>
+            <Sentence id="20:18">
+                <Text text="Wenn alles verwackelt liegt das sicher mehr an dem Betreiber oder an den falschen Einstellungen."/>
+            </Sentence>
+            <Sentence id="20:19">
+                <Text text="Wünsche allen viel Erfolg mit dieser Kamera."/>
+            </Sentence>
+            <Sentence id="20:20">
+                <Text text="beste Grüße"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="soerenlennart" date="28.-November-2014" id="cam1_21" language="de" product_id="B00DM8R866" rating="5" title="Auch als Point and Shoot - Kamera TOP!!!">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Es ist eigentlich überflüssig zu dieser Kamera noch eine Rezession zu schreiben, denn einen Fehlkauf riskiert man nicht."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="Vielleicht fülle ich mit Folgendem noch eine kleine Informationslücke:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Käufer123" date="16.-November-2014" id="cam1_22" language="de" product_id="B00DM8R866" rating="5" title="Super">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Hatte erst die DSC-RX100 und habe dann diese hier gekauft."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Norbert" date="13.-November-2014" id="cam1_23" language="de" product_id="B00DM8R866" rating="2" title="HD Video mit Störgeräuschen">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Die Sony  DSC-RX100 II  ist im Vergleich mit der älteren HX20 lichtempfindlicher."/>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Video und Bildaufnahmen sind in der Dämmerung eindeutig besser."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="video"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:3">
+                <Text text="Ebenfalls schneller ist der Einzelbildmodus."/>
+            </Sentence>
+            <Sentence id="23:4">
+                <Text text="Es ist möglich, im Gegensatz zur HX20, die Bildanzeige nach einer Aufnahme abzuschalten um schnellere Einzelbildfolgen auszulösen."/>
+            </Sentence>
+            <Sentence id="23:5">
+                <Text text="Eine Anzeige des Bildes bei gedrücktem Auslöser findet aber nicht statt."/>
+            </Sentence>
+            <Sentence id="23:6">
+                <Text text="Im direkten Bildvergleich RX100II und HX20 sind bei Tageslicht leichte Vorteile für die HX20 festzustellen, der Nachschärfungsalgorithmus wirkt dort etwas kräftiger."/>
+            </Sentence>
+            <Sentence id="23:7">
+                <Text text="Insgesamt machen aber beider Kameras nahezu gleiche Bilder auch wenn man in die Vergrößerung zu Hilfe nimmt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kameras"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Martin" date="12.-November-2014" id="cam1_24" language="de" product_id="B00DM8R866" rating="5" title="Die perfekte Kompakte">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Nachdem ich meine Nikon DSLR- Ausrüstung verkauft habe und mir im Anschluss eine Alpha 6000 zugelegt habe, wurde diese nun durch eine kompakte Taschenkamera ergänzt."/>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Mein Focus lag hierbei insbesondere auf der Bildqualität."/>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="Auf dem Weg zur RX 100 ii habe ich einiges an Kameras ausprobiert und bleibe nun bei der kleinen Sony."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:4">
+                <Text text="Sie bietet in der RX 100- Familie das beste Preis- Leistungsverhältnis und überzeugt mit einer für diese Kameraklasse sensationellen Bildqualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefan Wien" date="11.-November-2014" id="cam1_25" language="de" product_id="B00DM8R866" rating="5" title="Spitzenkompaktkamera mit Schwächen bei Nahaufnahmen">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Bis vor kurzem bin ich mit einer Canon IXUS 870IS, einer Nikon D300 und einem Galaxy Note 3 herumgerast und habe viel fotografiert (mehr als 10.000 Fotos im Jahr)."/>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="Ich bin kein Profi, bin aber jedes Mal sauer wenn Fotos unscharf, zu dunkel, kontrastarm, ... sind."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="hajokra" date="2.-November-2014" id="cam1_26" language="de" product_id="B00DM8R866" rating="3" title="Sony DSC-RX100 II Cyber-shot">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Ich bin noch in der Übungsphase und kann kein endgültiges Urteil abgeben."/>
+            </Sentence>
+            <Sentence id="26:2">
+                <Text text="Eins steht jetzt schon fest: Ganz schön kompliziert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kunde_98766" date="26.-Oktober-2014" id="cam1_27" language="de" product_id="B00DM8R866" rating="5" title="klein und kompakt">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Die Kamera ist top,super tolle Bilder von kleinformat Kamera, viele Einstellungen wie RAW oder JPEG-Format auswählen, usw..Unglaublich."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:2">
+                <Text text="Auf jeden Fall soll man auch die Displayschutz-abdeckung kaufen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ich" date="23.-Oktober-2014" id="cam1_28" language="de" product_id="B00DM8R866" rating="5" title="Tom">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Sehr schöne, scharfe Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="Perfekt, nah an einer Spiegelreflexkamera dran."/>
+            </Sentence>
+            <Sentence id="28:3">
+                <Text text="Nur zum empfehlen, klein und handlich für den schnellen Schnappschuss."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon_Customer" date="15.-Oktober-2014" id="cam1_29" language="de" product_id="B00DM8R866" rating="2" title="Nicht der Brüller in meinen Augen">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Ich hatte mir die Kamera via Warehousedealz bestellt, und für ein paar Stunden ausprobiert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="H. Schuster" date="30.-September-2014" id="cam1_30" language="de" product_id="B00DM8R866" rating="3" title="W-lan funktioniert nicht zur Bildübertragung auf aktuelles Macbook Mac OS 10.9.5">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Eigentlich eine gute Kamera, ich habe sie wegen des Klapp-Displays und des Blitzschuhs gekauft."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="Aber: Die beworbene drahtlose Bildübertragung per Wlan funktioniert nicht mit dem Macbook Pro und auch nicht mit einem aktuellen I-Mac bei Saturn, wo ich die Kamera gekauft habe."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bildübertragung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="Den Support von Sony diesbezüglich kann man vergessen, da dort behauptet wurde, es läge am Macbook."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:4">
+                <Text text="Komischerweise funktioniert die drahtlose Datenübertragung des Macbooks im Zusammenspiel mit Android, Windows, Linux - Geräten problemlos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="geräten"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:5">
+                <Text text="Auch gelingt es, die Kamera drahtlos mit dem Android- Smartphone zu steuern."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:6">
+                <Text text="Seitens Sony wurde überhaupt nicht versucht, das Problem der nicht funktionierenden Wlan- Bildübertragung auf den Mac zu analysieren und zu lösen."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bildübertragung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:7">
+                <Text text="Irgendwie steht man als Kunde bei Sony im Regen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kfbei11" date="22.-September-2014" id="cam1_31" language="de" product_id="B00DM8R866" rating="5" title="Sony DSC-100 II">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Schnelle Lieferung.Sehr gute Kamera mit beeindruckenden Leistungen,außerst lichtstarkesObjektiv mit jeder Menge Programmen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wolfgang M" date="21.-September-2014" id="cam1_32" language="de" product_id="B00DM8R866" rating="5" title="Der kleine Ersatz für die Spiegelreflex">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Die Kamera habe ich zusätzlich zu einer Canon EOS 60D."/>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="Immer wenn ich zu Faul bin die große mitzunehmen kommt die Sony in die Tasche."/>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="Von der Bildqualität braucht sich diese Kamera auch vor der Canon nicht zu verstecken."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="High Ender" date="13.-September-2014" id="cam1_33" language="de" product_id="B00DM8R866" rating="5" title="Die Krönung unter den Kompakten!">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Hammer!"/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="Ich bin kein Fachmann und hatte auch noch keine großen Kontakte mit High End Kameras und zugegeben schoss ich meine Fotos bislang eher nur mit nem 'Apfel'."/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="Dachte mir wenn Du mal was vernünftiges kaufen solltest, dann High End."/>
+            </Sentence>
+            <Sentence id="33:4">
+                <Text text="Da hier schon sehr viel über Details geschrieben ist, möchte ich nur noch dazu sagen: Einfach Mega diese Kamera !!!!!"/>
+            </Sentence>
+            <Sentence id="33:5">
+                <Text text="Klare Kaufempfehlung"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus Rieglhofer" date="12.-September-2014" id="cam1_34" language="de" product_id="B00DM8R866" rating="5" title="Die Immerdabei mit DSLR Qualität">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Die technischen Eigenschaften wurde schon x-fach beschrieben, sodass ich mich auf meine Erfahrungen im letzten Jahr beschränke."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="M. Jünger" date="11.-September-2014" id="cam1_35" language="de" product_id="B00DM8R866" rating="5" title="Prima">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Alles in Ordnung, schnelle Lieferung."/>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="Die Kamera macht tolle Bilder."/>
+            </Sentence>
+            <Sentence id="35:3">
+                <Text text="Die Auflösung ist wirklich gut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:4">
+                <Text text="Viele Funktionen sind noch zu erforschen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Holger" date="2.-September-2014" id="cam1_36" language="de" product_id="B00DM8R866" rating="5" title="Es kann nur eine geben...">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Top Kamera, ohne viel Worte!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Detlef2819" date="22.-August-2014" id="cam1_37" language="de" product_id="B00DM8R866" rating="5" title="Gut aber  zu teuer">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Der Apparat ist kompakt und entspricht dem, was die Beschreibung  abgibt."/>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Für einen engagierten Amateur absolut  das Richtige."/>
+            </Sentence>
+            <Sentence id="37:3">
+                <Text text="Kritikpunkt ist der Preis."/>
+            </Sentence>
+            <Sentence id="37:4">
+                <Text text="Hier sollten die Interessenten deutlicher kritisch sein und  darauf hinweisen, dass andere Mütter auch schöne Töchter haben."/>
+            </Sentence>
+            <Sentence id="37:5">
+                <Text text="auch wenn es schmerzt -ich bin sehr zufrieden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Franky" date="8.-August-2014" id="cam1_38" language="de" product_id="B00DM8R866" rating="4" title="Enormer Mehrwert ggü der RX100 für die digitale Generation">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Ich gebe zu, dass ich Laie bin."/>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Außerdem habe ich die Kamera erst 1 Tag."/>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Warum schreibe ich dennoch eine Rezension?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="schoenebärg" date="7.-August-2014" id="cam1_39" language="de" product_id="B00DM8R866" rating="5" title="Klasse Kamera mit hervorragender Bildqualität">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Die Kamera ist nach meiner Meinung einfach gut und hat eine hohe Bildqualität, sie sieht gut aus, liegt gut in der Hand, fühlt sich gut an, hat ein robustes Aluminium-Gehäuse, hat viele Einstellungsmöglichkeiten, eine gut durchdachte (z."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="B. gibt es einen Objektivring - auch Steuerring genannt - mit verschiedene selbst festlegbaren Einstellmöglichkeiten) und zu handhabende Technik mit vielen individuellen Einstellungsmöglichkeiten, eine prima Ausstattung, ist schnell, hat ein lichtstarkes Objektiv, relativ geringes Gewicht (passt auch noch in eine, dann allerdings ausgebeulte, Hosentasche) und auch der Zoombereich von Weitwinkel bis zum leichten Tele ist für mich stimmig."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objektiv"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:3">
+                <Text text="Interessant finde ich auch das WLan, zur schnellen Übertragung an ein Smartphone, Tablett oder Computer."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thomas" date="28.-Juli-2014" id="cam1_40" language="de" product_id="B00DM8R866" rating="5" title="empfehlenswerte Digitalkamera">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Kamera macht sehr gute Bilder und hat sehr viele Features."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Ist zwar etwas teuer, aber der Preis lohnt sich auf jeden Fall."/>
+            </Sentence>
+            <Sentence id="40:3">
+                <Text text="Nur der Blitz ist etwas schwach, ist aber zu verschmerzen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aladin" date="7.-Februar-2017" id="cam1_41" language="de" product_id="B00DM8R866" rating="5" title="Geile Kamera">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Ich bin richtig happy mit meiner Sony DSC-RX100 II Cyber Shot Digitalkamera."/>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Die Bedienung ist einfach."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="41:3">
+                <Text text="Es ist unglaublich, wieviele Funktionen diese Kamera hat."/>
+            </Sentence>
+            <Sentence id="41:4">
+                <Text text="Da ich Laie bin, was das fotografieren angeht, überlege ich mir noch ein gutes Buch über die Kamerafunktionen zu kaufen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Karl Kürbis" date="4.-Februar-2017" id="cam1_42" language="de" product_id="B00DM8R866" rating="5" title="Hochwertige, unauffällige Reisekamera">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Wer schon mal mit einer Kompaktknipse in den Urlaub gefahren ist und sich anschließend über Fotos mit hohem Rauschen auch bei niedigem Iso-Wert geärgert hat, wird geneigt sein, beim nächsten mal doch die klobige Spiegelreflex mitzutragen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Wer auf dieses Zusatzgewicht jedoch verzichten will, sollte sich die RX100-Reihe einmal genauer anschauen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael B." date="29.-Januar-2017" id="cam1_43" language="de" product_id="B00DM8R866" rating="5" title="Sehr gute Kamera">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Die Menüführung ist sehr gut, für einen Sony Fotograf von der R1 zur Alpha 55 bis zur Alpha 77 und 77 II."/>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Die Preis Leistung Verhältnis ist sehr gut, das Objektiv hat sehr gute Lichtwerte."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objektiv"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="Das Ausklappbare Display und der Blitzanschluß runden den guten Eindruck ab."/>
+            </Sentence>
+            <Sentence id="43:4">
+                <Text text="Es gibt nicht zu mäkeln."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="J. Rueggeberg" date="22.-Januar-2017" id="cam1_44" language="de" product_id="B00DM8R866" rating="5" title="Als Hosentaschenkamera unschlagbar">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Manchmal möchte man keine 'normale' Kamera mitschleppen und da ist diese Kamera die optimale Lösung."/>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="So kompakt, dass sie leicht in die Hosentasche passt und dabei mit einer erlesenen Ausstattung und Bildqualität gesegnet, kann man ganz getrost sich dem Gefühl hingeben, daß man nichts vergessen hat und mit erstklassigen Fotos nach Hause kommt."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="Ich habe konkret diese Kamera gewählt, weil sie das Multiinterface hat, sodass man auch mal einen Blitz oder ein Mikro aufstecken kann."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Axel K." date="20.-Januar-2017" id="cam1_45" language="de" product_id="B00DM8R866" rating="4" title="Beachtliche Leistung für eine Kompakte">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Wertiges Aluminiumgehäuse (Material: Magnesium), sehr teuer, sauber verarbeitet;"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Walter Hausegger" date="16.-Januar-2017" id="cam1_46" language="de" product_id="B00DM8R866" rating="4" title="Preisgünstige hochwertige Kamera">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="Die Kamera ist elektronisch steuerbar, aus diesem Grund habe ich sie gekaut."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="Das Objektiv ist sehr gut, die Software ist auf dem neusten Stand."/>
+            </Sentence>
+            <Sentence id="46:3">
+                <Text text="Absolut empfehlenswert-."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="esprit simple" date="8.-Januar-2017" id="cam1_47" language="de" product_id="B00DM8R866" rating="5" title="Tolle Kamera, habe ich fast immer dabei -&gt; deshalb macht sie meine besten Fotos (und Filme)">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Klasse kompakte Kamera die mich noch nie im Stich gelassen hat, obwohl sie auf diversen Baustellen auch schon mal eine rauhe Umgebung (Staub, Feuchtigkeit) mitmachen musste."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Erstklassige Bilder und ganz ordentliche Videos auch bei schlechten Lichtverhältnissen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="???" date="4.-Januar-2017" id="cam1_48" language="de" product_id="B00DM8R866" rating="1" title="Mehr erhofft...">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Wir wollten eine kompakte Kamera, um hauptsächlich Kinderfotos zu knipsen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="Für mich muss es in solchen Situationen schnell gehen und der Automatikmodus ist mir deshalb sehr wichtig."/>
+            </Sentence>
+            <Sentence id="48:3">
+                <Text text="Leider war von den Probefotos, kaum ein Foto scharf...Die 1-2 Fotos die scharf waren, Hut ab, die waren wirklich gestochen scharf."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="48:4">
+                <Text text="Aber für unseren Einsatzzweck leider nicht geeignet, da wir mit der Handykameras genauso gute/schlechte (wenn man die 1-2 perfekten Aufnahmen ausnimmt) bekommt."/>
+            </Sentence>
+            <Sentence id="48:5">
+                <Text text="Die Kamera haben wir deshalb wieder zurück gesendet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alf" date="20.-Dezember-2016" id="cam1_49" language="de" product_id="B00DM8R866" rating="5" title="Beste Kamera 'ever'">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Nicht gerade billig....aber SUPER!"/>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manni Mamut" date="15.-Dezember-2016" id="cam1_50" language="de" product_id="B00DM8R866" rating="2" title="kein viewer">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="vielleicht mein Fehler, ich hatte nach einer Kompaktkamera mit Sucher gesucht, aber bei den vielen verschiedenen Modellen bin ich doch bei der Ohne gelandet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="emelu" date="21.-Februar-2014" id="cam1_51" language="de" product_id="B00DM8R866" rating="4" title="Sehr gute Kamera, Menüs etwas unübersichtlich">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Tolle Fotoqualität, sehr gutes Objektiv (F1,4)."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objektiv"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Ersetzt mittlerweile fast unsere D5100 Reflex wegen ihrer kompakten Grösse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pyruvat" date="17.-Februar-2014" id="cam1_52" language="de" product_id="B00DM8R866" rating="5" title="Ausgezeichnet!">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Ich habe im Urlaub neben meiner DSLR Sony A57 immer eine Kompaktkamera (zur Sicherheit) dabei."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Die sehr guten Bewertungen der Sony DSC-RX100 M2 bezüglich der Bildqualität in diversen Fachzeitschriften haben mich zum Kauf bewogen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="Und ich wurde nicht enttäuscht."/>
+            </Sentence>
+            <Sentence id="52:4">
+                <Text text="Fazit: Gerade vom Urlaub zurückgekommen, habe ich mehr Bilder mit der 'kleinen' Sony gemacht als mit der DSLR."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:5">
+                <Text text="Und die Bilder sind in ihrer Qualität - ob nun mit der 'kleinen' oder 'großen' Sony gemacht - nicht zu unterscheiden."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:6">
+                <Text text="Darüber hinaus sehe ich folgende Vorteile:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christoph Böck" date="12.-Februar-2014" id="cam1_53" language="de" product_id="B00DM8R866" rating="5" title="Für einen Bekannten bestellt!">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="Begeisterung pur!"/>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="Ich verstehe nichts davon, aber der neue Besitzer schwebt jetzt in höheren Sphären, ob er jemals wieder runterkommt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="A. Aichinger-Vlach" date="11.-Februar-2014" id="cam1_54" language="de" product_id="B00DM8R866" rating="5" title="Tolle Kamera, super für Babyfotos !!!">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Wir haben uns die Rx 100MK2 primär für Fotos unserer kleinen Tochter gekauft und wurden nicht enttäuscht."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="stubi58" date="2.-Februar-2014" id="cam1_55" language="de" product_id="B00DM8R866" rating="5" title="Klasse Cam - für unterwegs gibt's nix Besseres!">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Nun ja - das 'Statement' gibt natürlich nur meine persönliche Meinung wieder, aber nach wirklich zahlreichen Versuchen mir eine von der Bildqualität wirklich tolle Kompakte zuzulegen, bin ich letztlich bei der RX100M2 gelandet."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                    <Opinion category="DIMENSION" target="kompakte"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="Und die Ergebnisse können sich wirklich sehen lassen."/>
+            </Sentence>
+            <Sentence id="55:3">
+                <Text text="Sie punktet vor allem in geschlossenen Räumen mit schlechteren Lichtverhältnissen, wenn man nicht unbedingt einen Blitz einsetzen möchte (der eingebaute reicht zwar für die meisten Fälle aus - aber damit zerstört man ja bekanntermaßen manch eine Stimmung)."/>
+            </Sentence>
+            <Sentence id="55:4">
+                <Text text="Das lichtstarke Objektiv macht es möglich."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objektiv"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tanja Kaack" date="1.-Februar-2014" id="cam1_56" language="de" product_id="B00DM8R866" rating="5" title="Super Kamera">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Wir haben nach einer handlichen Digitalkamera gesucht, die mit einer Spiegelreflexkamera mithalten kann und uns für die Sony entscheiden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hotdoc" date="31.-Januar-2014" id="cam1_57" language="de" product_id="B00DM8R866" rating="2" title="Kamera stürzt bei Wlan-Übertragung ab">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="So was hatte ich bisher noch nie erlebt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Knopfmic" date="30.-Januar-2014" id="cam1_58" language="de" product_id="B00DM8R866" rating="3" title="hin- und hergerissen">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Diese Kamera hat ein sehr gutes Objektiv und macht meiner Meinung wirklich gute Fotos."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objektiv"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="58:2">
+                <Text text="Aber das ist heutzutage eben nicht mehr alles, was man von so einer teuren Kamera erwartet."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Elvis" date="29.-Januar-2014" id="cam1_59" language="de" product_id="B00DM8R866" rating="1" title="In Testberichten glänzt die RX100 II...">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="...doch die Realität sieht anders aus."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mpdesign" date="17.-Januar-2014" id="cam1_60" language="de" product_id="B00DM8R866" rating="1" title="Sony: na ja">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Das  ist eine Frechheit von Sony, anders kann ich das nicht nachvollziehen!!"/>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="zag" date="15.-September-2017" id="cam1_61" language="de" product_id="B00DM8R866" rating="5" title="Deutliche Fortschritte">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Deutliche Fortschritte gegenüber dem 'I'-Modell."/>
+            </Sentence>
+            <Sentence id="61:2">
+                <Text text="Allein der abklappbare Bildschirm erleichtert das Fotografien in schwierigen Situationen ungemein."/>
+            </Sentence>
+            <Sentence id="61:3">
+                <Text text="Die Bildqualität entspricht voll den Erwartungen an ein Sony-Gerät."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wolfgang" date="11.-August-2017" id="cam1_62" language="de" product_id="B00DM8R866" rating="5" title="Sehr gute Alternative für meine Systemkamera">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Mein Umstieg von Ausrüstung zu einer Kompaktkamera viel mir mit der Sony sehr leicht- Ich bin begeistert von der technischen Qualität der Fotos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                    <Opinion category="OTHER" target="qualität"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="Sie ist mehr als nur eine Knipse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="München1860" date="21.-Juli-2017" id="cam1_63" language="de" product_id="B00DM8R866" rating="5" title="Klasse Einstiegskamera!">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Die Sony DSC-RX100 II Cyber-shot Digitalkamera ist eine sehr schöne Kompaktkamera und hochwertig verarbeitet.Für mich als Leihe schießt sie ausgezeichnete Bilder ( auch bei Lichtschwachen Verhältnissen ) und mit ein wenig technischem Verständnis super einfach zu bedienen."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="IrFa" date="20.-Juli-2017" id="cam1_64" language="de" product_id="B00DM8R866" rating="4" title="Begeistert und ich habe ein paar Tipps für Euch :)">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Meine Kriterien waren:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marie Melchior" date="22.-Juni-2017" id="cam1_65" language="de" product_id="B00DM8R866" rating="5" title="Gefällt sehr gut">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Mit der Kamera bin ich sehr zufrieden."/>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="Ich bin technisch nicht begabt und erwarte dass sie schöne Fotos macht ohne dass ich viel 'rumfummeln' muss und das macht sie sehr gut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="65:3">
+                <Text text="Außerdem ist sie angenehm und handlich."/>
+            </Sentence>
+            <Sentence id="65:4">
+                <Text text="Ich würde sie wieder kaufen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Juergen Lamprecht" date="5.-Juni-2017" id="cam1_66" language="de" product_id="B00DM8R866" rating="5" title="Beste Kompaktkamera am Markt">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Die Kameras der Sony DSC-RX100er Reihe sind die mit Abstand besten Kompaktkameras für gehobenere Ansprüche am Markt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                    <Opinion category="DIMENSION" target="kompaktkameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="Ich besitze eine Sony A7s Vollformat Kamera und habe eine kleinere Kamera für 'immerdabei' gesucht - vorallem für Wanderungen und um das Aufwachsen meiner kleinen Tochter schnell festhalten zu können."/>
+            </Sentence>
+            <Sentence id="66:3">
+                <Text text="Ich habe mich für die Sony DSC-RX100 II entschieden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kunde" date="21.-Mai-2017" id="cam1_67" language="de" product_id="B00DM8R866" rating="2" title="Preis/Leistung nicht zufriedenstellend">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Kamera ist wirklich  nicht hosentaschentauglich und ziemlich schwer."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lothar S." date="14.-Mai-2017" id="cam1_68" language="de" product_id="B00DM8R866" rating="5" title="Klein aber fein">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Nachdem sich mein Fotografierverhalten in den letzten Jahren doch verändert hat, war ich es leid, ständig mit einer Tasche voll Kamera und Objektiven unterwegs zu sein."/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="Gleichzeitig wollte ich aber auch nicht, auf gute Bilder verzichten."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:3">
+                <Text text="So fiel mir die Sony RX 100 ins Auge und je mehr ich von dem Fotozwerg las, umso intensiver wurde mein Interesse."/>
+            </Sentence>
+            <Sentence id="68:4">
+                <Text text="Der 1 Zoll-Chip gab dann eigentlich den Ausschlag, trotz Größe nicht auf Qualität verzichten zu müssen."/>
+            </Sentence>
+            <Sentence id="68:5">
+                <Text text="Das Zeiss-Objektiv war ein weiterer Grund."/>
+            </Sentence>
+            <Sentence id="68:6">
+                <Text text="Mein erster Eindruck ist sehr, sehr gut, näheres kann ich aber erst nach dem ersten Urlaub beurteilen, ich bin jedoch zuversichtlich."/>
+            </Sentence>
+            <Sentence id="68:7">
+                <Text text="Im Hinblick auf die oft kritisierte Bedienerfunreundlichkeit kann ich nicht zustimmen, aber auch hier warte ich den ersten längeren Praxistest ab."/>
+            </Sentence>
+            <Sentence id="68:8">
+                <Text text="Verarbeitungsmängel konnte ich auf Anhieb nicht erkennen, sie wertig und massiv, aber eben auch noch neu :-)."/>
+            </Sentence>
+            <Sentence id="68:9">
+                <Text text="Ich habe mich für die M II entschieden, da sie bis auf eine Kleinigkeiten (z.B."/>
+            </Sentence>
+            <Sentence id="68:10">
+                <Text text="das stärker schwenkbare Display), ein aus meiner Sicht sehr gutes Preis-/Leistungsverhältnis bietet, die eingeschränkte Objektivbrennweite habe ich bewusst in Kauf genommen."/>
+            </Sentence>
+            <Sentence id="68:11">
+                <Text text="Habe sie bei Amazon für knapp unter 400,-- € erstanden und damit war die Entscheidung für diese Kamera gefallen."/>
+            </Sentence>
+            <Sentence id="68:12">
+                <Text text="Und ich denke, sie ist nun auch eine immer dabei' Kamea"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kunde aus Hessen" date="9.-Mai-2017" id="cam1_69" language="de" product_id="B00DM8R866" rating="1" title="Gerät bereits nach 2,5 Jahren defekt - Schlechter Sony Service">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Das Objektiv des Geräts stellte während des Fotografierens den Dienst ein und scheint sich verklemmt zu haben."/>
+            </Sentence>
+            <Sentence id="69:2">
+                <Text text="Das Gerät ist 2,5 Jahre alt und wurde unregelmäßig während Urlaubsreisen genutzt."/>
+            </Sentence>
+            <Sentence id="69:3">
+                <Text text="Für ein Gerät in dieser Preisklasse eine sehr enttäuschende Qualität."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:4">
+                <Text text="Die nüchterne Aussage des Sony Kundendienst: nach Ablauf der Garantie besteht keine Möglichkeit einer kulanten Abwicklung."/>
+            </Sentence>
+            <Sentence id="69:5">
+                <Text text="Dafür wurde auf ein von Sony beauftragtes Reparaturunternehmen verwiesen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:6">
+                <Text text="Reparaturkosten wurden telefonisch auf ca."/>
+            </Sentence>
+            <Sentence id="69:7">
+                <Text text="150 € für den Austausch des Objektivs zuzüglich Arbeitsaufwand und Versand geschätzt."/>
+            </Sentence>
+            <Sentence id="69:8">
+                <Text text="Nachdem bei uns bereits ein Sony TV nach unakzeptabler Lebensdauer defekt war, werde ich definitiv kein weiteres Sony Gerät erwerben."/>
+            </Sentence>
+            <Sentence id="69:9">
+                <Text text="Preis-/Leistungsverhältnis nicht nachvollziehbar."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Beyonder212" date="12.-April-2017" id="cam1_70" language="de" product_id="B00DM8R866" rating="4" title="Gute Bildqualität">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="Ich habe lange einen Kompromiss zwischen Bildqualität und Grösse/Gewicht gesucht."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="Die Bildqualität ist ganz in Ordnung, es dauert wohl ein Paar Tage/Wochen um mit dem Gerät klar zu kommen (bin kein Fotoprofi)"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gerät"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sam" date="28.-Oktober-2013" id="cam1_71" language="de" product_id="B00DM8R866" rating="1" title="Was erlauben Sony?">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Würde Trapattoni sicher fragen !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="HaPe Franke" date="11.-Oktober-2013" id="cam1_72" language="de" product_id="B00DM8R866" rating="4" title="Due Cam ist einfach nur genial.">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Ich mache viele Konzertbilder und bin von der Qualität dieser kleinen Cam total begeistert."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Alles was es positives zu sagen gibt haben meine Vorbewerter schin geschrieben."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hans-Jachim Meyer" date="10.-Oktober-2013" id="cam1_73" language="de" product_id="B00DM8R866" rating="5" title="Ohne Kabel ?">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Als Besitzer der RX100 und seit 2 Monaten der RX100 II kann ich den positiven Rezensionen nur zu 100% beipflichten !"/>
+            </Sentence>
+            <Sentence id="73:2">
+                <Text text="Es gibt aber eine Erkenntnis, die mich in der Nutzung der multimedialen Möglichkeiten doch sehr verwundert."/>
+            </Sentence>
+            <Sentence id="73:3">
+                <Text text="Die in den Werbeaussagen und den Testberichten hervorgehoben Möglichkeiten der Kabellosen Bildübertragungen auf PC, Tablett, Smartphone und SMART-TV haben mich veranlasst, die WiFi Funktionen selber zu Testen."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bildübertragungen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="73:4">
+                <Text text="Das Ergebnis ist leider sehr enttäuschend."/>
+            </Sentence>
+            <Sentence id="73:5">
+                <Text text="Denn:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cosmodul" date="7.-Oktober-2013" id="cam1_74" language="de" product_id="B00DM8R866" rating="5" title="Kleine Kamera mit großem Spaßfaktor - auch bei Videoaufnahmen">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Ich habe in meinem Leben schon einige Foto- und Videokameras gehabt, aber bei dieser Kamera ist der Spaßfaktor extrem groß."/>
+            </Sentence>
+            <Sentence id="74:2">
+                <Text text="Dieser kleinen Kamera würde man diese unglaubliche Aufnahmequalität niemals zutrauen!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="74:3">
+                <Text text="Voller Mitleid beobachte ich jetzt die DSLR-Fotografen wie sie sich abschleppen, während ich mit meiner kleinen immer-dabei-Kamera wahrscheinlich ganz ähnliche Bildergebnisse erzielen kann."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="R. Muenker" date="25.-September-2013" id="cam1_75" language="de" product_id="B00DM8R866" rating="5" title="RX 100 Mk1 gefällt mir besser 'UPDATE' ! ! !">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="Ich Habe die RX100 Mk1 schon ein Jahr und bin sehr zufrieden."/>
+            </Sentence>
+            <Sentence id="75:2">
+                <Text text="Mich hatte das KlappDisplay gelockt aber von der Bildqualität bin ich nicht überzeugt."/>
+            </Sentence>
+            <Sentence id="75:3">
+                <Text text="Ich hatte beide Kameras ein Wochenende lang und habe letztendlich die RX100 Mk2 zurückgeschickt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="medicus1963" date="21.-September-2013" id="cam1_76" language="de" product_id="B00DM8R866" rating="5" title="'die beste Kamera der Welt'">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Natürlich gibt es schnellere, schärfere, universeller einsatzbare, rauschärmere etc."/>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Kameras."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jörg andrä" date="13.-September-2013" id="cam1_77" language="de" product_id="B00DM8R866" rating="5" title="Super, diese Kamera!">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="Wenn der elektronische Sucher, der zu dieser Kamera passt, die Hälfte kosten würde,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kaufsüchtig" date="8.-September-2013" id="cam1_78" language="de" product_id="B00DM8R866" rating="4" title="Für mich kein Upgrade zur RX100">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Ich war mit der Sony RX100, also dem Vorgänger, in den letzten 8 Monaten recht zufrieden."/>
+            </Sentence>
+            <Sentence id="78:2">
+                <Text text="Sie macht Fotos die qualitativ nicht weit von der SLR Kamera (habe eine Nikon D90) entfernt sind."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:3">
+                <Text text="Vor allem aber macht sie traumhafte Videos."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="xmoonlightx" date="6.-September-2013" id="cam1_79" language="de" product_id="B00DM8R866" rating="5" title="Tolle Kamera">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Bin mit dieser Kamera sehr zufrieden."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="79:2">
+                <Text text="Allerdings hat diese Kamera noch so viele Funktionen, die ich nicht kenne und erst noch ausprobieren muß."/>
+            </Sentence>
+            <Sentence id="79:3">
+                <Text text="Allerdings ist dieses Teil nur für zarte Hände gedacht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sabatayn76" date="3.-September-2013" id="cam1_80" language="de" product_id="B00DM8R866" rating="5" title="DSLR-Funktionen im Gehäuse einer Kompaktkamera">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="Die Sony RX100 II bewegt sich auf dem Preisniveau einiger anständiger DSLRs und hat viele Funktionen, die man von einer DSLR erwarten würde, ohne so sperrig wie eine DSLR zu sein."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Der Therapeut" date="1.-Februar-2015" id="cam1_81" language="de" product_id="B00DM8R866" rating="5" title="'Profi-Machine' im Kleinformat">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Nachdem ich als ambitionierter Hobbyfotograf sehr lange Zeit mit einer Nikon DSLR und umfangreichem Obejktivzubehör und somit entsprechendem 'Gepäck' unterwegs war, stieß ich durch Zufall auf einen Kompaktkamera-Test, wo die Sony RX 100 II aufgrund der Optik und eines für diese Klasse extrem guten Sensors sehr gute Ergebnisse lieferte."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensors"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rainer Quittek" date="22.-Januar-2015" id="cam1_82" language="de" product_id="B00DM8R866" rating="5" title="Super Kompaktkamera">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Die Kamera passt zwar nicht wie meine Canon IXUS 115HS in die Hemdtasche, aber sie ist hochwertiger."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sensade" date="5.-Januar-2015" id="cam1_83" language="de" product_id="B00DM8R866" rating="2" title="Zubehör hat gefehlt!">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Schon zum 2ten Mal, dass, bei einer Bestellung über Warehouse Deals, Zubehör gefehlt hat…ich kann nicht nachvollziehen, dass dies vorher nicht im Lager überprüft wird."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="hheim" date="29.-Dezember-2014" id="cam1_84" language="de" product_id="B00DM8R866" rating="5" title="Fantastische Kamera">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="Auch wenn die Allgemeinheit inzwischen wohl mehr an der Sony RX 100 III interessiert ist, möchte ich doch noch mal meine"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Werner Roeder" date="25.-Dezember-2014" id="cam1_85" language="de" product_id="B00DM8R866" rating="5" title="Absolut toller Reisebegleiter">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="Perfekte Westentaschenkamera mit hervorragender Abbildungsleistung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael M." date="23.-Dezember-2014" id="cam1_86" language="de" product_id="B00DM8R866" rating="5" title="Die kleinste Top-Kamera der Welt">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Ich hatte schon viel über die RX100 gelesen und die Kamera ist echt ein Highlight."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="knox67" date="21.-Dezember-2014" id="cam1_87" language="de" product_id="B00DM8R866" rating="4" title="Gibt nichts auszusetzen">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="Hab mir die Kamera als Reisefotoapparat gekauft und war vor allem wegen dem kleinen Zoombereich skeptisch."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoombereich"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:2">
+                <Text text="War in Wirklichkeit kein Problem."/>
+            </Sentence>
+            <Sentence id="87:3">
+                <Text text="Die RX100 II erlaubt, dank der hohen Auflösung, auch in Maßen eine Ausschnittvergrößerung, ohne dass die Bildqualität darunter merklich leidet."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:4">
+                <Text text="Außerdem bin ich der Menung, wenn ich etwas so weit heranzoomen muss, war ich nicht wirklich dort (meine subjektive Ansicht)."/>
+            </Sentence>
+            <Sentence id="87:5">
+                <Text text="Höchstens bei Tierfotografie wär sicher ein größßerer Zoombereich nützlich."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoombereich"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:6">
+                <Text text="Viel wertvoller ist die Funktion, auch ohne Blitz in relativ dunkler Umgebung gute Fotos zu machen (einmal auslösen - drei Bilder werden gemacht und zu einem Bild verschmolzen ....laienhaft ausgedrückt)."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:7">
+                <Text text="Das funktioniert recht gut."/>
+            </Sentence>
+            <Sentence id="87:8">
+                <Text text="Auch das Spiel mit der Tiefenschärfe klappt im vergleich zu anderen Kompaktkameras sehr gut."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:9">
+                <Text text="Kurz gesagt: bin rundum zufrieden damit!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CL" date="7.-Dezember-2014" id="cam1_88" language="de" product_id="B00DM8R866" rating="4" title="Vergleich zwischen RX100 und RX100 II">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="Ist eigentlich das meiste hier schon geschrieben."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rom" date="6.-Dezember-2014" id="cam1_89" language="de" product_id="B00DM8R866" rating="5" title="Einer der besten Pocketcams überhaupt">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="Die kleine Kamera lässt keine Wünsche offen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="89:2">
+                <Text text="Ich bin ehrlich begeistert davon."/>
+            </Sentence>
+            <Sentence id="89:3">
+                <Text text="Eine Spiegelreflexkamera ersetzt es natürlich nicht allerdings kommt es der Qualität verdammt nah dran."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="89:4">
+                <Text text="Die Linse ist einfach unschagbar in der Größe."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bandit" date="30.-November-2014" id="cam1_90" language="de" product_id="B00DM8R866" rating="5" title="echt super">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Ich bin echt begeistert von dieser Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="90:2">
+                <Text text="Profigerät und trotzdem relativ selbst erklärendes Menu."/>
+            </Sentence>
+            <Sentence id="90:3">
+                <Text text="Unser Flitter-Urlaub mit dieser kompakten und schicken Kamera war ein voller Erfolg und selbst meine Frau ist von der Qualität der Bilder echt angetan."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="90:4">
+                <Text text="Auch der Akku ist schnell wieder aufgeladen und hält lange durch."/>
+            </Sentence>
+            <Sentence id="90:5">
+                <Text text="Empfehlenswert 5 Punkte!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matthias Kloppmann" date="31.-August-2013" id="cam1_91" language="de" product_id="B00DM8R866" rating="5" title="Sehr zufrieden">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="Ich habe lange eine kompakte Kamera für Bergtouren gesucht, bei der die Kompromisse zu meiner Hauptkamera (D800) nicht zu groß sind."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="91:2">
+                <Text text="Mit der RX100M2 habe ich sie nun offenbar gefunden."/>
+            </Sentence>
+            <Sentence id="91:3">
+                <Text text="Nach zwei Wochen intensiven Fotografierens in den Bergen bin ich sehr zufrieden."/>
+            </Sentence>
+            <Sentence id="91:4">
+                <Text text="Viele haben hier schon sehr ausführlich Ihre Eindrücke beschrieben, von mir deshalb eher eine kurze Liste von Punkten die mir gefallen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="muxu" date="29.-August-2013" id="cam1_92" language="de" product_id="B00DM8R866" rating="4" title="Zweifellos eine sehr gute Kamera, aber...">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="Die Kamera ist zweifellos eine sehr gute Kamera, aber hat ein paar Nachteile, weshalb ich sie wahrscheinlich wieder zurückschicken werde."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="fz" date="27.-August-2013" id="cam1_93" language="de" product_id="B00DM8R866" rating="5" title="nahe am DSLR-Niveau">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="die RX100m2 ist sehr handlich, schnell und macht klasse Bilder, auch bei wenig Licht."/>
+            </Sentence>
+            <Sentence id="93:2">
+                <Text text="Man kann sie im Gegensatz zur DSLR immer dabei haben."/>
+            </Sentence>
+            <Sentence id="93:3">
+                <Text text="Natürlich wäre eine etwas längere Endbrennweite als 100 mm (umgerechnet) wünschenswert."/>
+            </Sentence>
+            <Sentence id="93:4">
+                <Text text="Aber dafür ist die Lichtstärke (wenigstens bei Anfangsbrennweite) phänomenal."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hermann Severin" date="24.-August-2013" id="cam1_94" language="de" product_id="B00DM8R866" rating="5" title="Super Kamera mit sehr lichtstarkem Objektiv">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="sehr viele Möglichkeiten, extrem gute Aufnahmen, handlich und erklärt sich von selbst."/>
+            </Sentence>
+            <Sentence id="94:2">
+                <Text text="Würden wir immer wieder kaufen."/>
+            </Sentence>
+            <Sentence id="94:3">
+                <Text text="sehr wertige Anmutung"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jupiter III" date="16.-August-2013" id="cam1_95" language="de" product_id="B00DM8R866" rating="5" title="Black Hole Sun - die beste Kompakte ihrer Generation">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="Wie ein schwarzes Loch vereint sie kleine Maße mit unglaublichem Inhaltsreichtum."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="A. Hohnwald" date="16.-August-2013" id="cam1_96" language="de" product_id="B00DM8R866" rating="2" title="viel Licht, zuviel Schatten">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="Vorweg: Meine Abwertung bedeutet nicht, daß die RX100 M2 schlechte Fotos machen würde."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="96:2">
+                <Text text="Das ist keineswegs der Fall, die BQ kann(!)"/>
+            </Sentence>
+            <Sentence id="96:3">
+                <Text text="extrem hoch sein."/>
+            </Sentence>
+            <Sentence id="96:4">
+                <Text text="Wem das bei einer 750-Kompakten genügt, kann an dieser Stelle aufhören zu lesen, die M2 kaufen und glücklich sein."/>
+            </Sentence>
+            <Sentence id="96:5">
+                <Text text="Ich aber erwarte für so viel Geld und beworbenen Anspruch dann doch deutlich mehr."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sabine DB" date="12.-August-2013" id="cam1_97" language="de" product_id="B00DM8R866" rating="4" title="sehr gute Kompaktkamera aber noch nicht perfekt">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="Die Sony DSC-RX100M2 ist eine Kompaktkamera der oberen Preisklasse."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sven B" date="10.-August-2013" id="cam1_98" language="de" product_id="B00DM8R866" rating="4" title="(kleines) Meisterwerk!">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="Die Kamera hat für ihre Größe eine wirklich herrvorragende Bildqualität und verfügt über einen sehr guten Autofokus."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                    <Opinion category="LENS" target="autofokus"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Traumbengel" date="7.-August-2013" id="cam1_99" language="de" product_id="B00DM8R866" rating="4" title="Fast genial">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="Ich habe die M2 seit heute, und mehr als ein paar testschüsse und die nötigen einstellungen waren bisher nicht drin."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="umweltwolf" date="3.-August-2013" id="cam1_100" language="de" product_id="B00DM8R866" rating="5" title="Sehr gute Kompaktkamera der Oberklasse">
+        <Sentences>
+            <Sentence id="100:1">
+                <Text text="Sony geht mit der Kompaktkamera DSC RX100M2 einen anderen Weg als die Konkurrenz von Nikon oder Panasonic."/>
+            </Sentence>
+            <Sentence id="100:2">
+                <Text text="Im Folgenden vergleiche ich die Sony mit der Panasonic Lumix TZ 41 und der Nikon P330."/>
+            </Sentence>
+            <Sentence id="100:3">
+                <Text text="Während Panasonic beim aktuellen Modell TZ41 auf ein Leica-Objektiv mit sagenhaften 20-fachem Zoom und einen immerhin 18,1 MP Sensor setzt, geht Nikon bei der Coolpix P330 einen anderen Weg: Die Pixelzahl wurde hier sogar deutlich auf nunmehr 12,2 MP zurückgenommen, der Zoombereich beträgt auch nur noch das 5-fache, dafür ist die Kamera sehr lichtstark und rauscht kaum."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="100:4">
+                <Text text="Bei der hier rezensierten Sony schließlich wird ebenfalls auf ein superstarkes Zoom verzichtet, aber auf einen Sensor mit immerhin 20 MP gesetzt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                    <Opinion category="ZOOM" target="zoom"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="100:5">
+                <Text text="Die Kamera soll sehr lichtstark sein."/>
+            </Sentence>
+            <Sentence id="100:6">
+                <Text text="Mein Test im Einzelnen:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Blepharotes" date="31.-Dezember-2013" id="cam1_101" language="de" product_id="B00DM8R866" rating="5" title="da hört jemand zu">
+        <Sentences>
+            <Sentence id="101:1">
+                <Text text="Nach der Lektüre zahlreicher Besprechungen des Vorgängermodells und dieser Kamera habe ich mir verwundert die Augen gerieben."/>
+            </Sentence>
+            <Sentence id="101:2">
+                <Text text="Kann es sein, dass Sony die Kritik beherzigt hat und für Abhilfe gesorgt hat."/>
+            </Sentence>
+            <Sentence id="101:3">
+                <Text text="Ja, es scheint so mit zwei Ausnahmen: Das Handbuch ist grottig und der Graufilter fehlt noch immer."/>
+            </Sentence>
+            <Sentence id="101:4">
+                <Text text="Dafür bleiben so viele gute Erlebnisse, die mir die ersten Tage mit der Kamera lieferte."/>
+            </Sentence>
+            <Sentence id="101:5">
+                <Text text="Übrigens ist das Buch von Data Becker eine nützliche Hilfe."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Toni" date="18.-Dezember-2013" id="cam1_102" language="de" product_id="B00DM8R866" rating="4" title="Einfach super!">
+        <Sentences>
+            <Sentence id="102:1">
+                <Text text="... diese Camera."/>
+            </Sentence>
+            <Sentence id="102:2">
+                <Text text="Man kann auch getrost den digitalen Zoom verwenden."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="102:3">
+                <Text text="Die Auflösung ist dann noch hoch genug, wenn man es nicht übertreibt."/>
+            </Sentence>
+            <Sentence id="102:4">
+                <Text text="Etwas mager ist die Tonqualität, deswegen nur 4 Stern."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas Michel" date="12.-Dezember-2013" id="cam1_103" language="de" product_id="B00DM8R866" rating="4" title="GPS fehlt - ansonsten perfekt">
+        <Sentences>
+            <Sentence id="103:1">
+                <Text text="Bei all den technischen Features, die einem bei dieser Kamera geboten werden, es das Fehlen einer GPS-Funktion ein sehr großes Manko."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="features"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gza" date="9.-Dezember-2013" id="cam1_104" language="de" product_id="B00DM8R866" rating="5" title="Klasse teil">
+        <Sentences>
+            <Sentence id="104:1">
+                <Text text="Also eine besser Kamera hatte ich vorher noch nicht."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="104:2">
+                <Text text="Diese Qualität in diesem kleinen Gehäuse ist schon überragend."/>
+            </Sentence>
+            <Sentence id="104:3">
+                <Text text="Die vielen Einstellmöglichkeiten lassen keine Wünsche offen."/>
+            </Sentence>
+            <Sentence id="104:4">
+                <Text text="Auch zu empfehlen der optionale Griff für die Kamera."/>
+            </Sentence>
+            <Sentence id="104:5">
+                <Text text="Leider etwas teuer für so ein kleines Teil aber dadurch liegt die Kamera noch besser in der Hand."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hexer" date="9.-Dezember-2013" id="cam1_105" language="de" product_id="B00DM8R866" rating="2" title="Wenn es Nacht wird...">
+        <Sentences>
+            <Sentence id="105:1">
+                <Text text="also bei angehender Dunkelheit findet der Focus sein Ziel überhaupt nicht, die Kamera ist eindeutig nix für Männerhände,auch die Tasten sind daher zu klein und fummelig."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="105:2">
+                <Text text="Auch die Bildqualität läßt bei näherer Betrachtung zu wünschen übrig."/>
+            </Sentence>
+            <Sentence id="105:3">
+                <Text text="Wer wirklich Wert auf schöne Bilder legt,der sollte sich was anderes zulegen, vorallem bei dem Preis."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lubica Habart" date="8.-Dezember-2013" id="cam1_106" language="de" product_id="B00DM8R866" rating="5" title="Die beste, die ich bisher hatte.">
+        <Sentences>
+            <Sentence id="106:1">
+                <Text text="Nach einmonatiger Benutzung dieser kleinen Maschine bin ich mit ihr höchst zufrieden."/>
+            </Sentence>
+            <Sentence id="106:2">
+                <Text text="Hatte vor ihr die Canon Powershot  S90."/>
+            </Sentence>
+            <Sentence id="106:3">
+                <Text text="Ein grosser Qualitätssprung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Udo H" date="20.-November-2013" id="cam1_107" language="de" product_id="B00DM8R866" rating="5" title="einsame Spitze">
+        <Sentences>
+            <Sentence id="107:1">
+                <Text text="Die Abbildungsleistung dieses Geräts ist kaum zu überbieten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DP_HH" date="18.-November-2013" id="cam1_108" language="de" product_id="B00DM8R866" rating="4" title="Potential nicht oprimal ausgeschöpft...">
+        <Sentences>
+            <Sentence id="108:1">
+                <Text text="... jedenfalls was die Pixel angeht."/>
+            </Sentence>
+            <Sentence id="108:2">
+                <Text text="12 Millionen hätten ausgereicht und das Rauschverhalten wäre superb gewesen."/>
+            </Sentence>
+            <Sentence id="108:3">
+                <Text text="Aber dann wäre die Konkurrenz zu den DSLR zu groß geworden."/>
+            </Sentence>
+            <Sentence id="108:4">
+                <Text text="Sehr viele wollen die Kompakte mit der Eigenschaften einer Vollformat-DSLR."/>
+            </Sentence>
+            <Sentence id="108:5">
+                <Text text="Aber verglichen mit den Mittbewerbern erzielt sie dennoch sehr gute Ergebnisse."/>
+            </Sentence>
+            <Sentence id="108:6">
+                <Text text="Dennoch fällt das Farbrauschen noch bei hoher ISO auf."/>
+            </Sentence>
+            <Sentence id="108:7">
+                <Text text="Aber wegen der guten Ergebnisse wurde sie trotz des hohen Preises angeschafft."/>
+            </Sentence>
+            <Sentence id="108:8">
+                <Text text="Sie soll als Immer-dabei-Kamera dienen, denn so ein Smartphone kann nicht Zoomen und im Dunklen tolle Bilder machen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="108:9">
+                <Text text="In diesem kompakten Format gibt es nichts Vergleichbares."/>
+            </Sentence>
+            <Sentence id="108:10">
+                <Text text="Meine DSLR kann sie aber nicht ersetzen, ich muss aber deutlich weniger schleppen – also ein Kompromiss."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claus" date="3.-November-2013" id="cam1_109" language="de" product_id="B00DM8R866" rating="2" title="deutlich mehr erwartet">
+        <Sentences>
+            <Sentence id="109:1">
+                <Text text="Aufgrund mehrerer guter Testberichte in den üblichen Postillen und den guten Kritiken hier, habe ich mich zum Kauf der RX100M2 hinreißen lassen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="criticoptic" date="31.-Oktober-2013" id="cam1_110" language="de" product_id="B00DM8R866" rating="5" title="Fotos: Sehr gut ; Videos: Gut !">
+        <Sentences>
+            <Sentence id="110:1">
+                <Text text="Ich habe die RX100 Mark II nun rd."/>
+            </Sentence>
+            <Sentence id="110:2">
+                <Text text="10 Tage im Betrieb:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="S.K." date="2.-August-2013" id="cam1_111" language="de" product_id="B00DM8R866" rating="5" title="Die derzeit beste Kompaktkamera auf dem Markt!">
+        <Sentences>
+            <Sentence id="111:1">
+                <Text text="Es existieren mittlerweile auch zu dem Nachfolger der RX100 meterweise Testberichte, die sich in einem Punkt alle einig sind."/>
+            </Sentence>
+            <Sentence id="111:2">
+                <Text text="Die Bildqualität ist in Relation zur Kameragröße derzeit auch weiterhin einzigartig."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian B." date="1.-August-2013" id="cam1_112" language="de" product_id="B00DM8R866" rating="5" title="schöne und super gute Kamera">
+        <Sentences>
+            <Sentence id="112:1">
+                <Text text="Ich muß vorab gestehen, dass ich kein Fotoprofi bin."/>
+            </Sentence>
+            <Sentence id="112:2">
+                <Text text="Kann weder was zu ISO oder Autofokus sagen."/>
+            </Sentence>
+            <Sentence id="112:3">
+                <Text text="Hatte mal eine Exilim Digitalkamera."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="H. Nagel" date="22.-Juli-2013" id="cam1_113" language="de" product_id="B00DM8R866" rating="4" title="Gut, aber nicht perfekt">
+        <Sentences>
+            <Sentence id="113:1">
+                <Text text="Der Unterschied zwischen der 'alten' RX100 und der neuen RX100M2 ist relativ gering."/>
+            </Sentence>
+            <Sentence id="113:2">
+                <Text text="Die RX100M2 hat einen Blitz/Zubehörschuh, ein Klappdisplay, WIFI und einen neuen Sensor dem die offensichtlich technik-unkundigen Sony-Werbetexter eine Hintergrundbeleuchtung andichten."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="113:3">
+                <Text text="In Englisch heisste diese Technologie Backside Illumination (BSI), damit ist gemeint dass bei diesem Sensor die Leiterbahnen und Chips die die aktiven Sensorpixel verbinden unter die Pixel wandern sodaß mehr Licht auf die aktiven Pixel fällt und er damit lichtempfindlicher wird."/>
+            </Sentence>
+            <Sentence id="113:4">
+                <Text text="Der Effekt ist quasi der gleiche als würde der Sensor umgedreht, aslo die normalerweise unten liegenden aktiven Pixel kommen nach oben, deshalb die Bezeichnung Backlit."/>
+            </Sentence>
+            <Sentence id="113:5">
+                <Text text="Sony verspricht 40% bessere Lichtempfindlichkeit, in der Praxis bedeutet das allerdings maximal eine halbe Blendenstufe."/>
+            </Sentence>
+            <Sentence id="113:6">
+                <Text text="Wie die alte RX100  hat auch die neue RX100M2 eigentlich eine hervorragende Bildqualität auf dem Niveau einer ca."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="113:7">
+                <Text text="5 Jahre alten DSLR."/>
+            </Sentence>
+            <Sentence id="113:8">
+                <Text text="Allerdings  ist sie manchmal etwas zickig, Nahaufnahmen mit offener Blende sind nicht ihre Stärke."/>
+            </Sentence>
+            <Sentence id="113:9">
+                <Text text="Durch den relativ großen Sensor in Verbindung mit dem Lichtstarken Objektiv ist bei offener Blende die Schärfenebene relativ schmal, besonders natürlich im Nahbereich."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="113:10">
+                <Text text="Sitz da der Fokuspunkt nicht hundertprozentig ist die Aufnahme unscharf."/>
+            </Sentence>
+            <Sentence id="113:11">
+                <Text text="Leider neigt die alte RX100 wie auch die Neue dazu öfters mal beim Fokus daneben zu langen."/>
+            </Sentence>
+            <Sentence id="113:12">
+                <Text text="Wenn der Fokus allerdings sitzt ist die Bildqualität wirklich sehr gut, zumindest in der Bildmitte, denn das Objektiv hat leider eine relativ große Randunschärfe."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="113:13">
+                <Text text="Die besten Ergebnisse erzielt man im Weitwinkelbereich und bei mittlerer Brennweite, bei Tele lässt das Objektiv in Bezug auf die Schärfe etwas nach."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sarina" date="12.-Dezember-2016" id="cam1_114" language="de" product_id="B00DM8R866" rating="3" title="Unzureichend!">
+        <Sentences>
+            <Sentence id="114:1">
+                <Text text="Kleine niedliche Kamera 🎥 , deswegen ist der Bildschirm natürlich zu klein."/>
+            </Sentence>
+            <Sentence id="114:2">
+                <Text text="Leichte Bedienung."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="114:3">
+                <Text text="Auch die Übertragung per App an das Smartphone IPhone 📱 6 Plus funktionierte tadellos."/>
+            </Sentence>
+            <Sentence id="114:4">
+                <Text text="Dem Kippdisplay kann ich auch nichts abgewinnen, meine Bedenken diesbezüglich, wegbrechen des Gerüstes."/>
+            </Sentence>
+            <Sentence id="114:5">
+                <Text text="Touchfunktion unzureichend, denn das meiste wird über den Menüknopf erledigt."/>
+            </Sentence>
+            <Sentence id="114:6">
+                <Text text="Zoomweite viel zu kurz, komme mit dem Handy viel weiter an das Objekt."/>
+            </Sentence>
+            <Sentence id="114:7">
+                <Text text="Jetzt zum wichtigsten wie gefallen mir die Fotos."/>
+            </Sentence>
+            <Sentence id="114:8">
+                <Text text="Die sind bei ausreichender Beleuchtung sehr gut, aber ansonsten eher unzufrieden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bernd Vonken" date="10.-Dezember-2016" id="cam1_115" language="de" product_id="B00DM8R866" rating="5" title="Kamera Grandioso">
+        <Sentences>
+            <Sentence id="115:1">
+                <Text text="Es müßte ein wenig mehr zum anfassen daran sein, an dem kompakten Zwerg, Bilder aber schießt sie wie eine Große!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Maddin" date="9.-Dezember-2016" id="cam1_116" language="de" product_id="B00DM8R866" rating="3" title="Unter den Kompaktkameras der König aber wird jeder mit einer Kompakten glücklich?">
+        <Sentences>
+            <Sentence id="116:1">
+                <Text text="Nachdem mich meine Systemkamera Samsung NX1000 immer häufiger verärgert hatte entschied ich mich"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kritischer Konsument" date="6.-Dezember-2016" id="cam1_117" language="de" product_id="B00DM8R866" rating="2" title="So la la ... schlechtere Bildqualität als die RX100">
+        <Sentences>
+            <Sentence id="117:1">
+                <Text text="Vorweg ich bin SONY Fan."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Familie Hildebrandt" date="9.-Oktober-2016" id="cam1_118" language="de" product_id="B00DM8R866" rating="5" title="Die hosentaschenfreudliche Kompakte mit großem Sensor">
+        <Sentences>
+            <Sentence id="118:1">
+                <Text text="Auch, wenn man, wie ich, nur hobbymäßig, am liebsten mit Automatik fotografiert, erzielt man mit ihr Bildergebnisse, die sich wirklich sehen lassen können."/>
+            </Sentence>
+            <Sentence id="118:2">
+                <Text text="Nach zig... Testfotos unter allen möglichen Lichtbedingungen, die ich mit ihr machte, fand ich für mich heraus, dass ich mit der Kameraeinstellung: iA+ und mit dem Programm: SCN ( in dem ich den gewünschten Bildeffekt bestimmen kann ) tolle Ergebnisse erziele."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DP R" date="14.-September-2016" id="cam1_119" language="de" product_id="B00DM8R866" rating="1" title="Sensorflecken">
+        <Sentences>
+            <Sentence id="119:1">
+                <Text text="Meine RX 100 m2 macht sehr gut Bilder, sie hat nur zwei Fehler, nämlich 2 mal Sensorflecken in unter 2 Jahren bei mäßigen gebrauch und teilweise ein Brummen, wie beim Handy."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kuso73" date="29.-August-2016" id="cam1_120" language="de" product_id="B00DM8R866" rating="5" title="Tolles Teil">
+        <Sentences>
+            <Sentence id="120:1">
+                <Text text="Habe mir die Kamera gekauft wegen des großen Bildsensors und der Videofunktion in Full HD funktioniert richtig gut sehr scharfe Videos bei Tageslicht."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="120:2">
+                <Text text="Videos die im Freien bei Tag aufgenommen werden und die man am TV wieder gibt sehen super aus sehr scharf kein rauschen Bildstabilisator Funktioniert einwandfrei nehme sie im Winter immer zum Skifahren mit und Filme meine kleine dami,t ich am Board sie auf Ski"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Billi" date="21.-Juli-2016" id="cam1_121" language="de" product_id="B00DM8R866" rating="5" title="Super Camera!">
+        <Sentences>
+            <Sentence id="121:1">
+                <Text text="Diese Digital Camera ist der Hammer, es ist meine 3. und beste Digital Camera, bin sehr Zufrieden damit."/>
+            </Sentence>
+            <Sentence id="121:2">
+                <Text text="Ich konnte mich erst nicht Entscheiden zwischen Spiegelreflex- und Compakt Camera im Taschenformat."/>
+            </Sentence>
+            <Sentence id="121:3">
+                <Text text="Diese Camera kann man leicht in der Tasche überall mitnehmen, sie macht einfach sehr gute Fotos und  Video's in HD, die Bedienung ist, nach Einarbeitung, übersichtlich, kann die Camera weiter Empfehlen, keine Ausfälle."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anna Ringel" date="18.-Juni-2016" id="cam1_122" language="de" product_id="B00DM8R866" rating="5" title="Begeisterung!! Nur zu empfehlen, wenn man eine schnelle, handliche und scharfe Fotos">
+        <Sentences>
+            <Sentence id="122:1">
+                <Text text="Begeisterung!"/>
+            </Sentence>
+            <Sentence id="122:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="RepFoshy" date="18.-Juni-2016" id="cam1_123" language="de" product_id="B00DM8R866" rating="5" title="super Camera">
+        <Sentences>
+            <Sentence id="123:1">
+                <Text text="die hat alles was man braucht."/>
+            </Sentence>
+            <Sentence id="123:2">
+                <Text text="macht praktisch alles was eine große kann."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="19.-Januar-2019" id="cam1_124" language="de" product_id="B00DM8R866" rating="5" title="har alles super geklappt">
+        <Sentences>
+            <Sentence id="124:1">
+                <Text text="tolles gerät"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pünktchen" date="19.-Januar-2019" id="cam1_125" language="de" product_id="B00DM8R866" rating="5" title="Super Bildqualität">
+        <Sentences>
+            <Sentence id="125:1">
+                <Text text="Wir sind wirklich begeistert von der Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="125:2">
+                <Text text="Sie macht wirklich klasse Bilder und ist leicht zu bedienen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="125:3">
+                <Text text="Das einzige was ein ganz klein wenig stört ist der Blitz nach oben raus kommt und man ihn per Hand danach wieder reinstecken muss."/>
+            </Sentence>
+            <Sentence id="125:4">
+                <Text text="Das ist echt Öls school."/>
+            </Sentence>
+            <Sentence id="125:5">
+                <Text text="Aber das ist wirklich das einzige ganz kleine Problemchen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jorge Y. Castillo" date="3.-Januar-2019" id="cam1_126" language="de" product_id="B00DM8R866" rating="1" title="Rip off price">
+        <Sentences>
+            <Sentence id="126:1">
+                <Text text="Do not but, price is over inflated and that sale price is the regular price"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="15.-Dezember-2018" id="cam1_127" language="de" product_id="B00DM8R866" rating="5" title="Digitalkamera">
+        <Sentences>
+            <Sentence id="127:1">
+                <Text text="Sehr gutes Gerät."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gerät"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="RW" date="19.-Juli-2018" id="cam1_128" language="de" product_id="B00DM8R866" rating="4" title="Immernoch gerne im Gebrauch :-)">
+        <Sentences>
+            <Sentence id="128:1">
+                <Text text="der Trend geht ja eher über von der Kompakten zum Handy mit guter Linse..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eva Baeumler" date="22.-Mai-2018" id="cam1_129" language="de" product_id="B00DM8R866" rating="1" title="defekter Auslöser und Zoom">
+        <Sentences>
+            <Sentence id="129:1">
+                <Text text="eigentlich ist die Kamera sehr zu empfehlen, sie ist sehr gut zu bedienen und die Bilder haben eine hohe Qualität."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Delkem" date="14.-April-2018" id="cam1_130" language="de" product_id="B00DM8R866" rating="5" title="Klare Kaufempfehlung als kleine 'Immerdabei', die großartige Momentaufnahmen macht ... it*s a Sony'">
+        <Sentences>
+            <Sentence id="130:1">
+                <Text text="Ich fotografiere seit vielen Jahren mit Sony Alpha Kameras."/>
+            </Sentence>
+            <Sentence id="130:2">
+                <Text text="Angefangen mit den A500-er Serien, dann die A58 und die A77II Systemkamera mit diversen Objektiven bis hin zu 150-600-er Zoom."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="130:3">
+                <Text text="Dann musste es zusätzlich für Kurzreisen und Urlaub die feine große Super-Zoom-Sony RX10III mit 1-Zoll-Sensor und max."/>
+            </Sentence>
+            <Sentence id="130:4">
+                <Text text="600 mm Brennweite sein."/>
+            </Sentence>
+            <Sentence id="130:5">
+                <Text text="Ein super Geschütz aber leider schwer und klobig ... immerhin entfällt das Objektivschleppen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nils Gradwanderer" date="19.-Dezember-2017" id="cam1_131" language="de" product_id="B00DM8R866" rating="3" title="Leider einige Mängel">
+        <Sentences>
+            <Sentence id="131:1">
+                <Text text="Die Kamera macht tolle Bilder."/>
+            </Sentence>
+            <Sentence id="131:2">
+                <Text text="Leider ist es schwer den Punkt richtig zu setzten auf dem fokkussiert werden soll."/>
+            </Sentence>
+            <Sentence id="131:3">
+                <Text text="Zudem hat die Kamera einige erhebliche Softwaremängel."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claudia" date="8.-November-2017" id="cam1_132" language="de" product_id="B00DM8R866" rating="5" title="beste Kompaktkamera, die es gibt!!!">
+        <Sentences>
+            <Sentence id="132:1">
+                <Text text="Egal welche Kamera der Rx Serie man nimmt, jede hat eine super Auflösung, bringt eine schöne Tiefenschärfe und farbenechte Bilder!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="132:2">
+                <Text text="Besser als jede, die ich zuvor hatte!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="morritza" date="16.-Oktober-2017" id="cam1_133" language="de" product_id="B00DM8R866" rating="3" title="Unbedingt eine Version höher nehmen, wenn man den Blitzschuh nicht braucht -&gt; Mark III">
+        <Sentences>
+            <Sentence id="133:1">
+                <Text text="Ich konnte beide Kameras vergleichen und der zusätzliche Sucher und die erweiterte Klappfunktion der Sony RX100 Mark 3 hat mich mehr überzeugt als die preisliche Einsparung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. Kohnen" date="27.-Juli-2015" id="cam1_134" language="de" product_id="B00DM8R866" rating="5" title="Klasse, aber doch vergleichsweise teure Kompakte">
+        <Sentences>
+            <Sentence id="134:1">
+                <Text text="Ich würde hier gerne eine Rezension schreiben die jeden einzelnen Punkt der Fotografie mit dieser Kamera abdeckt."/>
+            </Sentence>
+            <Sentence id="134:2">
+                <Text text="Jeden möglichen ISO-Level besprechen und allen Blenden bewerten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christoph" date="27.-Juli-2015" id="cam1_135" language="de" product_id="B00DM8R866" rating="5" title="Sehr gute Kamera">
+        <Sentences>
+            <Sentence id="135:1">
+                <Text text="Ich habe die Kamera als 'Immer-dabei'-Kamera zusätzlich zur vorhandenen DLSR gekauft, die auch schon ein bisschen in die Jahre gekommen ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stahl" date="15.-Juli-2015" id="cam1_136" language="de" product_id="B00DM8R866" rating="5" title="Das ist die Zukunft.">
+        <Sentences>
+            <Sentence id="136:1">
+                <Text text="Unglaublich was diese kleine Kamera kann."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="SaP" date="14.-Juli-2015" id="cam1_137" language="de" product_id="B00DM8R866" rating="5" title="meine beste Kompaktkamera bisher">
+        <Sentences>
+            <Sentence id="137:1">
+                <Text text="Die RX100 II dürfte etwa Nr."/>
+            </Sentence>
+            <Sentence id="137:2">
+                <Text text="10-12 in der langen Reihe meiner Digitalkameras sein."/>
+            </Sentence>
+            <Sentence id="137:3">
+                <Text text="Ich bin beruflich vor allem auf Schnellschüsse (gern Serienbilder) in oft etwas dunklerer Umgebung aus."/>
+            </Sentence>
+            <Sentence id="137:4">
+                <Text text="Da schlägt die RX100 II alles, was ich bisher ausprobiert habe."/>
+            </Sentence>
+            <Sentence id="137:5">
+                <Text text="Der große Sensor verspricht nicht zuviel."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="137:6">
+                <Text text="Klasse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Robert Relleg" date="1.-Juli-2015" id="cam1_138" language="de" product_id="B00DM8R866" rating="1" title="Tolle Kamera, aber grauenhafter Reparaturservice">
+        <Sentences>
+            <Sentence id="138:1">
+                <Text text="Ein tolles Gerät, wenn es funktioniert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gerät"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="138:2">
+                <Text text="In meinem Fall hat es das nach einem halben Jahr nicht mehr: Die Kamera hat sich beim Drücken des Auslösers ausgeschaltet, Fotografie war dann nicht mehr möglich, nur Videoaufnahmen."/>
+            </Sentence>
+            <Sentence id="138:3">
+                <Text text="Der Reparaturservice, die Firma Geissler in Reutlingen, hat die 'Leiterplatte ausgewechselt' und das Gerät 'geprüft' zurück geschickt."/>
+            </Sentence>
+            <Sentence id="138:4">
+                <Text text="Nach 10 Belichtungen ist derselbe Fehler wieder aufgetreten."/>
+            </Sentence>
+            <Sentence id="138:5">
+                <Text text="Inzwischen war die Kamera viermal bei Geissler und viermal wurde die Leiterplatte erneuert."/>
+            </Sentence>
+            <Sentence id="138:6">
+                <Text text="Das Gerät ist jetzt wieder bei Geissler und seit 20 Tagen warte ich darauf, dass sie von Sony das OK für einen Austausch gegen ein Neugerät erhalten."/>
+            </Sentence>
+            <Sentence id="138:7">
+                <Text text="Ich rufe mittlerweile täglich beim Reparaturservice an und erhalte täglich die Antwort, dass die Angelegenheit 'im Laufe' des jeweiligen Tages geklärt werde."/>
+            </Sentence>
+            <Sentence id="138:8">
+                <Text text="Seit 3 1/2 Monaten habe ich keine funktionierende Kamera mehr."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="138:9">
+                <Text text="Es ist unfassbar."/>
+            </Sentence>
+            <Sentence id="138:10">
+                <Text text="Und ein hinreichender Grund keine Sony-Kameras  zu kaufen, wenn man vom deutschen Service abhängig ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bluesman" date="29.-Juni-2015" id="cam1_139" language="de" product_id="B00DM8R866" rating="5" title="Tolle Bildqualität und schöne kompakte Kamera">
+        <Sentences>
+            <Sentence id="139:1">
+                <Text text="Nachdem ich sowohl die Panasonic TZ-61 als auch die Nikon S9900 als Ersatz für meine mittlerweile veraltete Nikon P7100 in Betracht gezogen – und nach einigen Testbildern beide sofort wieder zurückgeschickt habe!"/>
+            </Sentence>
+            <Sentence id="139:2">
+                <Text text="– bin ich bei der Canon G7X und der Sony RX-100 II gelandet, beide mit 1-Zoll-Sensor und ähnlicher Bildqualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="139:3">
+                <Text text="Natürlich, diese Kameras kosten beide ca."/>
+            </Sentence>
+            <Sentence id="139:4">
+                <Text text="€ 200 mehr als die beiden o.g, Kompaktkameras mit 30x-Zoom."/>
+            </Sentence>
+            <Sentence id="139:5">
+                <Text text="Aber sie sind ihr Geld auch wert, während die ich die Nikon und die Panasonic nicht einmal geschenkt behalten hätte!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian" date="28.-Juni-2015" id="cam1_140" language="de" product_id="B00DM8R866" rating="3" title="Tolle Kamera aber bei starken Sonnenlicht ............">
+        <Sentences>
+            <Sentence id="140:1">
+                <Text text="Ich habe Bilder mit dieser Sony RX 100ii gemacht und kann mich absolut nicht beklagen außer , dass man bei sehr starken Sonnenlicht draußen das Display hinten nur schemenhaft sieht."/>
+            </Sentence>
+            <Sentence id="140:2">
+                <Text text="Auch wenn man die Einstellung auf dem Display auf Sonnig stellt, ist trotzdem auf dem Display wenig zu erkennen (Leider)."/>
+            </Sentence>
+            <Sentence id="140:3">
+                <Text text="Und 339€ für einen extra Sucher ausgeben @ Sony 'Nein danke'."/>
+            </Sentence>
+            <Sentence id="140:4">
+                <Text text="80€ für den Sucher das würde ich mir gefallen lassen aber nicht 339€."/>
+            </Sentence>
+            <Sentence id="140:5">
+                <Text text="Der Autofokus ist präzise und schnell und die Auflösung von Bildern toll."/>
+                <Opinions>
+                    <Opinion category="LENS" target="autofokus"/>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="140:6">
+                <Text text="Ich benutze noch eine Canon 70D wo aber 'NATÜRLICH' diese Sony rx 100ii nicht mithalten kann."/>
+            </Sentence>
+            <Sentence id="140:7">
+                <Text text="Obwohl ihrer 20 Megapixel."/>
+            </Sentence>
+            <Sentence id="140:8">
+                <Text text="Die Knöpfe ansich sind gut positioniert aber etwas klein."/>
+            </Sentence>
+            <Sentence id="140:9">
+                <Text text="Die Kamera liegt gut (schwer) in der Hand."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="140:10">
+                <Text text="Finde es auch gut das diese etwas schwerer ist denn, man hat ja auch etwas hochwertiges und kein 08/15 gekauft."/>
+            </Sentence>
+            <Sentence id="140:11">
+                <Text text="Das Menü ist auch Klasse und übersichtlich und bietet einem viele Einstellmöglichkeiten."/>
+            </Sentence>
+            <Sentence id="140:12">
+                <Text text="Rundum ein starkes Paket zu einen gerechten Preis."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="BS" date="26.-Juni-2015" id="cam1_141" language="de" product_id="B00DM8R866" rating="5" title="Zweitkamera - immer dabei!">
+        <Sentences>
+            <Sentence id="141:1">
+                <Text text="Die ideale Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="141:2">
+                <Text text="Wurde als Zweitkamera gekauft, welche immer dabei sein soll."/>
+            </Sentence>
+            <Sentence id="141:3">
+                <Text text="Die große DSLR mit Objektiv ist oft zu schwer und passt nicht in die Hosentasche."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objektiv"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="141:4">
+                <Text text="Die Sony DSC-RX100 II hingegen ist schön leicht, kompakt und macht extrem gute Fotos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="141:5">
+                <Text text="Auch die Videos können sich sehen lassen."/>
+            </Sentence>
+            <Sentence id="141:6">
+                <Text text="Als Zweitkamera gedacht übernimmt sie langsam den Platz als Hauptkamera."/>
+            </Sentence>
+            <Sentence id="141:7">
+                <Text text="Wer Wert auf sehr gute Fotoqualität legt macht hier nichts falsch."/>
+            </Sentence>
+            <Sentence id="141:8">
+                <Text text="Das Geld ist sie Wert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Viktoria Hofer" date="23.-Juni-2015" id="cam1_142" language="de" product_id="B00DM8R866" rating="5" title="Super Kamera">
+        <Sentences>
+            <Sentence id="142:1">
+                <Text text="Ich bin sehr zufrieden, würde diese Digitalkamera jederzeit wieder kaufen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CPi" date="10.-Juni-2015" id="cam1_143" language="de" product_id="B00DM8R866" rating="5" title="Super Kompaktkamera">
+        <Sentences>
+            <Sentence id="143:1">
+                <Text text="Pro:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Helmut Blank" date="26.-Mai-2016" id="cam1_144" language="de" product_id="B00DM8R866" rating="5" title="Klein, fein, mein">
+        <Sentences>
+            <Sentence id="144:1">
+                <Text text="Kleines und feines Teil für die Handtasche."/>
+            </Sentence>
+            <Sentence id="144:2">
+                <Text text="Da kommt manches größere Modell ins Schwitzen."/>
+            </Sentence>
+            <Sentence id="144:3">
+                <Text text="Die Bilder sind echt sehenswert und machen Fotografieren zum Spaßfaktor"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manfred N." date="25.-Mai-2016" id="cam1_145" language="de" product_id="B00DM8R866" rating="5" title="tolle Kompaktkamera für die Jackentasche">
+        <Sentences>
+            <Sentence id="145:1">
+                <Text text="die Kamera habe ich gekauft, um hochwertige Fotos zu machen und gleichzeitig wenig Gewicht mitzuschleppen ,diese Erwartung hat sich voll erfüllt."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="145:2">
+                <Text text="Die Kamera ist leicht zu bedienen und speichert JPG und auch ARW Dateien."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="145:3">
+                <Text text="Das Display lässt sich klappen, damit hat man viele Gestaltungsmöglichkeiten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sabbel" date="25.-Mai-2016" id="cam1_146" language="de" product_id="B00DM8R866" rating="5" title="beste Kompakt Kamera mit SLR Qualität">
+        <Sentences>
+            <Sentence id="146:1">
+                <Text text="Ich habe die Kamera seit 2 Jahren und bin immer noch von der Qualität begeistert."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="146:2">
+                <Text text="Liegt ohne den Griff (AG-R1) allerdings zu rutschig in der Hand, also unbedingt mit dazu ordern."/>
+            </Sentence>
+            <Sentence id="146:3">
+                <Text text="Direkte Bildübertragung zu Sony TV praktisch verzögerungsfrei."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bildübertragung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="146:4">
+                <Text text="Bedienung sehr gut."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="146:5">
+                <Text text="Nehme meist die Automatik, man kann aber praktisch jeden Parameter von Hand einstellen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="VIDUS" date="20.-Mai-2016" id="cam1_147" language="de" product_id="B00DM8R866" rating="5" title="Sehr gute Kamera">
+        <Sentences>
+            <Sentence id="147:1">
+                <Text text="Die Fotos sind von guter Qualität."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="147:2">
+                <Text text="Einfache Handhabung."/>
+            </Sentence>
+            <Sentence id="147:3">
+                <Text text="Durch das Menü 'beste Foto' gelingt fast jede Aufnahme, ohne große Einstellungen vornehmen zu müssen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="147:4">
+                <Text text="Eine klare Empfehlung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aimejusa" date="19.-Mai-2016" id="cam1_148" language="de" product_id="B00DM8R866" rating="3" title="Sehr gute Bildqualität aber mit einigen Mängeln!">
+        <Sentences>
+            <Sentence id="148:1">
+                <Text text="Als Nachfolger für meine gute Nikon Coolpix P7800, die mir aber leider etwas zu groß zum Einstecken und für Schnappschüsse zu langsam war, kaufte ich mir nach langem Überlehen die Sony DSC-RX100 II:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ewald Jakobi" date="10.-April-2016" id="cam1_149" language="de" product_id="B00DM8R866" rating="5" title="Hervorragende Digitalkamera SonyRX100II">
+        <Sentences>
+            <Sentence id="149:1">
+                <Text text="Digitalkamera Sony RX100II"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="BF" date="16.-März-2016" id="cam1_150" language="de" product_id="B00DM8R866" rating="3" title="Durchschnittlich">
+        <Sentences>
+            <Sentence id="150:1">
+                <Text text="geht so.... Durchsnittliche Bildqualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="150:2">
+                <Text text="Zoom zu wenig."/>
+            </Sentence>
+            <Sentence id="150:3">
+                <Text text="bilder werden nicht scharf enug."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="KST" date="10.-März-2016" id="cam1_151" language="de" product_id="B00DM8R866" rating="5" title="Was für ein tolles Teil!">
+        <Sentences>
+            <Sentence id="151:1">
+                <Text text="Was für ein tolles Teil"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mattinator" date="7.-März-2016" id="cam1_152" language="de" product_id="B00DM8R866" rating="5" title="Sony RX 100 II">
+        <Sentences>
+            <Sentence id="152:1">
+                <Text text="Suüer Kamera."/>
+            </Sentence>
+            <Sentence id="152:2">
+                <Text text="Macht tolle Bilder und ist gut zu bedienen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="152:3">
+                <Text text="Einen kleinen Griff sollte man aber drankleben."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ironman Coach" date="15.-Februar-2016" id="cam1_153" language="de" product_id="B00DM8R866" rating="5" title="kleines Juwellen!">
+        <Sentences>
+            <Sentence id="153:1">
+                <Text text="Die Kamera ist klein und leicht, mir tut es leid, sie anzufassen :-) Ich habe viel zu studieren dabei, da sehr viele neue Funktionen sind."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="153:2">
+                <Text text="Ich habe nur eine Beschwerde betreffend Kommunikation seitens Amazons, der sich mit keiner Rückmeldung rührt, obwohl ich bisher zwei Nachrichten geschickt habe: die Kamera kostete 458 euro, auf die Rechnung waren aber plötzlich 461 euro."/>
+            </Sentence>
+            <Sentence id="153:3">
+                <Text text="Es geht nicht um die 3 euro plus, sondern um die Sache, dass ich nicht weiss, woher die aufgetaucht worden sind ....."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="korkel" date="8.-November-2015" id="cam1_154" language="de" product_id="B00DM8R866" rating="5" title="Spitzenprodukt">
+        <Sentences>
+            <Sentence id="154:1">
+                <Text text="Ausgereifte Technik, hervorragende Abbildungsqualität."/>
+            </Sentence>
+            <Sentence id="154:2">
+                <Text text="Ich bin sehr zufrieden."/>
+            </Sentence>
+            <Sentence id="154:3">
+                <Text text="Empfohlenes Zubehör: aufklebbare Griffmulde, magnetischer Filtergewindeadapter und Handbuch zur Kamera von Frank Exner."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dominik Schuierer" date="30.-Oktober-2015" id="cam1_155" language="de" product_id="B00DM8R866" rating="4" title="Im Vergleich zur Canon S100  - guter Kompromiss? Auch im Dunkeln!">
+        <Sentences>
+            <Sentence id="155:1">
+                <Text text="Vorweg: Ich kann es nicht stemmen, einen wirklich vollständigen Review abzuliefern."/>
+            </Sentence>
+            <Sentence id="155:2">
+                <Text text="eine Kamera ist viel zu komplex, dass eine Amateur ein vernünftiges Urteil abgeben könnte."/>
+            </Sentence>
+            <Sentence id="155:3">
+                <Text text="Deswegen beleuchte ich hier nur aus meiner Praxis ein paar Details, die mir interessant erschienen und die für mich diese Kamera meiner alten Kompakten überlegen machen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="StephHart" date="23.-September-2015" id="cam1_156" language="de" product_id="B00DM8R866" rating="3" title="Nur für Technikbegeisterte!">
+        <Sentences>
+            <Sentence id="156:1">
+                <Text text="500 Euro die jetzt nur noch im Schrank liegen."/>
+            </Sentence>
+            <Sentence id="156:2">
+                <Text text="Schade."/>
+            </Sentence>
+            <Sentence id="156:3">
+                <Text text="Ich hatte immer wieder die Hoffnung, ihre Bedienung noch zu lernen und 'blind' beherrschen zu können."/>
+            </Sentence>
+            <Sentence id="156:4">
+                <Text text="Blind geht bei dem Apparat jedoch kaum etwas."/>
+            </Sentence>
+            <Sentence id="156:5">
+                <Text text="Doch zum fotografieren mit Lesebrille durch die Landschaft zu laufen, ist mir zu unbequem."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Raindog" date="3.-September-2015" id="cam1_157" language="de" product_id="B00DM8R866" rating="1" title="Risse im Gehäuse - Materialermüdung?">
+        <Sentences>
+            <Sentence id="157:1">
+                <Text text="Bei meiner RX100II zeigen sich von den Schrauben ausgehend Risse im Gehäuse - und das, obwohl ich die Kamera nur sehr selten und äußerst pfleglich behandelt habe."/>
+            </Sentence>
+            <Sentence id="157:2">
+                <Text text="Mit der Begründung, die Garantie sei seit einem Monat abgelaufen, erhielt ich von Sony folgende Antwort: 'Bitte wenden Sie sich fur eine Reparatur an die Firma Herbert Geissler.'"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="157:3">
+                <Text text="und: 'Wir können Ihnen keine Kulanz anbieten, sodass dies eine kostenpflichtige Reparatur wird."/>
+            </Sentence>
+            <Sentence id="157:4">
+                <Text text="'."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Helmut Reiter" date="3.-September-2015" id="cam1_158" language="de" product_id="B00DM8R866" rating="5" title="Wow!">
+        <Sentences>
+            <Sentence id="158:1">
+                <Text text="Ich habe die Kamera nun ein paar Monate und bin sehr zufrieden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="micha41" date="26.-August-2015" id="cam1_159" language="de" product_id="B00DM8R866" rating="5" title="Gute Kamera">
+        <Sentences>
+            <Sentence id="159:1">
+                <Text text="Die RX 100II ist eine gute Kamera .Die Bilder sind ok."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="159:2">
+                <Text text="Die vielen Funktionen die die Kamera hat kann man gar nicht alle benutzen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="AnFi" date="16.-August-2015" id="cam1_160" language="de" product_id="B00DM8R866" rating="5" title="Idealer Reisebegleiter">
+        <Sentences>
+            <Sentence id="160:1">
+                <Text text="Diese Kamera erstaunte immer wieder durch die sehr gut implementierten Features."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="features"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="membersonly" date="12.-August-2015" id="cam1_161" language="de" product_id="B00DM8R866" rating="5" title="Man kommt einfach nicht an ihr vorbei">
+        <Sentences>
+            <Sentence id="161:1">
+                <Text text="Ich hatte bereits letztes Jahr den Vorgänger, die RX100 I Kamera und war damals schon sehr zufrieden."/>
+            </Sentence>
+            <Sentence id="161:2">
+                <Text text="Nur ein einziger Knackpunkt hat mich etwas gestört - Rauschverhalten bei ISO 1600."/>
+            </Sentence>
+            <Sentence id="161:3">
+                <Text text="GENAU in diesem Punkt hat die RX100 II die neue Generation des Sensors erhalten."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensors"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:4">
+                <Text text="Das war für mich der einzigste Grund, knapp mehr als 100 Euro mehr zu bezahlen als wie für die RX100."/>
+            </Sentence>
+            <Sentence id="161:5">
+                <Text text="Der mit schnell abfallender Lichtstärke gesegnete ca."/>
+            </Sentence>
+            <Sentence id="161:6">
+                <Text text="4x optische Zoombereich konnte somit mit der RX100 in der Nacht oder am Abend nicht genutzt werden und ich musste immer Festbrennweiten-mäßig bei F1.8-2.8 bleiben, also max."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoombereich"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:7">
+                <Text text="ca., 1,5-2x optisch."/>
+            </Sentence>
+            <Sentence id="161:8">
+                <Text text="Bei ISO1600 hat die RX100 wie einer Einsteiger DSLR gerauscht."/>
+            </Sentence>
+            <Sentence id="161:9">
+                <Text text="Sehr gut für den ca."/>
+            </Sentence>
+            <Sentence id="161:10">
+                <Text text="13mm breiten Sensor."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:11">
+                <Text text="Aber ich hätte mir einen Tick mehr Liquidität und besseren Erhalt von Details bei ISO1600 gewünscht, da das eine verdammt wichtige AUTO ISO P max Arbeits-Empfindlichkeit ist."/>
+            </Sentence>
+            <Sentence id="161:12">
+                <Text text="Wir reden hier von der einzigsten kompakten, flexiblen Kompaktkamera die das überhaupt verkraftet (Nikon A, Ricoh GR und Festbrennweiten-CLCs ausgenommen, da zu unflexibel und auch zu dick), also schon sehr luxuriös, nicht mehr eine DSLR genau dafür mitschleppen zu müssen."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:13">
+                <Text text="Erstaunlicherweise rauschen die 1' Sony Sensoren weniger als die MFT Olympus/Panasonic Sensoren, die man nur bis ISO1250 betreiben kann (das hat anscheinend auch Panasonic bemerkt und verbaut in den neueren Modellen Sony Sensoren)."/>
+            </Sentence>
+            <Sentence id="161:14">
+                <Text text="Nutzt man somit ISO3200 als Auto ISO MAX (das geht mit der RX100 II, aber nicht mehr brauchbar mit der RX100 (da muss man dann auf 8 MP runterskalieren, reicht aber für Privat noch aus)) und nutzt zusätzlich angepasste Rauschunterdrückungsalgorithmen in RAW sowie Belichtungskorrekturen, dann ersetzt für mich die RX100 eindeutig eine DSLR, da ich mit DSLR optisch brauchbar nur im Bereich 3-7x optisch arbeiten konnte (sogar 7x moderater Bereich waren sehr Kompromiss-behaftet, da weich und mit Verzeichnung und durchweg nie präzise getroffenen AF, als ob Back oder Front-AF anwesend wären), aber schon 1 Kilo am Nacken hängen hatte."/>
+            </Sentence>
+            <Sentence id="161:15">
+                <Text text="Klappdisplay ist ein 'nice to have', ist somit nicht zwingend notwendig (Für Frauen, die im Konzert untergehen aber interessant oder für Rentner, die keine Lust haben, ein paar Kalorien zu verbrauchen und sich zu bücken)."/>
+            </Sentence>
+            <Sentence id="161:16">
+                <Text text="Wichtigste Eigenschaft, ist der Zugang zum besser belichteten 1' Sensor, der erst ab der IIer Serie einen Sprung nach vorne gemacht hat."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:17">
+                <Text text="Genau dieser Sprung war für mich entscheidend und natürlich dass dei RX100 I und II die besten P/L Verhältnisse haben."/>
+            </Sentence>
+            <Sentence id="161:18">
+                <Text text="Das IIIer und IVer Modell sind vollkommen überteuert, sie werden aber auch ihre begrenzte Käuferschicht finden."/>
+            </Sentence>
+            <Sentence id="161:19">
+                <Text text="Ich habe selbst meinen anderen Familienmitgliedern das RX100 I Modell empfohlen, da sie die Kamera nur privat brauchen und dafür das RX100 I Modell vollkommen ausreicht."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:20">
+                <Text text="Ich bin aber auf niedrigstes Rauschen angewiesen, da es mir Arbeitszeit in der Bildnachbearbeitung erspart."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lore37" date="10.-August-2015" id="cam1_162" language="de" product_id="B00DM8R866" rating="5" title="Die beste Kamera fuer einen Anfaenger wie mich!">
+        <Sentences>
+            <Sentence id="162:1">
+                <Text text="Wenn man keine Ahnung hat vom photographieren ist diese Camera das beste Product."/>
+            </Sentence>
+            <Sentence id="162:2">
+                <Text text="Ich bin im Stande gute Bilder damit zu machen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniel Jeier" date="1.-August-2015" id="cam1_163" language="de" product_id="B00DM8R866" rating="5" title="Gute Entscheidung">
+        <Sentences>
+            <Sentence id="163:1">
+                <Text text="Genial."/>
+            </Sentence>
+            <Sentence id="163:2">
+                <Text text="Hatte vorher eine canon 550d."/>
+            </Sentence>
+            <Sentence id="163:3">
+                <Text text="Diese war aber sehr sperrig."/>
+            </Sentence>
+            <Sentence id="163:4">
+                <Text text="Die Sony mach schöne Fotos und ist sehr handlich."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="konur51" date="23.-Juli-2014" id="cam1_164" language="de" product_id="B00DM8R866" rating="1" title="in drei Wochen brummt!!!">
+        <Sentences>
+            <Sentence id="164:1">
+                <Text text="Am 2."/>
+            </Sentence>
+            <Sentence id="164:2">
+                <Text text="Juli habe die Kamera bei Amazon günstig 'gebraucht wie neu' gekauft und war drei Wochen ein glücklicher Besitzer, gestern kam das Glück zu Ende, habe zuhause bei wenig Licht die Kamera getestet,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antares" date="17.-Juli-2014" id="cam1_165" language="de" product_id="B00DM8R866" rating="5" title="Eine tolle Kamera, die mal wieder Lust aufs Fotografieren macht">
+        <Sentences>
+            <Sentence id="165:1">
+                <Text text="Es wurde schon viel geschrieben, positiv und negativ (das weniger) - deshalb möchte ich es auf meinen Eindruck beschränken."/>
+            </Sentence>
+            <Sentence id="165:2">
+                <Text text="Ich fotografiere schon sehr lange und habe analog angefangen."/>
+            </Sentence>
+            <Sentence id="165:3">
+                <Text text="Ich hatte seither eine Digi Knipse, die schlechtere Bilder gemacht hat als man Samsung Galaxy Note 3."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="165:4">
+                <Text text="Deshalb der Umstieg auf die Sony, die in den Tests sehr gut wegkommt."/>
+            </Sentence>
+            <Sentence id="165:5">
+                <Text text="Es hat sich vom ersten Moment an bestätigt."/>
+            </Sentence>
+            <Sentence id="165:6">
+                <Text text="DAS IST ES !"/>
+            </Sentence>
+            <Sentence id="165:7">
+                <Text text="- Fotografieren macht wieder Spass."/>
+            </Sentence>
+            <Sentence id="165:8">
+                <Text text="Ich habe mir auch das Handbuch dazugekauft und experimentiere jetzt."/>
+            </Sentence>
+            <Sentence id="165:9">
+                <Text text="Zugegeben, die Anschaffung ist hoch vom Preis her, aber ich denke, das wird eine Kamera, die mal wieder auf jahrelange Benutzung ausgelegt ist."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="165:10">
+                <Text text="Ich habe ansonsten eine K-30 DSLR von Pentax und die Bilder sind von der Qualität in Alltagssituationen mindestens genauso gut was Schärfe und Rauschverhalten betrifft."/>
+            </Sentence>
+            <Sentence id="165:11">
+                <Text text="Sie löst sehr schnell  aus, Fokussieren klappt bestens und mein Hund ist ein dankbares Studienobjekt für schwierige Verhältnisse (sehr helle Fellfarbe, grüne Blätter oder Wasser mit Spiegelung)."/>
+            </Sentence>
+            <Sentence id="165:12">
+                <Text text="Meine bisherige Kamera hat hier immer versagt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="165:13">
+                <Text text="Zum Zoom sei gesagt, ich nehme gerne das kleinere Zoom in Kauf, meine bisherige Kompaktkamera hatte 21 faches Zoom, dafür habe ich kanckscharfe Bilder, bei denen ich herauszoomen kann am PC nachträglich."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="165:14">
+                <Text text="Was nützt mir ein 21 fach Zoom, wenn 80 % der Bilder unscharf sind und zwar in allen Brennweiten."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Quark Tasche" date="14.-Juli-2014" id="cam1_166" language="de" product_id="B00DM8R866" rating="2" title="Gute Bildqualität bei gutem Licht, Bedienungsmängel, schlechter Blitz etc.">
+        <Sentences>
+            <Sentence id="166:1">
+                <Text text="Nach zwei Tagen Test wird es nur eine Kurzbewertung, die lediglich an der Oberfläche kratzt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dieter K." date="9.-Juli-2014" id="cam1_167" language="de" product_id="B00DM8R866" rating="5" title="Super Kamera!">
+        <Sentences>
+            <Sentence id="167:1">
+                <Text text="Der Amazonservice war wie immer bewährt und sehr gut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jürgen" date="6.-Juli-2014" id="cam1_168" language="de" product_id="B00DM8R866" rating="4" title="Sony DSC-RX100 II Cyber-shot">
+        <Sentences>
+            <Sentence id="168:1">
+                <Text text="Da sie jetzt im Preis deutlich günstiger geworden ist, habe ich sie gekauft."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="168:2">
+                <Text text="Als 'Immerdabei' Kamera."/>
+            </Sentence>
+            <Sentence id="168:3">
+                <Text text="Mein schweres SLR Equipment immer mitzuschleppen, hatte ich satt."/>
+            </Sentence>
+            <Sentence id="168:4">
+                <Text text="Die Bildqualität ist fantastisch, wenn man sich die Kleine richtig eingestellt hat."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="168:5">
+                <Text text="Das dauert allerdings etwas!"/>
+            </Sentence>
+            <Sentence id="168:6">
+                <Text text="5***** Sterne für die Bildqualität."/>
+            </Sentence>
+            <Sentence id="168:7">
+                <Text text="5***** für die Verarbeitungsqualität des Bodys."/>
+            </Sentence>
+            <Sentence id="168:8">
+                <Text text="Aber nur 3*** für die Positionierung der Einstell/Funktionsknöpfe!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gerdus" date="5.-Juli-2014" id="cam1_169" language="de" product_id="B00DM8R866" rating="2" title="Klein, handlich, teuer.">
+        <Sentences>
+            <Sentence id="169:1">
+                <Text text="Für mich kam nur eine Kamera mit Klappdisplay in Frage, nichts anderes."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CLMA" date="6.-Juni-2014" id="cam1_170" language="de" product_id="B00DM8R866" rating="4" title="Bildqualität überragend">
+        <Sentences>
+            <Sentence id="170:1">
+                <Text text="ich hatte bereits den Vorläufer und da ich relativ viel mit der Kamera filme, habe ich mit einem großen Seufzer die erste verkauft und fast 300,- für den Nachfolger drauf gelegt."/>
+            </Sentence>
+            <Sentence id="170:2">
+                <Text text="25p waren für mich das entscheidende Argument, da ich gelegentlich making of und behind the scenes Filme erstelle und mit Material von 'richtigen' Filmkameras mischen muss."/>
+            </Sentence>
+            <Sentence id="170:3">
+                <Text text="Bei 50p der alten geht beim Mischen mit 25p Material die Hälfte der Datenrate verloren und das alternative De-Interlacing 50i auf 25p ist nicht so das Wahre."/>
+            </Sentence>
+            <Sentence id="170:4">
+                <Text text="Deswegen jetzt also die RXII, die mit mit dem Erscheinen der RXIII ein paar Euro günstiger würde."/>
+            </Sentence>
+            <Sentence id="170:5">
+                <Text text="Die RXIII fand ich nicht so interessant da mir 25,7 =70mm einfach zu kurz ist, ich den Sucher eh nicht nutze und das Teil einfach fast 300€ teurer ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eckhardt Sasdrich" date="5.-Juni-2014" id="cam1_171" language="de" product_id="B00DM8R866" rating="1" title="Kamera nicht Urlaubstauglich und Sony Service Mangelhaft">
+        <Sentences>
+            <Sentence id="171:1">
+                <Text text="Ich habe mir die Sony RX100M2 im November 2013 angeschafft und habe bis zu Unserem Urlaub nur relativ wenig Bilder gemacht."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="171:2">
+                <Text text="Im Urlaub waren wir dann auf Kuba, am 24."/>
+            </Sentence>
+            <Sentence id="171:3">
+                <Text text="April kamen wir an, da war die Kamera gerade ein halbes Jahr alt."/>
+            </Sentence>
+            <Sentence id="171:4">
+                <Text text="Nach exakt 1 Woche lies sich die Speichkarte nicht mehr lesen, auch andere Speicherkarten brachten keinen Erfolg."/>
+            </Sentence>
+            <Sentence id="171:5">
+                <Text text="Wieder zu Hause wurde mir über den Sony Service mitgeteilt das ich die Kamera zum Service Herbert Geissler in Reutlingen senden soll was ich auch tat."/>
+            </Sentence>
+            <Sentence id="171:6">
+                <Text text="Nach ein paar Tagen bekam ich eine Mail mit dem Wortlaut 'wir haben für Ihr Gerät 'DSCRX100M2' einen Antrag auf Gutschrift beim Hersteller gestellt."/>
+            </Sentence>
+            <Sentence id="171:7">
+                <Text text="Dieser wird derzeit vom Hersteller geprüft!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="pacman" date="2.-Juni-2014" id="cam1_172" language="de" product_id="B00DM8R866" rating="5" title="5 Sterne klar verdient!">
+        <Sentences>
+            <Sentence id="172:1">
+                <Text text="Verstehe hier viele Rezensionen nicht, die Camera verdient eindeutig 5 Sterne."/>
+            </Sentence>
+            <Sentence id="172:2">
+                <Text text="Klar wenn ich sie mir einer DSLR vergleiche, werden Schwächen offenkundig, aber Leute, es handelt sich hierbei um eine Kompakte!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="K. Kreuzer" date="28.-Mai-2014" id="cam1_173" language="de" product_id="B00DM8R866" rating="5" title="Ein verblüffender Zwerg">
+        <Sentences>
+            <Sentence id="173:1">
+                <Text text="Habe für meine Tochter diese Kleinknipse gekauft, nachdem ich Aufnahmen vor allem bei höherer ISO gesehen habe."/>
+            </Sentence>
+            <Sentence id="173:2">
+                <Text text="Dass eine moderne Kompakte bei optimalen Lichtverhältnissen top Bilder produziert, war mir klar, aber was die kleine Sony da auf den Sensor zaubert, hat mich einigermaßen verblüfft."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompakte"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="173:3">
+                <Text text="Da ich mit insg."/>
+            </Sentence>
+            <Sentence id="173:4">
+                <Text text="drei großen DSLR aus dem Nikonstall fotografiere und optimale Bildqualität gewohnt bin, musste ich schon dreimal hinsehen, was da an Detailgenauigkeit, Schärfe und Auflösung auf meinem Monitor auftauchte."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="173:5">
+                <Text text="So etwas habe ich bis dato bei den 'Kleinen' nur bei den Fuji Kameras gesehen, selbst die überragende Sony Alpha 7r hat ihre um ein vielfaches günstigere kleine Schwester hart auf den Fersen."/>
+            </Sentence>
+            <Sentence id="173:6">
+                <Text text="Der Schärfeabfall an den Bildrändern ist nicht so gravierend wie in manchen Foren bemängelt, damit kann man sehr gut leben und wer die ultimative Bildqualität sucht, wird sowieso bei einem DSLR-Boliden landen..."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lutz Krüger-Ruda" date="5.-April-2014" id="cam1_174" language="de" product_id="B00DM8R866" rating="5" title="Unglaublich!">
+        <Sentences>
+            <Sentence id="174:1">
+                <Text text="Ich war sehr skeptisch, aber was diese kleine Hexe für Qualität produziert, unfassbar."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="174:2">
+                <Text text="Wirklich kompakt und immer dabei, selbst bei Dunkelheit in der Stadt hervorragende Bilder und wenig Ausschuss."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="174:3">
+                <Text text="Eine hervorragende Ergänzung für eine Systemkamera, zum Teil, besonders bei gutem Licht, waren die Bilder nicht entscheidend schwächer als Nex mit Zeiss-Objektiv."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="174:4">
+                <Text text="Wer heute noch eine Mittelklasse-Spiegelreflex rumschleppt dem ist nicht zu helfen."/>
+            </Sentence>
+            <Sentence id="174:5">
+                <Text text="RAWs aus der Kamera mit über 20MB Größe und kaum Nachbearbeitung, was will man mehr."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tamnidium" date="22.-März-2014" id="cam1_175" language="de" product_id="B00DM8R866" rating="1" title="Kamera mangelhaft">
+        <Sentences>
+            <Sentence id="175:1">
+                <Text text="Schöne Kamera, schnell, gut zu bedienen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="175:2">
+                <Text text="Die Übermittlung der Bilder ans Smartphone funktioniert prima."/>
+            </Sentence>
+            <Sentence id="175:3">
+                <Text text="Leider sind die Bilder von so schlechter Qualität, dass ich lieber direkt mit dem Smartphone fotografiere."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="175:4">
+                <Text text="Unngefähr jedes zweite Bild ist unscharf, zum Teil nur leicht, zum Teil extrem."/>
+            </Sentence>
+            <Sentence id="175:5">
+                <Text text="Der Autofokus ist unzuverlässig und/oder extrem dejustiert."/>
+                <Opinions>
+                    <Opinion category="LENS" target="autofokus"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="175:6">
+                <Text text="Schade, dass Sony die Qualitätskontrolle zum Kunden auslagert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="175:7">
+                <Text text="Bei einem Premiumprodukt inakzeptabel."/>
+            </Sentence>
+            <Sentence id="175:8">
+                <Text text="Da ich mit dem Problem offenbar nicht allein bin, geht die Kamera zurück."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Berta Hillman" date="21.-März-2014" id="cam1_176" language="de" product_id="B00DM8R866" rating="5" title="Kamera besser als Alles was ich je hatte">
+        <Sentences>
+            <Sentence id="176:1">
+                <Text text="Diese Kamera hat im Grunde alles was man braucht."/>
+            </Sentence>
+            <Sentence id="176:2">
+                <Text text="Manuelle Belichtungen und alle Features für verschiedene Fokus- und Belichtungsmodi."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="features"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="176:3">
+                <Text text="Lichtstarkes Objektiv mit ausreichender Brennweite."/>
+            </Sentence>
+            <Sentence id="176:4">
+                <Text text="Super Display, klappbar und hell."/>
+            </Sentence>
+            <Sentence id="176:5">
+                <Text text="WiFi funktioniert toll."/>
+            </Sentence>
+            <Sentence id="176:6">
+                <Text text="Kamera kann fernbedient werden und das Bild wird Life übertragen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="176:7">
+                <Text text="Ebenso können die Fotos auf iPad und Phone übertragen und gesendet werden."/>
+            </Sentence>
+            <Sentence id="176:8">
+                <Text text="Nicht ganz billig aber super solide gearbeitet."/>
+            </Sentence>
+            <Sentence id="176:9">
+                <Text text="Wer die Sony-Kameras kennt, kann hier sein Instrumentarium um diese kleine Universaltkamera ergänzen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DerBrieftraeger" date="20.-März-2014" id="cam1_177" language="de" product_id="B00DM8R866" rating="5" title="Sehr guter Kompromiss">
+        <Sentences>
+            <Sentence id="177:1">
+                <Text text="Nach diversen Spiegelreflex Kameras war ich es leid so viel Equipment mit mir herum zu tragen."/>
+            </Sentence>
+            <Sentence id="177:2">
+                <Text text="Allerdings waren recht gute Kompaktkameras bisher auch noch zu groß und schwer um sie in der Hosentasche unterzubringen."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompaktkameras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Peter Schuth" date="16.-März-2014" id="cam1_178" language="de" product_id="B00DM8R866" rating="5" title="Kamera, wie sie Spaß macht!">
+        <Sentences>
+            <Sentence id="178:1">
+                <Text text="Habe die Sony DSC-RX100M2 jetzt seit einigen Wochen und das Fotografieren macht viel Spaß mit dieser kleinen, leichten Kamera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bazi" date="16.-März-2014" id="cam1_179" language="de" product_id="B00DM8R866" rating="5" title="RX100II im Vergleich zur Vorgängerin RX100">
+        <Sentences>
+            <Sentence id="179:1">
+                <Text text="Zur RX100 habe ich bereits vor über einem Jahr eine sehr ausführliche Rezension geschrieben und diese mit der Canon G1X verglichen."/>
+            </Sentence>
+            <Sentence id="179:2">
+                <Text text="Nun habe ich die RX100 an meine Tochter weitergegeben und mir das aktualisierte Modell angeschafft."/>
+            </Sentence>
+            <Sentence id="179:3">
+                <Text text="Primär nutze ich sie als Zweitkamera, weil man sie immer dabei haben kann, ohne dass sie einen stört."/>
+            </Sentence>
+            <Sentence id="179:4">
+                <Text text="Ich möchte Besitzern einer RX100 die Unterschiede aufzeigen, damit jeder für sich entscheiden kann, ob sich das Upgrade lohnt oder nicht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon-Kunde" date="27.-Februar-2014" id="cam1_180" language="de" product_id="B00DM8R866" rating="2" title="Genie und Wahnsinn…">
+        <Sentences>
+            <Sentence id="180:1">
+                <Text text="Zwischen Genie und Wahnsinn liegt ja bekanntlich ein schmaler Grat."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Achim Pancke" date="27.-Februar-2014" id="cam1_181" language="de" product_id="B00DM8R866" rating="5" title="Der Hammer,">
+        <Sentences>
+            <Sentence id="181:1">
+                <Text text="Nachdem ich 1,5 Jahre mit einer Sony Alpha 57 mit beträchtlichen Zubehör fotografiert habe, habe ich mich nun entschlossen auf eine kleinere, leichtere Ausstattung umzuschwenken."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="nachkommastelle" date="23.-Februar-2014" id="cam1_182" language="de" product_id="B00DM8R866" rating="3" title="Sorry, kleine Sony">
+        <Sentences>
+            <Sentence id="182:1">
+                <Text text="Ich bin ja schon etwas älter und da wird es ja immer schwieriger, sich an andere Marken zu gewöhnen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Niels Osinga" date="22.-Februar-2014" id="cam1_183" language="de" product_id="B00DM8R866" rating="2" title="Achtung verwackelte Bilder! Unbedingt lesen vor dem Ankauf">
+        <Sentences>
+            <Sentence id="183:1">
+                <Text text="Wir haben die Sony RX100 seit einigen Wochen."/>
+            </Sentence>
+            <Sentence id="183:2">
+                <Text text="Sie macht super Bilder; scharf, hell und mit schönen Farben."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="183:3">
+                <Text text="Auch die Möglichkeiten der Software sind beeindruckend, aber es gibt einen RIESEN Fehler, und dass sind die standard 1/30 (!)"/>
+            </Sentence>
+            <Sentence id="183:4">
+                <Text text="und 1/60 sec Verschlusszeiten wohin die Kamera neigt im Automatik Modus."/>
+            </Sentence>
+            <Sentence id="183:5">
+                <Text text="Das ist viel zu lange um Menschen oder andere bewegende Objekte zu fotografieren."/>
+            </Sentence>
+            <Sentence id="183:6">
+                <Text text="So laaaaaaaaaaaaaaaaaange ;) Die Folge ist das mann ständig verwackelte Objekte im Bild bekommt."/>
+            </Sentence>
+            <Sentence id="183:7">
+                <Text text="Alles was sich nur leicht bewegt wird unscharf."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sebastian Lübke" date="26.-Mai-2015" id="cam1_184" language="de" product_id="B00DM8R866" rating="5" title="Super Kompaktkamera">
+        <Sentences>
+            <Sentence id="184:1">
+                <Text text="Ich habe mich zwischen den drei RX100ern entscheiden müssen und habe mich wegen des gleichen Sensors und des geringeren Preises für die MarkII entschieden."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="sensors"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Merkosh" date="13.-Mai-2015" id="cam1_185" language="de" product_id="B00DM8R866" rating="5" title="Königsklasse">
+        <Sentences>
+            <Sentence id="185:1">
+                <Text text="Als Besitzer einer DSLR war ich eigentlich schon mit einer guten Kamera ausgestattet."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="185:2">
+                <Text text="Aber für eine längere Wanderung war ich auf der Suche nach einer kleinen und leichten Kamera, die doch einige Schmankerl dabei hat."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nowo" date="30.-April-2015" id="cam1_186" language="de" product_id="B00DM8R866" rating="4" title="Kleiner Zauberkasten.">
+        <Sentences>
+            <Sentence id="186:1">
+                <Text text="Dieser kleine Fotoapparat ist ein kleiner Zauberkasten."/>
+            </Sentence>
+            <Sentence id="186:2">
+                <Text text="Die Einstellmöglichkeiten sind sehr vielfältig."/>
+            </Sentence>
+            <Sentence id="186:3">
+                <Text text="Die beigefügte Gebrauchsanleitung ist nahezu wertlos."/>
+            </Sentence>
+            <Sentence id="186:4">
+                <Text text="Ein Extrabuch wird zum Kauf angeboten und ist notwendig, um sich zurecht zu finden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Zuhoerer1966" date="25.-April-2015" id="cam1_187" language="de" product_id="B00DM8R866" rating="5" title="Sehr gute Foto-Qualität">
+        <Sentences>
+            <Sentence id="187:1">
+                <Text text="Immer wenn ich meine Spiegelreflexkamera nicht mitschleppen will, habe ich zumindest eine Kompaktkamera dabei."/>
+            </Sentence>
+            <Sentence id="187:2">
+                <Text text="Aus dieser Kategorie habe ich schon so einige Modelle besessen, aber nie hat mich eine Kamera so richtig überzeugen können wenn ich deren Fotos mit denen meiner DSLR vergleiche."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="187:3">
+                <Text text="Nach langem Suchen, vergleichen und hadern mit den Anschaffungskosten meiner engeren Auswahl habe ich mich schliesslich dazu durchgerungen noch einmal relativ viel Geld in die Hand zu nehmen und habe mir die Sony DSC-RX100 Mark II  zugelegt  (Mark III war mir dann doch viel zu teuer für eine Kompakte)."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="kompakte"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="thos57" date="19.-April-2015" id="cam1_188" language="de" product_id="B00DM8R866" rating="5" title="Kleiner Alleskönner">
+        <Sentences>
+            <Sentence id="188:1">
+                <Text text="Ziemlich viele Funktionen und Möglichkeiten, aber trotzdem ganz schon robust."/>
+            </Sentence>
+            <Sentence id="188:2">
+                <Text text="Zwar nicht gerade billig, dafür wird einem aber ganz schön viel geboten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="pegasus" date="12.-April-2015" id="cam1_189" language="de" product_id="B00DM8R866" rating="5" title="RX100 II ==&gt; im Praxistest ungeschlagen!">
+        <Sentences>
+            <Sentence id="189:1">
+                <Text text="Ich hatte bei meinen Rechergen diese Kamera in die engere Wahl gezogen und bin nicht enttäuscht worden!"/>
+            </Sentence>
+            <Sentence id="189:2">
+                <Text text="Hier hat Sony ein technisches Meisterwerk im unscheinbaren Gehäuse verbaut."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="189:3">
+                <Text text="Und dabei wollte ich nie eine Kamera von Sony kaufen (wegen der Lizenzstreitigkeiten mit Open Source, Musikrechte usw.)."/>
+            </Sentence>
+            <Sentence id="189:4">
+                <Text text="Als Vergleichsgerät hatte ich meine Spiegelreflex Nikon D7100, die ja auch sehr leistungsstark ist, sowie eine"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Henning von Borstell" date="6.-April-2015" id="cam1_190" language="de" product_id="B00DM8R866" rating="5" title="Eine Spitzen-Kompakte">
+        <Sentences>
+            <Sentence id="190:1">
+                <Text text="Sehr gute Bildqualität, hilfreiche Automatiken, leistungsstark auch bei nicht optimalen Lichtvewrhältnissen, schnell: All das ist wichtig, wenn man kleine Enkel hat, die ungern ruhig sitzen und ständig für neue Aufnahmegelegenheiten sorgen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="190:2">
+                <Text text="Die Kamera ist immer dabei, in jedem Wortsinne."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="gonso" date="31.-März-2015" id="cam1_191" language="de" product_id="B00DM8R866" rating="5" title="klein, schnell und gute Bilder ( nicht für knipser )">
+        <Sentences>
+            <Sentence id="191:1">
+                <Text text="Hallo,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Magnox" date="15.-März-2015" id="cam1_192" language="de" product_id="B00DM8R866" rating="5" title="Tolle Kamera - mein Favorit für unterwegs (u.a. für Kinderbilder)">
+        <Sentences>
+            <Sentence id="192:1">
+                <Text text="Meine Überlegung zum Kauf dieser Kamera ist Folgende:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Edgar Löhr" date="11.-Februar-2015" id="cam1_193" language="de" product_id="B00DM8R866" rating="5" title="Klasse!">
+        <Sentences>
+            <Sentence id="193:1">
+                <Text text="Für die Größe und den Preis kann man nicht mehr erwarten!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

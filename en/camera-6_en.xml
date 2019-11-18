@@ -1,0 +1,1241 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Sydney Roessling" date="2018-7-7" id="cam6_1" language="en" product_id="B01JN28QQA" rating="5" title="Best Camera">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="My grandmother bought me this camera to peruse my love for photography."/>
+            </Sentence>
+            <Sentence id="1:2">
+                <Text text="So all in all I’m a beginner with the professional camera world."/>
+            </Sentence>
+            <Sentence id="1:3">
+                <Text text="I’ve had this camer for a little over a year now and can truly say it is a must buy."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Henrique" date="2018-7-5" id="cam6_2" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="perfect"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="LoveisLife" date="2018-6-23" id="cam6_3" language="en" product_id="B01JN28QQA" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="great camera"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-6-21" id="cam6_4" language="en" product_id="B01JN28QQA" rating="4" title="Great camera for beginners">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Love my camera."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Easy to use and creates great quality pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="quality pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Discover the Bay" date="2018-6-15" id="cam6_5" language="en" product_id="B01JN28QQA" rating="5" title="My favorite DSLR">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="This is a super camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Easy to use."/>
+            </Sentence>
+            <Sentence id="5:3">
+                <Text text="I upgraded to a 50mm lens and then you begin taking really professional photos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:4">
+                <Text text="Great for a beginner."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-6-14" id="cam6_6" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Really great product just as advertised."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claire" date="2018-6-12" id="cam6_7" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Easy for beginners to use."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Takes great pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="tiffsphotos09" date="2018-6-4" id="cam6_8" language="en" product_id="B01JN28QQA" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Great camera good price for it for sure !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nathalie Manzano" date="2018-5-29" id="cam6_9" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="wrks spectacular"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Steve Hayden" date="2018-5-26" id="cam6_10" language="en" product_id="B01JN28QQA" rating="5" title="Good deal">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Great camera, great price!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="KRGraphics" date="2018-3-2" id="cam6_11" language="en" product_id="B01JN28QQA" rating="5" title="The best (early) birthday gift I've ever got!!">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="I have been doing a lot of work with 3D scanning and Photogrammetry and using an older Nikon L100 point and shoot wasn't cutting the mustard for me."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="work"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="For instance, on a Point and Shoot, you can't control the shutter speed easily or the ISO or the final output."/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="After extensive research on DSLR cameras (this and the Canon T6i Rebel), I ended up getting this camera (not choosing the D3400 which was 100 dollars more, and not choosing the T6i because it was out of my pricing range at the time) on impulse, because it was on sale and I needed a better camera for reality capture (I use Agisoft Photoscan for Photogrammetry)."/>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="After taking a few pictures using all of the modes, the visual quality of my images is a HUGE jump, especially from using cameras on the smartphone and the COOLPIX L100 that would never afford me this level of detail."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                    <Opinion category="GENERAL" target="quality"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Isaac Dennis" date="2018-3-2" id="cam6_12" language="en" product_id="B01JN28QQA" rating="5" title="If you are a beginner than this camera is for you!!!">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="I love this camera and it's a great camera to start off with."/>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="Photography is about your style and the Nikon d3300 definitely helps you find it!!!"/>
+            </Sentence>
+            <Sentence id="12:3">
+                <Text text="I myself am ready for the next step in photography and videography, but only thanks to this camera!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photography"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="12:4">
+                <Text text="All the following photos where taken with the Nikon d3300 w/ 18-55 AF-S lens (stock everything)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amy" date="2018-3-2" id="cam6_13" language="en" product_id="B01JN28QQA" rating="5" title="good price, fun camera">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Great little camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:2">
+                <Text text="I'm a beginner and I can see it's simple enough to point and shoot, but has enough options that it'll keep me busy learning for quite a while!"/>
+            </Sentence>
+            <Sentence id="13:3">
+                <Text text="Can't wait to get additional lenses and flash for it."/>
+                <Opinions>
+                    <Opinion category="LENS" target="lenses"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:4">
+                <Text text="Decent price."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:5">
+                <Text text="Delivered in good shape and on time."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Forrest E Hodge" date="2018-3-1" id="cam6_14" language="en" product_id="B01JN28QQA" rating="5" title="Great beginner's camera">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="After being into photography in my earlier years (this was before digital cameras were a thing), I decided to get back into."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:2">
+                <Text text="I decided on the D3300 as it wasn't terribly expensive got good reviews for being a very good beginner's DSLR."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="dslr"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:3">
+                <Text text="I actually chose the D3300 over the newer D3400 and Canon Rebel T6 as it had a microphone jack, which could be important going forward, a better flash, which can be helpful, and electronic sensor cleaner which probably isn't a big deal."/>
+            </Sentence>
+            <Sentence id="14:4">
+                <Text text="The Canon had an older sensor and worse continuous shooting speed ( I moonlight as a pro-wrestling photographer on occasion)."/>
+            </Sentence>
+            <Sentence id="14:5">
+                <Text text="Anyway."/>
+            </Sentence>
+            <Sentence id="14:6">
+                <Text text="I'm very pleased with the camera, it's lived up to all my expectations."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:7">
+                <Text text="Sometimes I do wish I had spent the extra money for the D5300 or Canon Rebel SL2 for their movable LCD screens , but for my needs as hobbyist, the D3300 is great."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="d3300"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:8">
+                <Text text="Battery life is better than the specs suggest."/>
+            </Sentence>
+            <Sentence id="14:9">
+                <Text text="I'm able to shoot well over 600 shots (without the flash) and the battery still is over half charge."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="charge"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-2-24" id="cam6_15" language="en" product_id="B01JN28QQA" rating="5" title="camera">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="great camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="easy to use"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sujan panta" date="2018-2-22" id="cam6_16" language="en" product_id="B01JN28QQA" rating="2" title="Two Stars">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="It did not come with the lens as in website picture."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="PA" date="2018-2-13" id="cam6_17" language="en" product_id="B01JN28QQA" rating="1" title="One fatal limitation!">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="This camera has one fatal limitation if you are planning to use it for recording long videos."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="It has a hard limit of 30 minutes, then just stops."/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="You can restart the recording manually, but there will be a gap."/>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="So it is not suitable for typical class lectures of 1 hour or more."/>
+            </Sentence>
+            <Sentence id="17:5">
+                <Text text="This limitation is hard to find in the specs."/>
+            </Sentence>
+            <Sentence id="17:6">
+                <Text text="Buyer beware!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Chandler Burner" date="2018-1-30" id="cam6_18" language="en" product_id="B01JN28QQA" rating="5" title="Great Camera">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="This is a great camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="I use this camera daily to record videos for school."/>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="It takes great quality pictures and videos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="quality pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:4">
+                <Text text="It is not hard to use."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-1-25" id="cam6_19" language="en" product_id="B01JN28QQA" rating="5" title="I like how convenient it is made to register for the ...">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="I like how convenient it is made to register for the warranty ."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="It appears to have quality workmanship."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="I haven't had a chance to use it yet."/>
+            </Sentence>
+            <Sentence id="19:4">
+                <Text text="The directions are easy to understand."/>
+            </Sentence>
+            <Sentence id="19:5">
+                <Text text="I'm excited to start using it."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mbb" date="2018-1-23" id="cam6_20" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Fantastic camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="No complaints."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="Great product!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Emerson Varela Vargas" date="2018-9-14" id="cam6_21" language="en" product_id="B01JN28QQA" rating="1" title="camera in poor condition">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="not hard nor 4 months and since the camera does not work, I try to contact the provider and it is not possible."/>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="all guarantee and return options were closed in less than 3 months."/>
+            </Sentence>
+            <Sentence id="21:3">
+                <Text text="pessim buy"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CCMacC" date="2018-9-2" id="cam6_22" language="en" product_id="B01JN28QQA" rating="5" title="Excellent camera. Lightweight and easy to navigate">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="We got this at the wrong time of year."/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="It was meant to go on a trip with us and we didn't order it soon enough before we left"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Loves to Cook" date="2018-8-28" id="cam6_23" language="en" product_id="B01JN28QQA" rating="5" title="Love It">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Love this camera!"/>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Great features and takes awesome photos."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="features"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:3">
+                <Text text="I know it's more entry level as far as Nikon goes but it really does take great shots."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="shots"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Moki" date="2018-8-14" id="cam6_24" language="en" product_id="B01JN28QQA" rating="5" title="A whole new world">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="This is my first DSLR and with that being said as long as you take the time to understand fundamentally how the camera works all of its functions the terminology and what each and every setting does and how it affects your end product you will be well served by this product."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="dslr"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="I did buy Nikons 35mm prime lens and have been using that ever since and have noticed a obvious difference in sharpness and clarity with my photos however the stock lens shoots great as well,all photos provided are shot with Nikons 35mm prime lens."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bubblegoose" date="2018-8-8" id="cam6_25" language="en" product_id="B01JN28QQA" rating="5" title="Great Value">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="This camera is a fantastic value."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="value"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="I purchased mine for two reasons:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="April Strong" date="2018-8-7" id="cam6_26" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Love it!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rebeca" date="2018-8-3" id="cam6_27" language="en" product_id="B01JN28QQA" rating="5" title="Perfect!">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Great condition."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="John Barrett" date="2018-8-1" id="cam6_28" language="en" product_id="B01JN28QQA" rating="5" title="Great camera">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Love this camera its such a good camera."/>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="Takes great pictures has tons of options for customization."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="28:3">
+                <Text text="Has tons of features."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="michael d. griffith" date="2018-7-30" id="cam6_29" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Good little workhorse."/>
+            </Sentence>
+            <Sentence id="29:2">
+                <Text text="Many meatures found in more expensive models have filtered down."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="J.C." date="2018-7-7" id="cam6_30" language="en" product_id="B01JN28QQA" rating="5" title="Awesome beginner's cam!!">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="After a ton of research for months I went with this bad boy and so happy I did."/>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="It's taken some practice but I'm getting there &amp; hadn't even used photo shop or editing yet."/>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="Looking back prolly would have went with the D3400 for the wifi to transfer to my phone but hopefully find an adapter soon."/>
+            </Sentence>
+            <Sentence id="30:4">
+                <Text text="Note:  the very next day after my purchase the D3400 went on sale for the same price so keep an open eye out."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:5">
+                <Text text="Bonus: helps to find a good lens hood too so you don't look like too much of a rookie."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sunshine" date="2018-4-29" id="cam6_31" language="en" product_id="B01JN28QQA" rating="5" title="Awesome!">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Love it!"/>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="Great camera at a great price to take photos of products in my new business."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Joshua J. Melendez" date="2018-4-25" id="cam6_32" language="en" product_id="B01JN28QQA" rating="5" title="It takes great photos, and shooting videos is great as well">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="It takes great photos, and shooting videos is great as well."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="In the Adult film and erotic photography industry video and camera photography matters."/>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="This is an excellent camera!!"/>
+            </Sentence>
+            <Sentence id="32:4">
+                <Text text="!."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-4-23" id="cam6_33" language="en" product_id="B01JN28QQA" rating="4" title="but for me was a perfect camera to start">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="I don't know much about photographic cameras, but for me was a perfect camera to start."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cameras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cecilia Rodriguez" date="2018-4-22" id="cam6_34" language="en" product_id="B01JN28QQA" rating="5" title="Great entry camera, great price, great for beginners">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="This is a great entry level camera, I love it!"/>
+            </Sentence>
+            <Sentence id="34:2">
+                <Text text="Everybody compliments my shoots all the time."/>
+            </Sentence>
+            <Sentence id="34:3">
+                <Text text="I am still learning to use it, and just bought few couple of new lenses to try out."/>
+                <Opinions>
+                    <Opinion category="LENS" target="lenses"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="34:4">
+                <Text text="I can definitely say that for the price I paid I made an excellent buy."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kumar" date="2018-4-20" id="cam6_35" language="en" product_id="B01JN28QQA" rating="1" title="I expected something it came out something else so It’s better to buy a Nikon D3400 with a bigger lens">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="The camera click button suddenly stucks when I take take the photos.."/>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="I expected something it came out something else so It’s better to buy a Nikon D3400 with a bigger lens.. this camera  cannot take the far photos.. so that’s why I want to return it"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Trevor" date="2018-4-17" id="cam6_36" language="en" product_id="B01JN28QQA" rating="5" title="An amazing camera I’m 14 and got really into photography this ...">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="An amazing camera I’m 14 and got really into photography this year and asked for this camera for my bday it’s one of the best gift I have ever gotten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JB" date="2018-4-17" id="cam6_37" language="en" product_id="B01JN28QQA" rating="5" title="This camera is awesome..">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="This camera is awesome... totally meets all of my expectations."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Bought it for myself, but now the entire family uses it."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cassandra tu" date="2018-4-15" id="cam6_38" language="en" product_id="B01JN28QQA" rating="5" title="Good!">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Easy to learn and takes good quality pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="quality pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="I wish the instruction manual was a little more thorough."/>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="I am satisfied with this purchase."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rana" date="2018-4-15" id="cam6_39" language="en" product_id="B01JN28QQA" rating="5" title="Amazing entry level dslr">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="One of the beast entry level dslr’s money can buy"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-4-12" id="cam6_40" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Great camera easy to use out of the box."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="It also has great features for further clarity."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="features"/>
+                    <Opinion category="EXPOSURE CONTROL" target="clarity"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="2k11Ranger" date="2018-5-26" id="cam6_41" language="en" product_id="B01JN28QQA" rating="5" title="We love it!">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Everything as described, it has high quality photos, and plenty of features."/>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Definitely make sure make sure you pick up an extra battery."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="battery"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-5-24" id="cam6_42" language="en" product_id="B01JN28QQA" rating="5" title="This camera is FANTASTIC!!">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="This camera is FANTASTIC!!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="It is perfect for my everyday use at work."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="work"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="42:3">
+                <Text text="I would recommend it to anyone!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Terry Prior" date="2018-5-22" id="cam6_43" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="This was a gift and it takes beautiful pictures"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="AllComputing" date="2018-5-20" id="cam6_44" language="en" product_id="B01JN28QQA" rating="5" title="The D3300 takes good photos in automatic mode">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Have been using other Nikons for over 17 years."/>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="The D3300 takes good photos in automatic mode, for the price range."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="d3300"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="Overall, a solid product and performing as expected, thus far."/>
+            </Sentence>
+            <Sentence id="44:4">
+                <Text text="The microphone and speaker both have reasonably good quality for being built-it."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="quality"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:5">
+                <Text text="Battery lasts for a long time for photos, but will not last as long in video mode, obviously."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:6">
+                <Text text="The camera is light and comfortably contoured to hold securely."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JoshinArt" date="2018-5-12" id="cam6_45" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="What a perfect camera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bob Zollinger" date="2018-5-7" id="cam6_46" language="en" product_id="B01JN28QQA" rating="5" title="This is great!! Item is as described - Highly recommend">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="This is great!!"/>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="Item is as described - Highly recommend."/>
+            </Sentence>
+            <Sentence id="46:3">
+                <Text text="No issues"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cougartrap" date="2018-5-7" id="cam6_47" language="en" product_id="B01JN28QQA" rating="5" title="Excellent Entry-Level DSLR!">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="What can I say?"/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="This little camera is amazing!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Sure, it's not the flagship with all the bells and whistles, but this camera can hold its own, especially for a beginner."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Craig J Heffner" date="2018-5-6" id="cam6_48" language="en" product_id="B01JN28QQA" rating="5" title="Beautiful pictures!">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Bought this camera for my son."/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="These are some of the pictures he took (before editing):"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Terry Palmer Jr" date="2018-5-3" id="cam6_49" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Fantastic camera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jacqueline Tomkinson" date="2018-4-30" id="cam6_50" language="en" product_id="B01JN28QQA" rating="5" title="Takes great pics even if you're a beginner">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="I'm a beginner photographer."/>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="This camera has lots of bells and whistles."/>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Am taking photography lessons through a friend and he recommended this for me."/>
+            </Sentence>
+            <Sentence id="50:4">
+                <Text text="I am loving it!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matthew Dalton" date="2018-1-11" id="cam6_51" language="en" product_id="B01JN28QQA" rating="3" title="This is a good camera. I've taken many great photos with it">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="This is a good camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="I've taken many great photos with it."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="However, my advise would be to put your money into a used d300 @$250 On eBay."/>
+            </Sentence>
+            <Sentence id="51:4">
+                <Text text="You'll get way more camera for your money and the image quality is amazing."/>
+            </Sentence>
+            <Sentence id="51:5">
+                <Text text="Use mine with Tamron 150-600mm g2"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Julius C." date="2018-1-5" id="cam6_52" language="en" product_id="B01JN28QQA" rating="1" title="Arrived last night was working fine and then when I wake up I try to ...">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Arrived last night was working fine and then when I wake up I try to turn it on it doesn’t work."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Pretty disappointed."/>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="I even went to the Nikon office in Los Angeles and they told me it was completely dead."/>
+            </Sentence>
+            <Sentence id="52:4">
+                <Text text="Tried other batteries too and nothing."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batteries"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:5">
+                <Text text="Still won’t turn on."/>
+            </Sentence>
+            <Sentence id="52:6">
+                <Text text="Even more disappointed that I paid the 2 day shipping just to have a faulty dslr arrive."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="dslr"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-1-4" id="cam6_53" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="LOVE, LOVE, LOVE!!"/>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="Best camera EVER!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:3">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Morgan B" date="2017-12-10" id="cam6_54" language="en" product_id="B01JN28QQA" rating="5" title="Great beginner camera!">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="This was given to me as a gift and I adore it!"/>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Great beginner camera :)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="D. Trueblood" date="2017-11-22" id="cam6_55" language="en" product_id="B01JN28QQA" rating="5" title="Simply an awesome camera">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="My wife has wanted a camera for years and finally she let me research one and buy it for her."/>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="Based on reviews here and everywhere else I chose this camera."/>
+            </Sentence>
+            <Sentence id="55:3">
+                <Text text="We have had a ball learning about photography and using this camera."/>
+            </Sentence>
+            <Sentence id="55:4">
+                <Text text="Didn't take long to swap on over to aperture priority and create some wonderful pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:5">
+                <Text text="Have also taken the camera to a few of our sons basketball games and it does superb there as well."/>
+            </Sentence>
+            <Sentence id="55:6">
+                <Text text="We changed to shutter priority and continuous shots and were able to bring kids in motion to a standstill while maintaining wonderful clarity and quality."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="shots"/>
+                    <Opinion category="EXPOSURE CONTROL" target="clarity"/>
+                    <Opinion category="GENERAL" target="quality"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:7">
+                <Text text="We've already ordered the 55-200 lens and a bunch of filters."/>
+            </Sentence>
+            <Sentence id="55:8">
+                <Text text="I'm certain this will bring years of enjoyment."/>
+            </Sentence>
+            <Sentence id="55:9">
+                <Text text="Great purchase."/>
+            </Sentence>
+            <Sentence id="55:10">
+                <Text text="And they overnighted it to me free of charge."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="charge"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:11">
+                <Text text="Can't beat that!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Florence Maruyama" date="2018-4-5" id="cam6_56" language="en" product_id="B01JN28QQA" rating="5" title="Quality, not too clumsy camera">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="A quality camera."/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="I got this camera about two months ago and still learning how to use it."/>
+            </Sentence>
+            <Sentence id="56:3">
+                <Text text="It has more features than purse size cameras."/>
+            </Sentence>
+            <Sentence id="56:4">
+                <Text text="Pictures taken have not been printed yet, so how its quality is remain to be seen, thus far from viewing the LCD screen, it looks nice."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aaron Goldberg" date="2018-4-4" id="cam6_57" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="love it."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="olivia kappler" date="2018-4-1" id="cam6_58" language="en" product_id="B01JN28QQA" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Great product!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Taylor" date="2018-3-29" id="cam6_59" language="en" product_id="B01JN28QQA" rating="5" title="Perfection.">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Amature photographer here."/>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="This is my first DSLR camera and I did literally days of research."/>
+            </Sentence>
+            <Sentence id="59:3">
+                <Text text="I was on the road for work for two months and had little else to do in the hotel room at night!"/>
+            </Sentence>
+            <Sentence id="59:4">
+                <Text text="After days of watching Youtube videos and reviews."/>
+            </Sentence>
+            <Sentence id="59:5">
+                <Text text="Reading comparisons between Nikon and Cannon."/>
+            </Sentence>
+            <Sentence id="59:6">
+                <Text text="Comparing various models and mirrorless cameras etc."/>
+            </Sentence>
+            <Sentence id="59:7">
+                <Text text="I just never found a bad review about this camera."/>
+            </Sentence>
+            <Sentence id="59:8">
+                <Text text="It had better reviews and a better price than its updated sister camera the 3400."/>
+            </Sentence>
+            <Sentence id="59:9">
+                <Text text="Obviously for a pro photographer this might not cut it but for someone new to the hobby this has everything you need and more."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Geraldine" date="2018-3-24" id="cam6_60" language="en" product_id="B01JN28QQA" rating="5" title="Great camera!">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Love my new camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="I’m still a beginner but The Nikon D3300 is so easy to use, I’m already shooting in Manual mode."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Danny Boyd" date="2018-3-21" id="cam6_61" language="en" product_id="B01JN28QQA" rating="5" title="Bought this set-up for my 15yr old daughter - She has loved the D3300 since the first day.">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Bought the Nikon D3300 with the 18-55mm for my 15yr old daughter."/>
+            </Sentence>
+            <Sentence id="61:2">
+                <Text text="She was just getting into photography and needed a step up from her old Canon SX50."/>
+            </Sentence>
+            <Sentence id="61:3">
+                <Text text="Over the last year she has really upped her photography game."/>
+            </Sentence>
+            <Sentence id="61:4">
+                <Text text="I don't think you can find a better entry lever DSLR for the money."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Worker Bee" date="2018-3-19" id="cam6_62" language="en" product_id="B01JN28QQA" rating="5" title="Camera &amp; Lens Firmware Updates Available">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Received today, all new in the retail box."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Richard" date="2018-3-16" id="cam6_63" language="en" product_id="B01JN28QQA" rating="5" title="Definitely would recommend to anyone interested in photography and looking to get ...">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Definitely would recommend to anyone interested in photography and looking to get their feet wet."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photography"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="The Nikon D3300 has insane value and is a more than fair price for what it offers you."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="value"/>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:3">
+                <Text text="Crystal clear photos along with 1080p video that I personally use to record YouTube videos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:4">
+                <Text text="It's a very good get and you certainly won't regret it."/>
+            </Sentence>
+            <Sentence id="63:5">
+                <Text text="I personally bought the NIKKOR 1.8G lens to accompany with it because I believe that it fits better for portraits and close-ups but to each their own."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="portraits"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:6">
+                <Text text="The settings are easy to use and modify, and if you can live with the lack of in-camera wifi connectivity, then I can promise you it's certainly a quality camera to help get you started."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="92sub" date="2018-3-13" id="cam6_64" language="en" product_id="B01JN28QQA" rating="5" title="Small, light but seems to pack a punch.">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Only have a hundred shots thru it yet but so far it's great."/>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="Much smaller and lighter than my old D7000."/>
+            </Sentence>
+            <Sentence id="64:3">
+                <Text text="The new 'P' lens is really fast and silent."/>
+            </Sentence>
+            <Sentence id="64:4">
+                <Text text="Will update review after some real time with it."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Torri" date="2018-3-8" id="cam6_65" language="en" product_id="B01JN28QQA" rating="5" title="Very nice.">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Purchased for our son's birthday and he loves it!"/>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="Very nice."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2019-1-16" id="cam6_66" language="en" product_id="B01JN28QQA" rating="5" title="Great Camera, Daughter Loves It">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="She's also tried more expensive cameras, prefers this one."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="I'm not a camera guy but she really likes it"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2019-1-13" id="cam6_67" language="en" product_id="B01JN28QQA" rating="5" title="Excellent">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="You can film a turd in your toilet, slap 'Directed by Steven Spielberg' on it and people will see it in theaters."/>
+            </Sentence>
+            <Sentence id="67:2">
+                <Text text="The footage from this camera looks better than real life somehow and it's very affordable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kevrock1" date="2018-12-29" id="cam6_68" language="en" product_id="B01JN28QQA" rating="4" title="I would recommend a series of Nikon">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="I would have wrote five stars but I was absolutely in love with the D 3200 from Nikon this camera is very effective and has very nice features links to my iPhone very easily and pictures are accessible within seconds don’t get me wrong this is a top-of-the-line camera I highly recommend it the picture quality is great I just expected it to be leaps and bounds better than the D 3200 which is not the case."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="nikon"/>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-11-25" id="cam6_69" language="en" product_id="B01JN28QQA" rating="5" title="Great camera!!">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="I'm pretty much exclusively self taught so I don't know much about the lingo, but I do know what to mess with to get the results I want."/>
+            </Sentence>
+            <Sentence id="69:2">
+                <Text text="My dad got me this camera as a gift and it has proved to be a very impressive travel partner and has gone with me to different countries and states, producing many great pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:3">
+                <Text text="This camera has helped me get a better feel for knowing what settings to use and when to use them and I've absolutely love the results it's given me for the price."/>
+            </Sentence>
+            <Sentence id="69:4">
+                <Text text="If you're looking for a camera to get started with or just want a more versatile camera to use on the go- this is a great choice."/>
+            </Sentence>
+            <Sentence id="69:5">
+                <Text text="I loved having the ability to use the wifi and quickly transfer pictures from my camera to my phone which made being the 'photographer friend' at parties a breeze because I could quickly air drop the pics to my friends without having to worry about uploading them to a computer and then to my phone while losing picture quality in the process."/>
+            </Sentence>
+            <Sentence id="69:6">
+                <Text text="It works really well in low-light situations like I have pictured, my friends and I were on a roof in Mexico and others were having trouble getting good pictures with the fading light but this camera adapted really well and my pictures still came out focused despite barely being able to see my own hands."/>
+            </Sentence>
+            <Sentence id="69:7">
+                <Text text="I'm going to upgrade to a Nikon D7200 but will definitely keep this exceptional camera as a back up, just figured I'd leave a good review for people looking to get started with photography and those looking to continue their learning :)"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="pablo arnoldo" date="2018-11-21" id="cam6_70" language="en" product_id="B01JN28QQA" rating="5" title="Great camera!">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="I bought this for my adult daughter."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="I have a D750 Nikon, so we are able to share lenses also."/>
+                <Opinions>
+                    <Opinion category="LENS" target="lenses"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="70:3">
+                <Text text="She absolutely loves this camera, and the quality of the images, from dark sky star shots, to landscape and portraits is phenomenal!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="portraits"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kindle Customer" date="2018-11-16" id="cam6_71" language="en" product_id="B01JN28QQA" rating="5" title="A very good entry level camera">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="This nikon is easy to use and provides fine results."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="nikon"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="71:2">
+                <Text text="Very happy."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="loco11" date="2018-11-15" id="cam6_72" language="en" product_id="B01JN28QQA" rating="5" title="Beautiful pictures">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Easy to use."/>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Clear photos, love it."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Moana-Marie Raquinio" date="2018-11-10" id="cam6_73" language="en" product_id="B01JN28QQA" rating="5" title="LOVE">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="I've never really owned a professional camera as this."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="73:2">
+                <Text text="To me, this is perfect for capturing moments with a vivid picture quality."/>
+            </Sentence>
+            <Sentence id="73:3">
+                <Text text="For the most part it is easy to use."/>
+            </Sentence>
+            <Sentence id="73:4">
+                <Text text="Just one minor problem I've had is where the flash doesn't come on when I want it to even when the flash option is on, and this happened only about 4 times so I'm not too concerned."/>
+            </Sentence>
+            <Sentence id="73:5">
+                <Text text="Overall, loving it!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ryan Pringle" date="2018-10-19" id="cam6_74" language="en" product_id="B01JN28QQA" rating="5" title="Amazing camera!">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Easy to use and the battery life is great!"/>
+            </Sentence>
+            <Sentence id="74:2">
+                <Text text="Takes really good pictures!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="74:3">
+                <Text text="Great for a new photographer."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Zachary" date="2018-9-23" id="cam6_75" language="en" product_id="B01JN28QQA" rating="5" title="Great Camera!">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="Really easy for beginners and professionals highly recommend"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Caleb" date="2018-8-1" id="cam6_76" language="en" product_id="B00HQCW7SS" rating="5" title="and I love it. Every new lens I buy opens new ...">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="I've had one of these for a year, and I love it."/>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Every new lens I buy opens new doors, and I've just ordered a second body to get more images."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Robert F. Gardner" date="2016-12-6" id="cam6_77" language="en" product_id="B00HQCW7SS" rating="5" title="Almost Perfect entry-level camera, get it, seriously get it...">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="I love this camera!"/>
+            </Sentence>
+            <Sentence id="77:2">
+                <Text text="I think it is fantastic."/>
+            </Sentence>
+            <Sentence id="77:3">
+                <Text text="If you want a great entry level camera that takes EXCELLENT images you need this camera."/>
+            </Sentence>
+            <Sentence id="77:4">
+                <Text text="It is small and light."/>
+            </Sentence>
+            <Sentence id="77:5">
+                <Text text="It is really good in low light."/>
+            </Sentence>
+            <Sentence id="77:6">
+                <Text text="Images at 6400 ISO are usable for most things."/>
+            </Sentence>
+            <Sentence id="77:7">
+                <Text text="I personally believe 24 mp is a sweet spot."/>
+            </Sentence>
+            <Sentence id="77:8">
+                <Text text="The files are not huge, and they load fairly fast in Lightroom."/>
+            </Sentence>
+            <Sentence id="77:9">
+                <Text text="Plus you can crop images and they will look fantastic."/>
+            </Sentence>
+            <Sentence id="77:10">
+                <Text text="lSeriously, if you are into taking great images and you want to start with a DSLR, you need this Nikon D3300 to begin your journey"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

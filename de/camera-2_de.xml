@@ -1,0 +1,1441 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Siggi" date="9.-Mai-2014" id="cam2_1" language="de" product_id="B00F3F0EIU" rating="5" title="GoPro Actionkamera Hero3+ Silver Edition">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Sehr sehr gute Cam."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon-Kunde" date="6.-Mai-2014" id="cam2_2" language="de" product_id="B00F3F0EIU" rating="5" title="Steht der Gold um nichts nach">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Da ich die Hero3+ Gold beim Eisklettern verloren habe, wollte ich schauen, ob die etwas billigere Silver Edition auch mithalten kann."/>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="Nach der ersten Tests kann ich sagen: definitiv."/>
+            </Sentence>
+            <Sentence id="2:3">
+                <Text text="Ich kann für meine Zwecke keinen Qualitätsverlust feststellen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="BMuno" date="5.-Mai-2014" id="cam2_3" language="de" product_id="B00F3F0EIU" rating="5" title="Super Kamera">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Die Kamera macht echt Spaß."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="3:2">
+                <Text text="Der Akku lädt schnell wieder auf wenn man vergisst die Kamer richtig abzustellen."/>
+            </Sentence>
+            <Sentence id="3:3">
+                <Text text="Allerdings würde ich das zusätzliche Display empfehlen, welches die Bedienung erleichtert und einem die Möglichkeit bietet die Kamera auch so komfortable zu benutzen"/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="display"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian Winkler" date="24.-April-2014" id="cam2_4" language="de" product_id="B00F3F0EIU" rating="5" title="Kommentarlos einfach genial">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Hatte die Kamera jetzt mehrmals im Einsatz, super Videos... macht einfach Spaß und liefert super Erinnerungen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="HeliGeri" date="23.-April-2014" id="cam2_5" language="de" product_id="B00F3F0EIU" rating="5" title="Flycam für Blade 350 QX-vom Feinsten">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Habe die Kamera für meinen Horizon Blade 350 QX gekauft und habe endlich die Cam gefunden die sich auch mit dem Quadrocopter verträgt."/>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Das GPS-Signal wird nicht gestört."/>
+            </Sentence>
+            <Sentence id="5:3">
+                <Text text="Die Videoaufnahmen sind sehr gut."/>
+            </Sentence>
+            <Sentence id="5:4">
+                <Text text="Filme mit der Auflösung 1920x1080-50fps."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="filme"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:5">
+                <Text text="Mit der Linseneinstellung Narrow wird die Umgebung unverzehrt aufgenommen."/>
+            </Sentence>
+            <Sentence id="5:6">
+                <Text text="Die Videobitrate liegt dabei über 20 Mbit/Sec."/>
+            </Sentence>
+            <Sentence id="5:7">
+                <Text text="Dabei kommen Datenmengen von ca."/>
+            </Sentence>
+            <Sentence id="5:8">
+                <Text text="1,8 GB bei 10 Min."/>
+            </Sentence>
+            <Sentence id="5:9">
+                <Text text="zusammen."/>
+            </Sentence>
+            <Sentence id="5:10">
+                <Text text="Es empfiehlt sich eine Micro-SD Card mit 32 GB und Class 10."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Renato" date="18.-April-2014" id="cam2_6" language="de" product_id="B00F3F0EIU" rating="5" title="Alles bestens!">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="20 Quatschwörter schreiben finde ich etwas unprofessionel."/>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="An Webmaster:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Radler333" date="16.-April-2014" id="cam2_7" language="de" product_id="B00F3F0EIU" rating="5" title="Tolle Kamera">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Sie wird als das non +ultra der Actioncam gepriesen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kai" date="15.-April-2014" id="cam2_8" language="de" product_id="B00F3F0EIU" rating="5" title="Einfach super">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Was will man mehr."/>
+            </Sentence>
+            <Sentence id="8:2">
+                <Text text="Mit der Gopro App kann man alle Einstellungen der Kamera kinderleicht vom Handy oder Pad aus vornehmen."/>
+            </Sentence>
+            <Sentence id="8:3">
+                <Text text="Was ich auch sehr gut finde ist, das man genau sehen kann was man aufnimmt."/>
+            </Sentence>
+            <Sentence id="8:4">
+                <Text text="Das Bild wird auch während des Aufnehmens mit leichter Verzögerung (ca."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="verzögerung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="8:5">
+                <Text text="2 sec.)"/>
+            </Sentence>
+            <Sentence id="8:6">
+                <Text text="an das Handy oder Pad übertragen."/>
+            </Sentence>
+            <Sentence id="8:7">
+                <Text text="Gute Bild und Tonqualität."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Simon Kellner" date="14.-April-2014" id="cam2_9" language="de" product_id="B00F3F0EIU" rating="4" title="Tolles Teil">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="Super Teil man kann schöne Timelaps machen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="lanana" date="4.-April-2014" id="cam2_10" language="de" product_id="B00F3F0EIU" rating="5" title="Man kriegt sie nicht kaputt">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Diese Kamera ist nicht kaputtzukriegen."/>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="Bei gut 20 km/h vom Fahrrad gefallen, aber kein Kratzer!"/>
+            </Sentence>
+            <Sentence id="10:3">
+                <Text text="Die lowlight Performance ist zwar dürftig (wer hier eine bessere will braucht wohl die Blackedition), aber bei gutem Licht sind die Aufnahmen auch bei hohen Geschwindigkeiten phänomenal."/>
+            </Sentence>
+            <Sentence id="10:4">
+                <Text text="Herrausragend ist auch die Kopplungsmöglkichkeit über Wifi mit dem Smartphone/Tablet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ulrich Schenk" date="3.-Oktober-2015" id="cam2_11" language="de" product_id="B00F3F0EIU" rating="5" title="Top Kamera">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Ich hatte zuerst die GoPro1, mit der ich auch schon zufrieden war."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefan Hahne" date="17.-September-2015" id="cam2_12" language="de" product_id="B00F3F0EIU" rating="2" title="GoPro - Nicht moch einmal">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Auch Enttäuscht!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mark" date="26.-August-2015" id="cam2_13" language="de" product_id="B00F3F0EIU" rating="5" title="beste hero 3+">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Top Ware , einfach zu bedienen , macht super Videos , tolle Verarbeitung , tolles Zubehör , einfach genial ."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                    <Opinion category="GENERAL" target="zubehör"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea" date="22.-August-2015" id="cam2_14" language="de" product_id="B00F3F0EIU" rating="5" title="Ottimo rapporto qualità/prezzo">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Ottimo arrivata nel tempo previsto, per il resto è inutile descrivere la action cam penso ormai la conoscete tutti, comunque tutto ottimo spedizione e pacco"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus" date="22.-Juli-2015" id="cam2_15" language="de" product_id="B00F3F0EIU" rating="4" title="wo ist der Schwenkarm ???">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Ich bin sehr zufrieden, außer das beim Lieferumfang auf der 3-Wege-Schwenkarm dabei steht."/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Der allerdings nicht dabei ist ?!?!?!"/>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="Es sind noch zusätzlich 2 befestigungsfüsse dabei, aber einen Schwenkarm Suche ich vergeblichst... Wenn ich weiß warum das so ist gibt's 5 Sterne..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="matze" date="17.-Juli-2015" id="cam2_16" language="de" product_id="B00F3F0EIU" rating="5" title="echt super">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="was soll ich sagen habe diese Gopro für 200 € über einen Drittanbieter bei Amazone gekauft."/>
+            </Sentence>
+            <Sentence id="16:2">
+                <Text text="Das Angebot galt nur einen Tag, da ein großer Konkurrent S***** ähnlich warb."/>
+            </Sentence>
+            <Sentence id="16:3">
+                <Text text="Das die Kamera gut ist möchte ich hier nicht weiter ausführen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:4">
+                <Text text="Versand hat leider fünf Wochen gedauert aber das war es wert…"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Felix Zimmer" date="5.-Juli-2015" id="cam2_17" language="de" product_id="B00F3F0EIU" rating="4" title="Gute Cam aber die Videos hängen beim anschauen">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Hey, ich hab mir letztens die GoPro Hero 3+ Silver gekauft."/>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Die cam ist verdammt gut."/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Aber wenn ich mir die Videos aufm Handy anschaue, sie aufs Handy lade hängen die Videos extremst und das is nervtötend, ebenso wie wenn ich sie verschicke, whats app schmiert dabei immer komplett ab und beendet sich von selbst und über Facebook hängt es auch total."/>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="An was liegt das und wie kann ich es machen das es nicht mehr hängt?"/>
+            </Sentence>
+            <Sentence id="17:5">
+                <Text text="Vielen dank schon mal im voraus."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Horst" date="13.-Juni-2015" id="cam2_18" language="de" product_id="B00F3F0EIU" rating="2" title="Bekanntes Problem">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Leider habe ich ebenfalls eine der GoPro 3 erwischt die ab einer Entfernung ab ca."/>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="10 m alles im Video verwaschen darstellt."/>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="Hätte da von GoPro mehr erwartet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="derReichert" date="1.-Juni-2015" id="cam2_19" language="de" product_id="B00F3F0EIU" rating="1" title="Verstehe den GoPro-Hype nicht ...">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="... habe diese Kamera bestellt nach dem ich soviel gutes von ihr gehört habe!"/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Also bei Amazon bestellt, schnell geliefert (war was anderes zu erwarten?)"/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="und ausgepackt und gleich einmal losgelegt im Häuslichen Umfeld ... und die Enttäuschung nahm kein ende ... lange Verzögerung bei der Kamera-Auslösung (also in meinen Augen nichts für einen Schnellschuss) ... rauschendes Videos ."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="verzögerung"/>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:4">
+                <Text text="auch wenn ich an den Einstellungen gespielt habe ... Im Endeffekt alles wieder sauber eingepackt und an Amazon zurück, schade ... wie gesagt ich versteh den GoPro-Hype nicht!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kerstin W. aus N. am R." date="23.-März-2015" id="cam2_20" language="de" product_id="B00F3F0EIU" rating="5" title="Klasse Camera">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Habe die GoPro für meinen Sohn gekauft."/>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Macht klasse Fotos und Filme."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="selbst Unterwasseraufnehmen sind gut."/>
+            </Sentence>
+            <Sentence id="20:4">
+                <Text text="Akkulaufzeit ist okay."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="akkulaufzeit"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:5">
+                <Text text="Er ist vollauf begeistert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="A. Haffke" date="17.-März-2015" id="cam2_21" language="de" product_id="B00F3F0EIU" rating="5" title="Go Pro Hero 3+">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Ich suchte für einen Freund zum Geb."/>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="das passende Geschenk und Amazon bot auf die Schnelle das preiswerteste Angebot."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:3">
+                <Text text="Ich bin zufrieden und hoffe mein Freund auch."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tim" date="3.-März-2015" id="cam2_22" language="de" product_id="B00F3F0EIU" rating="5" title="Perfekt zum 'drehen'">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Wir haben uns für die GoPro Hero 3+ entschieden da wir eine gute fullHd-cam gesucht haben."/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Wir sind keine Hobby oder Sportfilmer."/>
+            </Sentence>
+            <Sentence id="22:3">
+                <Text text="Wir brauchen eine cam rein für die Erotikbranche."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hermann Geiger" date="24.-Februar-2015" id="cam2_23" language="de" product_id="B00F3F0EIU" rating="5" title="Toll!">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Man sollte es nicht glauben, was dieses kleine Ding doch für tolle Bilder und Filme macht!!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                    <Opinion category="VIDEO" target="filme"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Und das auch noch unter Wasser, wenn es sein muss!"/>
+            </Sentence>
+            <Sentence id="23:3">
+                <Text text="Mein Sohn ist auf jeden Fall begeistert von seiner GoPro!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:4">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Veronika Neidl" date="20.-Februar-2015" id="cam2_24" language="de" product_id="B00F3F0EIU" rating="5" title="GoPro Hero3+">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Ich habe mich auf Empfehlung eines Freundes für diese Kamera entschieden"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dice8" date="22.-Januar-2015" id="cam2_25" language="de" product_id="B00F3F0EIU" rating="5" title="Perfekte Kamera für den 'Prosumer'">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Ich benutze die Gopro beim skifahren, mountainbiken (Downhill, Enduro) und bin hellauf begeistert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lars Küster" date="13.-Januar-2015" id="cam2_26" language="de" product_id="B00F3F0EIU" rating="5" title="Super Teil!">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Ich konnte diese Kamera bei einem Kumpel testen, die Auflösung ist der Hammer!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dr. Angelika Senger" date="1.-Januar-2015" id="cam2_27" language="de" product_id="B00F3F0EIU" rating="5" title="Helmkamera">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Habe die Kamera erst kurz , insofern kann ich noch nicht vollständig beurteilen, ob sich die Helmkamera für alle Zecke eignet und ob die Halterung bei starken Bewegungen auch stabil bleibt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcel" date="1.-Januar-2015" id="cam2_28" language="de" product_id="B00F3F0EIU" rating="4" title="geil!">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="geil!!"/>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="!selbst bei über 250 kmh noch super detaillierte und scharfe bilder.. und kaum verwackelt..!in der einzelbildfunktion leider manchmal kleine schwächen..aber dafür gibts ja auch ne spiegelreflex!für uns hat sie sich absolut gelohnt!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Erika Sonnhalter" date="28.-Dezember-2014" id="cam2_29" language="de" product_id="B00F3F0EIU" rating="5" title="alles o.K.,">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Originalverpackung, alles kam trotz Weihnachtsgeschäft pünktlich an, Kamera entsprach den Erwartungen, die gelesenen Erfahrungen stimmten mit unserem Eindruck positiv überein"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="OTHER" target="eindruck"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mr. Jane" date="20.-November-2014" id="cam2_30" language="de" product_id="B00F3F0EIU" rating="5" title="Einfach super für jede Situation!!!">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Was soll man zu dieser Kamera schon groß sagen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="Jeder kennt sie."/>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="Ich bin mega zufrieden mit der Größe und Performance der Kamera."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Karen" date="21.-Oktober-2014" id="cam2_31" language="de" product_id="B00F3F0EIU" rating="5" title="GoPro hero 3 + silver edition">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Habe die GoPro nach zwei Tagen nach der Bestellung erhalten."/>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="Die 10 MP lohnt sich, wollte erst die White Edition kaufen."/>
+            </Sentence>
+            <Sentence id="31:3">
+                <Text text="Das ist das Geld wert."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="geld"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="31:4">
+                <Text text="Die App könnte man verbessern, da die Auflösung nicht so gut ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kathrin Weber" date="16.-Oktober-2014" id="cam2_32" language="de" product_id="B00F3F0EIU" rating="5" title="Nie mehr ohne!">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Ich habe meine GoPro jetzt seit knapp 3 Monaten und möchte nicht mehr ohne."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bamboocha" date="10.-Oktober-2014" id="cam2_33" language="de" product_id="B00F3F0EIU" rating="5" title="Einfach Prima">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Super geile Action Kamera."/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="Hatte vorher einer von einem anderen Anbieter."/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="Und das war im Vergleich zu GoPro einfach lachhaft."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:4">
+                <Text text="Diese Kamera macht was sie soll und das in einer so hohen Auflösung mit 60 Bildern pro Sekunde das mein Laptop diese Videos nicht sauber abspielen kann."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:5">
+                <Text text=":-)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="OoSarahoO" date="27.-September-2014" id="cam2_34" language="de" product_id="B00F3F0EIU" rating="5" title="Die Beste Outdoor Kamera!">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Ein super Produkt!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Walter" date="25.-September-2014" id="cam2_35" language="de" product_id="B00F3F0EIU" rating="5" title="Ist zum empfehlen!">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Sehr handlich!"/>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="Mit wasserdichten Gehäuse gleich in Griechenland beim tauchen getestet!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="gehäuse"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:3">
+                <Text text="Sehr Gute Aufnahmen unter Wasser!!"/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:4">
+                <Text text="Auch beim reiten verwendet!"/>
+            </Sentence>
+            <Sentence id="35:5">
+                <Text text="Einfach ok!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DaKe" date="10.-September-2014" id="cam2_36" language="de" product_id="B00F3F0EIU" rating="5" title="Super!">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="GoPro halt."/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="Macht tolle Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="Im Nachhinein würde ich allen raten, sofort zur teureren Black Edition zu greifen."/>
+            </Sentence>
+            <Sentence id="36:4">
+                <Text text="Wer einmal mit GoPro-Videos anfängt, will schnell mehr und dafür ist dann eine bessere Version notwendig."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. Schwärzel" date="24.-August-2014" id="cam2_37" language="de" product_id="B00F3F0EIU" rating="5" title="Eine sehr gute Kamera">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Die Kamera ist wirklich ihr Geld wert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="PRICE" target="geld"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="21.-August-2014" id="cam2_38" language="de" product_id="B00F3F0EIU" rating="5" title="Prima Gerät ...">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="... macht exakt, was es soll und hat keinerlei Macken."/>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Alles mögliche schon ausprobiert - funktioniert aber tadellos."/>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Kauf Empfehlung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="René Gufler" date="21.-August-2014" id="cam2_39" language="de" product_id="B00F3F0EIU" rating="4" title="Perfekt!!">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Für mich ist die GoPro Hero 3+ Silver jeden Cent wert und im Verhältnis zur Black Edition fast schon ein Schnäppchen wenn man bedenkt dass es nicht so viele Unterschiede zwischen den beiden Modellen gibt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ein Kunde" date="20.-August-2014" id="cam2_40" language="de" product_id="B00F3F0EIU" rating="4" title="geiles Ding fuer Motoradfahrten, fuers Tauchen eher nicht zu empfehlen">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="zum Aufnehmen von Motorradfahrten super geeignet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Felix Eliasch" date="20.-Juni-2014" id="cam2_41" language="de" product_id="B00F3F0EIU" rating="3" title="Kein  Zubehör">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Kamera macht schöne Aufnahmen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Jedoch bis es soweit ist das man weiß was und wie man es filmt (Halterungen) und es sich ordentlich ansehen kann ( z.B.Fernseher) kauft man Zubehör zum gleichen Preis.Wenn man sich ein LCD Display kauft bekommt man das alte 60 m dichte Gehäuse mit sämtlichen Deckeln dazu jedoch keinen Deckel für das Originale Gehäuse (kleiner).Es gibt aber witzigerweise für das Standard Housing ein BacPac Backdoor Kit von Gopro für 13.99 € mit allen  Deckeln womit man ein komlettes Gehäuse für LCD Display als Reserve hat,das wiederum sehr gut ist ."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="zubehör"/>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Monoxotix" date="16.-Juni-2014" id="cam2_42" language="de" product_id="B00F3F0EIU" rating="5" title="Richtig Geile Aktion Kamera">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Ja die Kamera ist wirklich geil und ich bekomme kein Geld dafür."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Kauf Empfehlung zu einhundert prozent ."/>
+            </Sentence>
+            <Sentence id="42:3">
+                <Text text="Richtig geile kamera"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nat, Finistère" date="13.-Juni-2014" id="cam2_43" language="de" product_id="B00F3F0EIU" rating="5" title="Great !">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Amazing video quality, I don't know about the black the the silver is already fantastic!"/>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Such fun for family and sports!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="dot_ore" date="3.-Juni-2014" id="cam2_44" language="de" product_id="B00F3F0EIU" rating="3" title="Okay...">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Update: 13.08.14"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Silvia" date="1.-Juni-2014" id="cam2_45" language="de" product_id="B00F3F0EIU" rating="5" title="super kamera">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="leider die bedienungsanleitung nur auf englisch (kann aber deutsch  über das internet ausgedruckt werden)."/>
+            </Sentence>
+            <Sentence id="45:2">
+                <Text text="ansonsten ein super ding das man jeden abenteurer biker u. sportler nur empfehlen kann."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hardie" date="28.-Mai-2014" id="cam2_46" language="de" product_id="B00F3F0EIU" rating="5" title="HERO 3+ Silver Edition TOP">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="Nach einem ewigem Rezensionen Studium habe ich für meinen 11 jährigen Sohn eine HERO 3+ Silver Edition zum Geburtstag gekauft und ich bin begeistert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="hero"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="Ich hab es mir echt schwer gemacht, weil ich auf Grund mehrerer unprofessioneller und inkompetenter Rezensionen Schreiber immer wieder zur deutlich teureren Black Edition hin tendiert habe."/>
+            </Sentence>
+            <Sentence id="46:3">
+                <Text text="Aber letztendlich, was soll ich sagen, bin ich sehr froh dass ich meinem Instinkt vertraut habe."/>
+            </Sentence>
+            <Sentence id="46:4">
+                <Text text="Denn:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="voldenauer christina" date="27.-Mai-2014" id="cam2_47" language="de" product_id="B00F3F0EIU" rating="5" title="Super actioncamera">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Die gopro ist auf meinem Quadrocopter installiert und macht super Aufnahmen und hält auch stürze aus."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Sie ist dennoch sehr klein und leicht."/>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Klare kaufempfehlung"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="shaolin62" date="20.-Mai-2014" id="cam2_48" language="de" product_id="B00F3F0EIU" rating="5" title="sehr gut">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Man sucht im Leben eine Lösung für die Dokumentation entscheidender Momente."/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="Ich konnte meine Kinder einhändig beim Skifahren solange aufnehmen, bis sie noch 'klein' waren."/>
+            </Sentence>
+            <Sentence id="48:3">
+                <Text text="Heute überlege ich überhaupt einhändig zu fahren, wenn ich denen hinterherfahre."/>
+            </Sentence>
+            <Sentence id="48:4">
+                <Text text="Das Gerät GoPro passt schon."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Helmut Ritzer" date="14.-Mai-2014" id="cam2_49" language="de" product_id="B00F3F0EIU" rating="5" title="Einfach das beste was es derzeit an Actioncams gibt.">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Meiner Meinung nach ist die Silver Edition ausreichend, zumal UHD noch nicht ausgereift ist."/>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="Das bordeigene Micro ist sehr gut, was mich anfangs erstaunt hat."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Miky" date="13.-Mai-2014" id="cam2_50" language="de" product_id="B00F3F0EIU" rating="3" title="Kleiner Leichter ...???">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Habe die Kamera Hero 3+ Silver Edition gerade mit meiner Hero 3 Silver Edition ( Vorgänger Model ) in den Maßen verglichen und festgestellt, das beide gleich sind."/>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="Soviel zu 20% kleiner, zum Gewicht auf einer Briefwaage die Hero 3 mit original Akku = 74g, die Hero 3+  mit original Akku = 74g, soviel zu leichter ... Zur besseren Akku Leistung, WiFi und Sensor kann ich leider nichts aussagen ... Wie auch."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="leistung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Verpackung ( im Original ) und Kamera verweisen auf die neue Hero 3+."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="hero"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:4">
+                <Text text="Bin ich den Marketingstrategien unterlegen ?"/>
+            </Sentence>
+            <Sentence id="50:5">
+                <Text text="Auf der GoPro Seite haben sie einen Größenvergleich, da sieht die neue kleiner aus."/>
+            </Sentence>
+            <Sentence id="50:6">
+                <Text text="Werde mir die Kamera mal bei in einen Store vergleichen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="uuulala" date="13.-März-2014" id="cam2_51" language="de" product_id="B00F3F0EIU" rating="1" title="Überteuert, überbewertet, fehlerhaft">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Ich habe diese Kamera fürs Auto gekauft."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Sie ist definitiv für Kalifornien und nicht für Bayern gemacht."/>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="Die Aufnahmen gelingen nur bei gutem, sonnigen Wetter."/>
+            </Sentence>
+            <Sentence id="51:4">
+                <Text text="Die Autokennzeichen werden dagegen gar nicht sichtbar (alles weiss)."/>
+            </Sentence>
+            <Sentence id="51:5">
+                <Text text="Bei der Umstellung auf 'In_Auto_Modus' ('spot' gennant) werden die Kennzeichen in der Entfernung von 2-5 Meter lesbar, die ganze Qualität ab 5 Meter ist dagegen weg - alles verschwommen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:6">
+                <Text text="Dasselbe in der Nacht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="wolli996" date="9.-März-2014" id="cam2_52" language="de" product_id="B00F3F0EIU" rating="5" title="Wolli996">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Feine Kamera obwohl der Preis überzogen ist."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Für das Geld gibt es ja schon richtige Fotogeräte und dazu mit ordentlichem Display."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="display"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="Wifi nach einem Meter Entfernung am Copter schon ohne Funktion."/>
+            </Sentence>
+            <Sentence id="52:4">
+                <Text text="Deswegen auch Rücksendung"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="lemuba" date="22.-Februar-2014" id="cam2_53" language="de" product_id="B00F3F0EIU" rating="3" title="Fixfokus der Linse nur für Nahbereich zu gebrauchen - sonst besser eine GoPro 3 Black Edition ohne Plus kaufen!">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="Moin Moin,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreascook" date="21.-Februar-2014" id="cam2_54" language="de" product_id="B00F3F0EIU" rating="5" title="Empfehlung">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Tolles Gerät."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="L.V." date="10.-Februar-2014" id="cam2_55" language="de" product_id="B00F3F0EIU" rating="1" title="Funktioniert nicht">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Habe die GoPro Hero 3 Silver bestellt und die Hero 3+ silver erhalen, bei der die Protune Funktion nicht mehr dabei ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nic" date="9.-Februar-2014" id="cam2_56" language="de" product_id="B00F3F0EIU" rating="5" title="Lieblingskamera">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Ich konnte erst zwoschen Hero 3 white und Hero 3+ silver nicht wählen."/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="Ich war mit dem Silver edition ein bisschen skäptisch, weil ich so viele negative Kommentare gelesen habe."/>
+            </Sentence>
+            <Sentence id="56:3">
+                <Text text="Später habe ich doch dafür entschieden, wegen Bildstabilisator."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Arnold K." date="8.-Februar-2014" id="cam2_57" language="de" product_id="B00F3F0EIU" rating="1" title="Fehler - Optik (Hintergrund ist 'matschig')">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="leider hat die GoPro Hero3+ Silver die gleichen Probleme wie die 3+ Black (schaut dort nach Schärfeproblemen im Hintergrund Rezensionen)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Raycota-09" date="8.-Januar-2014" id="cam2_58" language="de" product_id="B00F3F0EIU" rating="2" title="Silver Edition ist mehr Bronze = überteuerter Einstieg in die Gopro Welt">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Als Umsteiger von der Gopro HD Original auf ein aktuelles Modell musste ich mich durch die Silver Version enttäuschen lassen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Utz" date="6.-Januar-2014" id="cam2_59" language="de" product_id="B00F3F0EIU" rating="5" title="Robust">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Passt prima rein und ist stabil."/>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="Kann ich nur empfehlen."/>
+            </Sentence>
+            <Sentence id="59:3">
+                <Text text="Dieses Jahr kommt Sie mit in den Rucksack zum boarden."/>
+            </Sentence>
+            <Sentence id="59:4">
+                <Text text="Mal sehen wie der Umgang damit ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lukas S." date="28.-Dezember-2013" id="cam2_60" language="de" product_id="B00F3F0EIU" rating="5" title="Top zufrieden">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Als ich mich überwunden hatte den Schritt zu wagen und mein Taschengeld in diese Kamera zu investieren wurde ich nicht enttäuscht."/>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="Die Fotos, bei Zeitraffern, der Hammer."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wst" date="29.-Juli-2014" id="cam2_61" language="de" product_id="B00F3F0EIU" rating="4" title="Gefällt mir">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Ein Punkt Abzug da in der Beschreibung steht das die protune Funktion dabei sei ist sie aber nicht Trd ist das eine Hammer Aktion Cam und für den Preis unschlagbar im Laden zahlt man immer noch über 300 Euro"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael S." date="28.-Juli-2014" id="cam2_62" language="de" product_id="B00F3F0EIU" rating="5" title="top produkt">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="..leider ist der akku nur etwas schwach, ansonsten ist die gopro ein must have am markt!"/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="tipp auch die remote besorgen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sven Petersen" date="26.-Juli-2014" id="cam2_63" language="de" product_id="B00F3F0EIU" rating="3" title="Viel Zubehör erforderlich">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Ich habe die GoPro Hero3+ silver jetzt ein paar Wochen und bin eigentlich ganz zufrieden damit."/>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="Zunächst möchte ich einmal ein Wort zur Größe verlieren."/>
+            </Sentence>
+            <Sentence id="63:3">
+                <Text text="Auf Grund der Bilder ist diese nämlich schwer abzuschätzen."/>
+            </Sentence>
+            <Sentence id="63:4">
+                <Text text="Die Kamera ist erstaunlich klein, vielleicht halb so groß wie eine übliche Zigarettenschachtel."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:5">
+                <Text text="Sie bedeckt die Handfläche nicht, selbst wenn sie im wasserdichten Gehäuse eingebaut ist."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="gehäuse"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dimitri Noël" date="25.-Juli-2014" id="cam2_64" language="de" product_id="B00F3F0EIU" rating="5" title="super action cam">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="image de qualité, même en mtb et vidéo sous marine incroyable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Turbo" date="25.-Juli-2014" id="cam2_65" language="de" product_id="B00F3F0EIU" rating="1" title="FOKUSPROBLEME Herstellungsdatum 11/2013 !">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Habe die GoPro 3+ SILVER nach Erhalt ausgiebig ian mehreren Orten und auch unterm fahren im Auto ausprobiert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael Kunz" date="24.-Juli-2014" id="cam2_66" language="de" product_id="B00F3F0EIU" rating="5" title="Super Action Kamera mit perfekter Bildqualität und Fotofunktion - ink. Appsteuerung per Smartphone - teures Zubehör nicht dabei!">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Da ich mir schon lange eine zweite kleine Spaßkamera anschaffen wollte habe ich mir 3 verschiedene Modelle angeschaut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rudolf" date="24.-Juli-2014" id="cam2_67" language="de" product_id="B00F3F0EIU" rating="5" title="Super Teil!!! Macht tolle Aufnahmen">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Alles bestens abgelaufen - super - schnelle Lierfung und einwandfreie Ware wie gesehen."/>
+            </Sentence>
+            <Sentence id="67:2">
+                <Text text="Ist weiterzuempfehlen - gerne bestelle ich mal wieder"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian" date="23.-Juli-2014" id="cam2_68" language="de" product_id="B00F3F0EIU" rating="5" title="Top Actionkamera">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Ich kann jeden der eine Aktionkamera sucht nur die GoPro Empfehlen."/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="Ist bei mir immer dabei am Boden in der Luft und im Wasser."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="TanPapSer" date="22.-Juli-2014" id="cam2_69" language="de" product_id="B00F3F0EIU" rating="4" title="Die Kamera für nahezu jede sportliche Aktivität">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Das Original ist das Einzige."/>
+            </Sentence>
+            <Sentence id="69:2">
+                <Text text="Passt überall hin, viel Zubehör und einfach zu bedienen."/>
+            </Sentence>
+            <Sentence id="69:3">
+                <Text text="Einziger Kritikpunkt der 3+ ist nur, dass das Kamergehäuse nicht mit der Hero 3 Silver Edition kompatibel ist."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="hero"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bluebu" date="22.-Juli-2014" id="cam2_70" language="de" product_id="B00F3F0EIU" rating="5" title="Klasse Gerät">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="Die GoPro Hero 3+ Silver, war meine erste Action Cam."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="Ich hab lange überlegt mir wegen der vielen Negativkommentare die Black Edition zu kaufen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael Mayer" date="16.-Juli-2014" id="cam2_71" language="de" product_id="B00F3F0EIU" rating="5" title="Perfekt!">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Bin sehr zufrieden mit der Gopro silver edition."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="71:2">
+                <Text text="Dachte zuerst noch ueber die black edition nach, aber wer filmt schon in 4K."/>
+            </Sentence>
+            <Sentence id="71:3">
+                <Text text="Super Kamera fuer Sport und zum Tauchen (in Kombination mit einem Schwimmer)."/>
+            </Sentence>
+            <Sentence id="71:4">
+                <Text text="Bildqualitaet von Film und Fotos ist ausgezeichnet!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alex M" date="9.-Juli-2014" id="cam2_72" language="de" product_id="B00F3F0EIU" rating="1" title="Silver keine Alternative zur Black Edition (auch diese einfach nur schlecht)">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Habe lange mit der Bewertung gehadert."/>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="In der Vergangenheit war ich mit sämtlichen Bestellungen seitens Amazon immer zufrieden."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="72:3">
+                <Text text="Allerdings muss man zur GoPro Hero3+ BE sagen, die Kamera ist im Produktionszeitraum Sep-Nov 2013 einfach nur grottig."/>
+            </Sentence>
+            <Sentence id="72:4">
+                <Text text="Bekannter Fokusfehler (wer mehr infos benötigt), einfach mal bei Google nach 'GoPro Fokusfehler' suchen."/>
+            </Sentence>
+            <Sentence id="72:5">
+                <Text text="Ich verstehe ehrlich gesagt auch nicht, warum Amazon diesen Bestand noch anbietet."/>
+            </Sentence>
+            <Sentence id="72:6">
+                <Text text="Bei meiner dritten Bestellung bin ich eigentlich davon ausgegangen mal eine Produktion aus 2014 zu erhalten."/>
+            </Sentence>
+            <Sentence id="72:7">
+                <Text text="Weit gefehlt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas KnÃpfer" date="8.-Juli-2014" id="cam2_73" language="de" product_id="B00F3F0EIU" rating="5" title="Geilomat">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Egal ob am Motorrad, Hund oder Rasenmäher, das Ding macht einfach nur Spaß und beflügelt die Kreativität!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus Mroz" date="27.-Juni-2014" id="cam2_74" language="de" product_id="B00F3F0EIU" rating="5" title="EINFACH SUUUPER!!!">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Eine wundervolle Kamera und eine günstige alternative zur Blackedition...."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Timm" date="27.-Juni-2014" id="cam2_75" language="de" product_id="B00F3F0EIU" rating="5" title="Einfach nur...">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="...Hammer!"/>
+            </Sentence>
+            <Sentence id="75:2">
+                <Text text="Mehr gibts da nicht zu sagen!"/>
+            </Sentence>
+            <Sentence id="75:3">
+                <Text text="Habe mich in diese Cam verliebt :D Kann Sie nur jedem empfehlen, echt klasse Teil!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="S. Trifonov" date="25.-Juni-2014" id="cam2_76" language="de" product_id="B00F3F0EIU" rating="2" title="Für den Preis passt die Cam. Im Vergleich zu Hero 3 black allerdings deutlich schlechter">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Bei meiner Bewertung gehe ich auf eine größere Videoproduktion ein."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. Lutz" date="25.-Juni-2014" id="cam2_77" language="de" product_id="B00F3F0EIU" rating="5" title="Großer Spass mit guten Bildern">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="War zwischen der Black und der Silver Edition am schwanken, jedoch habe ich mich aufgrund der positiven Bewertung der Silver für diese entschieden und fühle mich bestätigt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claudia M." date="25.-Juni-2014" id="cam2_78" language="de" product_id="B00F3F0EIU" rating="4" title="Gute Kamera!">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Habe mir die GoPro Hero 3+ Silver Edition Anfang des Jahres geleistet und muss dazu sagen, es ist meine erste GoPro."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eugen Kwol" date="23.-Juni-2014" id="cam2_79" language="de" product_id="B00F3F0EIU" rating="5" title="Super">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Ich bin zwar kein Profi, aber habe die Kamera gekauft um sie vor allem in Wasser zu benutzen."/>
+            </Sentence>
+            <Sentence id="79:2">
+                <Text text="Ich bin schockiert...die Aufnahmen haben alles was ich erwartet habe übertroffen."/>
+            </Sentence>
+            <Sentence id="79:3">
+                <Text text="Bei eine Auflösung von 1080 und 60Fps habe ich in 50 Meter Becken - Tauchtiefe etwa 1,5 Meter fast jede Detail auf dem anderen ende gesehen und auch superscharfe Farbwiedergabe von Schwimmer (als Wiedergabegerät mac 27')."/>
+            </Sentence>
+            <Sentence id="79:4">
+                <Text text="Problemlose update und Steuerung mit dem iPhone."/>
+            </Sentence>
+            <Sentence id="79:5">
+                <Text text="Da ich nicht besonders in Englich fit bin habe ich die Einleitung als PDF von Chip.de geladen."/>
+            </Sentence>
+            <Sentence id="79:6">
+                <Text text="Einziges kleines Manko ist die Zubehörmenge.....aber weil nicht jeder alles bracht kann man nachkaufen :)."/>
+            </Sentence>
+            <Sentence id="79:7">
+                <Text text="Von mir zuerst vollste 5 Sterne."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="neteinstein" date="23.-Juni-2014" id="cam2_80" language="de" product_id="B00F3F0EIU" rating="4" title="Very nice camera">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="The only thing I miss from the Black version that I think that should also be present in this on is the white balance management, at least an automatic one."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ellipirelli" date="27.-Dezember-2018" id="cam2_81" language="de" product_id="B00F3F0EIU" rating="5" title="Super Qualität">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Hat sehr gute Dienste geleistet."/>
+            </Sentence>
+            <Sentence id="81:2">
+                <Text text="Einfach Klasse Filmaufnahmen."/>
+            </Sentence>
+            <Sentence id="81:3">
+                <Text text="Vollste Kundenzufriedenheit!"/>
+            </Sentence>
+            <Sentence id="81:4">
+                <Text text="Absolute Weiterempfehlung!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ein Amazon Kunde" date="1.-Oktober-2018" id="cam2_82" language="de" product_id="B00F3F0EIU" rating="5" title="Für mich 'Die GoPro'">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Die 3+ Silver hat für mich alles, was ich von einer ActionCam erwarte."/>
+            </Sentence>
+            <Sentence id="82:2">
+                <Text text="Ich nutze sie meist für's Gerätetauchen bis 40m mit einem UW-Scheinwerfer."/>
+            </Sentence>
+            <Sentence id="82:3">
+                <Text text="Ohne LCD Back, aber mit einem Extra Akkupack."/>
+            </Sentence>
+            <Sentence id="82:4">
+                <Text text="Die Ausdauer dieser Kombination ist für zwei ausgedehnte Tauchgänge ausreichend."/>
+            </Sentence>
+            <Sentence id="82:5">
+                <Text text="Ich zumindest benötige keine Extremauflösung oder andere Features, die die neueren Modelle haben."/>
+            </Sentence>
+            <Sentence id="82:6">
+                <Text text="Der Preis dafür ist (soweit ich das sehe) immer eine geringere Akkulaufzeit."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="akkulaufzeit"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="82:7">
+                <Text text="Und eine GoPro auf einem nassen, schwankenden Boot muss für mich einfach ohne Akkuwechsel viele Stunden laufen, sonst ist sie nichts wert."/>
+            </Sentence>
+            <Sentence id="82:8">
+                <Text text="Die 3+ Silver macht das alles perfekt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Janis" date="5.-Juni-2018" id="cam2_83" language="de" product_id="B00F3F0EIU" rating="4" title="Gute Kamera">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Macht super Aufnahmen und hab sie jetzt schon 4 Jahre."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="83:2">
+                <Text text="Ein Punkt Abzug gibt es dafür das sie Videos die länger als 10 Minuten gehen manchmal nicht speichert."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Duygu T." date="20.-Dezember-2016" id="cam2_84" language="de" product_id="B00F3F0EIU" rating="5" title="Super auch für normale Aktivitäten">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="ich habe die kamera nach langem überlegen gekauft, weil ich einfach den weitwinkel super fande."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="84:2">
+                <Text text="man nennt sie action-kameras, aber man kann damit auch tolle aufnahmen für den alltag erzielen (im urlaub unter wasser, die kinder der familie beim spielen, große feste, etc) sehr zu empfehlen, zubehör lohnt sich alle mal, auch wenn ich mein zubehör nicht beim hersteller gekauft habe (manche sachen sind auch echt überteuert)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Der Da" date="7.-Oktober-2016" id="cam2_85" language="de" product_id="B00F3F0EIU" rating="5" title="Top Produkt">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="Lieferung Schnell"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Leo" date="8.-September-2016" id="cam2_86" language="de" product_id="B00F3F0EIU" rating="2" title="Wifi-Update hängt nach nur einem JAHR">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Kamera funktioniert noch einwandfrei!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="86:2">
+                <Text text="Nur hängt sich mein WIFI trotz Update immer wieder auf - Update scheiterte auch nach endlosen Versuchen - habe alles probiert: SD Karte resetet, Kamera resetet - 'WIFI Update has failed' mal gucken was jetzt der GoPro Support anbringt..ich bin leider echt enttäuscht"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mus1cfreak" date="11.-Juni-2016" id="cam2_87" language="de" product_id="B00F3F0EIU" rating="4" title="gute Actioncam">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="Wenn mann Actionvideos in guter Qualität will kommt man kaum an GoPro vorbei."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Heidi Wilke" date="30.-Mai-2016" id="cam2_88" language="de" product_id="B00F3F0EIU" rating="5" title="Sehr cooles kleines Ding">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="Es wird hauptsächlich genutzt um beim Biken mit zu filme, sehr robust und sehr schöne Bildqualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="88:2">
+                <Text text="Eine Fernbedienung wäre empfehlenswert, da es mit dem Handy etwas nervt ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Robin" date="22.-April-2016" id="cam2_89" language="de" product_id="B00F3F0EIU" rating="5" title="Sehr gute Kamera - Für nur 212€">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="Habe mir die GoPro Hero 3+ Silber Am Montag Abend bestellt und schon am Mittwoch un 11:00 Uhr bekommen."/>
+            </Sentence>
+            <Sentence id="89:2">
+                <Text text="Auch so macht die Kamera was her."/>
+            </Sentence>
+            <Sentence id="89:3">
+                <Text text="Zwar nicht so gut wie eine Hero 4, aber diese sind auch wesentlich teurer."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="hero"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="89:4">
+                <Text text="Bin absolut zufrieden."/>
+            </Sentence>
+            <Sentence id="89:5">
+                <Text text=":D"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Denny Breuer" date="18.-April-2016" id="cam2_90" language="de" product_id="B00F3F0EIU" rating="1" title="Focus auf Selfies ausgelegt">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Hallo,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jakobi_7" date="13.-Dezember-2013" id="cam2_91" language="de" product_id="B00F3F0EIU" rating="5" title="Das Beste">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="Für mich die beste GoPro die es gibt!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="91:2">
+                <Text text="Die Slowmotion ist beeindruckend, wie auch die Bedienung mit Livebild per App und die Akkulaufzeit ist deutlich besser als die der Hero 3+ Black Edition."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="akkulaufzeit"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matthias Harscher" date="5.-Dezember-2013" id="cam2_92" language="de" product_id="B00F3F0EIU" rating="5" title="Die + Edition mit einem Schritt voraus!">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="Die neue Hero 3+ ist rein optisch, zur bisherigen Hero 3 genau gleich."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gabriele Altpeter" date="28.-November-2013" id="cam2_93" language="de" product_id="B00F3F0EIU" rating="2" title="GoPro Actionkamera Hero3+ Silver Edition">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="Die Actioncam GoPro Hero3+ Silver Edition hat leider nicht meinen Erwartungen bezüglich Ton- und Bildqualität entsprochen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="93:2">
+                <Text text="In diesem Preisegment habe ich eine höhere Qualität erwartet."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Traxler Gerald" date="23.-September-2013" id="cam2_94" language="de" product_id="B00F3F0EIU" rating="4" title="Vatertagsgeschenk">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="Ausreichend für die Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="94:2">
+                <Text text="Für das Zubehör ist eine extra Tasche nötig."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="tasche"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="94:3">
+                <Text text="(steht aber eh in der Produktbeschreibung, dass es sich hier nur um eine Kameratasche handelt) den Zweck erfüllt sie auf jeden Fall"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kisskaro" date="6.-September-2013" id="cam2_95" language="de" product_id="B00F3F0EIU" rating="4" title="Gut">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="Die Tasche ist gut, wenn auch für meinen Geschmack etwas zu groß."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="tasche"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:2">
+                <Text text="Wenn nur die GoPro drin ist, fliegt diese natürlich hin und her."/>
+            </Sentence>
+            <Sentence id="95:3">
+                <Text text="Aber mit Gehäuse geht es dann."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="M.A." date="22.-August-2013" id="cam2_96" language="de" product_id="B00F3F0EIU" rating="3" title="Leider kein richtiges Hardcase">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="An sich ist die Tasche sehr hochwertig, meine GoPro 3 passt ohne Fuß sehr gut rein."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="tasche"/>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matze" date="24.-Januar-2016" id="cam2_97" language="de" product_id="B00F3F0EIU" rating="2" title="'Sicherheitsfeature' macht Kamera (fast) unbrauchbar">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="Die Bildqualität ist bei schönem Wetter am Strand hervorragend."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Simon Lehmann" date="14.-Dezember-2015" id="cam2_98" language="de" product_id="B00F3F0EIU" rating="5" title="Simon Lehmann">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="Einfach genial.... 3 Wochen in Thailand und wirklich Alle Szenarien dabei."/>
+            </Sentence>
+            <Sentence id="98:2">
+                <Text text="Klare Kaufempfehlung."/>
+            </Sentence>
+            <Sentence id="98:3">
+                <Text text="Super Bilder geniale Videosequenzen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="98:4">
+                <Text text="Ton ist wie bekannt naja aber den Brauch eh kein Mensch weil man coole Musik drüber legt ;-)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="hinnerk behrendt" date="3.-Dezember-2015" id="cam2_99" language="de" product_id="B00F3F0EIU" rating="3" title="naja geht so">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="das problem der Kamera ist einfach der kleine sensor, bei normalem licht in einem Raum rauscht sie schon mega stark."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="99:2">
+                <Text text="und nachts kann man sie gar nicht benutzten, wenn eine gopro, dann sollte man sich für eine black Variante entscheiden !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Florian Merz" date="29.-November-2015" id="cam2_100" language="de" product_id="B00F3F0EIU" rating="4" title="GoPro Hero 3 Silver Editzion">
+        <Sentences>
+            <Sentence id="100:1">
+                <Text text="Ich habe mir die Kamara vor etwa 2 Jahren bestellt und nehme sie hauptsächlich zum Videos aufnehmen beim Motorrad fahren u und bin sehr zu Frieden nur den Speicher muss mann extra kaufen sonst top."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Refije Ibraimov" date="27.-November-2015" id="cam2_101" language="de" product_id="B00F3F0EIU" rating="1" title="GoPro">
+        <Sentences>
+            <Sentence id="101:1">
+                <Text text="Wie viele aufkleb Füße gibt es bei der GoPro hero3+ Silver Edition?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Flo K" date="17.-November-2015" id="cam2_102" language="de" product_id="B00F3F0EIU" rating="4" title="Bestens bis auf Bildschärfe">
+        <Sentences>
+            <Sentence id="102:1">
+                <Text text="Für den Preis OK. Videoqualität lässt zu wünschen übrig.."/>
+            </Sentence>
+            <Sentence id="102:2">
+                <Text text="Die 60fps Videoaufnahmen gleichen das ein bisschen aus."/>
+            </Sentence>
+            <Sentence id="102:3">
+                <Text text="Qualitätmäßig gut verarbeitet und die GoPro macht einen soliden eindruck."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="eindruck"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="102:4">
+                <Text text="Akku lädt rasant schnell."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Monitorfuchs" date="7.-November-2015" id="cam2_103" language="de" product_id="B00F3F0EIU" rating="1" title="Mäßige Bildqualität, unbrauchbarer Kundenservice">
+        <Sentences>
+            <Sentence id="103:1">
+                <Text text="Ich habe mir die Gopro für die Montage unter meinem Quadrokopter gekauft."/>
+            </Sentence>
+            <Sentence id="103:2">
+                <Text text="Beim Test zuhause funktionierte alles problemlos."/>
+            </Sentence>
+            <Sentence id="103:3">
+                <Text text="Draußen schaltete sich die Kamera nach wenigen Minuten automatisch ab und ließ sich auch nicht mehr einschalten."/>
+            </Sentence>
+            <Sentence id="103:4">
+                <Text text="Ich war erst ratlos, hatte aber dann den Verdacht, dass es mit den Außentemperaturen im Herbst zu tun hatte."/>
+            </Sentence>
+            <Sentence id="103:5">
+                <Text text="Weitere Test bestätigten die Theorie."/>
+            </Sentence>
+            <Sentence id="103:6">
+                <Text text="Ab Temperaturen unter +14°C ließ sich das Gerät teilweise überhaupt nicht mehr einschalten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="winton" date="30.-Oktober-2015" id="cam2_104" language="de" product_id="B00F3F0EIU" rating="5" title="Tolle Aufnahmen!">
+        <Sentences>
+            <Sentence id="104:1">
+                <Text text="Einfache Bedienung, tolle Aufnahmen!"/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="104:2">
+                <Text text="Preis / Leistung ist gut!"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                    <Opinion category="PERFORMANCE" target="leistung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="104:3">
+                <Text text="Ein Ladegerät sollte man nicht vergessen zu bestellen wenn man nicht immer einen PC hat, an dem man die Kamera aufladen kann!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tina" date="23.-Oktober-2015" id="cam2_105" language="de" product_id="B00F3F0EIU" rating="5" title="Marke spricht für Qualität">
+        <Sentences>
+            <Sentence id="105:1">
+                <Text text="für Sportvideos/Fotos einfach ein super Teil!!"/>
+            </Sentence>
+            <Sentence id="105:2">
+                <Text text="auch beim Reisen super!"/>
+            </Sentence>
+            <Sentence id="105:3">
+                <Text text="Durch die einfache Bedienung mit der Wlan Funktion echt praktisch!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="firstcardacia" date="11.-Oktober-2015" id="cam2_106" language="de" product_id="B00F3F0EIU" rating="5" title="Damals als 200,- Schnäppchen gekauft ...">
+        <Sentences>
+            <Sentence id="106:1">
+                <Text text="Und die Beschenkte ist bis zum heutigen Tag (fast 1 Jahr später) immer noch hellauf begeistert."/>
+            </Sentence>
+            <Sentence id="106:2">
+                <Text text="Es passte einfach alles!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

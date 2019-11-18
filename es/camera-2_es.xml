@@ -1,0 +1,880 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="piccoloknd" date="15-de-septiembre-de-2014" id="cam2_1" language="es" product_id="B00F3F0EIU" rating="1" title="Muy mal resutlado con la cámara">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Me han regalado esta cámara y he tenido muchos problemas."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Guillermo Torralba Cintas" date="1-de-septiembre-de-2014" id="cam2_2" language="es" product_id="B00F3F0EIU" rating="5" title="Hasta el momento perfecta.">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="He realizado grabaciones buceando en la playa y desde multicoptero."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Oriol (Spain)" date="1-de-septiembre-de-2014" id="cam2_3" language="es" product_id="B00F3F0EIU" rating="5" title="Una cámara increible!">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Genial cámara fotos/videos/stop motion/etc.. y en gran angular (ojo de pez)"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="LENS" target="angular"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose Miguel Lopez Navarro" date="28-de-agosto-de-2014" id="cam2_4" language="es" product_id="B00F3F0EIU" rating="5" title="Estupenda calidad de grabacion">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Este verano he grabado 166 GB de video, que ahora hay que tratar."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Impresionante imagen a 1080."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="4:3">
+                <Text text="El mundo de los accesorios es impresionante, el paraíso de los fanáticos a los gadjets, con un precio ajustado de los mismos."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="accesorios"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="4:4">
+                <Text text="La comunidad de fabricantes de accesorios en enorme."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="accesorios"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mariopisa" date="26-de-agosto-de-2014" id="cam2_5" language="es" product_id="B00F3F0EIU" rating="5" title="la mejor compra que pudiese hacer , y desde vendidor optimos">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="entrega en el tiempo dicho, en condición optima."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="pere" date="21-de-agosto-de-2014" id="cam2_6" language="es" product_id="B00F3F0EIU" rating="5" title="perfecta y sobra calidad de imagen">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="estuve dudando entre la silver y la black edition y al final no me arrepiento para nada de comprar la silver."/>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Los videos en 1080 y 60 fs ocupan tanto que tengo que bajar la calidad a 702 y 30 fs y se ven muy bien con mi tele de 65'' en HD."/>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="No necesito mas calidad."/>
+            </Sentence>
+            <Sentence id="6:4">
+                <Text text="El wifi casi no lo utilitzaras y las fotos tampoco ya que si alguna foto te interesa mucho, en el programa de edicion del video la capturas y es suficiente."/>
+            </Sentence>
+            <Sentence id="6:5">
+                <Text text="Esto a nivel usuario."/>
+            </Sentence>
+            <Sentence id="6:6">
+                <Text text="Sobre temas profesionales no opino."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Diego P. F." date="31-de-julio-de-2014" id="cam2_7" language="es" product_id="B00F3F0EIU" rating="4" title="Un 10 como cámara deportiva o personal">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Cumple casi todas sus expectativas, alguna vez se ha bloqueado y tiennes que quitar la batería y personalmente el lenguaje sale en Ingllés directamente, no te da opciones a elegir el idioma que mas se adapte a ti, por todo lo demás perfecto (en lo de la cámara mas versátil del mundo lo calcan, y la calidad de las imágenes y los vídeos son perfectas."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="VIDEO" target="vídeos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Es  un juguete que a muchos les gustaría tener."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paganich" date="29-de-julio-de-2014" id="cam2_8" language="es" product_id="B00F3F0EIU" rating="5" title="no hay nada que decir, es perfecta">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="no hay nada que decir, es perfecta."/>
+            </Sentence>
+            <Sentence id="8:2">
+                <Text text="la imagen, la calidad de video, todo es perfecto, es gopro, ahora soy el heroe!!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="8:3">
+                <Text text="GOPRO BE A HERO!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus H." date="23-de-julio-de-2014" id="cam2_9" language="es" product_id="B00F3F0EIU" rating="5" title="camara guay y bien de precio">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="recomiendo esta camara a todos que la quieren llevar siempre consigo, que tiene niños, anda por la playa, por la bañera o en barco o con suciedad en general."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="La calidad de imagenes creoq ue supera lo que necesita cualqueir usuario normal."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jaume" date="22-de-julio-de-2014" id="cam2_10" language="es" product_id="B00F3F0EIU" rating="5" title="cámara de alta calidad y muy manejable">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Realmente sorprendido con la calidad de esta cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="Los vídeos tienen una calidad óptima."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pedro" date="8-de-julio-de-2014" id="cam2_11" language="es" product_id="B00F3F0EIU" rating="5" title="Gran producto, mejor precio encontrado">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="La verdad es que estoy muy contento con la GoPro."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="No soy un gran entendido del mundillo pero me funciona muy bien y me hace videos de buceo muy buenos."/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="Encantado con el vendedor y el producto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jesus Arias" date="5-de-julio-de-2014" id="cam2_12" language="es" product_id="B00F3F0EIU" rating="5" title="Gran camara">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Espectacular!"/>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="La verdad es que ya conocia su calidad gracias a unos amigos pero cuando ves tus prpios videos es increible."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ALEJANDRO ESTEBAN MARTÍN" date="30-de-junio-de-2014" id="cam2_13" language="es" product_id="B00F3F0EIU" rating="5" title="Una Pasada">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="La cámara es una pasada y se la recomiendo a todos."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DavidH" date="30-de-junio-de-2014" id="cam2_14" language="es" product_id="B00F3F0EIU" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Cámara ansiada por el buen rendimiento que proporciona."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="PERFORMANCE" target="rendimiento"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:2">
+                <Text text="No he tenido ningún problema, la llevo en la bici y en la moto, con soporte de manillar y arnés de pecho."/>
+            </Sentence>
+            <Sentence id="14:3">
+                <Text text="Muy recomendable!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniel" date="28-de-junio-de-2014" id="cam2_15" language="es" product_id="B00F3F0EIU" rating="5" title="Me compraba otra">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Increíble cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Sin duda a cumplido mis expectativas."/>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="Tanto en calidad de fotos como vídeos, me han dejado alucinados, y lo pequeña que es y manejable."/>
+            </Sentence>
+            <Sentence id="15:4">
+                <Text text="Además de su carcasa que es"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Diana Ester Lagunas" date="26-de-junio-de-2014" id="cam2_16" language="es" product_id="B00F3F0EIU" rating="3" title="Algun problema">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Tengo que dividir mi comentario en dos."/>
+            </Sentence>
+            <Sentence id="16:2">
+                <Text text="El producto es de lo mejor y es para recomendar; pero hubo un problema con la entrega, en cuanto faltaron dentro de los accesorios los dos soportes que van entre la base que se pega al casco y la que se inserta en ella donde se apoya la camara."/>
+            </Sentence>
+            <Sentence id="16:3">
+                <Text text="Menos mal que se vende como repuesto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jose" date="23-de-junio-de-2014" id="cam2_17" language="es" product_id="B00F3F0EIU" rating="4" title="Muy buena compra">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Muy buena compra ,lo recomiendo 100 x 100.Muy buena para hacer deportes de aventura ,btt,... La calidad de los vidieos es excelente"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luis Huang" date="23-de-junio-de-2014" id="cam2_18" language="es" product_id="B00F3F0EIU" rating="4" title="Camara de gran calidad">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Es muy buena, pero deberia de ofrecer mas modos de grabacion y un precio mas bajo, por todo lo demas es perfecto"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier GC" date="23-de-junio-de-2014" id="cam2_19" language="es" product_id="B00F3F0EIU" rating="5" title="Excelente calidad y precio">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="De entre las cámaras de acción es una de las mejores, y su relación calidad/precio es fantástica."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Una de las características que menos valoré al principio y que más uso a día de hoy es la conectividad wifi."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="Puedes usar tu móvil como visor, control remoto..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jaime" date="23-de-junio-de-2014" id="cam2_20" language="es" product_id="B00F3F0EIU" rating="5" title="Jaime">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Muy recomendable a la gente deportista, sobre todo a la gente que practique deportes como el snowboard o el surf y la pesca submarina por su gran resistencia a los golpes y al agua."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="resistencia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Se sacan unos planos muy guapos en hd"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sandrita" date="19-de-junio-de-2014" id="cam2_21" language="es" product_id="B00F3F0EIU" rating="5" title="una pasada...">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Es una pasada lo que permite realizar esta cámara!!"/>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pablo Díez" date="12-de-junio-de-2014" id="cam2_22" language="es" product_id="B00F3F0EIU" rating="5" title="La mejor">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="No tires el dinero con cámaras chinas, esto es lo que necesitas, tómalo como una inversión, con la calidad que ofrece durará muchos años."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="manuel" date="12-de-junio-de-2014" id="cam2_23" language="es" product_id="B00F3F0EIU" rating="3" title="Correcto">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="No está mal, es una buena cámara de fotos para deportes de riesgo, no así de vídeo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Los accesorios son caros."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="accesorios"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alfredo Sánchez González" date="10-de-junio-de-2014" id="cam2_24" language="es" product_id="B00F3F0EIU" rating="5" title="Lo que esperaba">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Está muy bien."/>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Era lo que esperaba, y la quiero para hacer vídeos de todo tipo, especialmente hablando para mi videoblog."/>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="Lo único que no me gusta es que el manual viene en inglés y francés."/>
+            </Sentence>
+            <Sentence id="24:4">
+                <Text text="Consejo: Antes de abrirla mira un vídeo de youtube de desembalaje, puesta en marcha, etc...  pues si eres manazas como yo te puedes poner nerviosete...jeje"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio Márquez Marques" date="9-de-junio-de-2014" id="cam2_25" language="es" product_id="B00F3F0EIU" rating="5" title="perfecta en video. bien en fotos.">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="la resolución en fotos, aunque son 10 mpx, flojea un pelin."/>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="el resto perfecto, tal y como se conocen a todas las gopro."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier Andrés Pavón Pérez" date="9-de-junio-de-2014" id="cam2_26" language="es" product_id="B00F3F0EIU" rating="5" title="Excelente cámara">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Sólo la he utilizado un par de veces, pero suficiente para estar satisfecho con el producto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="producto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="26:2">
+                <Text text="Yo la compré porque voy en silla de ruedas y quería grabar vídeos en los que se ofrecieran imágenes de lo que yo veo desde mi posición."/>
+            </Sentence>
+            <Sentence id="26:3">
+                <Text text="En Pinceladas sobre ruedas, canal de YouTube, encontraréis vídeos cortos y divertidos sobre accesibilidad y dentro de unos días alguno para que veais como graba la GoPro."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="vídeos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="anyelo27" date="2-de-junio-de-2014" id="cam2_27" language="es" product_id="B00F3F0EIU" rating="5" title="perfecta">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="increible camara para grabar todo cuanto uno quiera y con una calidad increible,con accesorios para todo tipo de necesidades."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="OTHER" target="accesorios"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:2">
+                <Text text="facil de usar e intuitiba"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Román" date="31-de-mayo-de-2014" id="cam2_28" language="es" product_id="B00F3F0EIU" rating="5" title="Esta vez si, perfecta">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Después de tramitar la devolución debido a los ya conocido problemas de enfoque de la cámara, o poca nitidez de la imagen... esta vez la sustituta está perfecta respecto a la anterior."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jose antonio fernandez riera" date="28-de-mayo-de-2014" id="cam2_29" language="es" product_id="B00F3F0EIU" rating="5" title="Impresionante">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Os recomiendo si hacéis deporte y algún tipo de deporte de riesgo, si queréis grabar las aventuras os penséis en obtener una!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Márcio José Gonçalves Magarinho" date="11-de-mayo-de-2014" id="cam2_30" language="es" product_id="B00F3F0EIU" rating="5" title="Márcio Magarinho">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="La calidad de imagen tanto en grabación como en foto es impresionante."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="El ángulo super wide es fantástico para auto retratos."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="auto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="Leve, prática y super versátil con la app en el smartphone."/>
+            </Sentence>
+            <Sentence id="30:4">
+                <Text text="Única pega.... mejor comprar otra bateria y un cargador porque la autonomía es bastante reducida si llevo el wifi conectado."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="cargador"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose Luis" date="6-de-mayo-de-2014" id="cam2_31" language="es" product_id="B00F3F0EIU" rating="5" title="Una cámara espectacular.">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Por mucho que digan las gopro son las cámaras de acción por excelencia ,y esta en concreto es maravillosa para un uso semiprofesional , la recomiendo 100% ."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Erico" date="5-de-mayo-de-2014" id="cam2_32" language="es" product_id="B00F3F0EIU" rating="5" title="Un pasada">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Es verdad que hay otros modelos y otras marcas (que en muchos casos son más económicas), pero el resultado de la GoPro es espectacular."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gopro"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="La calidad de imagen, la estabilidad, el acabado de los materiales... están a la altura de su (elevado) precio."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="¿Pegas?"/>
+            </Sentence>
+            <Sentence id="32:4">
+                <Text text=": la muy corta vida de la batería y la extensa (y cara) lista de accesorios disponibles y no incluidos en el precio."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="accesorios"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="PALOMA" date="5-de-mayo-de-2014" id="cam2_33" language="es" product_id="B00F3F0EIU" rating="5" title="¡Un juguetito de 10!">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="La calidad de imagen es más que aceptable y la sincronización con la app de Gopro es una pasada."/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="Además, la recibí a tiempo y sin ningún problema."/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="Totalmente recomendable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier Cavero" date="14-de-abril-de-2014" id="cam2_34" language="es" product_id="B00F3F0EIU" rating="5" title="Espectacular!">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Polivalente desde videos deportivos extremos hasta videos de salidas en familia."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="gabriel" date="6-de-abril-de-2014" id="cam2_35" language="es" product_id="B00F3F0EIU" rating="5" title="muy buena">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Es muy útil, ya que con la cámara puedo hacer video, fotos y mas  cosas de calidad increíble."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="recomendable 100%."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Iñigo" date="21-de-marzo-de-2014" id="cam2_36" language="es" product_id="B00F3F0EIU" rating="5" title="buenisima">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Es una pasada."/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="Es la tercera que tengo y el tema del WiFi esta super bien."/>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="La imagen es cada vez mejor"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose Angel" date="20-de-marzo-de-2014" id="cam2_37" language="es" product_id="B00F3F0EIU" rating="4" title="Por qué no 5 estrellas.">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Muy buena calidad de producto, todo se adhiere a lo descrito."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="GENERAL" target="producto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pablo GV" date="17-de-marzo-de-2014" id="cam2_38" language="es" product_id="B00F3F0EIU" rating="5" title="Una pasada..">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Me decanté por el modelo silver por ser algo más económico y ajustarse a mis necesidades de grabación."/>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="estoy muy satisfecho con el producto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="producto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Un auténtico juguete..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lo" date="24-de-febrero-de-2014" id="cam2_39" language="es" product_id="B00F3F0EIU" rating="5" title="Una maravilla">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Compramos esta videocámara para grabar cómo practicamos nuestros deportes favoritos."/>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="Este fin de semana la estrenamos para esquiar y tenemos unas fotos y unos vídeos impresionantes!"/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="vídeos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:3">
+                <Text text="Calidad excepcional!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:4">
+                <Text text="Una gran compra sin duda."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose A. Lopez" date="24-de-febrero-de-2014" id="cam2_40" language="es" product_id="B00F3F0EIU" rating="5" title="Fantastica">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Es una maravilla como graba y lo bien que lleva las vibraciones, en fotos no me gusta mucho pero realmente eso no me importa"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Juan Carlos Leiva Gallego" date="23-de-febrero-de-2014" id="cam2_41" language="es" product_id="B00F3F0EIU" rating="5" title="La cámara multiusos perfecta">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Llevo un mes de uso de la cámara y las expectativas que tenía ya se han visto superadas."/>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Es una cámara muy ligera, muy pequeña y con muchisimas posibilidades."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="41:3">
+                <Text text="Estoy pendiente de recibir una serie de nuevos enganches para grabar desde distintos puntos de vista (tripode, brazo extensor, enganche bici, enganche casco, enganche pecho, muñequera, etc."/>
+            </Sentence>
+            <Sentence id="41:4">
+                <Text text=")."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Belén" date="15-de-febrero-de-2014" id="cam2_42" language="es" product_id="B00F3F0EIU" rating="5" title="Genial">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Cumple con mis expectativas."/>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Lo recomiendo sin duda para aventureros y soñadores con deseo de recordar experiencias con alta calidad"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pablo Mate" date="11-de-febrero-de-2014" id="cam2_43" language="es" product_id="B00F3F0EIU" rating="5" title="Súper recomendable">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Es mi nuevo gadget y la verdad es que me esta dejando muy impresionado."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gadget"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Resaltar q como cámara de fotos va algo justicia pero hace unos vídeos impresionantes."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="vídeos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="Lo malo es que sí eres un poco friki luego tendrás que comprar un montón de accesorios... Pero es muy divertida; parece mentira q algo tan pequeño pueda hacer tanto tan bien."/>
+            </Sentence>
+            <Sentence id="43:4">
+                <Text text="El envío perfecto como siempre; amazon no suele defraudar y cuando lo hace responde."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sergio Peñas Rubio" date="30-de-enero-de-2014" id="cam2_44" language="es" product_id="B00F3F0EIU" rating="5" title="Idonea">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="No se puede decir nada nuevo de este producto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="producto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="Muchas posibilidades, funcional."/>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="Recomiendo que antes de comprarla, ir revisando los precios ya que puede tener muchas variaciones y salir más barata de lo habitual, ya que si no, el precio es quizás un poco elevado."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="elvira" date="28-de-enero-de-2014" id="cam2_45" language="es" product_id="B00F3F0EIU" rating="4" title="estabilidad alucinante">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="muy buena definición, peso ligero, comoda y fácil de adaptar , se la recomiendo a los amantes de ski (graba en todo tipo de condiciones de luz)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jean" date="1-de-enero-de-2014" id="cam2_46" language="es" product_id="B00F3F0EIU" rating="1" title="las gopro">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="Maravillosa cámra."/>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="Pero también maravilloso"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose G." date="19-de-octubre-de-2017" id="cam2_47" language="es" product_id="B00F3F0EIU" rating="5" title="Muy buena compra">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Funciona perfectamente."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Es una excelente cámara para tus aventuras."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Además tienes disponible mil accesorios para la misma."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="accesorios"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:4">
+                <Text text="Hasta la puedes conectar con el móvil para ver las fotos."/>
+            </Sentence>
+            <Sentence id="47:5">
+                <Text text="Una compra excelente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="19-de-enero-de-2016" id="cam2_48" language="es" product_id="B00F3F0EIU" rating="1" title="Monica">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="La carcasa es una basura."/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="He metido la camara por primera vez en el agua y se ha estropeado."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ander Uriz" date="23-de-diciembre-de-2015" id="cam2_49" language="es" product_id="B00F3F0EIU" rating="5" title="La compra">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Fue la compra."/>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="La exacta."/>
+            </Sentence>
+            <Sentence id="49:3">
+                <Text text="Una grabación increíble, a un precio a caballo entre los otros modelos disponibles de esta misma gama."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="grabación"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="12-de-octubre-de-2015" id="cam2_50" language="es" product_id="B00F3F0EIU" rating="5" title="Excelente.">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Estoy muy contento con el producto, dudaba si comprarla porque no estaba seguro si sería igual que la versión española y la verdad no he tenido ningún problema."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="producto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio manuel" date="5-de-junio-de-2015" id="cam2_51" language="es" product_id="B00F3F0EIU" rating="3" title="Resuelvan mi duda porfavor">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Que debo elegir donde pone versión española.. Versión inglesa/francesa o alemana."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Que quiere decir?"/>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="No entendí eso, muchas gracias !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="feli sotolongo vazquez" date="29-de-mayo-de-2015" id="cam2_52" language="es" product_id="B00F3F0EIU" rating="4" title="cámara de profesional">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Súper!¡!!!¡!!!!"/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Enrique F." date="11-de-marzo-de-2015" id="cam2_53" language="es" product_id="B00F3F0EIU" rating="3" title="La cámara buena, el servicio malo">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="La cámara la conoce todo el mundo y va muy bien, aunque no tanto como se dice..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sergio" date="20-de-febrero-de-2015" id="cam2_54" language="es" product_id="B00F3F0EIU" rating="5" title="GoPro">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Una videocamara excepcional, la he utilizado en diferentes escenarios y siempre me ha ofrecido una calidad de primera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Sobretodo la utilizo con la mtb y saca unos videos de primera."/>
+            </Sentence>
+            <Sentence id="54:3">
+                <Text text="la bateria le dura bastante a pesar de grabar a 1080, recomiendo utilizar una tarjeta de clase 10 para obtener mejores resultados."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Julián Patiño Tribaldos" date="7-de-enero-de-2015" id="cam2_55" language="es" product_id="B00F3F0EIU" rating="5" title="PERFECTA">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="es lo que me esperaba, es perfecta."/>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="tiene 5 estrellas porque va muy bien."/>
+            </Sentence>
+            <Sentence id="55:3">
+                <Text text="lo recomiendo a todo el mundo porque es igual de buena que la que venden en las tiendas y es mas barata."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Patricia" date="29-de-diciembre-de-2014" id="cam2_56" language="es" product_id="B00F3F0EIU" rating="5" title="Todo un capricho">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Este tipo de cámaras son un capricho, pero van de lujo, y lo mejor sus videos!"/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dani L" date="3-de-diciembre-de-2014" id="cam2_57" language="es" product_id="B00F3F0EIU" rating="4" title="Fenomenal">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="Una maravilla!"/>
+            </Sentence>
+            <Sentence id="57:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cristina muñoz" date="1-de-diciembre-de-2014" id="cam2_58" language="es" product_id="B00F3F0EIU" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Ideal para viajes, fotos de calidad sin ser un experto gracias a su definicion y su gran angular."/>
+                <Opinions>
+                    <Opinion category="LENS" target="angular"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="58:2">
+                <Text text="No salgo de viaje sin ella"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sonsoles" date="25-de-noviembre-de-2014" id="cam2_59" language="es" product_id="B00F3F0EIU" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Lo que esperábamos de ella, perfecto."/>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="Envió muy rapido"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Angel" date="29-de-octubre-de-2014" id="cam2_60" language="es" product_id="B00F3F0EIU" rating="5" title="Muy buena compra">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Todo perfecto, lo único que se come bastante rápido la batería por lo que es recomendable tener más de una."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batería"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gabriel Joan Bibiloni i  Mesquida" date="18-de-octubre-de-2014" id="cam2_61" language="es" product_id="B00F3F0EIU" rating="5" title="Para mi hija, un diez!">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Su satisfacción vale la pena!"/>
+            </Sentence>
+            <Sentence id="61:2">
+                <Text text="Lástima que en Port aventura no nos la dejaran usar en todas las atracciones!"/>
+            </Sentence>
+            <Sentence id="61:3">
+                <Text text="Hace buenas fotos de acción!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="toni mediavilla" date="13-de-octubre-de-2014" id="cam2_62" language="es" product_id="B00F3F0EIU" rating="5" title="La mejor">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Tras probar varias cámaras me quedo con la Gopro, no sólo por la cámara sino también por los complementos que tienen mucha más calidad."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cunetu" date="10-de-octubre-de-2014" id="cam2_63" language="es" product_id="B00F3F0EIU" rating="5" title="excelente compra y excelente rapidez">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="supera las espectativas por calidad y por peso y porque es valida para muchos deportes de accion y de diversion"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Palaspro" date="5-de-octubre-de-2014" id="cam2_64" language="es" product_id="B00F3F0EIU" rating="5" title="Muy util">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Increible y muy util para deportes de agua."/>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="El unico fallo es q no tengo flash para fotos nocturnas."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:3">
+                <Text text="Cuasiperfecta"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tania Barredo" date="4-de-octubre-de-2014" id="cam2_65" language="es" product_id="B00F3F0EIU" rating="5" title="100% recomendable">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="La cámara llegó a tiempo y funciona a la perfección, una compra muy recomendable, la calidad de las fotos será muy buena siempre y cuando haya mucha luz"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Maria" date="4-de-octubre-de-2014" id="cam2_66" language="es" product_id="B00F3F0EIU" rating="5" title="rapidez en la entrega">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Envio del producto y resto del pedido sin problemas."/>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="Lo recomiendo, es uno de los sitios más economicos de go-pro"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

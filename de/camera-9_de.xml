@@ -1,0 +1,1463 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Alois M. Offner" date="24.-Mai-2017" id="cam9_1" language="de" product_id="B014US3FQI" rating="1" title="Das mit Abstand schlechteste Produkt!">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Misserable Technik, misserabler Support und nicht funktionierende Software!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="software"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="M. Kornreder" date="16.-Mai-2017" id="cam9_2" language="de" product_id="B014US3FQI" rating="5" title="Sehr gute Kamera">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Sehr gute Kamera, Akku hält auch eine Weile und das ganze lässt sich perfekt mit dem Handy steuern."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="Schön ist da die Vorschau in Echtzeit und dass man doch sehr viele Optionen hat um die Bildqualität zu optimieren (Verschlusszeit usw.)."/>
+            </Sentence>
+            <Sentence id="2:3">
+                <Text text="Schön ist auch dass man die Bilder gleich aufs Handy übertragen kann genauso wie sie auf der Kamera verbleiben können um sie dann später von da auszulesen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Chris" date="4.-Mai-2017" id="cam9_3" language="de" product_id="B014US3FQI" rating="1" title="ROTE PUNKTE BEI SONNE IM BILD - LAUT HERSTELLER NORMAL">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Leider sind bei Sonnenschein im Bild 1 oder 2 rote Punkte zu erkennen - dabei handelt es sich um ein bauartbedingtes Problem welches bei jeder Kamera auftritt."/>
+            </Sentence>
+            <Sentence id="3:2">
+                <Text text="Aussenaufnahmen bei Sonne nicht möglich - daher durchgefallen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="1.-Mai-2017" id="cam9_4" language="de" product_id="B014US3FQI" rating="5" title="Sehr gute Entscheidung">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Habe die Kamera nun seit paar Tagen in Gebrauch und getestet!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Karsten Rose" date="28.-April-2017" id="cam9_5" language="de" product_id="B014US3FQI" rating="5" title="Super Spass">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="360 Grad Filmen und Fotografieren, so einfach."/>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Für schnelle Aufnahmen, Internetpromotion oder einfach aus Spaß am drehen der Bilder und Filme, ist sein Geld auf jeden Fall wert."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="harry_wien" date="26.-April-2017" id="cam9_6" language="de" product_id="B014US3FQI" rating="4" title="Fotos sehr gut, Videos schlecht.">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Wer sich an das Thema '360-Grad-Fotografie' herantasten will, ist mit dieser Kamera gut beraten."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Die Bilder sind vor allem bei Tageslicht sehr gut."/>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="Die Sortierfunktonen für auf die Theta-Website hochgeladene Fotos erscheinen mir etwas dürftig, vielleicht kommt da ja noch ein Update."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:4">
+                <Text text="Einen Stern Abzug gibt es für die Videos, hier ist die Qualität aufgrund der Auflösung naturgemäß sehr eingeschränkt."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:5">
+                <Text text="Ansonsten passt das Preis-Leistungsverhältnis."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gunnar Hillebrecht" date="14.-April-2017" id="cam9_7" language="de" product_id="B014US3FQI" rating="4" title="360 Grad Bilder mit einem Klick">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Die Bilder sind super wenn das Licht stimmt, sobald es sehr Dunkel wird sind die Bilder sehr verrauscht."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Bei der Technik ist das aber auch zu erwarten und das machen andere sogar teurere Geräte nicht besser."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="geräte"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:3">
+                <Text text="Ansonsten hat man hier eine super Kamera, die sowohl tolle Fotos als auch Videos macht."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:4">
+                <Text text="Ich habe mir zusätzlich noch eine kleine Verlängerung und ein Stativ gekauft damit man nicht ständig die Daumen und Finger im Bild hat ;)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wolfgang Ludwig" date="9.-März-2017" id="cam9_8" language="de" product_id="B014US3FQI" rating="4" title="einfach in der Bedienung">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="einfach in der Bedienung, für spezielle Anwendungen gut geeignet z."/>
+            </Sentence>
+            <Sentence id="8:2">
+                <Text text="B. Raumübersicht auf einem Foto, Bildrauschen bei starker Vergrößerung des Fotos"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claudia B." date="9.-März-2017" id="cam9_9" language="de" product_id="B014US3FQI" rating="5" title="Ricoh Theta S">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="Wir haben uns nun schon zum 2."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="Mal diesee 360 Grad Kamera gekauft und im Urlaub atemberaubende Aufnahmen gemacht."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="Videomäßig ist sie allerdings nicht perfekt."/>
+            </Sentence>
+            <Sentence id="9:4">
+                <Text text="Wir hoffen, dass es in Bälde einen perfekten Ricoh Theta Nachfolger gibt, der noch bessere Bildleistungen vollbringen kann."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Prime-R" date="5.-März-2017" id="cam9_10" language="de" product_id="B014US3FQI" rating="4" title="überzeugend">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Die Fotos sind bei Licht gut."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="licht"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="Bei Dunkelheit noch einigermaßen."/>
+            </Sentence>
+            <Sentence id="10:3">
+                <Text text="Die Videoqualität ist ok bei Licht, bei Dunkelheit mittelmäßig."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Frank Rothe" date="13.-Oktober-2016" id="cam9_11" language="de" product_id="B014US3FQI" rating="5" title="Einfach Wowwww">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Ich habe mich für die THETA S entschieden, weil ich die aufgenommenen Bilder gerne Online und ohne großen Aufwand in Soziale Netzwerke teilen möchte."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="Das funktioniert sehr einfach, weil die Bearbeitungssoftware in der Kamera schon drin ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="zekikp" date="9.-Oktober-2016" id="cam9_12" language="de" product_id="B014US3FQI" rating="5" title="Zk">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="spitzenmässig sehr gut einfache Bedienung und super schnelle Bilddarstellung am smartphone kinderleicht zu bedienen einfach nur super absolute kaufempfehlung die"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="TJ" date="2.-Oktober-2016" id="cam9_13" language="de" product_id="B014US3FQI" rating="4" title="Immersive Urlaubserinnerungen">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Ich habe die Kamera als Zusatz zu meiner Olympus OM-D E5 erworben um Eindrücke von (Stadt)Landschaften zu konservieren."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="R. Meiner" date="24.-September-2016" id="cam9_14" language="de" product_id="B014US3FQI" rating="5" title="Besonders für 360° Bilder sehr gut geeignet">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Die Bilder sind großartig und das Handling der Kamera ist sehr gut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:2">
+                <Text text="Dafür ein klarer Kauftipp."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Maxim" date="31.-August-2016" id="cam9_15" language="de" product_id="B014US3FQI" rating="3" title="Spannende Kamera mit großen Schwächen">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="An sich macht es Spass, mit der Kamera zu fotografieren."/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Doch die Bildqualität ist nur mit der einer durchschnittlichen Smartphone-Kamera vergleichbar."/>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="Solange man Fotos auf dem Display eines Handy betrachten möchte, reicht die Qualität der Fotos noch aus."/>
+            </Sentence>
+            <Sentence id="15:4">
+                <Text text="Auf einem größeren Monitor haben die Fotos zu wenig Schärfe und nicht besonders detailreich."/>
+            </Sentence>
+            <Sentence id="15:5">
+                <Text text="Schade!"/>
+            </Sentence>
+            <Sentence id="15:6">
+                <Text text="Sogar bei den besten Lichtverhätnissen und 100 ISO sind Bildrauschen und Farbsäume viel zu deutlich."/>
+            </Sentence>
+            <Sentence id="15:7">
+                <Text text="Zu den Seiten hin fällt die Schärfe drastisch ab."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="M.Köck" date="30.-August-2016" id="cam9_16" language="de" product_id="B014US3FQI" rating="5" title="Sehr gute Kamera">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Die Kamera wurde mir, wie immer, promt von Amazon geliefert."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:2">
+                <Text text="Die Verarbeitung ist sehr gut und die Qualität der Bilder (bisher nur Fotos getestet) bestens."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:3">
+                <Text text="Die zugehörige Software funktioniert sehr gut und man gelangt schnell zu den ersten geschossenen Bildern."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="software"/>
+                    <Opinion category="IMAGING" target="bildern"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:4">
+                <Text text="Die Kamera wird auch vom App Googe Street View unterstützt und man kann, wer es will, für Google Bilder bereitstellen."/>
+            </Sentence>
+            <Sentence id="16:5">
+                <Text text="Die Kamera kann direkt per Taste oder über Wlan Netzwerk, welches die Kamera aufbaut, fernbedient werden."/>
+            </Sentence>
+            <Sentence id="16:6">
+                <Text text="Tolles Produkt welches zu empfehlen ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="olf" date="25.-August-2016" id="cam9_17" language="de" product_id="B014US3FQI" rating="3" title="nicht schlecht, aber sehr empfindlich">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Die Theta S macht relativ gute Bilder, allerdings nicht im Automatikmodus."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Da hat sie insbesondere bei Schattenflächen große Probleme."/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Mit der manuellen Einstellung kann man aber tolle Bilder zaubern."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="Allerdings ist das Gerät sehr sehr empfindlich."/>
+            </Sentence>
+            <Sentence id="17:5">
+                <Text text="Bei der ersten Kamera ist das Gewinde unten gebrochen, wenn Sie nicht in der Hülle ist, besteht permanente Gefahr des Verkratzens."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:6">
+                <Text text="Insgesamt ok, aber im Outdoorbereich doch eher nicht zu gebrauchen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="N. Bernhard" date="22.-August-2016" id="cam9_18" language="de" product_id="B014US3FQI" rating="5" title="Einfach genial.">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Ich habe bereits mit der DSLR Kugelpanoramen aufgenommen, die eine enorme Auflösung bieten, aber auch einen entsprechenden Aufwand fordern."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="Darum habe ich mich gefragt, ob ich so eine Kamera wirklich brauche?"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="Nein, für hochauflösende Fotos in Galeriequalität ist sie nichts, dafür ist sie aber auch nicht gebaut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:4">
+                <Text text="Es ist eine äußerst simpel zu bedienende 360 Grad Kamera mit der man mit einem Klick ein Vollspährenpanorama erstellt."/>
+            </Sentence>
+            <Sentence id="18:5">
+                <Text text="Mit der DSLR dauert alleine das Fotografieren 15 Minuten, sofern die Nutzung eines Stativs überhaupt gestattet ist."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eric Deyerler" date="11.-August-2016" id="cam9_19" language="de" product_id="B014US3FQI" rating="1" title="Kamera von Anfang an eine Macke">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Die Kamera hatte von Anfang an Ladeprobleme und schlechte matschige Bildqualität, irgendwie hatte das Gehäuse an einer Stelle auch eine Delle, irgendwie kam mir das Gehäuse auch ein wenige Druckempfindlich vor, das heisst dass sich das Gehäuse verformte beim Druck auf den Einschaltknopf."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Karlheinz Schmidt Ulrichstein" date="8.-August-2016" id="cam9_20" language="de" product_id="B014US3FQI" rating="4" title="Tolle Kamera aber bitte vorsichtig benutzen">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Eine tolle Spaßkamera mit sehr ordentlichen Aufnahmen."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Jedoch sollte man sehr vorsichtig damit umgehen, da sonst die Linsen Kratzer bekommen."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="Foto's lassen sich sowohl manuell und auch über mitgelieferte Apps schießen bzw."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="apps"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:4">
+                <Text text="auch verändern.Rico bringt Software Updates regelmäßig."/>
+            </Sentence>
+            <Sentence id="20:5">
+                <Text text="Das ist sehr gut."/>
+            </Sentence>
+            <Sentence id="20:6">
+                <Text text="Lediglich der Bilderaustausch gestaltet sich zumindest im IOS etwas problematischer, wenn man nicht seine Bilder über Facebook, Twitter und co. posten möchte."/>
+            </Sentence>
+            <Sentence id="20:7">
+                <Text text="Ansonsten muß der jenige der die Bilder empfängt die RICO oder eine andere 360 Grad App laden um so in den Gneuß der 360 Grad Vollsphären-Bilder zu bekommen."/>
+            </Sentence>
+            <Sentence id="20:8">
+                <Text text="Je größer der Bildschirm desto schöner die Aufnahmen."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="KRZI" date="25.-Juli-2016" id="cam9_21" language="de" product_id="B014US3FQI" rating="5" title="ich liebe diese Kamera">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Vorweg: die Bildqualität kann mit meiner Digitalkamera nicht mithalten."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Roland, der Riese" date="15.-Juli-2016" id="cam9_22" language="de" product_id="B014US3FQI" rating="5" title="Eine sehr schöne Spaß-Lösung">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Leider hatte das erste Modell einen kleinen Fehler, der die eine Halbkugel unscharf abbildete."/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Aber das nenne ich einen hervorragenden Service bei Amazon."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="22:3">
+                <Text text="Nach einem Telefonat sofort und unkompliziert eine Ersatzkamera zugesandt bekommen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Joerg Fritsch" date="15.-Juli-2016" id="cam9_23" language="de" product_id="B014US3FQI" rating="5" title="Traumhafte Fotos, Videos sind nicht brauchbar (Vergleich mit Samsung Gear 360)">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Ich habe die Ricoh Theta S"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="T. Ohlwein" date="15.-Juli-2016" id="cam9_24" language="de" product_id="B014US3FQI" rating="3" title="BIldqualität und Apps....naja">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Die Bildqualität vor allem indoor ist für mich inakzeptabel."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian Weichel" date="8.-Juli-2016" id="cam9_25" language="de" product_id="B014US3FQI" rating="5" title="Innovatives, leicht zu bedienendes Gerät">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Die Kamera ist gleich nach dem auspacken einsatzbereit."/>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="Die Batterien waren zu 1/3 geladen und ich konnte sofort, ohne studieren der Bedienungsanleitung, erste Bilder machen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:3">
+                <Text text="Die Verbindung mit dem Handy via Wlan war auch sehr leicht und funktioniert zu meinem erstauenen sehr gut und schnell."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="3.-Juli-2016" id="cam9_26" language="de" product_id="B014US3FQI" rating="4" title="easy to use no point just shoot camera.">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="A nice 360 camera, very easy to use, I hoped for a bit better picture quality at the sides though."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ronald Sedlaczek" date="27.-Juni-2016" id="cam9_27" language="de" product_id="B014US3FQI" rating="4" title="Macht Spaß">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Kurz und Gut: Die Theta ist nun immer im Rucksack dabei."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="T.G." date="27.-Juni-2016" id="cam9_28" language="de" product_id="B014US3FQI" rating="2" title="Noch nie waren 360° Fotos so einfach">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Genau genommen ist die Angabe '360°' noch untertrieben."/>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="Die Fotos enthalten nicht nur eine 'Rundum-Panorama' Ansicht, sondern decken auch nach oben und unten den gesamten Sichtbereich ab."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="dumbledore" date="23.-Juni-2016" id="cam9_29" language="de" product_id="B014US3FQI" rating="2" title="Kamera nach zwei Wochen defekt, Übertragung der Bilder langsam">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Habe die Kamera von den Warehousedeals gekauft."/>
+            </Sentence>
+            <Sentence id="29:2">
+                <Text text="Die Kamera scheint original aus Italien zu kommen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="29:3">
+                <Text text="Alle Unterlagen sind auf italienisch."/>
+            </Sentence>
+            <Sentence id="29:4">
+                <Text text="Nun zur Kamera : diese überträgt die Bilder per WLAN, das WLAN ist nicht stabil, die Reichweite grottig."/>
+            </Sentence>
+            <Sentence id="29:5">
+                <Text text="Ein 3 Meter Stativ, schon hat man keinen Empfang mehr."/>
+            </Sentence>
+            <Sentence id="29:6">
+                <Text text="Und jetzt hat sich die Kamera wohl auch komplett verabschiedet, sie bootet jetzt garnicht mehr."/>
+            </Sentence>
+            <Sentence id="29:7">
+                <Text text="Daher muss ich Sie wohl einschicken."/>
+            </Sentence>
+            <Sentence id="29:8">
+                <Text text="Auch das Übertragen der Bilder ist ein langer Prozess, man wartet über eine Minute pro Bild."/>
+            </Sentence>
+            <Sentence id="29:9">
+                <Text text="Das ist nicht zeitgemäß."/>
+            </Sentence>
+            <Sentence id="29:10">
+                <Text text="Die Bilder kann ich auch später per USB übertragen."/>
+            </Sentence>
+            <Sentence id="29:11">
+                <Text text="Gute Idee, schlecht umgesetzt."/>
+            </Sentence>
+            <Sentence id="29:12">
+                <Text text="Ich kaufe jetzt wohl die Kamera von Samsung oder LG"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="16.-Juni-2016" id="cam9_30" language="de" product_id="B014US3FQI" rating="5" title="Sehr gute Kamera">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Also vorweg, wer mit einer DSLR Panoramafotografie macht wird natürlich mit den Ergebnissen dieser Kamera nicht ganz si zufrieden sein, wenn er die Ergebnisse vergleicht, aber, für mal eben schnell oder auch für den schnellen Einsatz um einen Überblick oder mal ein besonderes Fotos  machen, ist diese Kamera einfach genial, Per App mit dem Handy zu bedienen und direkt ein gutes Ergebnis."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="einsatz"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="OTHER" target="app"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Elvira March" date="29.-Januar-2019" id="cam9_31" language="de" product_id="B014US3FQI" rating="5" title="Neue Perspektive">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Leicht zu bedienen."/>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="Am besten über die eingebaute Fernbedienung &amp; mit ein Mini-Stativ."/>
+            </Sentence>
+            <Sentence id="31:3">
+                <Text text="Bilder vom Nachthimmel über manuelle Einstellungen anstatt Auto sind möglich."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cosinus" date="29.-Januar-2019" id="cam9_32" language="de" product_id="B014US3FQI" rating="3" title="Naja">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Qualität des Teils ganz gut verbaut."/>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="Aber die Nutzung macht nicht viel Sinn."/>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="Es gibt keine Verknüpfung zu den sozialen Netzwerken."/>
+            </Sentence>
+            <Sentence id="32:4">
+                <Text text="Also najaaa, aber das Produkt ist okay."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rolf Dammel" date="29.-Januar-2019" id="cam9_33" language="de" product_id="B014US3FQI" rating="2" title="Mangelhafte Bildqualität, unbrauchbares Gerät">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Abgesehen davon, dass der Artikel leider sehr verkratzt angeliefert wurde, ist die Qualität insgesamt nicht überzeugend."/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="In anderen Rezensionen wir geschrieben, dass man keine überragende Bildqualität bei solch kleinen Kameras erwarten könne."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                    <Opinion category="GENERAL" target="kameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="Wenn man mal beachtet, dass handelsübliche, gute Smartphones schon seit Jahren mit guten Linsen und guten Bildsensoren sehr gute Fotos und Videos aufnehmen, ist doch sehr fraglich, warum diese Kamera in der Kerndisziplin so kläglich scheitert und warum nicht bessere Linsen und Bildsensoren verbaut wurden."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:4">
+                <Text text="Sowohl bei der Aufnahme von Videos, als auch Fotos fühlt man sich bei der späteren Betrachtung an die Zeit der ersten Smartphones erinnert, was die Qualität der Medien betrifft."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mato Papak" date="6.-Januar-2019" id="cam9_34" language="de" product_id="B014US3FQI" rating="5" title="Ok">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Wenig brauchen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="HempfliH" date="27.-Dezember-2018" id="cam9_35" language="de" product_id="B014US3FQI" rating="1" title="Ohne funktionierende App nicht zu gebrauchen!">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="An die Nutzer von Android-Handys:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="No Name" date="7.-Oktober-2018" id="cam9_36" language="de" product_id="B014US3FQI" rating="4" title="Cooles Ding">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Nach paar Jahren benutze ich dieses Gerät noch sehr gern."/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="Die Bildqualität ist mit UHD nicht zu vergleichen."/>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="Trotzdem kann man mit dem Gerät viel mehr sehen und zeigen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vinc" date="18.-September-2018" id="cam9_37" language="de" product_id="B014US3FQI" rating="1" title="Schlechte Kamera">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Kamera geht leider nach einem halben Jahr nicht mehr an."/>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Egal ob ich Sie an Strom oder am Computer anschließe."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ralph Grimm" date="9.-September-2018" id="cam9_38" language="de" product_id="B014US3FQI" rating="4" title="Preiswert und gut">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Der Start ist einfach - anschalten und loslegen."/>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Allerdings danach wird es schwieriger."/>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Die Verbindung zum Handy oder Pad ist nicht via Bluetooth sondern via WiFi und ohne die richtige App geht nichts."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="app"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Claus.S" date="29.-Januar-2018" id="cam9_39" language="de" product_id="B014US3FQI" rating="5" title="360° Kamera zu einem erschwinglichen Preis.">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Im Rahmen der Black Friday Aktionen vor Weihnachten habe ich mir zur Hälfte des Listenpreises ein neues Spielzeug zugelegt und nicht bereut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ben S." date="31.-Oktober-2017" id="cam9_40" language="de" product_id="B014US3FQI" rating="4" title="Für Anfänger gut geeignet">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Die Ricoh THETA S hat ein gutes aber schlichtes Design."/>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Die Oberflächen auf der Vorder- und Rückseite sind gut verarbeitet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Brodmann" date="20.-Januar-2016" id="cam9_41" language="de" product_id="B014US3FQI" rating="4" title="Gut für unterwegs und Beteachtung auf Smartphones und Tablets">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Habe keine Auflösungswunder erwartet."/>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Im Videomodus verteilt sich schließlich die Auflösung von 1920x1080 auf eine vollständige Rundumsicht."/>
+            </Sentence>
+            <Sentence id="41:3">
+                <Text text="Ähnliches gilt für die 12 Megapixel, die auf den 1/2,3 CMOS Sensor verteilt sind."/>
+            </Sentence>
+            <Sentence id="41:4">
+                <Text text="Für die Anzeige auf kleine Displays (Smartphones) wunderbar, solange man nicht hinein zoomt, auch auf Tablets noch ganz nett."/>
+            </Sentence>
+            <Sentence id="41:5">
+                <Text text="Dafür scheint sie auch gemacht zu sein und entschädigt dafür brilliert Ricohs kleines Wunderding sicherem Weißabgleich, natürlichen Farben und insgesamt sehr natürlich wirkenden Bildern."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildern"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="41:6">
+                <Text text="Dazu völlig unkompliziert zu bedienen!"/>
+            </Sentence>
+            <Sentence id="41:7">
+                <Text text="Ist schnell via WiFi mit dem Smartphone gekoppelt."/>
+            </Sentence>
+            <Sentence id="41:8">
+                <Text text="Dann gibt es auch Live-View, Fernauslösung und einige Einstellungen."/>
+            </Sentence>
+            <Sentence id="41:9">
+                <Text text="Insgesamt ein wertiges Produkt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fredi" date="31.-Dezember-2015" id="cam9_42" language="de" product_id="B014US3FQI" rating="5" title="Das macht Spaß">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Endlich eine 3D Kamera die richtig Spaß macht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="FunThomas" date="27.-Dezember-2015" id="cam9_43" language="de" product_id="B014US3FQI" rating="5" title="Verbessert und grandios bei Fotoaufnahmen">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Eine Digital Kamera kann Fotos machen, ja auch gehört es zum Standard das normale Kameras auch Videos können."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kameras"/>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="25.-Dezember-2015" id="cam9_44" language="de" product_id="B014US3FQI" rating="5" title="Fantastiq">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Great Camera for everyone who likes a panoramic fotos."/>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="great for nature, urban and familly photos and videos."/>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="I realy liked this gadget"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="FM" date="19.-Dezember-2015" id="cam9_45" language="de" product_id="B014US3FQI" rating="1" title="Kameradaten unbrauchbar">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Die Technik ist ganz ok und für den Preis gerechtfertigt, aber was nirgends klar beschrieben wird, und das gilt auch für das Vorgängermodell: Die Ergebnisse 'gehören einem nicht'."/>
+            </Sentence>
+            <Sentence id="45:2">
+                <Text text="Veröffentlichung von Fotos geht ausschließlich über eine Ricoh-eigene Homepage, d.h. deren Branding und damit kostenfreie Werbung ist immer dabei, auch auf den privaten Facebook-Seiten."/>
+            </Sentence>
+            <Sentence id="45:3">
+                <Text text="Soeben vom Ricoh Support bestätigt."/>
+            </Sentence>
+            <Sentence id="45:4">
+                <Text text="Die Desktop-Software hat ebenfalls keine Funktion (OS-Version), außer Darstellen einer grauen Fläche."/>
+            </Sentence>
+            <Sentence id="45:5">
+                <Text text="Ebenfalls soeben vom Ricoh Support bestätigt."/>
+            </Sentence>
+            <Sentence id="45:6">
+                <Text text="Mit vielen Tricks können Profis die Daten auch anders auslesen - wie das geht, verschweigt Ricoh aber oder weiß es selbst nicht."/>
+            </Sentence>
+            <Sentence id="45:7">
+                <Text text="Professionell geht anders."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="18.-Dezember-2015" id="cam9_46" language="de" product_id="B014US3FQI" rating="5" title="Sofortansicht auf dem Bildschirm - was will man mehr ..">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="einfach klasse die neue rico theta s - ganz besonders gefällt mir die direkte verbindung zwischen der theta und dem tablet bzw."/>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="smartphone , um dz.b."/>
+            </Sentence>
+            <Sentence id="46:3">
+                <Text text="die helligkeit richtig einzustellen."/>
+            </Sentence>
+            <Sentence id="46:4">
+                <Text text="die übertragung geht wesentlich schneller als beim vorgängermodell."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian Peter" date="13.-Dezember-2015" id="cam9_47" language="de" product_id="B014US3FQI" rating="2" title="Hat mich nicht überzeugt.">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Mittelmäßige Bild Qualität."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Bedienung absolut umständlich."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Bilder können im Augenblick nur auf dem Smartphone mit speziellen Apps benutzt werden."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="apps"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:4">
+                <Text text="Und zu guter Letzt, nicht Cardboard kompatibel."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Major_Tom" date="1.-Dezember-2015" id="cam9_48" language="de" product_id="B014US3FQI" rating="4" title="Die Immerallesimblickkamera">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Die Theta S ist zwar eine Kamera, doch normalen Testszenarien entzieht sie sich."/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="Dieses Gadget ist natürlich ein Spezialfall für Menschen die 360 Grad Panoramen mögen, bzw."/>
+            </Sentence>
+            <Sentence id="48:3">
+                <Text text="ihren Kunden bestimmte Rundumansichten zur Verfügung stellen wollen."/>
+            </Sentence>
+            <Sentence id="48:4">
+                <Text text="Spontan fallen mir da in erster Linie Makler oder Reiseanbieter ein."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="elektrisches schaf" date="1.-Dezember-2015" id="cam9_49" language="de" product_id="B014US3FQI" rating="5" title="Ricoh hat alles richtig gemacht - und verdient 6 Sterne :)">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="In meiner Rezension zur Vorversion schrieb ich: 'Tolle Idee in einem zurzeit NOCH ernüchternden technischen Stadium...' und wünschte mir für den Nachfolger"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ralf Conrads" date="27.-November-2015" id="cam9_50" language="de" product_id="B014US3FQI" rating="5" title="Echte 360 Grad">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Mit dieser Kamera bekommt die Fotografie einen neuen Reiz."/>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="Orte, an denen man gerne war oder ist, können als Ganzes fotografiert und später wieder angesehen werden."/>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Im Gegensatz zum Vorläufer, der Theta m15, ist auch die Bildqualität der Theta S ausreichend: Man kann sich in dem Kugelpanorama umsehen und einige neue Details entdecken, die man beim Aufnehmen des Bildes noch nicht gesehen hat."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Schleeh.de" date="13.-Februar-2017" id="cam9_51" language="de" product_id="B014US3FQI" rating="4" title="Definitiv beste 360° Kamera für Aufnahmen in kleinen Räumen (Autos) und für Livestreaming">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Für meine Samsung Gear 360, die ich mir extra aus Süd-Korea habe kommen lassen hatte ich diese Kamera gebraucht verkauft."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Ein Fehler!"/>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="Durch die vielen Einstellmöglichkeiten (Langzeitbelichtung) und zwei Ausgänge (USB und HDMI) sowie viel besserem Stiching (=das Zusammenfügen der beiden Halbkugelbilder in der Software) schlägt die Ricoh Theta S die Samsung Gear 360."/>
+            </Sentence>
+            <Sentence id="51:4">
+                <Text text="Auch die Abbildungen sind besser nur bei der Auflösung und der Spritzwasserfestigkeit muss sich die Theta S der Samsung Gear 360 geschlagen geben."/>
+            </Sentence>
+            <Sentence id="51:5">
+                <Text text="dafür und für den relativ hohen Preis gibt es einen Stern Abzug."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Johann Dirschl" date="9.-Februar-2017" id="cam9_52" language="de" product_id="B014US3FQI" rating="5" title="Die 360° Kamera">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Also Fotoprofi bekomme ich sehr selten auch Aufträge für virtuelle Touren."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Bisher habe ich diese mit DSLR, Nodalpunkt, Fisheye, PTgui, Photoshop und krpano erstellt."/>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="Die Qualität ist da natürlich perfekt."/>
+            </Sentence>
+            <Sentence id="52:4">
+                <Text text="Ein Foto braucht dann aber auch schnell mal eine Stunde und mehr (mit Nadir-Retusche)."/>
+            </Sentence>
+            <Sentence id="52:5">
+                <Text text="Für einen Kundenauftrag innerhalb eines Containers habe ich dann nach einer anderen Lösung gesucht, da die Abstände mit 20cm und ohne Stativmöglichkeit anders nicht zu lösen waren."/>
+            </Sentence>
+            <Sentence id="52:6">
+                <Text text="Nach intensiver Recherche habe ich Samsung Gear ausgeschlossen (in den Testvideos waren viele Parallaxenfehler zu sehen und die Software lief auch nicht auf iPhone) und Nikon Keymission war noch nicht auf dem Markt."/>
+            </Sentence>
+            <Sentence id="52:7">
+                <Text text="Die Software der Tetha S ist der Hammer!"/>
+            </Sentence>
+            <Sentence id="52:8">
+                <Text text="Einfach, intuitiv, durchdacht."/>
+            </Sentence>
+            <Sentence id="52:9">
+                <Text text="Mit dem letzten Update sogar HDR fähig."/>
+            </Sentence>
+            <Sentence id="52:10">
+                <Text text="Eine virtuelle Tour mit 20 Bildern, incl."/>
+            </Sentence>
+            <Sentence id="52:11">
+                <Text text="Bodenbild-Retusche, krpano kann ich seither an nur einem Tag realisieren."/>
+            </Sentence>
+            <Sentence id="52:12">
+                <Text text="Für reine Dokumentationen ist die Qualität ausreichend."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:13">
+                <Text text="Nach dem Erschienen der NIKON Keymission muss ich sagen, dass die Tetha S trotz etwas schlechterer Auflösung die bessere Wahl ist."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:14">
+                <Text text="Geschlagen wird das Ding wohl erst, wenn ein Hersteller RAW Daten liefert."/>
+            </Sentence>
+            <Sentence id="52:15">
+                <Text text="100% Empfehlung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JLH" date="6.-Februar-2017" id="cam9_53" language="de" product_id="B014US3FQI" rating="5" title="Hochzufrieden!">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="Vorab: Ich habe dafür bezahlt, es handelt sich also nicht um ein 'Wir schenken Dir das in der Hoffnung, dass Du uns gut bewertest'-Produkt."/>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="Und obwohl ich es nicht geschenkt bekommen habe bin ich sehr zufrieden - es gibt nichts zu meckern!"/>
+            </Sentence>
+            <Sentence id="53:3">
+                <Text text="Fotografieren macht mit dieser Kamera richtig Spaß!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:4">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="R. B." date="31.-Januar-2017" id="cam9_54" language="de" product_id="B014US3FQI" rating="2" title="Bin enttäuscht">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Für das Geld sind die Fotos einfach zu schlecht, aber was noch viel schlechter ist, ist die Tatsache das man seine geschossenen Bilder nur mit einem Link verschicken/ posten kann."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="20.-Januar-2017" id="cam9_55" language="de" product_id="B014US3FQI" rating="5" title="Sehr schöne Kamera">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Die Kamera macht super Bilder und dient mir sehr bei der Arbeit."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="Ich kann Sie nur empfehlen."/>
+            </Sentence>
+            <Sentence id="55:3">
+                <Text text="Funktionalität und Handling ist sehr einfach!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="19.-Januar-2017" id="cam9_56" language="de" product_id="B014US3FQI" rating="5" title="Endlich eine gute Lösung gefunden!">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Nachdem ich schwer enttäuscht eine Nikon Key Mission 360 probiert habe, besitze ich nun die Theta S. Der Vergleich lohnt sich überhaupt nicht, denn die Ruhig ist unschlagbar grandios!"/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="Sie lässt sich problemlos koppeln, komplett manuell einstellen und hat eine super Bildqualität."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="56:3">
+                <Text text="Ich nutze diese Kamera um Rundgänge durch Immobilien anzubieten."/>
+            </Sentence>
+            <Sentence id="56:4">
+                <Text text="Dafür eignet sie sich ausgezeichnet."/>
+            </Sentence>
+            <Sentence id="56:5">
+                <Text text="Der Workflow ist ausgereift."/>
+            </Sentence>
+            <Sentence id="56:6">
+                <Text text="Die erhältlichen Apps zur Nachbearbeitung sind gratis und sehr umfangreich."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="apps"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="16.-Januar-2017" id="cam9_57" language="de" product_id="B014US3FQI" rating="4" title="Gute Ware, schnelle Lieferung.">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="die Ricoh THETA S Kamera ist ein tolles Produkt mit einer Vielzahl von"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gurkos" date="27.-Dezember-2016" id="cam9_58" language="de" product_id="B014US3FQI" rating="1" title="Schleier auf Bildern während Beamer-Nutzung und gewissen Lampenbelichtung">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Also das Produkt ist an sich gut, aber bei gewissen Lampenlichtern und Beamer-Nutzung sind Schleier zu erkennen."/>
+            </Sentence>
+            <Sentence id="58:2">
+                <Text text="Dieser Fehler ist in der Produktbeschreibung nicht aufgeführt."/>
+            </Sentence>
+            <Sentence id="58:3">
+                <Text text="Deshalb nur 1 Stern von mir, da ich bei Veranstaltungen und Vorträgen meist die Kamera nutze."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tim Schlattmann" date="21.-Dezember-2016" id="cam9_59" language="de" product_id="B014US3FQI" rating="4" title="Preis/Leistung Spitze... Foto genial, Video geht so...">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Bin im Großn und ganzen zufrieden... die Fotos sind Spitze.... wenn das licht zu schwach ist, wird es etwas schwiriger... aber Manuell Belichtet und etwas Lightroom oder Photoshop danach machen die 360° Fotos zu einem sensationellem Resultat."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mazhar" date="16.-Dezember-2016" id="cam9_60" language="de" product_id="B014US3FQI" rating="5" title="Die Bild ist sehr schon">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Die Bild ist sehr schon aber es ist funktionieren nicht mit USB  und es kommt ohne Ladegerät nur mit USB Kabel"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thomas B." date="10.-Juni-2016" id="cam9_61" language="de" product_id="B014US3FQI" rating="4" title="Nettes Teil">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Nettes Teil, wenn der Auslöser weiter unten wäre (so dass man den Daumen im Foto weniger sieht) würde es fünf Sterne geben ;-)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Darko Sabljo" date="3.-Juni-2016" id="cam9_62" language="de" product_id="B014US3FQI" rating="5" title="Ricoh Theta S – Die andere Art zu fotografieren">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Meiner Meinung nach sind die 360° Kameras der neue Trend nach den ganzen Action Kameras."/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="Es macht einfach Spass Kugelpanoramen mit dieser kleinen 360° Kamera zu erstellen."/>
+            </Sentence>
+            <Sentence id="62:3">
+                <Text text="Klar, man hat nicht die Qualität einer großen, aber diese ist absolut ausreichend!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="K. Grimm" date="13.-April-2016" id="cam9_63" language="de" product_id="B014US3FQI" rating="5" title="Genial!">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Seit über 30 Jahren 'warte' ich schon auf solch eine Kamera."/>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="Schon vor meinem 18."/>
+            </Sentence>
+            <Sentence id="63:3">
+                <Text text="Geburtstag (als ich eine SLR bekam) hungerte ich nach einem Fisheye-Objektiv."/>
+            </Sentence>
+            <Sentence id="63:4">
+                <Text text="Jetzt endlich ist es soweit: Kugelpanos mit einem Klick!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Schnuppi" date="30.-März-2016" id="cam9_64" language="de" product_id="B014US3FQI" rating="5" title="Super Sache">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Sehr schöne Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="Die Bilder und Videos sind Qualitativ gut."/>
+            </Sentence>
+            <Sentence id="64:3">
+                <Text text="Für Städtepanoramas ist die Auflösung gerade noch ausreichend."/>
+            </Sentence>
+            <Sentence id="64:4">
+                <Text text="Landschaften sind nicht detailiert genug um schöne Panoramen zu erstellen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="INA84" date="30.-März-2016" id="cam9_65" language="de" product_id="B014US3FQI" rating="4" title="Für das Geld absolut guter Deal">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Gekauft habe ich sie für 360 Grad Videos, aber überraschenderweise fand ich vor allem die Fotos echt richtig gut mit der Kamera."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="Für den Preis darf man sich echt nicht beschweren - bereue meinen Kauf in keinster Weise."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kauf"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Raymond" date="28.-März-2016" id="cam9_66" language="de" product_id="B014US3FQI" rating="1" title="Noch viel Potential für Verbesserungen!">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Tolle Idee - technisch noch nicht gut umgesetzt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas Lüdtke" date="12.-März-2016" id="cam9_67" language="de" product_id="B014US3FQI" rating="5" title="Super 360kamera">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Sehr schnelle Lieferung und super tolle Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="67:2">
+                <Text text="Kann ich nur empfehlen, Schöne Spielerei."/>
+            </Sentence>
+            <Sentence id="67:3">
+                <Text text="In allen Lebenslagen kann man eine 360 Perspektive von sich haben."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christian Lu" date="8.-März-2016" id="cam9_68" language="de" product_id="B014US3FQI" rating="5" title="Unbezahlbar...">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Wow."/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="Das ist eine neue Dimension von Videos und Fotos."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:3">
+                <Text text="Über Amazon Warehouse bestellt, Bestellung wie gewohnt flott bearbeitet nur Hermes hat 6 Tage für 50km gebraucht."/>
+            </Sentence>
+            <Sentence id="68:4">
+                <Text text="Karton aufgemacht, Akku geladen und parallel die beiden Theta Apps ilauf dem Android Smartphone installiert und die Kamera funktioniert von Anfang an wie sie soll!"/>
+            </Sentence>
+            <Sentence id="68:5">
+                <Text text="Keine grüne Bananensoftware wie so oft gewohnt, welche erst beim Kunden reift und auch kein Update der Firmware nötig."/>
+            </Sentence>
+            <Sentence id="68:6">
+                <Text text="Die Bilder und Videos sind von der Qualität sehr gut, jedoch nicht mit einer DSLR zu vergleichen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:7">
+                <Text text="Die Kamera ist für mich ein Ersatz für die bisherige Videokamera und eine Ergänzung zur DSLR."/>
+            </Sentence>
+            <Sentence id="68:8">
+                <Text text="Es macht riesig Spaß damit Bilder und Videos zu erstellen und anschließend auf 'Entdeckungsreise' beim Anschauen zugehen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:9">
+                <Text text="Für die gute Hardware Qualität und die ausgereifte Software 5 Sterne, Hermes als Lieferservice  leider nur 2 Sterne."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="software"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:10">
+                <Text text="Und der Spaß mit der Kamera?"/>
+            </Sentence>
+            <Sentence id="68:11">
+                <Text text="Unbezahlbar:-)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DerSchmale - Smartlife" date="19.-Februar-2016" id="cam9_69" language="de" product_id="B014US3FQI" rating="2" title="Bild-Qualität: Wie durch einen Flaschenboden fotografiert :-(">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Die Kamera sieht super aus, ist handlich und wirklich sehr einfach in der Bedienung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="V. Krümel" date="7.-Februar-2016" id="cam9_70" language="de" product_id="B014US3FQI" rating="4" title="V. Krümel">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="360-Grad-Bilder und Videos in HD."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="Kompakte, einfach zu bedienende Kamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="70:3">
+                <Text text="Die Videos könnten ruhig noch etwas schärfer sein (desshalb nur 4 von 5 Sternen), aber ich bin trotzdem sehr zufrieden."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mathias Rheinlaender" date="25.-Oktober-2017" id="cam9_71" language="de" product_id="B014US3FQI" rating="3" title="unzufrieden">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Nun eigentlich schönes Teil und bei den Preis dacht ich das alles super funktioniert aber es stimmt nicht"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jane Köther" date="12.-Oktober-2017" id="cam9_72" language="de" product_id="B014US3FQI" rating="5" title="Funktioniert super - Fantastischer Service von Amazon">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Es ist unsere erste 360-Grad-Kamera."/>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Die Bedienung funktioniert gut und das Ergebnis ist auch sehr gut."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="bedienung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="72:3">
+                <Text text="Für unsere Zwecke ist es die beste Lösung."/>
+            </Sentence>
+            <Sentence id="72:4">
+                <Text text="Der Preis ist sehr fair."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniel Hellweg" date="17.-September-2017" id="cam9_73" language="de" product_id="B014US3FQI" rating="4" title="Fotos sehr gut aber Videoqualität eher mittelmäßig">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Bei der Ricoh Theta S ist es vor dem Kauf sehr wichtig zu wissen, was man mit der Kamera machen möchte:"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kauf"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Undertable" date="7.-September-2017" id="cam9_74" language="de" product_id="B014US3FQI" rating="4" title="Ricoh Theta S vs. Xiaomi Mijia Mi Sphere 360">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Wenn`s bei 360° Panoramen auf Qualität ankommt (Auflösung, Dynamikumfang, Rauschverhalten) arbeitet man besser nach alter Väter Sitte mit Spiegelreflexkamera und Nodalpunktadapter."/>
+            </Sentence>
+            <Sentence id="74:2">
+                <Text text="Der große Sensor spielt hier klar seine Vorteile aus."/>
+            </Sentence>
+            <Sentence id="74:3">
+                <Text text="Solch qualitativ hochwertiges Bildmaterial, erstellt mit teurem professionellen Equipment, lässt sich dann zu Präsentationen verarbeiten die man auch in höheren Auflösungen und mit Zoom-Potenzial auf größeren Monitoren zeigen kann (z.B."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="auflösungen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="74:4">
+                <Text text="für virtuelle Rundgänge in Hotels / Immobilien)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael" date="22.-August-2017" id="cam9_75" language="de" product_id="B014US3FQI" rating="4" title="Geniales ergänzendes Spielzeug zur Spiegelreflex!">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="Mit der Ricoh THETA S sind wunderbare Vollsphären-Bilder möglich, welche ich super gern als ergänzende Bilder zu Aufnahmen meiner Spiegelreflex mache."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="75:2">
+                <Text text="So erhält der Betrachter einen Eindruck der Atmosphäre des Aufnahmeorts."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="23.-Juli-2017" id="cam9_76" language="de" product_id="B014US3FQI" rating="2" title="Diese Kamera ist nicht für alle geeignet.">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Was mir an der Kamera sehr gut gefallen hat ist die handliche Größe und ist für den privaten Gebrauch für Spassaufnahmen in Ordnung, aber für den gewerblichen Einsatz wie Immobilienaufnahmen für Werbezwecke einfach nicht geeignet, da die Person wo die Aufnahme macht immer auf dem Video mit abgebildet wird."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="DIMENSION" target="größe"/>
+                    <Opinion category="OTHER" target="einsatz"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Des weiteren finde ich es nicht sehr gut, dass kein Netzteil dabei ist, man benötigt zum Aufladen  immer einen Computer mit USB Anschluss."/>
+            </Sentence>
+            <Sentence id="76:3">
+                <Text text="Zur Kontrolle der jeweiligen Aufnahmen wird entweder ein Computer benötigt bzw."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="aufnahmen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:4">
+                <Text text="eine Verbindung zum Handy und diese Einstellung ist sowas von Komplex...ich habe es nicht hin bekommen, da die Anleitung nicht gerade sehr gut ist."/>
+            </Sentence>
+            <Sentence id="76:5">
+                <Text text="Mein Fazit: Für Spassaufnahmen im privaten Bereich ist die Kamera in Ordnung, aber dazu ist der Preis einfach zu Hoch angesiedelt.Ich habe die Kamera zurück gegeben."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="fcw" date="18.-Juli-2017" id="cam9_77" language="de" product_id="B014US3FQI" rating="1" title="Programmierstümperei und fehlender Zugang zu eigenen Bildern">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="Wenn Sie Wert auf uneingeschränkten Zugang zu von Ihnen geschossenen Bildern legen, kaufen Sie diese Kamera nicht, vor allem nicht, wenn sie iOS-Endgeräte nutzten."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildern"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="77:2">
+                <Text text="Erst beim iPhone, dann beim iPad versagt die Konnektivität, was heißt: Ich kann die Bilder nicht mehr von der Kamera laden."/>
+            </Sentence>
+            <Sentence id="77:3">
+                <Text text="Nichts zu machen!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael Pop" date="18.-Juli-2017" id="cam9_78" language="de" product_id="B014US3FQI" rating="2" title="Gute Idee, noch schwache Qualität">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Ich bin Profifotograf und habe daher nicht extrem vieles von einem so kompakten Gerät erwartet."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gerät"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:2">
+                <Text text="Und dennoch wurden meine Erwartungen untertroffen, da die chromatische Abberation, die Auflösung und Gesamtqualität auch einer Kompaktkamera unterlegen waren."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Steve" date="14.-Juli-2017" id="cam9_79" language="de" product_id="B014US3FQI" rating="5" title="360 Grad Fotografie war noch nicht so einfach - nur das Teilen ist schwer...">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Die Kamera ist robust in einem Metallgehäuse verbaut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Axel P." date="9.-Juli-2017" id="cam9_80" language="de" product_id="B014US3FQI" rating="5" title="Grundsätzlich super aber jetzt (Juli 2017) würde ich auf die nächste Generation mit 4k Video warten!">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="Die Ricoh Theta S ist auch im Vergleich zur aktuellen Gear 360 (2017) dieser bei Fotos immer noch um Lichtjahre überlegen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="K. Kreuzer" date="14.-Dezember-2016" id="cam9_81" language="de" product_id="B014US3FQI" rating="4" title="A nice to have">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Klasse Teil!"/>
+            </Sentence>
+            <Sentence id="81:2">
+                <Text text="Man muss sich nur ein wenig damit beschäftigen und üben, wie man die kleine Kamera am besten platziert."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="81:3">
+                <Text text="Per Stativ und App ist es sehr einfach möglich „personenfreie“ Fotos zu machen, wenn man etwa ein Innenraumfoto haben möchte."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael Witkowski" date="11.-Dezember-2016" id="cam9_82" language="de" product_id="B014US3FQI" rating="4" title="Für Einsteiger ganz OK">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Die Bildqualität ist nur bei gutem Licht akzeptabel, oder wenn man die Bilder auf dem Handy betrachtet."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="licht"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="82:2">
+                <Text text="- Schaut man am PC oder per VR-Brille etwas genauer hin, ist man eher enttäuscht."/>
+            </Sentence>
+            <Sentence id="82:3">
+                <Text text="Aber im Gegensatz zu den aufwändigen Bildern, die man per Handy erstellt (mit Stativ knipsend im Kreis drehen), funktioniert es problemlos schnell und gut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildern"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcel" date="30.-November-2016" id="cam9_83" language="de" product_id="B014US3FQI" rating="4" title="Ultra-Kompakte Kamera mit akzeptabler Auflösung">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Ich habe die Ricoh Theta S als erste Vollsphärenkamera aufgrund der Testberichte gekauft."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcel L." date="28.-November-2016" id="cam9_84" language="de" product_id="B014US3FQI" rating="5" title="Gute Kamera">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="Für den Preis ist die Kamera absolut in Ordnung."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="84:2">
+                <Text text="Videos sind ebenfalls machbar aber das Gerät versteht sich mehr auf die Fotografie."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="gerät"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="84:3">
+                <Text text="Wer gerne 360° Aufnahmen macht wird begeistert sein"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="HH" date="21.-November-2016" id="cam9_85" language="de" product_id="B014US3FQI" rating="3" title="Gutes Teil mit Schwächen">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="Prinzipiell ist meiner Meinung nach für jeden interessant ob sich der Kauf lohnt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Selcuk Hökelekli" date="27.-Oktober-2016" id="cam9_86" language="de" product_id="B014US3FQI" rating="4" title="Praktisch, macht top fotos aber flopt in sachen film">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Habe die theta gekauft weil diese im Verglich zu den anderen 360 kameras wirklich sehr praktisch ist."/>
+            </Sentence>
+            <Sentence id="86:2">
+                <Text text="Sie hat eine schmale bauform und man kann sie überall mit hinnehmen."/>
+            </Sentence>
+            <Sentence id="86:3">
+                <Text text="Praktsch ist auch das DIN Stativ gewinde am boden."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jörn" date="20.-Oktober-2016" id="cam9_87" language="de" product_id="B014US3FQI" rating="5" title="Mal was ganz neues">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="Es macht super Spass mit der Kamera Fotos zu machen."/>
+            </Sentence>
+            <Sentence id="87:2">
+                <Text text="Die Qualität der Fotos ist wirklich gut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:3">
+                <Text text="Videos ist in Ordnung."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="A. Schlichtmann" date="20.-Oktober-2016" id="cam9_88" language="de" product_id="B014US3FQI" rating="4" title="Top 360er">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="Bis jetzt bin ich voll zufrieden, klein, kompakt und macht schon Eindruck."/>
+            </Sentence>
+            <Sentence id="88:2">
+                <Text text="Gut, die Bildqualität ist nicht so, wie wenn man mit der DSLR zig Fotos schießt und diese dann zusammenbaut."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="88:3">
+                <Text text="Aber, dafür macht man diese 360er auch in 1 Sekunde."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="🎬Filmfreak🎬" date="18.-Oktober-2016" id="cam9_89" language="de" product_id="B014US3FQI" rating="5" title="Top Gadget für tolle 360 Grad, bzw VR Aufnahmen.">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="Rezension Ricoh Theta S"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="hyopaiz" date="17.-Oktober-2016" id="cam9_90" language="de" product_id="B014US3FQI" rating="4" title="Nettes Spielzeug mit mittlere Qualität">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Ich habe mir die Kamera zu gelegt, weil ich für Google Street View Fotos aufnehme und auch für Immobilienmakler und private Verkäufer 360 Grad Touren erstelle."/>
+            </Sentence>
+            <Sentence id="90:2">
+                <Text text="Bisher mit Spiegelreflexkamera, Fisheye, Nodalpunktadapter und Stitching-Software."/>
+            </Sentence>
+            <Sentence id="90:3">
+                <Text text="Ich wollte einfach mal testen, ob eine 360 Grad Kamera meinen Workflow optimieren und effizienter gestalten kann."/>
+            </Sentence>
+            <Sentence id="90:4">
+                <Text text="Die Antwort: JA!"/>
+            </Sentence>
+            <Sentence id="90:5">
+                <Text text="Das reine Fotografieren des Panoramas könnte einfacher nicht sein."/>
+            </Sentence>
+            <Sentence id="90:6">
+                <Text text="Einbeinstativ mit Standfuß ausgefahren, mit nem Nivellierkopf (z."/>
+            </Sentence>
+            <Sentence id="90:7">
+                <Text text="B. Novoflex MagicBalance) und einer Libelle die Kamera ausgerichtet, kinderleichtes Auslösen via Smartphone-App und fertig."/>
+            </Sentence>
+            <Sentence id="90:8">
+                <Text text="Die Aufnahmen dauern nur noch wenige Sekunden anstatt Minuten mit einer DSLR."/>
+            </Sentence>
+            <Sentence id="90:9">
+                <Text text="Jetzt kommt das ABER: Die Qualität genügt keinen professionellen Ansprüchen."/>
+            </Sentence>
+            <Sentence id="90:10">
+                <Text text="Durch Nachbearbeitung und Nachschärfen kann man zwar noch einiges aus den Aufnahmen rausholen, aber 14 Megapixel auf eine komplette Kugel sind einfach zu wenig."/>
+            </Sentence>
+            <Sentence id="90:11">
+                <Text text="Leider kann die Kamera nur in JPEG aufnehmen."/>
+            </Sentence>
+            <Sentence id="90:12">
+                <Text text="Ich wünsche mir für die Zukunft auch das RAW Format, um noch mehr in der Nachbearbeitung herauszuholen."/>
+            </Sentence>
+            <Sentence id="90:13">
+                <Text text="Was mir auch fehlt ist eine Zebra-Funktion (Überbelichtungsanzeige), um die korrekte Belichtung besser einschätzen zu können."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

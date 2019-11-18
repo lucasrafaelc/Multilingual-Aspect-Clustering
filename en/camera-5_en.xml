@@ -1,0 +1,1599 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Juanita Johnson" date="2016-8-20" id="cam5_1" language="en" product_id="B00M9GW22W" rating="1" title="my 2014 HP computer 2010 windows did not recognize this ...">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="my 2014 HP computer 2010 windows did not recognize this camera."/>
+            </Sentence>
+            <Sentence id="1:2">
+                <Text text="search online revealed multiple complaints about this problem."/>
+            </Sentence>
+            <Sentence id="1:3">
+                <Text text="Had to  purchase $40 memory."/>
+            </Sentence>
+            <Sentence id="1:4">
+                <Text text="not mentioned on external packing."/>
+            </Sentence>
+            <Sentence id="1:5">
+                <Text text="received as gift asked for sony because believed to be reputable company."/>
+            </Sentence>
+            <Sentence id="1:6">
+                <Text text="Not questioning my decision."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mary Ellen Koser" date="2016-8-16" id="cam5_2" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="I would recommend this camera."/>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="Being an artist I use it every day to photograph my art work."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="PC" date="2016-8-4" id="cam5_3" language="en" product_id="B00M9GW22W" rating="1" title="One Star">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Not really what I read it to be!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-8-2" id="cam5_4" language="en" product_id="B00M9GW22W" rating="1" title="bad images, now I have to buy another camera ...">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="blurry, delayed shot's after pressing the button, bad images, now I have to buy another camera and will not be after one like this rubbish."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="shot"/>
+                    <Opinion category="IMAGING" target="images"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-7-1" id="cam5_5" language="en" product_id="B00M9GW22W" rating="3" title="Great Price">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Really good price and fast shipping...having a little trouble figuring it out...it does have so many feature."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                    <Opinion category="OTHER" target="shipping"/>
+                    <Opinion category="OTHER" target="feature"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="The picture I have figured out have come out amazing."/>
+            </Sentence>
+            <Sentence id="5:3">
+                <Text text="Very light weight and my wife says its cute."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="weight"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:4">
+                <Text text="Included a photo i took of our tree which was about 5 feet away."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cheryl H" date="2016-6-29" id="cam5_6" language="en" product_id="B00M9GW22W" rating="5" title="Great little camera!">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Light weight, easy to use, great for photographing small items!"/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="weight"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-6-9" id="cam5_7" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Is ok"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JOANN T WILLIAMS" date="2016-5-17" id="cam5_8" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Yes I love it"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amy Levins" date="2016-4-4" id="cam5_9" language="en" product_id="B00M9GW22W" rating="5" title="Crystal Clear Pictures Everytime!">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="The Sony Cyber-Shot camera is awesome and takes great pictures."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="You can even take movies and upload them without a problem to your favorite social media."/>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="When using the zoom feature I was pleasantly surprised at how well the pictures came out."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="feature"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:4">
+                <Text text="When i used the zoom on my previous camera the pictures would always come out distorted and blurry."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:5">
+                <Text text="This camera even has a panorama capabilities, but I have not had the opportunity to use that feature yet, so I cannot honestly tell you how well that feature works."/>
+            </Sentence>
+            <Sentence id="9:6">
+                <Text text="I am very happy with this camera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:7">
+                <Text text="The best feature about this camera is the fact that it comes with a rechargeable battery so no more worrying about having to buy them."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="feature"/>
+                    <Opinion category="BATTERY" target="battery"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:8">
+                <Text text="Just plug in the camera the night before using it and you're good."/>
+            </Sentence>
+            <Sentence id="9:9">
+                <Text text="A full charge lasts for up to 350 shots."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Old Florida Dog" date="2016-4-1" id="cam5_10" language="en" product_id="B00M9GW22W" rating="1" title="Junk">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Junk."/>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="One out of three photos comes out."/>
+            </Sentence>
+            <Sentence id="10:3">
+                <Text text="I use it for work, real estate, and I have to take three photos of the same shot in order to get one to come out."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="shot"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:4">
+                <Text text="Auto, manual, flash, no flash,  it doesn't matter."/>
+            </Sentence>
+            <Sentence id="10:5">
+                <Text text="Because it is for work I bought it in a hurry when my other camera was damaged."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:6">
+                <Text text="Unfortunately not at Amazon."/>
+            </Sentence>
+            <Sentence id="10:7">
+                <Text text="A waste of $90."/>
+            </Sentence>
+            <Sentence id="10:8">
+                <Text text="I've owned it less than a month and cannot get any support even after registering the product."/>
+            </Sentence>
+            <Sentence id="10:9">
+                <Text text="I will never buy a Sony again."/>
+            </Sentence>
+            <Sentence id="10:10">
+                <Text text="Very unhappy."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="William D. Burley Jr." date="2015-6-12" id="cam5_11" language="en" product_id="B00M9GW22W" rating="5" title="Good purchase and at a great price.  Good combination!">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Great purchase."/>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="The Camera has been used everyday and is working flawlessly."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="C.M.E." date="2015-6-9" id="cam5_12" language="en" product_id="B00M9GW22W" rating="5" title="... an upgrade from my old Sony Cyber-Shot and I LOVE it! Stop action pictures">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="This was an upgrade from my old Sony Cyber-Shot and I LOVE it!"/>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="Stop action pictures, sharp images, and same with the movies."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="images"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Denise" date="2015-6-2" id="cam5_13" language="en" product_id="B00M9GW22W" rating="5" title="great camera">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Great quality, very pleased with product"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="quality"/>
+                    <Opinion category="GENERAL" target="product"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jeanne" date="2015-5-30" id="cam5_14" language="en" product_id="B00M9GW22W" rating="5" title="Pleased as Punch! Hurrah for Amazon">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Amazon: Jeanne's  new Cyber-Shot works very well, and has many more features to explore and grow with."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cyber"/>
+                    <Opinion category="PERFORMANCE" target="shot"/>
+                    <Opinion category="OTHER" target="features"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:2">
+                <Text text="We replaced an earlier model of the camera."/>
+            </Sentence>
+            <Sentence id="14:3">
+                <Text text="We are extremely pleased with our choice."/>
+            </Sentence>
+            <Sentence id="14:4">
+                <Text text="Your company  was recommended by E. P. Levine Co. of Waltham, Ma."/>
+            </Sentence>
+            <Sentence id="14:5">
+                <Text text="We thank you for your interest."/>
+            </Sentence>
+            <Sentence id="14:6">
+                <Text text="Give our best to Jeff."/>
+            </Sentence>
+            <Sentence id="14:7">
+                <Text text="Ray &amp; Jeanne."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Frank" date="2015-5-24" id="cam5_15" language="en" product_id="B00M9GW22W" rating="3" title="Could used a differt size box.">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="There was a lot of room in the box."/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="The card with the memory card was under the flaps of the box,in the bottom."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="alaa" date="2015-5-22" id="cam5_16" language="en" product_id="B00M9GW22W" rating="4" title="AND EASY.">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="POWERFUL, AND EASY."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anderson Quinteros" date="2015-4-19" id="cam5_17" language="en" product_id="B00M9GW22W" rating="5" title="nice for your family">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="A very nice product"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="product"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Patricia Huckabay" date="2015-4-10" id="cam5_18" language="en" product_id="B00M9GW22W" rating="5" title="the perfect little camera">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="I love this little camera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="It is small enough to fit in my hand bag or pocket so I've always got it handy."/>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="It takes amazing pictures, clear and sharp and it is easy to use."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JON FRANCIS" date="2015-4-7" id="cam5_19" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Excellent."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Thank you"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="J. E. Healey" date="2015-3-8" id="cam5_20" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Takes really great pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Compact."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="I really like how easy it is to use the self-timer."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="LDUNCAN" date="2017-8-22" id="cam5_21" language="en" product_id="B00M9GW22W" rating="1" title="returned, did not come with charger.">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="returned,did not come with charger."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dr. Les" date="2017-8-16" id="cam5_22" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Very pleased!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Naomi Quinn" date="2017-8-11" id="cam5_23" language="en" product_id="B00M9GW22W" rating="5" title="Works perfectly and the lens is in good condition.">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Delivered exactly as described."/>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Accessories included and very minor damage to camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:3">
+                <Text text="Works perfectly and the lens is in good condition."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lyn Utermark" date="2017-8-7" id="cam5_24" language="en" product_id="B00M9GW22W" rating="5" title="very happy thank you">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Yes everything excellent... thank you!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="clarice" date="2017-7-5" id="cam5_25" language="en" product_id="B00M9GW22W" rating="1" title="this product is absolutely a defect!!! its ...">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="this product is absolutely a defect!!!"/>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="its lens was stuck and does not retracts back."/>
+            </Sentence>
+            <Sentence id="25:3">
+                <Text text="All you can do is push the on and off button."/>
+            </Sentence>
+            <Sentence id="25:4">
+                <Text text="Very cheap product."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="product"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:5">
+                <Text text="Considering its Sony!"/>
+            </Sentence>
+            <Sentence id="25:6">
+                <Text text="I own Sony camera before but usually lasts for years and this one lasts only for a month!!!"/>
+            </Sentence>
+            <Sentence id="25:7">
+                <Text text="Definitely will return, hope to get a full refund!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2017-6-23" id="cam5_26" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="I love the camera it's the right size and takes beautiful pictures."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="size"/>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="26:2">
+                <Text text="K. Alexander"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Janice Nelson" date="2017-6-22" id="cam5_27" language="en" product_id="B00M9GW22W" rating="2" title="Very disappointed in this camera">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Very disappointed in this camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:2">
+                <Text text="I've had Sony DSC models before that were great, but this one is almost worthless."/>
+            </Sentence>
+            <Sentence id="27:3">
+                <Text text="It over exposes every photo unless you set it to cut down the light, and even then the set doesn't stay for the next time you turn on the camera."/>
+            </Sentence>
+            <Sentence id="27:4">
+                <Text text="It has a non-shake feature, but I've still had a ton of blurry photos and the ability to get close to the subject is terrible."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:5">
+                <Text text="I feel like I wasted my money and this camera wasn't cheap."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pat Rickard" date="2017-6-19" id="cam5_28" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="no problems"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose G. Lopez" date="2017-6-6" id="cam5_29" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Excellent!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sethe Eckstein" date="2017-6-4" id="cam5_30" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="we gave this camera as a gift."/>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="However, the user of the camera has a charge problem."/>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="The camera does not hold a charge."/>
+            </Sentence>
+            <Sentence id="30:4">
+                <Text text="anyone have this problem?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mr Bob" date="2014-11-26" id="cam5_31" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="love this camera easy to use easy to carry"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lenny S." date="2014-11-17" id="cam5_32" language="en" product_id="B00M9GW22W" rating="5" title="Very good camera, Nice and cleare pictures">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Very good camera,Nice and cleare pictures"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="dtvjournal" date="2017-6-3" id="cam5_33" language="en" product_id="B00M9GW22W" rating="2" title="I liked the results">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="I already own an older model Sony camera."/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="It has an effective resolution of 5 MG pixels."/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="I've used for my hobby, which is photographing nature."/>
+            </Sentence>
+            <Sentence id="33:4">
+                <Text text="I liked the results."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eunice" date="2017-5-30" id="cam5_34" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Great!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kathleen McCrea" date="2017-5-30" id="cam5_35" language="en" product_id="B00M9GW22W" rating="3" title="lightweight, easy, but very slow / delayed on the flash shots.">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="you get what you pay for....if the flash needs to work to take a picture, then you're gonna have to wait a loooonnnnggg time to get your snap."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Larry N." date="2017-5-30" id="cam5_36" language="en" product_id="B00M9GW22W" rating="5" title="GREAT LITTLE CAMERA!!">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Great little camera, no issues, we use these for our company and take hundreds of pictures daily, these little Sony's have stood the test of time!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="The only reason we had to purchase this camera was it is replacing one that was dropped on the lens."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Roberto J. Garza" date="2017-5-20" id="cam5_37" language="en" product_id="B00M9GW22W" rating="3" title="Three Stars">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="I wish it would have come with an instruction booklet....!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lula Alexander" date="2017-5-17" id="cam5_38" language="en" product_id="B00M9GW22W" rating="3" title="Three Stars">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="It was smaller than I wanted and too light weight."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="weight"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Looks cheap"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="anon_naija" date="2017-5-3" id="cam5_39" language="en" product_id="B00M9GW22W" rating="1" title="Fake Product">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Product seems like a knockoff."/>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="Only turned on while plugged into a power outlet."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jim Ackerman" date="2017-4-26" id="cam5_40" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="A lot of camera for the money."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Abby and April" date="2017-4-16" id="cam5_41" language="en" product_id="B00M9GW22W" rating="1" title="Poor buy">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="After spending over $100 for a camera, we were shocked to find out the memory capacity is only 4 pictures."/>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Will never buy this again."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="balony" date="2017-3-3" id="cam5_42" language="en" product_id="B00M9GW22W" rating="3" title="Oh well...">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="I'm on the fence with it at the moment."/>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Couldn't get lanscape to work for beans."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mg meyering" date="2015-2-20" id="cam5_43" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Great camera for the money."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Takes good pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="culdee" date="2015-2-20" id="cam5_44" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="great little camera I bought for my wife just wished it came with the data card."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="4091" date="2015-1-28" id="cam5_45" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Best camera I ever owned"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="tackyj" date="2015-1-20" id="cam5_46" language="en" product_id="B00M9GW22W" rating="1" title="One Star">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="would not focus."/>
+            </Sentence>
+            <Sentence id="46:2">
+                <Text text="Returned"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="P. E. Shortridge" date="2015-1-18" id="cam5_47" language="en" product_id="B00M9GW22W" rating="5" title="I really like this camera">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="So far, I really like this camera."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Easy to use, doesn't need to be re-charged as much and delivers quality photos &amp; video."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Guisep" date="2015-1-15" id="cam5_48" language="en" product_id="B00M9GW22W" rating="3" title="Worked well">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Worked very well."/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="My daughter was happy with it."/>
+            </Sentence>
+            <Sentence id="48:3">
+                <Text text="It was a good backup for her Fuji when the films in it failed."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sdkid" date="2015-1-13" id="cam5_49" language="en" product_id="B00M9GW22W" rating="2" title="Think twice...">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Nice features and ease of operation, but picture clarity not there...sent it back."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="features"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="R. Stephenson" date="2015-1-12" id="cam5_50" language="en" product_id="B00M9GW22W" rating="2" title="Non-moving subjects outdoors on a sunny day? YES. Grandkids running and dancing indoors? NO.">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Slightly below my phone camera."/>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="Photos at full rez in daylight are not sharp."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Contrast is lower than what you are seeing in the screen."/>
+            </Sentence>
+            <Sentence id="50:4">
+                <Text text="Actually the screen makes for a better image than the final saved shot."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="shot"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:5">
+                <Text text="The main problem is the tiny sensor, a Super HAD CCD sensor which is about 1/10th the size of what an entry DSLR has."/>
+            </Sentence>
+            <Sentence id="50:6">
+                <Text text="Lens must be plastic for the contrast to go south."/>
+            </Sentence>
+            <Sentence id="50:7">
+                <Text text="I took shots outdoors hand-held using this SONY and a 3-year old entry level DSLR."/>
+            </Sentence>
+            <Sentence id="50:8">
+                <Text text="Both are small portions of a full-size print, unretouched, and 350 DPI."/>
+            </Sentence>
+            <Sentence id="50:9">
+                <Text text="Both look similar when viewed side-by-side on your computer."/>
+            </Sentence>
+            <Sentence id="50:10">
+                <Text text="But when both are enlarged at the same ratio the older DSLR takes the prize for detail."/>
+            </Sentence>
+            <Sentence id="50:11">
+                <Text text="Bottom line: this is a $75 or less camera."/>
+            </Sentence>
+            <Sentence id="50:12">
+                <Text text="It is very small - like about six credit cards taped together."/>
+            </Sentence>
+            <Sentence id="50:13">
+                <Text text="Lighter than a feather."/>
+            </Sentence>
+            <Sentence id="50:14">
+                <Text text="If all you are wanting are average shots this will do that."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="shots"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:15">
+                <Text text="Car dealers - this may be what you need for your webpage."/>
+            </Sentence>
+            <Sentence id="50:16">
+                <Text text="However if you are taking photos of fast-moving grandkids indoors this just can't freeze the action."/>
+            </Sentence>
+            <Sentence id="50:17">
+                <Text text="You will only have photos of blurry kids."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:18">
+                <Text text="I took it also to the Ringling Bros circus and tried making usuable photos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:19">
+                <Text text="Just couldn't do it, plus it slowed the shutter down to one shot about every 7 - 10 seconds."/>
+            </Sentence>
+            <Sentence id="50:20">
+                <Text text="For cars on a lot or for real estate photos this may be what you can use."/>
+            </Sentence>
+            <Sentence id="50:21">
+                <Text text="For action or night photos - no way."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JustSteve" date="2014-12-30" id="cam5_51" language="en" product_id="B00M9GW22W" rating="3" title="Got what I paid for...">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Seems okay but pretty run of the mill."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Nothing real special about this camera and the pictures are mediocre."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gary" date="2014-12-22" id="cam5_52" language="en" product_id="B00M9GW22W" rating="2" title="Camera did not include memory card. This is an ...">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Camera did not include memory card."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="This is an extra fee and I do not agree with this type of marketing."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dawn Clark" date="2018-12-29" id="cam5_53" language="en" product_id="B00M9GW22W" rating="3" title="Soooo Slow to take a picture.">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="The pictures of this camera are great, the use of the camera not so great."/>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="It takes eons for the picture to be taken as you press down on the button."/>
+            </Sentence>
+            <Sentence id="53:3">
+                <Text text="To add to the fun experience, pressing down on the button sometimes does not tell the camera to TAKE the picture, so you have to try again."/>
+            </Sentence>
+            <Sentence id="53:4">
+                <Text text="All the other functions of the camera are great....just awful wait time."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:5">
+                <Text text="I am certain there are faster cameras out there."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="April" date="2018-10-25" id="cam5_54" language="en" product_id="B00M9GW22W" rating="1" title="Don’t buy.">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="This camera was crappy and didn’t work right."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="I sent it back."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Siguelson cidelca" date="2018-10-22" id="cam5_55" language="en" product_id="B00M9GW22W" rating="5" title="Great camera">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="I like this camera because it's beyond expectation.it looks braind new and takes great picture."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="picture"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="I would definitely buy it again."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="herb neubauer" date="2018-8-20" id="cam5_56" language="en" product_id="B00M9GW22W" rating="4" title="a very good digital camera">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="will not compare to I phone quality"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="99dak" date="2018-4-29" id="cam5_57" language="en" product_id="B00M9GW22W" rating="4" title="stops recording every 10 minutes when recording 720p video">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="only downside to this camera is it is when you are recording video it stops recording every time the file size hits 2GB  (about every 10 minutes at 720p) search for sony's 'user guide' for this model for further details"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ruth A." date="2018-4-13" id="cam5_58" language="en" product_id="B00M9GW22W" rating="3" title="Very nice though and brand new in the original">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="My own fault for not noticing that although brand new , is one of 5evearliest cyber shots, and has a small screen and only 6x zoom."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="screen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="58:2">
+                <Text text="Very nice though and brand new in the original,box."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="box"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. J. Germick" date="2018-4-2" id="cam5_59" language="en" product_id="B00M9GW22W" rating="1" title="Poor quality pics from what I can see in viewfinder.">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Just got this within 2 weeks for some good Easter pics since we haven't been able to get together for some time."/>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="I am totally disappointed."/>
+            </Sentence>
+            <Sentence id="59:3">
+                <Text text="The picture quality is terrible in the viewfinder and the pics won't download to my desktop computer."/>
+            </Sentence>
+            <Sentence id="59:4">
+                <Text text="It says 'locating pictures and videos'."/>
+            </Sentence>
+            <Sentence id="59:5">
+                <Text text="and it does nothing more after being plugged in for half an hour."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2018-1-26" id="cam5_60" language="en" product_id="B00M9GW22W" rating="4" title="Good price! Easy to operate">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Good price !"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="Easy to operate !"/>
+            </Sentence>
+            <Sentence id="60:3">
+                <Text text="Small size and light to carry 👍."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="size"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:4">
+                <Text text="Videos are blurry sometimes and a little dark 👎 Pictures are not too clear 👎."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:5">
+                <Text text="My old camera, exactly the same Sony, was so much better 👍 I kept it 10 years until I dropped from a second story on a cruise ship 😩😩 And still it was still working, until i couldn’t find any more Memory card for this type of camera!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B. Melendez" date="2017-11-9" id="cam5_61" language="en" product_id="B00M9GW22W" rating="5" title="SONY Lighweight Big Dog">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Sony has established their brand many years ago."/>
+            </Sentence>
+            <Sentence id="61:2">
+                <Text text="I have the silver model and I do not think color matters as far as performance goes."/>
+            </Sentence>
+            <Sentence id="61:3">
+                <Text text="This is compact, not large and bulky."/>
+            </Sentence>
+            <Sentence id="61:4">
+                <Text text="Easy to hold and the picture quality is 'awesome'."/>
+            </Sentence>
+            <Sentence id="61:5">
+                <Text text="I use it for close-up shots for Jewelry sales."/>
+            </Sentence>
+            <Sentence id="61:6">
+                <Text text="The best part for me is the re0-chargeable lithium battery."/>
+            </Sentence>
+            <Sentence id="61:7">
+                <Text text="It lasts quite a long time on the charge and it does not take long to charge it again."/>
+            </Sentence>
+            <Sentence id="61:8">
+                <Text text="I had been reluctant to own a lithium battery, but was spending so much money on batteries."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="money"/>
+                    <Opinion category="BATTERY" target="batteries"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="61:9">
+                <Text text="If you are on the fence...I really would recommend this one."/>
+            </Sentence>
+            <Sentence id="61:10">
+                <Text text="It also has 'Panoramic' ability as well as 'movie' ability."/>
+            </Sentence>
+            <Sentence id="61:11">
+                <Text text="Great little camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Terry  Roberts" date="2017-8-23" id="cam5_62" language="en" product_id="B00M9GW22W" rating="1" title="This is the worst camera I have ever purchased twice">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="This is my third unt."/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="I thought it was me."/>
+            </Sentence>
+            <Sentence id="62:3">
+                <Text text="Its not this camera has been used three times."/>
+            </Sentence>
+            <Sentence id="62:4">
+                <Text text="Now it does not recongized the card and the lens pops in and out regardless of how long its charged."/>
+            </Sentence>
+            <Sentence id="62:5">
+                <Text text="This is a ripoff."/>
+            </Sentence>
+            <Sentence id="62:6">
+                <Text text="Can't get any help from SONY&gt;."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-11-13" id="cam5_63" language="en" product_id="B00M9GW22W" rating="3" title="NO MEMORY CAMERA">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="This camera only saves two pictures without having a memory card and it did not come with one."/>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="That should have been said in the description."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kathleen Chance" date="2016-10-9" id="cam5_64" language="en" product_id="B00M9GW22W" rating="5" title="Sony Camera">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="It arrived in time for my cruise."/>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="I will know once I get photos developed how great it worked."/>
+            </Sentence>
+            <Sentence id="64:3">
+                <Text text="It was easy to used."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="huynhng95" date="2016-9-29" id="cam5_65" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="This item I already returned"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="julian brady" date="2016-9-15" id="cam5_66" language="en" product_id="B00M9GW22W" rating="2" title="Great UI. Terrible Picture quality.">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="I bought this from Walmart because they were out of the Cyber-shot DSCW-830 I wanted which is a newer version of my now 6 year old Cyber-shot DSCW-350 that is starting to act up on me."/>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="I figured my Cyber-shot has lasted a good while and takes great pictures this slightly cheaper newer one can't be any worse."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:3">
+                <Text text="I got it home and tried it out with a picture of the cat and it worked pretty for an $89 camera."/>
+            </Sentence>
+            <Sentence id="66:4">
+                <Text text="I tried it out again a couple days later to take some pictures of a PlayStation 2 I was repairing and I could not get the thing to focus and take a non blurry picture at all."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="picture"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:5">
+                <Text text="I tried sitting it on a tripod and it worked better when I took a picture out my window of the outside, but once I tried to take a picture again of the PS2 on the tripod it was blurry like I tried to run and take the picture."/>
+            </Sentence>
+            <Sentence id="66:6">
+                <Text text="I was able to fix the blurry issue by using the flash, but then the white balance was so off that a black PS2 looked like it was white."/>
+            </Sentence>
+            <Sentence id="66:7">
+                <Text text="After messing around with the settings some more I finally gave up went back to Walmart and got my money back."/>
+            </Sentence>
+            <Sentence id="66:8">
+                <Text text="I just bought a Cybershot DSCW-830 off amazon for the same price as I paid for this one and a warranty from Walmart and until that gets here I am very content and happy with using my old slightly malfunctioning Cyber-shot DSCW-350"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                    <Opinion category="GENERAL" target="cyber"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="felipe" date="2016-9-2" id="cam5_67" language="en" product_id="B00M9GW22W" rating="3" title="more for something better.">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="I wish I have expended another $50.00 Dlls."/>
+            </Sentence>
+            <Sentence id="67:2">
+                <Text text="more for something better."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Brian prater" date="2016-8-30" id="cam5_68" language="en" product_id="B00M9GW22W" rating="3" title="Adaquate at best">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Adequate if you can find it for less than $100, otherwise it's over priced IMHO."/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="I bought this camera because it would fit easily into my pocket and to use for digital video when a camcorder would be to bulky."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="video"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:3">
+                <Text text="I found it on sale for $89 and thought I was getting a deal."/>
+            </Sentence>
+            <Sentence id="68:4">
+                <Text text="Well, it wasn't that great of a deal."/>
+            </Sentence>
+            <Sentence id="68:5">
+                <Text text="It tends to over expose it's shots, is slow to focus, works very poorly in low light and tends to go in and out of focus when videoing moving objects."/>
+            </Sentence>
+            <Sentence id="68:6">
+                <Text text="The image stabilization works to some degree but not as well as I had hoped for."/>
+            </Sentence>
+            <Sentence id="68:7">
+                <Text text="The flash is relatively powerful but will over expose anything close while under exposing everything else."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ursula Olive" date="2016-8-25" id="cam5_69" language="en" product_id="B00M9GW22W" rating="1" title="Bad expereince.">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Did not work and I had to send it back."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-8-23" id="cam5_70" language="en" product_id="B00M9GW22W" rating="2" title="My bad for not noticing this was going to ship from ...">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="My bad for not noticing this was going to ship from Malaysia."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="Took way too long to receive and then the charger is European, two round prongs instead of a US plug."/>
+            </Sentence>
+            <Sentence id="70:3">
+                <Text text="Good thing I happen to have one that will fit."/>
+            </Sentence>
+            <Sentence id="70:4">
+                <Text text="I'm sure the camera is fine but just not satisfied with the shipping time and the charger."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="70:5">
+                <Text text="Will pay close attention from now on as to where it ships from."/>
+            </Sentence>
+            <Sentence id="70:6">
+                <Text text="Ordered July 28th, received August 23rd."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vicki A. Volz" date="2016-8-21" id="cam5_71" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Easy, light, portable, and takes great pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose L Rivera" date="2016-8-21" id="cam5_72" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="For the price is good purchase"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="DLO" date="2016-3-23" id="cam5_73" language="en" product_id="B00M9GW22W" rating="4" title="Decent camera">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Good little camera for the price."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="73:2">
+                <Text text="Pictures aren't as clear as I'd like, but you get what you pay for."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jatin" date="2016-1-28" id="cam5_74" language="en" product_id="B00M9GW22W" rating="2" title="Worst investment">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="The focus and sharpness of this camera is ridiculous, Images arent crisp."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                    <Opinion category="IMAGING" target="images"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Becka Cummings" date="2016-1-15" id="cam5_75" language="en" product_id="B00M9GW22W" rating="5" title="been a great little camera">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="been a great little camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="75:2">
+                <Text text="I wish it had an eye hole instead of just the screen cause it's hard to see in daylight"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jayson Horsford" date="2015-11-29" id="cam5_76" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Very good"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Elizabeth" date="2015-11-22" id="cam5_77" language="en" product_id="B00M9GW22W" rating="5" title="Good Digital Camera">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="I love this so far - I didn't like the other 'point and shoot' I got; this one is much better with better quality."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="point"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="77:2">
+                <Text text="The only problem is it is primarily in Japanese, but I can work around that."/>
+            </Sentence>
+            <Sentence id="77:3">
+                <Text text="I got a good price on it, what can I say?"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="77:4">
+                <Text text="All of the equipment for my other 'point and shoot' works with this one!"/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="point"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cowsrmom" date="2015-10-15" id="cam5_78" language="en" product_id="B00M9GW22W" rating="2" title="it would be a good price and adequate quality but in order to get ...">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Not for me."/>
+            </Sentence>
+            <Sentence id="78:2">
+                <Text text="I thought the photos were of low quality."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="quality"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:3">
+                <Text text="I think for a person who just wanted to record events, it would be a good price and adequate quality but in order to get nice, artistic shots, a better camera would be necessary to have."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                    <Opinion category="GENERAL" target="quality"/>
+                    <Opinion category="PERFORMANCE" target="shots"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wendy Hanger" date="2015-9-23" id="cam5_79" language="en" product_id="B00M9GW22W" rating="5" title="Used this camera on a recent trip and loved the photos">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Used this camera on a recent trip and loved the photos."/>
+            </Sentence>
+            <Sentence id="79:2">
+                <Text text="The video worked great."/>
+            </Sentence>
+            <Sentence id="79:3">
+                <Text text="Lots of nice extras for the money."/>
+            </Sentence>
+            <Sentence id="79:4">
+                <Text text="I am going to buy one for my daughter."/>
+            </Sentence>
+            <Sentence id="79:5">
+                <Text text="I worried about using up the battery but It lasted way longer than my old one with AA's"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sandi Williams" date="2015-9-9" id="cam5_80" language="en" product_id="B00M9GW22W" rating="5" title="love this camera">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="Love this camera."/>
+            </Sentence>
+            <Sentence id="80:2">
+                <Text text="The pictures are so bright and just as clear as can be."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ramiro" date="2015-9-5" id="cam5_81" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Excellenet product and service"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="product"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Wes" date="2015-8-27" id="cam5_82" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Great camera, no complaints other then there being no memory card included."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sarah" date="2017-1-12" id="cam5_83" language="en" product_id="B00M9GW22W" rating="3" title="Need memory card">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Needs a memory card to take any pictures with it, but produces pretty high quality pictures."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paul Hudek" date="2017-1-2" id="cam5_84" language="en" product_id="B00M9GW22W" rating="5" title="Good pictures, easy to use and learn">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="I gave it as a gift, but the recipient raves about it."/>
+            </Sentence>
+            <Sentence id="84:2">
+                <Text text="Good pictures, easy to use and learn."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniel Pogue" date="2016-12-29" id="cam5_85" language="en" product_id="B00M9GW22W" rating="1" title="So sad">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="Everything in Japanese, instructions, camera menu, be warned."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-12-29" id="cam5_86" language="en" product_id="B00M9GW22W" rating="5" title="Great buy easy to use">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Great cameras for the kids, easy to use and fast shipping."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cameras"/>
+                    <Opinion category="OTHER" target="shipping"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="86:2">
+                <Text text="Right on time for Christmas."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Camlen" date="2016-12-25" id="cam5_87" language="en" product_id="B00M9GW22W" rating="1" title="Poor picture quality">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="I have had a cybershot before and have been happy with it."/>
+            </Sentence>
+            <Sentence id="87:2">
+                <Text text="This one the picture quality is horible."/>
+            </Sentence>
+            <Sentence id="87:3">
+                <Text text="I think it is due to an auto focus issue."/>
+            </Sentence>
+            <Sentence id="87:4">
+                <Text text="It doesn't seem to adjust."/>
+            </Sentence>
+            <Sentence id="87:5">
+                <Text text="I played with all the settings but still nothing."/>
+            </Sentence>
+            <Sentence id="87:6">
+                <Text text="I will likely send back and see if I can get a replacement."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="bonnie" date="2016-12-23" id="cam5_88" language="en" product_id="B00M9GW22W" rating="5" title="I love it.">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="Love this camera."/>
+            </Sentence>
+            <Sentence id="88:2">
+                <Text text="It is so easy to use and takes great pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2016-12-22" id="cam5_89" language="en" product_id="B00M9GW22W" rating="3" title="bought for sound.. and have a couple of issues with hand placement.">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="i have an older version of this camera and although it has it'sown special bugs.. this camera does well but i must be mindful NOT to put my hand or fingers under the camera for some reason or the sound is muffled."/>
+            </Sentence>
+            <Sentence id="89:2">
+                <Text text="The sound on this camera is superior to other cameras .. but not as good as the older model i had."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cameras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Then S. Chong" date="2016-12-21" id="cam5_90" language="en" product_id="B00M9GW22W" rating="5" title="Works great">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Works great so far after months and I bought it refurbished."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Julie Van-Lare" date="2016-12-20" id="cam5_91" language="en" product_id="B00M9GW22W" rating="4" title="Four Stars">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="worth the price, light and a little on the cheap side"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Timothy Linnomme" date="2016-12-2" id="cam5_92" language="en" product_id="B00M9GW22W" rating="5" title="Excellent price for the product!">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="Item as described; I was taking pictures with it only minutes after unpacking the item"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="2015-8-25" id="cam5_93" language="en" product_id="B00M9GW22W" rating="1" title="DO NOT BUY THIS CAMERA">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="if you had a lower than 1 , i would use -10.  it is a piece of junk."/>
+            </Sentence>
+            <Sentence id="93:2">
+                <Text text="i cannot get it replaced and i don't want to wait on a repair."/>
+            </Sentence>
+            <Sentence id="93:3">
+                <Text text="i am leaing on a trip."/>
+            </Sentence>
+            <Sentence id="93:4">
+                <Text text="i just bought a new sony memory stick and it will not open."/>
+            </Sentence>
+            <Sentence id="93:5">
+                <Text text="it tells me to isert the previous card."/>
+            </Sentence>
+            <Sentence id="93:6">
+                <Text text="sometimes it will open the previous , sometimes not."/>
+            </Sentence>
+            <Sentence id="93:7">
+                <Text text="i would not advise anyone to buy this camera."/>
+            </Sentence>
+            <Sentence id="93:8">
+                <Text text="i am in warranty and bought an extra warranty and i can't get it replaced."/>
+            </Sentence>
+            <Sentence id="93:9">
+                <Text text="what ever happened to sony that used to have good service?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jean E. Macfarlane" date="2015-8-17" id="cam5_94" language="en" product_id="B00M9GW22W" rating="4" title="It gives good pictures, but not too many at a time ...">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="It gives good pictures, but not too many at a time due to the many pixels in each picture, I guess."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Virith Kho" date="2015-8-7" id="cam5_95" language="en" product_id="B00M9GW22W" rating="4" title="Sharp-cleared Sony 20.1MP Digital Camera.">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="This is a very good camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:2">
+                <Text text="It takes good clear-sharp pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:3">
+                <Text text="I like it very much."/>
+            </Sentence>
+            <Sentence id="95:4">
+                <Text text="Thanks."/>
+            </Sentence>
+            <Sentence id="95:5">
+                <Text text="I bought it at www.amazon.com."/>
+            </Sentence>
+            <Sentence id="95:6">
+                <Text text="Have a nice day."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sandra McDonald" date="2015-7-25" id="cam5_96" language="en" product_id="B00M9GW22W" rating="1" title="Hi I bought my camera about 4 months ago and ...">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="Hi"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gina Pirani" date="2015-7-23" id="cam5_97" language="en" product_id="B00M9GW22W" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="I love anything SONY."/>
+            </Sentence>
+            <Sentence id="97:2">
+                <Text text="Great price, great pics and EASY to use and understand."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="price"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="97:3">
+                <Text text="I am ecstatic!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Angie" date="2015-7-19" id="cam5_98" language="en" product_id="B00M9GW22W" rating="1" title="Not worth the Money">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="High quality pictures ...don't think so !"/>
+            </Sentence>
+            <Sentence id="98:2">
+                <Text text="Camera doesn't focus right!"/>
+            </Sentence>
+            <Sentence id="98:3">
+                <Text text="Getting my money back"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="b." date="2015-7-16" id="cam5_99" language="en" product_id="B00M9GW22W" rating="1" title="piece of garbage">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="A total waste of money and energy."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="money"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="99:2">
+                <Text text="Mine was defective out of the box and impossible to get out of language setting mode no matter what I did."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="box"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="99:3">
+                <Text text="Charged the battery properly: the camera came on but never got to take a photo."/>
+            </Sentence>
+            <Sentence id="99:4">
+                <Text text="A massive disappointment."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ernest Mayshack" date="2015-7-12" id="cam5_100" language="en" product_id="B00M9GW22W" rating="5" title="Perfect little camera">
+        <Sentences>
+            <Sentence id="100:1">
+                <Text text="Shipping was right on time."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="shipping"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="100:2">
+                <Text text="Perfect little camera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="100:3">
+                <Text text="Can be carried in a small purse."/>
+            </Sentence>
+            <Sentence id="100:4">
+                <Text text="Great pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="100:5">
+                <Text text="Videos  work are wonderful."/>
+                <Opinions>
+                    <Opinion category="VIDEO" target="videos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CryH" date="2015-6-16" id="cam5_101" language="en" product_id="B00M9GW22W" rating="1" title="This camera is terrible -photos not sharp, very slow">
+        <Sentences>
+            <Sentence id="101:1">
+                <Text text="This camera is terrible."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="camera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="101:2">
+                <Text text="The photos are not at all sharp, especially if any zoom is used."/>
+            </Sentence>
+            <Sentence id="101:3">
+                <Text text="Moving objects are horribly blurred, even still objects are blurry."/>
+            </Sentence>
+            <Sentence id="101:4">
+                <Text text="When shooting there is a 5 second delay after shooting, where the screen goes black, before you can view the photo taken, needless to say this delay/slowness caused me to miss shots."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="screen"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Brian Carbone" date="2015-6-15" id="cam5_102" language="en" product_id="B00M9GW22W" rating="1" title="returned lens stuck open">
+        <Sentences>
+            <Sentence id="102:1">
+                <Text text="Had to return"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="yzelaya" date="2017-6-6" id="cam5_103" language="en" product_id="B00HH8A2CE" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="103:1">
+                <Text text="Excellent product!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="product"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Carmen Fuentes" date="2016-3-23" id="cam5_104" language="en" product_id="B00HH8A2CE" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="104:1">
+                <Text text="It was a great birthday present."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Reginald Clark" date="2016-2-20" id="cam5_105" language="en" product_id="B00HH8A2CE" rating="3" title="Am I the only one?">
+        <Sentences>
+            <Sentence id="105:1">
+                <Text text="Unfortunately i didn't buy this camera from Amazon but I felt a need to comment."/>
+            </Sentence>
+            <Sentence id="105:2">
+                <Text text="I only had it 2 days so far everything seems fine but it didn't come with an SD\card."/>
+            </Sentence>
+            <Sentence id="105:3">
+                <Text text="Shame on Sony for this."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Robert Ramos" date="2015-3-22" id="cam5_106" language="en" product_id="B00HH8A2CE" rating="5" title="Five Stars">
+        <Sentences>
+            <Sentence id="106:1">
+                <Text text="Easy to use, nice pictures."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="pictures"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

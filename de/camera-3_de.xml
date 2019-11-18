@@ -1,0 +1,818 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Horst Gruß" date="17.-Mai-2018" id="cam3_1" language="de" product_id="B008GVXKUW" rating="1" title="Kundendienst fraglich!!!">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="10 Monate war alles ok, danach druckte sie nur noch Bilder mit Streifen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fonck Marco" date="19.-Oktober-2017" id="cam3_2" language="de" product_id="B008GVXKUW" rating="5" title="Schnell mal ein Bild zum mitgeben ausdrucken .">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Schön dass Polaroid im digitalen Zeitalter angekommen ist."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="Die Bilder der Z2300 sind gar nicht mal schlecht, ein bissen klein aber auf jeden Fall besser als die von Instax, die auch dieselbe Grösse haben aber das gleiche Verfahren der ersten Polaroid."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="fall"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="2:3">
+                <Text text="Noch ein Vorteil, mit einer SD Karte kann man die Fotos abspeichern und später nochmals drucken, oder auf dem PC grösser ansehen oder drucken."/>
+            </Sentence>
+            <Sentence id="2:4">
+                <Text text="Übrigens die 10MP zahlen sich aus, auf dem PC sind die Bilder so gut wie mit einem normalen digitalen Fotoapparat."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="2:5">
+                <Text text="Leider habe ich zu spät erkannt dass die neue Polaroid Snap Touch noch ein Tick mehr Möglichkeiten hat, man spart sich den Polaroid Zip Handydrucker."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lea K." date="17.-Oktober-2017" id="cam3_3" language="de" product_id="B008GVXKUW" rating="2" title="Ungeeignet für Retrofans">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Leider ist diese Kamera etwas enttäuschend, zumindest wenn man passionierter Polaroidfan ist."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="3:2">
+                <Text text="Ich benutze sie seit 10 Monaten und bereits jetzt habe ich Probleme mit dem Papiereinzug bzw."/>
+            </Sentence>
+            <Sentence id="3:3">
+                <Text text="-auswurf."/>
+            </Sentence>
+            <Sentence id="3:4">
+                <Text text="Der Vorteil zur Polaroid Pic 300 ist ganz klar das Gewicht, aber sonst fehlt dieser Kamera der Retrocharme."/>
+            </Sentence>
+            <Sentence id="3:5">
+                <Text text="Die Bilder sind zwar etwas schärfer, aber die Qualität der Ausdrucke hat - trotz einfügbarem Rahmen - eher was von Fotokopien als vom klassischen Polaroidfoto."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="polaroidfoto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markus" date="9.-Oktober-2017" id="cam3_4" language="de" product_id="B008GVXKUW" rating="3" title="Bilder nicht ganz zufriedenstellend">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Die Bilder die, die Kamera schießt sind nicht immer gestochen scharf."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Außerdem hat sie Probleme bei Bewegungen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Peter A." date="3.-August-2017" id="cam3_5" language="de" product_id="B008GVXKUW" rating="2" title="Bildqualität eher mäßig">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Im Vergleich zu meinen fast 30 Jahren alten Polaroidfotos kann ich wirklich keine echte Verbesserung feststellen.Hübsche ,handliche Kamera"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="polaroidfotos"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="2.-Juli-2017" id="cam3_6" language="de" product_id="B008GVXKUW" rating="5" title="Super-Cam">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Super Partyspaß für Jung und Alt."/>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Die Fotos haben eine gute Qualität."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="Die Bildgröße ist praktisch und kann in jede Geldbörse oder in Handyhüllen z.B."/>
+            </Sentence>
+            <Sentence id="6:4">
+                <Text text="gepackt werden."/>
+            </Sentence>
+            <Sentence id="6:5">
+                <Text text="Die Bedinung und das Display gleicht vielen handelsüblichen Digitalkameras."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="digitalkameras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:6">
+                <Text text="Ein tolles Feature ist, dass man Bilder abspeichern und vorm ausdrucken bearbeiten kann."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="feature"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:7">
+                <Text text="(Schwarz-weiß/Fotorahmen/Collage u.a.)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="urwolf" date="10.-Mai-2017" id="cam3_7" language="de" product_id="B008GVXKUW" rating="5" title="Die kleine dicke Polaroid">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Ich verstehe nicht, warum die Leute sie schlecht finden."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Die hat viele Einstellungen und ich habe die Bilder von der Speicherkarte auf PC betrachtet, die sind sehr gut."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Laura W." date="2.-Mai-2017" id="cam3_8" language="de" product_id="B008GVXKUW" rating="5" title="PREMIUM">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Da ich fast jedes Wochenende unterwegs bin, eine Städtereise nach der anderen mache, und dabei Fotos natürlich nicht fehlen dürfen, habe ich mich dazu entschlossen, mir eine Polaroid-Kamera zuzulegen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas" date="10.-April-2017" id="cam3_9" language="de" product_id="B008GVXKUW" rating="5" title="Polaroid im 21. Jahrhundert - einfach Kult">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="Nachdem die EU die echten Polaroid Bilder aufgrund der enthaltenen Chemikalien verboten hat (Danke an der Stelle - als ob das nötig gewesen wäre...) gibt es für Fans nun die Z Serie mit Zinktechnologie."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="Die Bilder können direkt aus der Kamera gedruckt werden und sind ein Spaß für Partys, Familienfeiern oder um ein Bild der Liebsten für die Brieftaschen auszudrucken."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="Bei mir im Job als Unternehmensberater verwende ich sie für Workshops - Agile und Design Thinking - z.B."/>
+            </Sentence>
+            <Sentence id="9:4">
+                <Text text="um die Teams zu fotographieren."/>
+            </Sentence>
+            <Sentence id="9:5">
+                <Text text="Ja, man könnte auch Bilder entwickeln lassen oder den Farblaserdrucker verwenden ."/>
+            </Sentence>
+            <Sentence id="9:6">
+                <Text text="aber den Spaß ist es Wert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hunter" date="25.-Januar-2017" id="cam3_10" language="de" product_id="B008GVXKUW" rating="3" title="Mittelprächtiges Produkt">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Produkt ist so mittelprächtig, leider ist die Qualität der Fotos nicht so toll, leider sind die Foros auch recht klein"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="12.-Januar-2016" id="cam3_11" language="de" product_id="B008GVXKUW" rating="1" title="Schlechte Qualität">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Bildqualität sehr sehr schlecht!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="Daher zurück an den Absender!"/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="Bin sehr enttäuscht!"/>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="Preis - Leistungsverhältnis ungenügend!"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:5">
+                <Text text="Mein Handy macht bessere Fotos!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jo" date="4.-Januar-2016" id="cam3_12" language="de" product_id="B008GVXKUW" rating="5" title="Guter Kauf !!">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Die Bilder werden randlos ausgedruckt."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="Ist ne feine Sache."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lanzelot1953" date="29.-Dezember-2015" id="cam3_13" language="de" product_id="B008GVXKUW" rating="4" title="Gute Wahl">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Die Polaroid Z2300 macht gute Bilder, wenn auch das ausgedruckte etwas klein ist."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:2">
+                <Text text="Aber mit dem Speicher kann man es ja größer ausdrucken."/>
+            </Sentence>
+            <Sentence id="13:3">
+                <Text text="Nur der Accu ist etwas schwach."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="29.-November-2015" id="cam3_14" language="de" product_id="B008GVXKUW" rating="2" title="Schlechte Qualität">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Ich habe die Kamera gleich wieder zurückgeschickt, da die Qualität der Bilder mir nicht zugesagt hat."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="true frans" date="13.-November-2015" id="cam3_15" language="de" product_id="B008GVXKUW" rating="1" title="Nettes Konzept mit Ramsch-Produkt verheizt">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Ich wusste ja vorher schon, dass die kleinen Klebe-Bildchen nur bedingt ernst genommen werden können, da ich schon einen PoGo-Drucker habe, aber die eingebaute Kamera hat mich dazu bewogen, die Z2300 mal auszuprobieren."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="HappyBubble" date="23.-Juni-2015" id="cam3_16" language="de" product_id="B008GVXKUW" rating="1" title="Enttäuscht!">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Für mich stellt diese Kamera einfach keine Alternative zu der Kult-Polaroid dar, die man von früher kennt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="SiRa" date="12.-Mai-2015" id="cam3_17" language="de" product_id="B008GVXKUW" rating="3" title="Für Reisen nicht geeignet">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Ich bin ein absoluter FotoFan und finde es toll, wenn Bilder direkt ausgedruckt werden können."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Da meine Sofortdrucker für das Reisegepäck zu groß waren, entschied ich mich für diese Kamera."/>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Die Gründe:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manuel.A" date="6.-Mai-2015" id="cam3_18" language="de" product_id="B008GVXKUW" rating="1" title="Nicht von Qualitätsbildern zu sprechen">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Hallo Leute,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Transgalaxis" date="4.-Mai-2015" id="cam3_19" language="de" product_id="B008GVXKUW" rating="1" title="Der AKKU fehlt noch immer (nicht mitgeliefert)">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Polaroid Z2300 - wir wissen nicht, ob diese Kamera in Ordnung ist, denn es fehlt nachwievor der AKKU."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Ohne diesen geht alles nicht."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Melanie Mindach" date="23.-April-2015" id="cam3_20" language="de" product_id="B008GVXKUW" rating="5" title="Beste Camera!">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Es ist so toll!"/>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Ich persönlich habe mir meine Fotos der Digitalkamera nach dem herstellen der Fotos selten auf dem PC noch mal angeschaut, geschweige diese entwickeln lassen!"/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="Aber mit der Polaroid kann man die Fotos einfach sofort drucken auch von SD Karten von Digitalkameras."/>
+            </Sentence>
+            <Sentence id="20:4">
+                <Text text="Druckt man die einer Digitalkamera ist natürlich das Bild auf dem Fotopapier wesentlich schärfer als von der Polaroid mit 10 MB aber die Polaroid hat halt mehr Charme :)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Renata Stuchly" date="29.-Januar-2015" id="cam3_21" language="de" product_id="B008GVXKUW" rating="2" title="Naja nicht so wie ich sie mir vorgestellt habe..">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Die Bilder haben zwar eine einigermaßen gute Qualität aber es war für mich rausgeschmissenes Geld.. ich habe sie mir ganz anders vorgestellt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                    <Opinion category="PRICE" target="geld"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="Die Bilder sind zu klein, die Kamera an sich sieht etwas billig aus und ist aus nicht so schön wie auf dem Bild."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:3">
+                <Text text="Im ganzen ist die Kamera eher ein Spielzeug..Und So finde ich sieht man die 10 Megapixel nicht, es sind eher 6 oder 7"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Herr Bert" date="9.-Dezember-2014" id="cam3_22" language="de" product_id="B008GVXKUW" rating="2" title="Bilder klein und langsam">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Leider kein Vergleich zu den alten Sofortbildkameras die man kennt."/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Dachte eigentlich dass die Bilder größer sind und dass das ausdrucken einfacher geht."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="22:3">
+                <Text text="Man muss sich Skonti dem Ding beschäftigen."/>
+            </Sentence>
+            <Sentence id="22:4">
+                <Text text="Aber für Schnappschüsse geht es...."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="SkorpionX" date="11.-November-2014" id="cam3_23" language="de" product_id="B008GVXKUW" rating="3" title="Lustige Partykamera">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Für den täglichen Gebrauch ist diese Kamera sicherlich zu groß und die Bildqualität (Papier und Digital) zu schlecht."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bildqualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Günter Bachmann" date="29.-September-2014" id="cam3_24" language="de" product_id="B008GVXKUW" rating="5" title="Ein gutes Produkt">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Ein gutes Produkt, das seinen Preis hat.Für mich als Maler macht es Sinn, mal schnell ein kleines Referenzfoto zu haben."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produkt"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Die suche nach Kopieshops  oder sonst jemand, der einem mal schnell so etwas ausdruckt erübrigt sich mit dieser Kamera, wenn man bereit ist mit der kleinen Bildgrö0e auszukommen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sidney Scholz" date="22.-August-2014" id="cam3_25" language="de" product_id="B008GVXKUW" rating="5" title="Gute Qualität und TOP Spielzeug">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Sehr gute Qualität und keine Streifen im Bild."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="Die alte Polaroid Optik ist natürlich vorhanden."/>
+            </Sentence>
+            <Sentence id="25:3">
+                <Text text="Für Freunde der Zinktechnik ein schönes Spielzeug."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniel St." date="11.-August-2014" id="cam3_26" language="de" product_id="B008GVXKUW" rating="5" title="Super">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Retro feeling, gepaart mit einer Digicam."/>
+            </Sentence>
+            <Sentence id="26:2">
+                <Text text="Macht super Spaß und immer ein hingucker."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dornier" date="28.-Juli-2014" id="cam3_27" language="de" product_id="B008GVXKUW" rating="5" title="tolle Kamera">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Diese Kamera war ein Geschenk für meine Schwester."/>
+            </Sentence>
+            <Sentence id="27:2">
+                <Text text="Sie hat sie sofort benutzt (was für die einfache Handhabung dieser Kamera spricht) und konnte tolle Bilder ihrer Party machen."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="handhabung"/>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:3">
+                <Text text="Selbstverständlich ist die Qualität der Bilder wie bei jeder Polaroid nicht ganz hochwertig, für die kleine PolaroidFotos reicht dies aber volkommen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="polaroidfotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:4">
+                <Text text="Toll ist zudem, dass die Fotos auch anderer Leute elektronisch weitergegeben werden können und dass es für den Fotoapparat keine Druckpatrone erforderlich ist."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="OTHER" target="druckpatrone"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="27:5">
+                <Text text="Insgesamt ein tolles Geschenck."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michael Manger" date="30.-April-2014" id="cam3_28" language="de" product_id="B008GVXKUW" rating="5" title="Genial">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Klasse Kamera für Hobby und Urlaub - druckt schnell und gut aus - man merkt, dass Polaroid eine US-Marke ist - super Verarbeitung und gute - sehr gute Qualität - würde die Kamera jederzeit wieder kaufen!"/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="verarbeitung"/>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Conny" date="3.-April-2014" id="cam3_29" language="de" product_id="B008GVXKUW" rating="4" title="Tolle Spielerei">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Hab die Cam verschenkt."/>
+            </Sentence>
+            <Sentence id="29:2">
+                <Text text="Ist ein tolles Spielzeug, aber auch nicht mehr."/>
+            </Sentence>
+            <Sentence id="29:3">
+                <Text text="Es gibt sicherlich schon Handycams, welche mehr Pixel haben, aber für einen tollen Gag zu Silvester, Geburtstage o.ä."/>
+            </Sentence>
+            <Sentence id="29:4">
+                <Text text="ist es super!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Philipp" date="15.-März-2014" id="cam3_30" language="de" product_id="B008GVXKUW" rating="5" title="Natürlich keine Nikon aber der Spaßfaktor ist verdammt hoch :-)">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Kurz und knackig"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jens buse" date="23.-Januar-2013" id="cam3_31" language="de" product_id="B008GVXKUW" rating="1" title="schlechte Bildqualtät komische Menüführung">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Keine guten Bilder möglich nicht für ältere Menschen geeignet schwer und unhandlich Bilder zu klein sinnlos doof schlecht verfärbungen rotstichig"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mr.Macphisto" date="3.-Januar-2013" id="cam3_32" language="de" product_id="B008GVXKUW" rating="4" title="Eine kleine Spaßfabrik">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Ich habe mir vor zwei Jahren den Polaroid PoGo Drucker gekauft und war von diesem sehr enttäuscht und habe ihn wieder zurück geschickt."/>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="Sofortbilder haben mich schon immer gereizt und somit war ich auf diese Kamera sehr gespannt."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="Ich hatte keine großen Erwartungen an diese Kamera aber als ich sie auspackte und das erste Mal benutze war es eine totale Überraschung."/>
+            </Sentence>
+            <Sentence id="32:4">
+                <Text text="Sie ist ist relativ groß, was finde ich der einzige Nachteil an dieser Kamera ist."/>
+            </Sentence>
+            <Sentence id="32:5">
+                <Text text="Ebenfalls ist die Verarbeitung nicht soooo qualitativ hochwertig - besonders der Akku/SD-Karten Schacht."/>
+                <Opinions>
+                    <Opinion category="PERFORMANCE" target="verarbeitung"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="32:6">
+                <Text text="Die Bilder welche man sich auf dem PC anschauen kann, sind ok - ich hab es mir schlechter vorgestellt."/>
+            </Sentence>
+            <Sentence id="32:7">
+                <Text text="Man kann diese Kamera natürlich nicht als High-End Gerät verstehen aber auch die Fotos die ausgedruckt werden sind wirklich gut."/>
+            </Sentence>
+            <Sentence id="32:8">
+                <Text text="Es gibt natürlich ein paar Farbabweichungen aber ansonsten sind es wirklich top Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="B.H." date="30.-Dezember-2012" id="cam3_33" language="de" product_id="B008GVXKUW" rating="1" title="Leider nicht die Erwartungen erfüllt! Enttäuscht von der Toleranz der Firma nach Wunsch des Kaufrücktritts!">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Die Kamera fällt unter die Kategorie Spielzeug!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stephanie Pouwels" date="28.-Dezember-2012" id="cam3_34" language="de" product_id="B008GVXKUW" rating="5" title="super produkt">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="die Kamera bereitet uns viel Freude, leider sind die Fotos im Format recht klein, dafür aber sehr scharf."/>
+            </Sentence>
+            <Sentence id="34:2">
+                <Text text="Tolles Produkt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anna" date="10.-Dezember-2012" id="cam3_35" language="de" product_id="B008GVXKUW" rating="4" title="Macht Spaß!">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Die Fotos mit der Polaroid Kamera machen viel Spaß."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Der Journalist" date="13.-Oktober-2012" id="cam3_36" language="de" product_id="B008GVXKUW" rating="3" title="Spaßkamera mit Bildschwäche">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Retro ist in."/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="In Zeiten von Pixelmonstern, die kristallklare und hyperscharfe Fotos liefern,"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JG" date="20.-September-2012" id="cam3_37" language="de" product_id="B008GVXKUW" rating="4" title="super ding zum spaß haben">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="hab mir die polaroid ganz spontan fürn urlaub gekauft - um mit den selbstklebenden fotos postkarten selbst zu machen."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="2 stück passen perfekt auf eine weiße blanko-karte!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Womi" date="27.-Februar-2014" id="cam3_38" language="de" product_id="B008GVXKUW" rating="1" title="Leider unbrauchbar!">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Bilder sehr stark grünstichig u. wenig detailtreu."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Meine alte Polaroid von vor 20 Jahren hat bessere Bilder gemacht."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Dank Amanzon war Rückgabe problemlos."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ToKra" date="4.-Januar-2014" id="cam3_39" language="de" product_id="B008GVXKUW" rating="4" title="Für Retrofans und Puristen gut geeignet!">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Rezension UPDATE 2.0"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stella Börger" date="6.-September-2013" id="cam3_40" language="de" product_id="B008GVXKUW" rating="4" title="gutes Ergebnis">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="Die Bilder, die diese Sofortbildkamera macht,  sind erstaunlich gut."/>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Sie halten natürlich nicht mit einer normalen Kamera mit , aber es macht Spaß und man kann auch andere Fotos ausdrucken"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreas Messner" date="30.-August-2013" id="cam3_41" language="de" product_id="B008GVXKUW" rating="3" title="Kammera">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Die Kammera ist sehr groß und die Qualität der bilder ist nicht sehr gut."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualität"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kristina Geck" date="14.-August-2013" id="cam3_42" language="de" product_id="B008GVXKUW" rating="1" title="zurückgeschick!">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="wer eine Polaroid Kamera sucht, die den 'alten' Charme einfängt ist hier leider falsch."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Theo Cavens" date="14.-August-2013" id="cam3_43" language="de" product_id="B008GVXKUW" rating="5" title="Gefällt mir sehr!">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Ich bin sehr zufrieden, meine Bestellung bei Amazon.de."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thomas" date="14.-Juli-2013" id="cam3_44" language="de" product_id="B008GVXKUW" rating="4" title="Super Genial">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Abgesehen davon das der Preis ziemlich Happig ist, ist das Teil echt genial, macht relativ schöne Fotos (die könnten allerdings etwas größer sein aber die größe weis man ja vorher und außerdem wäre die Kamera ja dann auch wieder größer)."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Holly Becker" date="20.-März-2013" id="cam3_45" language="de" product_id="B008GVXKUW" rating="3" title="OK">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="This camera is OK."/>
+            </Sentence>
+            <Sentence id="45:2">
+                <Text text="It's not the best and it's not terrible - but the photos are definitely not that great and it's hard to work with plus the quality is just not so good."/>
+            </Sentence>
+            <Sentence id="45:3">
+                <Text text="It's fun for a craft project but nothing more than that."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luna1669" date="30.-Januar-2013" id="cam3_46" language="de" product_id="B008GVXKUW" rating="4" title="toll">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="auf partys ist es echt ein rießen spass mal ein foto zu machen aber leider sind diese sehr klein und noch leicht zu verwischen"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="thelonious" date="24.-Januar-2013" id="cam3_47" language="de" product_id="B008GVXKUW" rating="3" title="Spasskamera - keine Apple-Anbindung, mieser Akku">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Ich habe die Kamera für ein kleines Bildertagebuch gekauft (es gibt sie allerdings ausserhalb von AMAZON günstiger und beständiger im Preis)."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="amazon"/>
+                    <Opinion category="PRICE" target="preis"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Die Bilder sind viel kleiner als man denkt, aber genau richtig für meine Zwecke."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="12.-Dezember-2016" id="cam3_48" language="de" product_id="B008GVXKUW" rating="3" title="Good but the battery is bad">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Ich hoffte dass die Bildschirm wird mehr Vorteile geben, aber es hat nur die Batterie so schnell ablaufen lassen."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batterie"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="Schade."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="11.-November-2016" id="cam3_49" language="de" product_id="B008GVXKUW" rating="4" title="Coole einfache Kamera">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="SUper Kamera für nicht anspruchsvolle Fotografen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eva Duschonwieder" date="27.-Oktober-2016" id="cam3_50" language="de" product_id="B008GVXKUW" rating="1" title="Fehlerhaft">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Schnelle Lieferung jedoch kam die Polaroid Kamera fehlerhaft und ich musste die kaputte zurück schicken und mir nochmal eine neue kaufen  und dann wochenlang auf mein Geld warten"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="geld"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="rox" date="25.-Juli-2016" id="cam3_51" language="de" product_id="B008GVXKUW" rating="3" title="Spielzeug">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Es ist der Burner auf Parties und man kann damit spielen."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Die ausgedruckten Fotos sind in einer Qualität, die ok ist für Sofortdruck."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="Allerdings sind die Fotos im Endresultat am PC dann eher schlecht."/>
+            </Sentence>
+            <Sentence id="51:4">
+                <Text text="Es ist ein spaßiges Spielzeug, ersetzte aber keine 'richtige' Digitalkamera."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="digitalkamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="30.-Juni-2016" id="cam3_52" language="de" product_id="B008GVXKUW" rating="5" title="Polaroid 20JH">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Hallo zusammen,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="K.S." date="26.-März-2016" id="cam3_53" language="de" product_id="B008GVXKUW" rating="5" title="Funktioniert u macht Spass">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="Bilder machen sowie ausdrucken funktioniert ohne Probleme, Bedienung nach ein paar Versuchen einfach."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="Ideal für Schnappschüsse und Leute die nicht gerne umständlich Bilder ausdrucken oder bestellen wollen oder können."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:3">
+                <Text text="Verschiedene Einstellungen vor der Aufnahme und Bildbearbungsmöglichkeiten vor dem Ausdrucken möglich."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="einstellungen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:4">
+                <Text text="SD-Speichermöglichkeit super."/>
+            </Sentence>
+            <Sentence id="53:5">
+                <Text text="Nix für Profis aber für Gelegenheitsfotografen perfekt."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Austromaxl" date="23.-März-2016" id="cam3_54" language="de" product_id="B008GVXKUW" rating="3" title="Super Kamera aber fehlerhaft">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Kamera ist super."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Sehr praktisch  und Nostalgie pur :-) leider gibt's ein Problem mit dem Aufladen."/>
+            </Sentence>
+            <Sentence id="54:3">
+                <Text text="Einmal nach 2 Monaten aufgetaucht, einmal bei der ersten Verwendung."/>
+            </Sentence>
+            <Sentence id="54:4">
+                <Text text="Hab schon die dritte Kamera und hoffe sie hält."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="kamera"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:5">
+                <Text text="Wahrscheinlich ein Designfehler."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="designfehler"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:6">
+                <Text text="Umtausch war immer Problemlos von Amazon aber es nervt schon."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="amazon"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Franny" date="15.-Februar-2016" id="cam3_55" language="de" product_id="B008GVXKUW" rating="2" title="Schlechte Fotoqualität mit Spaßfaktor">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Ich habe mir die Kamera vor zwei Monaten gekauft und bin mäßig begeistert."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Niyanka Diego Pontillo" date="13.-Februar-2016" id="cam3_56" language="de" product_id="B008GVXKUW" rating="5" title="Printing immediately is the best!">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Perfect!"/>
+            </Sentence>
+            <Sentence id="56:2">
+                <Text text="Super!"/>
+            </Sentence>
+            <Sentence id="56:3">
+                <Text text="Amazing!"/>
+            </Sentence>
+            <Sentence id="56:4">
+                <Text text="So useful, it's like being back in the past!"/>
+            </Sentence>
+            <Sentence id="56:5">
+                <Text text="Love to catch moments And print them right away!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Kunde" date="20.-Januar-2016" id="cam3_57" language="de" product_id="B008GVXKUW" rating="2" title="nicht wirklich zu empfehlen.">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="- jede neuere Handykamera schiesst qualitativ bessere Bilder."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="bilder"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

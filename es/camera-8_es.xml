@@ -1,0 +1,3435 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="ACALU" date="1-de-junio-de-2014" id="cam8_1" language="es" product_id="B00IE9XHCM" rating="4" title="Buena cámara">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="La cámara me gusta y tiene muy buen precio, pero tiene 2 detalles que no me han gustado, la pantalla de la mía concretamente no cerraba correctamente, como si no tuviera imán en la parte inferior, posiblemente la tenga que mandar al servicio técnico en Madrid, y el protector para la zapata del flash no viene con la cámara, no es una cosa cara para no traerlo como en otros modelos."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alberto" date="21-de-mayo-de-2014" id="cam8_2" language="es" product_id="B00IE9XHCM" rating="5" title="Gran cámara, no es mala idea comprar el objetivo por separado">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Cuando salió, compré la cámara con el objetivo de kit (16-50 motorizado)."/>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="La cámara es una maravilla (antes tenía una reflex APS-C también), y los 24 MP con un buen objetivo es como tener zoom gratis gracias a su nitidez y poco ruido."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rafael Luque Navajas" date="13-de-julio-de-2018" id="cam8_3" language="es" product_id="B00IE9XHCM" rating="1" title="Fallo de funcionamiento">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Compré la cámara hace 15 meses y no funciona porque no reconoce ninguna tarjeta de memoria, de hecho en el display pone 'Tarjeta tarjeta de memoria bloqueada'."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="G. G. P." date="6-de-julio-de-2018" id="cam8_4" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente cámara para el usuario medio">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Todavía la uso con modos automáticos, tiene una excelente resolución y una buena óptica del kit."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Aprendiendo aunque es muy intuitiva está llena de parámetros y configuraciones para obtener resultados profesionales."/>
+            </Sentence>
+            <Sentence id="4:3">
+                <Text text="Una buena compra para el usuario medio con pretensiones."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="psuede" date="1-de-julio-de-2018" id="cam8_5" language="es" product_id="B00IE9XHCM" rating="2" title="Decepcionado">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Después de dos meses de uso puedo decir que es una cámara práctica (pesa poco, buen agarre), tiene controles manuales que permiten sacar buenas fotos y tiene buena resolución."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Lo que pasa es que desde el principio, sin haber sacado el objetivo, saca fotos con pequeñas manchas, debido a suciedad en sensor; lo he limpiado dos o tres veces tal y como se aconseja hacer (aire y espátulas especializadas) pero al cabo de unas horas de sacar fotos, las manchas reaparecen."/>
+            </Sentence>
+            <Sentence id="5:3">
+                <Text text="Tendré que llevarla a un espacialista para que la limpie aunque me da miedo de que vuelvan a reaparecer las partículas tal y como está pasando ahora."/>
+            </Sentence>
+            <Sentence id="5:4">
+                <Text text="No me había pasado nunca antes con ninguna cámara."/>
+            </Sentence>
+            <Sentence id="5:5">
+                <Text text="Una pena"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Edu P." date="1-de-julio-de-2018" id="cam8_6" language="es" product_id="B00IE9XHCM" rating="4" title="buena camara">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="la camara esta muy bien."/>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Practica y hace las fotos bonitas."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="bastante ligera."/>
+            </Sentence>
+            <Sentence id="6:4">
+                <Text text="No le pongo un cinco porque la nuestra llegó con la pantalla medio suelta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sulleiro" date="16-de-junio-de-2018" id="cam8_7" language="es" product_id="B00IE9XHCM" rating="4" title="Más que correcta">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="No tiene algunas de las novedades que ofrecen sus hermanas mayores, la a6300 y a6500, pero por su precio cumple sobradamente las expectativas de una cámara sin espejo."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Acepta ISOs altos, es manejable y sólida."/>
+            </Sentence>
+            <Sentence id="7:3">
+                <Text text="Muy rápida y precisa de enfoque."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:4">
+                <Text text="Aunque yo compré sólo el cuerpo, he probado el objetivo (16-50) del 'kit' y su calidad me parece muy mejorable."/>
+            </Sentence>
+            <Sentence id="7:5">
+                <Text text="En mi caso, uso la cámara con focales ART de Sigma y el resultado es más que correcto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:6">
+                <Text text="Como es natural, el cambio de objetivos propicia que el sensor se ensucie con facilidad, por lo que conviene viajar con material para su limpieza."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                    <Opinion category="LENS" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="7:7">
+                <Text text="AL precio que se vende últimamente, me parece una buen opción."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andreu" date="8-de-junio-de-2018" id="cam8_8" language="es" product_id="B00IE9XHCM" rating="5" title="100% original">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Cumple con lo esperado, con la descripción y con los comentarios que había leído."/>
+            </Sentence>
+            <Sentence id="8:2">
+                <Text text="Recomiendo también un objetivo 55-210mm como complemento, aunque la camara está muy muy bien para aficionados amateurs como yo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MSV82" date="1-de-junio-de-2018" id="cam8_9" language="es" product_id="B00IE9XHCM" rating="5" title="Buen producto">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="La compré durante el Prime Day de 2017 y me ahorré bastante dinero."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aziru" date="23-de-mayo-de-2018" id="cam8_10" language="es" product_id="B00IE9XHCM" rating="1" title="Reacondicionada en malas condiciones">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Compré esta camara reacondicionada de amazon porque según la descripción sólo tenía daños estéticos, cual es mi sorpresa que al abrir la caja me encuentro con que la cámara viene sin la pieza de silicona que se monta sobre el visor óptico, sin la tapa del objetivo, sin la tapa del sensor de la cámara y por último la toma del enchufe es inglesa!!!"/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="Eso si, daños estéticos ninguno..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Yagus Maximus" date="18-de-mayo-de-2018" id="cam8_11" language="es" product_id="B00IE9XHCM" rating="5" title="Bru-tal">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Exceltente cámara para iniciarte en el mundo de la fotografía."/>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="Si no tienes ni idea cómprala sin dudarlo, es mi caso."/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="Estoy más que contento, materiales excelentes y funcionalidad 10."/>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="Cuando veo las fotos que hace a veces ni me lo creo lo bien que se ven."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente de Amazon" date="7-de-mayo-de-2018" id="cam8_12" language="es" product_id="B00IE9XHCM" rating="5" title="Muy buena cámara">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Mi cámara ideal, muy buena calidad de fotos, muy rápida, muy buenas sensaciones."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="Estupenda para viajes y situaciones donde no merece la pena cargar con una reflex."/>
+            </Sentence>
+            <Sentence id="12:3">
+                <Text text="La recomiendo 100%."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Domingo Marin" date="5-de-septiembre-de-2017" id="cam8_13" language="es" product_id="B00IE9XHCM" rating="5" title="Increible.">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Cambie de reflez a sistema mirrorless con esta cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:2">
+                <Text text="Cada dia que pasa estoy más contento con ella."/>
+            </Sentence>
+            <Sentence id="13:3">
+                <Text text="Alta calidad en acabado y en las fotografias."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:4">
+                <Text text="Configuación con mil opciones para dejarla a tu gusto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luis" date="30-de-agosto-de-2017" id="cam8_14" language="es" product_id="B00IE9XHCM" rating="5" title="Muy recomendable para viajes o llevar a mano">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Fantástica, es pequeña y se agarra bien."/>
+            </Sentence>
+            <Sentence id="14:2">
+                <Text text="Ofrece muchas ventajas de las réflex grandes en un tamaño contenido."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:3">
+                <Text text="Los objetivos aún son limitados y las segundas marcas ofrecen pocos modelos."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tolokho" date="29-de-agosto-de-2017" id="cam8_15" language="es" product_id="B00IE9XHCM" rating="5" title="Enamorado">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Me encanta."/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Hace muchos años que soy usuario del mundo reflex y tenia la espinita de probar una DEVIL."/>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="Finalmente me hice con esta después de mirar mucho."/>
+            </Sentence>
+            <Sentence id="15:4">
+                <Text text="No defrauda, vuelvo a ir con la cámara a todas partes cosa que últimamente con la reflex no hacia ya."/>
+            </Sentence>
+            <Sentence id="15:5">
+                <Text text="Me ha relanzado la fotografía como afición de diario!"/>
+            </Sentence>
+            <Sentence id="15:6">
+                <Text text="A nivel técnico solo tenéis que leer lo que pone en las descripciones yo si quiero añadir algo, la velocidad de enfoque que se gasta esta pequeña da miedo, vuela!."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Oskar Moreno" date="28-de-agosto-de-2017" id="cam8_16" language="es" product_id="B00IE9XHCM" rating="5" title="Casi una reflex">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Pequeña, ligera y con muy buena calidad."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:2">
+                <Text text="enfoque muy rapido y rafaga rapidisima.Video casi profesional."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="N.F." date="26-de-agosto-de-2017" id="cam8_17" language="es" product_id="B00IE9XHCM" rating="5" title="Perfecta!!!">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Perfecta maquina para quien quiera iniciarse en el mundo de las evil."/>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Muy buena calidad de acabados."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Contento con la compra."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="Gran producto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrés" date="25-de-agosto-de-2017" id="cam8_18" language="es" product_id="B00IE9XHCM" rating="5" title="Enamorado de esta cámara">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Sinceramente me costó bastante el decidirme al comprar una cámara de este tipo ya que dudaba entre este tipo de cámaras EVIL y las tradicionales reflex."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="Sin embargo, una vez en mis manos, puedo decir que cumple con creces mis expectativas."/>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="Fotos de gran calidad incluso con la lente de Kit."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:4">
+                <Text text="Menus y configuración intuitivos, Prestaciones increíbles."/>
+            </Sentence>
+            <Sentence id="18:5">
+                <Text text="Aunque su batería tiene una duración aceptable, si vamos a realizar fotos a diestro y siniestro, recomiendo comprar un cargador adicional y una batería de repuesto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jordi" date="24-de-agosto-de-2017" id="cam8_19" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Me encanta la cámara."/>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="La calidad es muy buena."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="Tiene ayuda de autoenfoque, visor eléctrónico, etc."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:4">
+                <Text text="El wifi va como un tiro, es excelente."/>
+            </Sentence>
+            <Sentence id="19:5">
+                <Text text="Puedes pasar fotos estando de viaje en un momento."/>
+            </Sentence>
+            <Sentence id="19:6">
+                <Text text="Creo que no vale la pena gastar más en el cuerpo y que es mejor combinarla con una buena lente que no sea la que trae el kit a gusto de cada uno en distancia focal."/>
+            </Sentence>
+            <Sentence id="19:7">
+                <Text text="Creo que es un cámara muy cómoda, de calidad y muy portatil."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:8">
+                <Text text="Por más que lo intento no le encuentro muchas pegas para el uso que le doy, es cierto que la batería dura menos que la típica réflex, pero me aguanta sin problemas en mis salidas, aún no he usado las baterias extra que compre por 20€ y las ventajas que da el visor eléctronico merece la pena el gasto."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batería"/>
+                    <Opinion category="DISPLAY" target="visor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:9">
+                <Text text="En fin, solo queda que dure."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="GusVigo" date="23-de-agosto-de-2017" id="cam8_20" language="es" product_id="B00IE9XHCM" rating="4" title="Excelente mirrorless">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="La serie alpha de sony se ha ganado una más que merecida reputación dentro de los sistemas mirrorless."/>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="La calidad y opciones de esta cámara en mi opinión superan a la mayoría de reflex de iniciación."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="Es una cámara ideal para aficionado y también una segunda cámara cuando no quieres cargar con tu pesado equipo pro."/>
+            </Sentence>
+            <Sentence id="20:4">
+                <Text text="En mi caso la uso por este motivo."/>
+            </Sentence>
+            <Sentence id="20:5">
+                <Text text="Como pega recordaros que no es sellada como sus hermanas 6300 o 6500 y tampoco tiene estabilización (imprescindible si vais a hacer mucho video) por eso no le doy 5 estrellas."/>
+            </Sentence>
+            <Sentence id="20:6">
+                <Text text="Ojo es sony!!!"/>
+            </Sentence>
+            <Sentence id="20:7">
+                <Text text="(mucha electrónica en muy poco espacio) con poca refrigeración...ya sabéis lo que eso significa."/>
+            </Sentence>
+            <Sentence id="20:8">
+                <Text text="No es un todo terreno ante salpicaduras o golpes va a talleres fijo."/>
+            </Sentence>
+            <Sentence id="20:9">
+                <Text text="En situaciones de altas temperaturas en verano se puede bloquear momentaneamente a la espera de enfriarse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="David" date="21-de-agosto-de-2017" id="cam8_21" language="es" product_id="B00IE9XHCM" rating="5" title="Gran cámara.">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Impresionante."/>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="Es justamente lo que necesitaba."/>
+            </Sentence>
+            <Sentence id="21:3">
+                <Text text="Una buena cámara manejable de poco peso con grandes características."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="DIMENSION" target="peso"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:4">
+                <Text text="Buen menu, muchas opciones, incluso manual."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lorenzo" date="21-de-agosto-de-2017" id="cam8_22" language="es" product_id="B00IE9XHCM" rating="5" title="MUY BUENA CAMARA A PRECIO FANTASTICO">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="La cámara ha cumplido todas mis espectativas."/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="La oferta era muy interesante ya que el ahorro era muy interesante."/>
+            </Sentence>
+            <Sentence id="22:3">
+                <Text text="Compra genial"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="17-de-octubre-de-2017" id="cam8_23" language="es" product_id="B00IE9XHCM" rating="5" title="Enamorada de ella">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Una cámara alucinante."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:2">
+                <Text text="Hace unas fotos espectaculares aunque no sepas usar la mitad de los modos que tiene."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="23:3">
+                <Text text="Poco a poco sigo estudiandola, pero de momento puedo decir que es una compra genial!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Markspitz" date="12-de-octubre-de-2017" id="cam8_24" language="es" product_id="B00IE9XHCM" rating="5" title="Una “pequeña” maravilla">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Compré esta cámara para sustituir mi equipo reflex."/>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Hace lo mismo que aquella e incluso lo hace mejor."/>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="La diferencia es que lo que antes eran 2,5kg ahora lo tengo en apenas 400 gramos."/>
+            </Sentence>
+            <Sentence id="24:4">
+                <Text text="Buenas fotos y geniales videos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="3-de-octubre-de-2017" id="cam8_25" language="es" product_id="B00IE9XHCM" rating="4" title="cuando menos es mas.">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="calidad muy buena,superior a muchas reflex del mercado,a un ligero peso y tamaño."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="DIMENSION" target="peso"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Enrique" date="29-de-septiembre-de-2017" id="cam8_26" language="es" product_id="B00IE9XHCM" rating="5" title="Estupenda cámara con objetivos intercambiables perfecta sustituta de una reflex">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Es una cámara con un cuerpo muy contenido."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="cuerpo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="26:2">
+                <Text text="Pero con unas prestaciones impresionantes."/>
+            </Sentence>
+            <Sentence id="26:3">
+                <Text text="El sistema de autofocus es espectacular, preciso y rápido."/>
+            </Sentence>
+            <Sentence id="26:4">
+                <Text text="Los dos objetivos del kit están muy bien de calidad, aunque me hubiera gustado una mayor apertura focal (f), pero a este precio no se puede pedir más."/>
+            </Sentence>
+            <Sentence id="26:5">
+                <Text text="El sistema Sony Alpha dispone de muchos accesorios originales y de otras marcas."/>
+            </Sentence>
+            <Sentence id="26:6">
+                <Text text="Sobre objetivos de montaje E, para sensor APS-C, hay algo de variedad, pero en Canon o Nikon  quizás haya más."/>
+            </Sentence>
+            <Sentence id="26:7">
+                <Text text="No obstante, hay adaptadores para usar los de otras marcas."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marc B" date="24-de-septiembre-de-2017" id="cam8_27" language="es" product_id="B00IE9XHCM" rating="5" title="Potente mirrorless">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Aunque ya tiene su tiempo, es una maravilla."/>
+            </Sentence>
+            <Sentence id="27:2">
+                <Text text="Tiene una calidad de imagen buena, bastante control de ruido en ISO's altas y un enfoque rápido para ser una mirrorless."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="imagen"/>
+                    <Opinion category="EXPOSURE CONTROL" target="iso"/>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Miriam" date="20-de-septiembre-de-2017" id="cam8_28" language="es" product_id="B00IE9XHCM" rating="5" title="Miriam">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Aún estoy aprendiendo a usarla pero lo poco que la he usado es increíble las fotos que hace."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="La recomiendo 100%."/>
+            </Sentence>
+            <Sentence id="28:3">
+                <Text text="Eso sí hay que escoger un buen objetivo para sacarle todo lo bueno que esconde."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="28:4">
+                <Text text="Muy buena camara"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="laura" date="20-de-septiembre-de-2017" id="cam8_29" language="es" product_id="B00IE9XHCM" rating="5" title="Cámara perfecta">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Llegó en perfecto estado, y muy buena para una aficionada que comienza."/>
+            </Sentence>
+            <Sentence id="29:2">
+                <Text text="Las fotos salen muy bonitas y considero perfecta para aprender a manejarla manualmente, sin que se quede corta a corto plazo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Adrián" date="19-de-septiembre-de-2017" id="cam8_30" language="es" product_id="B00IE9XHCM" rating="4" title="Perfecta muy buena compra">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Cámara, como se esperaba, muy cómoda y compacta, nada pesada,o peor la carga de la batería que mínima 2 horas para poder cargarla"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="BATTERY" target="batería"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ascen martinez" date="15-de-septiembre-de-2017" id="cam8_31" language="es" product_id="B00IE9XHCM" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Cámara perfecta de tamaño para poder llevártela a donde quieras."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Inma" date="13-de-septiembre-de-2017" id="cam8_32" language="es" product_id="B00IE9XHCM" rating="5" title="Una pasada de cámara">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Una maravilla."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ReCreate" date="14-de-julio-de-2017" id="cam8_33" language="es" product_id="B00IE9XHCM" rating="5" title="La mejor compra..">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Creo que es la mejor compra que he hecho en Amazon y en general."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="Una cámara que a día de hoy sigue cumpliendo con el 90% de las necesidades de un pro-sumar que quiere usarlo de manera simple como de manera totalmente manual y personalizada."/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text="Con un buen lente la calidad de video es superlativa y la de las fotos muy buena."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:4">
+                <Text text="Vengo de Canon y me ha costado dar el paso, pero -a pesar del alto costo de las lentes- estoy muy feliz."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="J. Muñoz" date="14-de-julio-de-2017" id="cam8_34" language="es" product_id="B00IE9XHCM" rating="5" title="Menuda cámara!!">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Al tacto ya se nota que tienes una cámara de calidad entre las manos, cosa que luego confirmas al ver de lo que es capaz, es demasiada cámara para la mayoría de personas entre las que me incluyo, hace unas fotos increibles, es perfecta para llevarla de viaje por su tamaño, una maravilla."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cueto" date="14-de-julio-de-2017" id="cam8_35" language="es" product_id="B00IE9XHCM" rating="5" title="Muy buena cámara">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Una de las mejores cámaras en relación calidad precio."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="Usé durante mucho tiempo su antecesora, la NEX-6, a plena satisfacción y ésta parece aún mejor."/>
+            </Sentence>
+            <Sentence id="35:3">
+                <Text text="Con el objetivo kitero cabe en un bolsillo y es ideal para viajes o si quieres sacar muy buenas fotos sin ir cargado."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivo"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:4">
+                <Text text="En una bolsa pequeña llevas la cámara y dos objetivos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:5">
+                <Text text="La calidad de imagen es equivalente a cualquier réflex de gama media-alta."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="imagen"/>
+                    <Opinion category="GENERAL" target="réflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marco Ant. Gallego" date="16-de-junio-de-2017" id="cam8_36" language="es" product_id="B00IE9XHCM" rating="5" title="Una gran cámara EVIL">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="Muy contento con la cámara, aunque el objetivo que trae el pack no es una maravilla, para 'empezar a pelearte con ella' me parece aceptable."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="Me ha sorprendido la velocidad de disparo (en mi caso fotografiando aves) y la luminosidad de que es capaz, ademas de la gran variedad de ajustes manual que pueden llegar incluso 'a agobiar' en un principio."/>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="Muy contento con la compra y una buena relación calidad/precio (en tiendas físicas suele estar bastante más cara)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Corvo" date="15-de-junio-de-2017" id="cam8_37" language="es" product_id="B00IE9XHCM" rating="5" title="Encantado">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Poco a añadir."/>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Vengo de la Sony Nex5N y estaba muy contento con esa cámara, aunque se me había estropeado la rueda de selección cuando le entró humedad y empezaba a hacer el tonto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Frank Ramos" date="22-de-mayo-de-2017" id="cam8_38" language="es" product_id="B00IE9XHCM" rating="5" title="Espectacular">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Despues de unos dias de pruebas, estoy muy muy satisfecho de esta camara: rapidez de enfoque, multltud de opciones de de configuracion, ligera, versatil... No le encuentro una pega."/>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Dejo por ahora mis camaras reflex aparcadas."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="18-de-mayo-de-2017" id="cam8_39" language="es" product_id="B00IE9XHCM" rating="4" title="Muy buena sin espejo en calidad-precio">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Iba buscando una cámara para adentrarme en el mundo de las Evil, elegí esta por su precio y por las buenas opiniones que había leído."/>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="También buscaba una cámara que tuviera buena grabación de vídeo."/>
+            </Sentence>
+            <Sentence id="39:3">
+                <Text text="Esta cámara se comporta muy bien, con el objetivo del kit hace fotos muy decentes, y la grabación de vídeo es muy buena."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:4">
+                <Text text="Cambiaría solamente la usabilidad y posición de algunos botones, que están mejor posicionados en otras cámaras Sony que he probado anteriormente."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="xabier" date="10-de-mayo-de-2017" id="cam8_40" language="es" product_id="B00IE9XHCM" rating="5" title="Bueno, bonito barato.">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="No le puedo pedir más, por ese precio... Tenía una 5d mark ii y me he downgradeado, pero estoy feliz, se acabó la pesadez del equipo, ahora me lo tomo con más calma, no me obsesiona la calidad de los objetivos y que sea full frame, he sacado tantas buenas fotos con cámaras como la canon 350d con el objetivo del kit, como con la 5d y sus super objetivos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Esta cámara tiene de sobra para sacar buenas fotos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="40:3">
+                <Text text="Si me pongo a poner pegas, una podría ser que el objetivo del kit en 16 tiene un viñeteado y distorsión brutales si disparas en raw."/>
+            </Sentence>
+            <Sentence id="40:4">
+                <Text text="creo que sería mejor un objetivo a partir de 18, pero no existe el 18-50."/>
+            </Sentence>
+            <Sentence id="40:5">
+                <Text text="Solución, no disparar a 16."/>
+            </Sentence>
+            <Sentence id="40:6">
+                <Text text="Paso de meterme en la carrera óptica."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Laura" date="7-de-mayo-de-2017" id="cam8_41" language="es" product_id="B00IE9XHCM" rating="4" title="Todo bien.">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="La pedí hace tres días y de momento ha llegado bien, los dos objetivos funcionan, espero que así siga."/>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Le puse 4 estrellas porque de momento no he probado mucho, en un tiempo si todo sigue bien lo comentaré por aquí."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rosa SP" date="1-de-mayo-de-2017" id="cam8_42" language="es" product_id="B00IE9XHCM" rating="5" title="Fantásrica">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Me ha sorprendido gratamente la Sony A6000."/>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Ràpido enfoque y una calidad en las fotografías que no imaginaba, incluso con el objetivo 16-50 de origen que se supone muy sencillito (no permite el enfoque manual)."/>
+            </Sentence>
+            <Sentence id="42:3">
+                <Text text="Posee un menú completísimo y fácil, así como muchos botones exteriores para facilitar el manejo durante una sesión."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manuel Ortega" date="25-de-noviembre-de-2017" id="cam8_43" language="es" product_id="B00IE9XHCM" rating="5" title="Excelentes fotos, sin comparación con el móvil">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Estamos encantados con nuestra cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Hace unas fotos maravillosas."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="Y no es incómodo cargar con ella."/>
+            </Sentence>
+            <Sentence id="43:4">
+                <Text text="Los dos objetivos nos hacen prácticamente todas las fotos que necesitamos"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="15-de-noviembre-de-2017" id="cam8_44" language="es" product_id="B00IE9XHCM" rating="1" title="TIMO BLACKFRIDAY">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="El descuento marcado por el black friday es un timo!!!"/>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="Esta camara durante el año vale alrededor de los 600 euros!"/>
+            </Sentence>
+            <Sentence id="44:3">
+                <Text text="El descuentazo que se ofrece ahora que pone que baja de 900 euros a 583 es un timo!"/>
+            </Sentence>
+            <Sentence id="44:4">
+                <Text text="Por que enrealidad el descuento real que te están haciendo es de 20-40 euros aproximadamente!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Salvi Muller" date="14-de-noviembre-de-2017" id="cam8_45" language="es" product_id="B00IE9XHCM" rating="3" title="Overheating o sobrecalentamiento">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Si estás buscando una mirrorless para hacer vídeo no te recomiendo en absoluto esta cámara."/>
+            </Sentence>
+            <Sentence id="45:2">
+                <Text text="Sólo puedes grabar un máximo de 10 minutos en verano."/>
+            </Sentence>
+            <Sentence id="45:3">
+                <Text text="A pesar de que puedes hackearla y quitar el límite de 30 minutos, no te sirve de nada porque se sobrecalienta y se apaga."/>
+            </Sentence>
+            <Sentence id="45:4">
+                <Text text="Las fotos tienen una calidad aceptable pero con el objetivo que viene de serie sinceramente no ayuda."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="45:5">
+                <Text text="Recomiendo combinarla con una batería externa y tunearla con un disipador de calor (hay muchos tutoriales en intenernet)."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batería"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="45:6">
+                <Text text="El segundo GRAN problema es el audio."/>
+            </Sentence>
+            <Sentence id="45:7">
+                <Text text="NO TIENE ENTRADA de audio!"/>
+            </Sentence>
+            <Sentence id="45:8">
+                <Text text="!."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="David" date="13-de-noviembre-de-2017" id="cam8_46" language="es" product_id="B00IE9XHCM" rating="5" title="Muy versátil">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="Sin duda una cámara todo terreno, buena en vídeo, buena en fotos, ligera y barata, lo único que le pondría de pega es el precio de los objetivos que es excesivamente elevado y la duración de la batería, hay que comprar varias ya que no le dura mucho."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aarón" date="2-de-noviembre-de-2017" id="cam8_47" language="es" product_id="B00IE9XHCM" rating="5" title="Una bala!">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Sorprende su capacidad de enfoque y disparo, ya que ambos son realmente rápidos."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Disparar en ráfaga con esta cámara es una maravilla porque tiene una velocidad increible!."/>
+            </Sentence>
+            <Sentence id="47:3">
+                <Text text="Los menús de configuración son muy fáciles de entender y el tamaño que tiene la hace perfecta para llevarla de viaje."/>
+            </Sentence>
+            <Sentence id="47:4">
+                <Text text="La calidad de las fotos no tiene diferencias sustanciales con respecto a la Sony Alpha 5000, es decir que obtienes la misma calidad fotográfica que si usaras una cámara réflex difital (DSLR) pero llevando menos bultos y ocupando la mitad del espacio."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:5">
+                <Text text="Objetivos fácilmente intercambiables y bastante bien iluminados."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="tomas" date="30-de-octubre-de-2017" id="cam8_48" language="es" product_id="B00IE9XHCM" rating="1" title="Demasiado precio para lo que es">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="La he tenido que devolver pues el objetivo presentaba dos manchas negras cuando hacias fotos en modo manual y el fondo era claro, tipo cielo."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JOSE V. GIMENO" date="28-de-octubre-de-2017" id="cam8_49" language="es" product_id="B00IE9XHCM" rating="5" title="Espectacular.">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Vengo del mundo de Canon con espejo, y la compré de oferta a muy buen precio para probar las cámaras sin espejo."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="lorena m" date="27-de-octubre-de-2017" id="cam8_50" language="es" product_id="B00IE9XHCM" rating="5" title="increible">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="cambie de canon a sony, muy contenta con los resultados, calidad y portabilidad increible, unica pega poca duracion de la bateria en comparación con otras camaras, pero calidad de video e imagen muy buenas."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="David Cadmio" date="25-de-octubre-de-2017" id="cam8_51" language="es" product_id="B00IE9XHCM" rating="5" title="Genial cámara para iniciarse en la fotografía">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Poco puedo añadir que no se haya dicho ya de está cámara."/>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="Sony está apostando fuerte por las cámaras EVIL (con objetivos intercambiables, pero más ligeras y compactas que una réflex tradicional)"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                    <Opinion category="LENS" target="objetivos"/>
+                    <Opinion category="GENERAL" target="réflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="23-de-octubre-de-2017" id="cam8_52" language="es" product_id="B00IE9XHCM" rating="1" title="la camara falla a los 3 meses de usos, una vida muy corta para una camara de este precio.">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="La camara ha fallado a los 3 meses de uso."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Da un error en pantalla, con cada foto que haces."/>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="'Error de cámara, apagar y volver a encender'."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Teo Crelgo" date="16-de-diciembre-de-2018" id="cam8_53" language="es" product_id="B00IE9XHCM" rating="5" title="La versatilidad y el juego de lentes que trae">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="La duración de la batería es muy escasa."/>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="Debería doblar o triplicar su capacidad"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier" date="15-de-diciembre-de-2018" id="cam8_54" language="es" product_id="B00IE9XHCM" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Perfecta si no quieres gastarte mucho dinero."/>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Si no eres profesional no te la acabas."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MARIA" date="4-de-diciembre-de-2018" id="cam8_55" language="es" product_id="B00IE9XHCM" rating="1" title="La batería es muy mala">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="La batería dura muy poco y se descarga sola sin usar la cámara."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batería"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="55:2">
+                <Text text="Me gustaría que el vendedor se pusiera en contacto conmigo y sustituir me la batería"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="29-de-noviembre-de-2018" id="cam8_56" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámara">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Ya tenemos la camara un año y genial, la compramos en prime day a un precio muy bueno, merece la pena esta camara para personas que quieran iniciarse, muy completa y comoda!"/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JMMR" date="28-de-noviembre-de-2018" id="cam8_57" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente camara">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="Ideal, compacta, calidad, buena optica, bateria bastante extensa, un 10 de camara, lo malo es el precio...pero compensa si te gusta la fotografía."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alejandro s" date="26-de-noviembre-de-2018" id="cam8_58" language="es" product_id="B00IE9XHCM" rating="4" title="Bien">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Me arrepiento de comprarmela con el objetivo 55.210 pero la cámara bien."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="demil133" date="25-de-noviembre-de-2018" id="cam8_59" language="es" product_id="B00IE9XHCM" rating="1" title="Dejó de funcionar al medio año">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Hace medio año que compré esta cámara."/>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="Me ha sido muy versátil mientras me ha durado."/>
+            </Sentence>
+            <Sentence id="59:3">
+                <Text text="Tiene su curva de aprendizaje, sobre todo para dominar los diferentes modos automáticos (seguimiento de personas, fijar figuras, etc)."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="59:4">
+                <Text text="Por lo demás está genial que permita descargar las fotos al móvil, a la hora de hacer copias de seguridad de viaje."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Elisabet" date="19-de-octubre-de-2018" id="cam8_60" language="es" product_id="B00IE9XHCM" rating="5" title="una cámara">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="Estaba en duda...pero finalmente me decidí a comprarla, vengo de cámaras como la nikon d750, fuji xt1, nikon7100, nikond60... así que ya había tocado varias."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="13-de-octubre-de-2018" id="cam8_61" language="es" product_id="B00IE9XHCM" rating="5" title="El tamaño pequeño.">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Me resulta agradable su empuñadura y la facilidad de su manejo.Las fotos son increibles ,la rapidez de enfoque es su mayor virtud.La recomiendo sin dudarlo aunque esté des catalogada."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mattfreedom2002" date="12-de-octubre-de-2018" id="cam8_62" language="es" product_id="B00IE9XHCM" rating="3" title="La camara sobrecalienta y se apaga">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Si quieres grabar video yo recomendaría altamente que no compres esta camera."/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="La camera sobrecalienta y se apaga automaticamente a veces despues de solo 8 minutos grabando."/>
+            </Sentence>
+            <Sentence id="62:3">
+                <Text text="Esperaba que era solo mi modelo que tenía defectos pero he leido muchas criticas de personas con el mismo problema."/>
+            </Sentence>
+            <Sentence id="62:4">
+                <Text text="Es una pena muy grave porque excluso esto la camera es increible."/>
+            </Sentence>
+            <Sentence id="62:5">
+                <Text text="Saca muy buenos fotos y la calidad de video es muy bueno, tambien es muy facil usar, pequeña y ligera."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="62:6">
+                <Text text="Si soy sincero me sorprende que Sony pensaba que podrían vender esta camera con un problema tan grave."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Maria Romero Garcia" date="24-de-enero-de-2018" id="cam8_63" language="es" product_id="B00IE9XHCM" rating="5" title="Absolutsmente brutal">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Absolutamente brutal, es increíble la calidad de fotos que consigue y lo impecables que son los resultados."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="Estoy contentísima, la estabilidad es bestial"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mari Paz" date="24-de-enero-de-2018" id="cam8_64" language="es" product_id="B00IE9XHCM" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="La encontré rebajada de precio y no lo pensé."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="Me ha bastado poco tiempo de tenerla para comprobar que es una cámara increíble."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:3">
+                <Text text="No soy un fotógrafo experto pero esta cámara tiene todo lo que puedes necesitar seas experto o no."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:4">
+                <Text text="Tiene un tamaño genial para llevartela a cualquier lugar y pesa poco."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:5">
+                <Text text="El tacto es agradable y las fotos y vídeos son increíbles."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="64:6">
+                <Text text="Vengo de tener una Canon y la verdad es que el cambio ha sido notable, he ganado en calidad de imagen."/>
+            </Sentence>
+            <Sentence id="64:7">
+                <Text text="La duración de la batería es la adecuada."/>
+            </Sentence>
+            <Sentence id="64:8">
+                <Text text="Sin duda una buena compra"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="19-de-diciembre-de-2017" id="cam8_65" language="es" product_id="B00IE9XHCM" rating="5" title="Relacion calidad precion inmejorable">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Es la mejor camara relacion calidad precio , muy buena en todas las condiciones poca luz etc,el objetivo que trae es muy compacto ,con estabilizador integrado y bastante decente .para viajar es lo mas comodo por su reducido tamaño y peso ."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                    <Opinion category="DIMENSION" target="peso"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amadeo" date="11-de-diciembre-de-2017" id="cam8_66" language="es" product_id="B00IE9XHCM" rating="5" title="Amor a primera vista">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Es la camara que estaba esperando desde hace mucho tiempo, pesa poco y tiene unas prestaciones que son buenísimas y comparable a una réflex."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="réflex"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="A.Sweet" date="6-de-diciembre-de-2017" id="cam8_67" language="es" product_id="B00IE9XHCM" rating="5" title="Ayle">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Increíble cámara,rápida y con un enfoque magnifico.La utilizo a nivel aficionado pero es semi-profesional,es bastante más ligera y manejable que las cámaras reflex.Sin duda la recomiendo para aficionados a la fotografía y para usuarios con nivel medio."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="4-de-diciembre-de-2017" id="cam8_68" language="es" product_id="B00IE9XHCM" rating="1" title="Poco serios">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Son muy poco serios, me han cancelado el pedido realizado  en toda regla el día 29 de Noviembre según ellos por error en el precio que era de 499€ para clientes Prime."/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="Así que no puedo opinar como debería ser de la cámara puesto que me he llevado el chasco hoy al ver por dónde andan mi pedido."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="VICENTE" date="29-de-noviembre-de-2017" id="cam8_69" language="es" product_id="B00IE9XHCM" rating="5" title="pequeña pero matona">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="de lo mejor que te puedes encontrar en cámaras evil."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:2">
+                <Text text="Estaba buscando una cámara pequeña que no me ocupase mucho espacio y con la posibilidad de poderle cambiar objetivos y di con esta."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="69:3">
+                <Text text="Si la buscas aún mas pequeña tienes la a5100."/>
+            </Sentence>
+            <Sentence id="69:4">
+                <Text text="La uso para los días que salgo de senderismo y los viajes que salgo y cumple a la perfección con lo que andaba buscando."/>
+            </Sentence>
+            <Sentence id="69:5">
+                <Text text="Pequeña, fácil de usar, menús intuitivos y con muchas posibilidades."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="29-de-noviembre-de-2017" id="cam8_70" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámara">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="La cámara que andaba buscando desde hace tiempo."/>
+            </Sentence>
+            <Sentence id="70:2">
+                <Text text="Imágenes increíbles."/>
+            </Sentence>
+            <Sentence id="70:3">
+                <Text text="Compacta y fácil de llevar a cualquier parte."/>
+            </Sentence>
+            <Sentence id="70:4">
+                <Text text="Ideal para mis viajes."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon2" date="25-de-noviembre-de-2017" id="cam8_71" language="es" product_id="B00IE9XHCM" rating="5" title="Pequeña GRAN CÁMARA">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Me gusta mucho esta cámara, con buen resultados de color y imagen , muy viajera , aunque se tiene que completar con un unos objetivo acorde."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="71:2">
+                <Text text="Los de SONY , en muchos casos son caros, y los de Carl Zeiss más, aunque dan mucha intidez."/>
+            </Sentence>
+            <Sentence id="71:3">
+                <Text text="Esta cámara tiene muchos botones que hay que configurar, a igual que pasa con las REFLEX, hay que lee el manual."/>
+            </Sentence>
+            <Sentence id="71:4">
+                <Text text="Enfoque rápido."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="71:5">
+                <Text text="buena ergonomia, resolución bastante buena."/>
+            </Sentence>
+            <Sentence id="71:6">
+                <Text text="Con adaptador, funcionan los objetivos para CANON, cada uno con unos pequeños matices."/>
+            </Sentence>
+            <Sentence id="71:7">
+                <Text text="Uno de sus puntos débiles es la escasa duración de la batería y el hecho de cargarlas en la cámara, te tienes que comprar baterías de repuesto."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="baterías"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Unai E." date="25-de-noviembre-de-2017" id="cam8_72" language="es" product_id="B00IE9XHCM" rating="3" title="Este precio?">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Esta camara en el Prime day de 2017 la compré por 406 € ."/>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Parece que es tan buena que como el vino sube el precio con el tiempo.."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="2-de-agosto-de-2017" id="cam8_73" language="es" product_id="B00IE9XHCM" rating="5" title="Impresionante">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="Llevo muy poco con ella y la verdad es que apenas he pasado de los modos automáticos... pero es que son una maravilla!"/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lidia" date="30-de-julio-de-2017" id="cam8_74" language="es" product_id="B00IE9XHCM" rating="4" title="perfecto para mi hijo">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Contento con su camara y las fotos que hace, está muy bien, estrenada en una boda, fotos perfectas, hasta yo salgo bien."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tomás" date="30-de-julio-de-2017" id="cam8_75" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámara con muchas prestaciones">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="La he utilizado poco, pero mi impresión y experiencia de uso es muy satisfactoria,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="30-de-julio-de-2017" id="cam8_76" language="es" product_id="B00IE9XHCM" rating="5" title="Genial!!!!">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Fotos nítidas y espectaculares."/>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Gran calidad!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose Bueno Maroto" date="28-de-julio-de-2017" id="cam8_77" language="es" product_id="B00IE9XHCM" rating="5" title="Muy aconsejable">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="Excelente opción por ese precio."/>
+            </Sentence>
+            <Sentence id="77:2">
+                <Text text="Suelo trabajar con Nikon full frase pero para llevar siempre encima esta cámara está muy bien."/>
+            </Sentence>
+            <Sentence id="77:3">
+                <Text text="Si además le pones buenas ópticas es muy buena."/>
+            </Sentence>
+            <Sentence id="77:4">
+                <Text text="El vídeo no lo uso y no puedo opinar."/>
+            </Sentence>
+            <Sentence id="77:5">
+                <Text text="El envío etc todo perfecto"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="28-de-julio-de-2017" id="cam8_78" language="es" product_id="B00IE9XHCM" rating="5" title="Da la calidad que se espera">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Tenía información previa y no me ha decepcionado."/>
+            </Sentence>
+            <Sentence id="78:2">
+                <Text text="Además la he conseguido a un precio inmejorable."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:3">
+                <Text text="La quería sobre todo para vídeo y de momento estoy muy contento."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Miguel" date="28-de-julio-de-2017" id="cam8_79" language="es" product_id="B00IE9XHCM" rating="5" title="Calidad precio insuperable">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="Calidad precio muy buena, la recomiendo, buena calidad tanto de cámara como las fotos."/>
+            </Sentence>
+            <Sentence id="79:2">
+                <Text text="Por este precio no veo otra mejor."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="26-de-julio-de-2017" id="cam8_80" language="es" product_id="B00IE9XHCM" rating="4" title="Núria">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="Ha complert del tot les meves expectatives."/>
+            </Sentence>
+            <Sentence id="80:2">
+                <Text text="Prestacions d'una reflex amb la lleugeresa i mides òptimes per dur-la de viatge i sobretot de caminades per muntanya."/>
+            </Sentence>
+            <Sentence id="80:3">
+                <Text text="Em faltaria una unica més de gran angular i macro."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ester S." date="18-de-julio-de-2017" id="cam8_81" language="es" product_id="B00IE9XHCM" rating="4" title="Paso de reflex a mirrorless">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Soy aficionada de la fotografía."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografía"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="81:2">
+                <Text text="Antes tenia una Canon 50D, pero el tema de llevar encima la camara y soportar su peso, hacia que pocas veces me la llevara conmigo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ivan" date="15-de-julio-de-2017" id="cam8_82" language="es" product_id="B00IE9XHCM" rating="5" title="Impresionante!">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Desde hace año y medio estaba buscando una cámara que pudiera satisfacer mis necesidades, claro esta mirando mi bolsillo lo mas posible, gracias a amazon prime pude hacerme con esta joya, y si, no exagero, porque es increíble."/>
+            </Sentence>
+            <Sentence id="82:2">
+                <Text text="La mejor relación calidad-precio que he podido ver y sentir en mis manos."/>
+            </Sentence>
+            <Sentence id="82:3">
+                <Text text="Quizas por poner alguna pega, que no lo es tanto pero que hay que decirlo todo, es que el objetivo al ser 'todo terreno' a veces se queda a medias tintas, aun así chapó."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="David" date="14-de-agosto-de-2017" id="cam8_83" language="es" product_id="B00IE9XHCM" rating="4" title="buena para su tamaño y objetivos caros">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Es una cámara muy buena para su tamaño con sensor APSC que en  teoría da muy buena calidad, con sus 24MP."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="83:2">
+                <Text text="Tiene unos menús que han mejorado mucho respecto a otras sony que hacen que estén todos los parámetros bastante a mano, ademas tienes la posibilidad de configurar dos botones para ponerles la función que quieras y también puedes cambiar algunas otras cosas como la función de las roscas etc... es muy personalizable."/>
+            </Sentence>
+            <Sentence id="83:3">
+                <Text text="Con el objetivo de seria 16-50 tiene un tamaño muy comedido como el de las compactas de sensor de una pulgada (este es apsc que es mas grande) si bien este objetivo tiene una optica de las peores que he visto, el 16mm tiene una distorision y un viñeteo increibles, el viñeteo se corrige bien pero la distorsion cuesta bastante con el photoshop.. Otra pega es que los obetivos de esta marca son carísimos asi que con esta camara se pueden hacer muy buenas fotos pero prepara la cartera, el 16-50 puede ser bueno para ir de viaje y no llevar mucho armatoste pero es poco luminoso y el zoom seran tus piernas."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="83:4">
+                <Text text="Tambien venden adaptadores que permiten usar en modo manual objetivos de otras marcas, he probado con los objetivos de canon y y un adaptador y el resultado es muy bueno ya que estos adaptadores no llevan lente que hagan perder luz solo es una rosca que adapta de uno a otro, ademas esta cámara tiene un modo de ayuda al enfoque manual que es genial te amplia mucho la imagen y se ve muy claramente cuando esta bien enfocada."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="83:5">
+                <Text text="Para fotografia nocturna solo la he probado con el 16-50 y tiene ademas del viñeteo y la distorsion un efecto moire muy grande a isos por encima de 2400 asi que aunque la camara tiene mucho iso sobre el papel si no os gusta el ruido solo es usable hasta 2400 asi que las tipicas fotos de la via lactea os saldran por lo s pelos."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="isos"/>
+                    <Opinion category="IMAGING" target="ruido"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="83:6">
+                <Text text="Ademas como el enfoque en este objetivo es electrico poner el objetivo en hiperfocal es toda una odisea."/>
+            </Sentence>
+            <Sentence id="83:7">
+                <Text text="Asi que yoo recomendaria comprar el cuerpo y y buen objetivo que puedas usar en modo automatico y/o manual de forma mecanica para poder enfocar de forma mas fina, pero preparad la cartera si quereis un zeiss o algo asi."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="cuerpo"/>
+                    <Opinion category="LENS" target="objetivo"/>
+                    <Opinion category="EXPOSURE CONTROL" target="modo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ximplet Pocasolta" date="13-de-agosto-de-2017" id="cam8_84" language="es" product_id="B00IE9XHCM" rating="4" title="Consumo elevado de batería.">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="Muy buena cámara, pero no le pongo 5 estrellas por el consumo elevado de la bateria."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="84:2">
+                <Text text="Imprescindible una segunda bateria."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="11-de-agosto-de-2017" id="cam8_85" language="es" product_id="B00IE9XHCM" rating="5" title="Fenomenal">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="Estoy muy contento con la cámara, la verdad es que después de usarla responde muy bien."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="85:2">
+                <Text text="Quizás el visor electrónico es lo más flojito que tiene."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="LaGoS" date="10-de-agosto-de-2017" id="cam8_86" language="es" product_id="B00IE9XHCM" rating="4" title="Recomendada">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Estoy muy contento con la cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="9-de-agosto-de-2017" id="cam8_87" language="es" product_id="B00IE9XHCM" rating="5" title="De lo mejor">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="Una cámara impecable en muchos aspectos, peso, calidad fotográfica, velocidad, batería."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:2">
+                <Text text="Equilibrio perfecto calidad precio."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="7-de-agosto-de-2017" id="cam8_88" language="es" product_id="B00IE9XHCM" rating="5" title="Genial">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="Mi conocimiento de fotos es pequeño , pero  me encanta como funciona y e practicado con las distintas formas de hacer una foto."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manel Garcia" date="3-de-agosto-de-2017" id="cam8_89" language="es" product_id="B00IE9XHCM" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="Calidad de imagen estupenda, asociada a una facilidad de uso muy adecuada, la bateria tiene una duración excelente, perfecta para salir de viaje con ella sin tener que llevar un equipo pesado."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier" date="3-de-agosto-de-2017" id="cam8_90" language="es" product_id="B00IE9XHCM" rating="4" title="LO ESPERADO">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Tengo una Canon 6D con varias lentes fijas y quería una cámara decente y más ligera para mis viajes que disparara en RAW."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="90:2">
+                <Text text="Aún no he probado mucho esta Sony A6000, y sólo lo he hecho con el objetivo del pack."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="carlos" date="3-de-agosto-de-2017" id="cam8_91" language="es" product_id="B00IE9XHCM" rating="4" title="Todo bien. Recomendable.">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="Vengo de la Canon 5D distintos modelos y muy contento, como peros..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="José Antonio Bernabé Herrera" date="3-de-agosto-de-2017" id="cam8_92" language="es" product_id="B00IE9XHCM" rating="5" title="Muy contento con la compra">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="Tuve la suerte de conseguir esta cámara con un precio excelente en el pasado Prime Day."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="92:2">
+                <Text text="Quería una cámara compacta, poco pesada, fácil de transportar y con facilidad de manejo porque el uso que quiero darle, principalmente, es para fotografía de viaje, con el menor equipo y peso posible."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="DIMENSION" target="peso"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="92:3">
+                <Text text="Muy contento porque cumple con cada uno de los parámetros que necesitaba."/>
+            </Sentence>
+            <Sentence id="92:4">
+                <Text text="Además, con adaptadores no excesivamente caros, puedes colocar ópticas de otras marcas para obtener resultados aún más espectaculares."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="27-de-abril-de-2017" id="cam8_93" language="es" product_id="B00IE9XHCM" rating="4" title="Buena para viajes">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="Echo de menos una cuerdita para la tapa del objetivo."/>
+            </Sentence>
+            <Sentence id="93:2">
+                <Text text="Por lo demas, es ideal para viajes."/>
+            </Sentence>
+            <Sentence id="93:3">
+                <Text text="Una buena compra."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="14-de-abril-de-2017" id="cam8_94" language="es" product_id="B00IE9XHCM" rating="5" title="Muy satisfecha">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="Una compra excelente, ofrece más de lo que se espera de una cámara semiprofesional."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="94:2">
+                <Text text="Además posee un tamaño excelente."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="94:3">
+                <Text text="Muy contenta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="27-de-marzo-de-2017" id="cam8_95" language="es" product_id="B00IE9XHCM" rating="4" title="Carles C Roura">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="Me parece muy buena cámara, ideal para complementar una réflex digital con varios objetivos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="réflex"/>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="95:2">
+                <Text text="Todavía estamos en fase de aprendizaje mutuo, pero tiene muy buena pinta!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcos" date="12-de-marzo-de-2017" id="cam8_96" language="es" product_id="B00IE9XHCM" rating="4" title="Buena cámara">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="Cámara perfecta para el uso que le doy."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="96:2">
+                <Text text="La tengo instalada en un drone."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Inmaculada García Cruz" date="21-de-febrero-de-2017" id="cam8_97" language="es" product_id="B00IE9XHCM" rating="5" title="Una pasada">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="Me encanta esta ILCE de sony, tiene una calidad excelente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="6-de-febrero-de-2017" id="cam8_98" language="es" product_id="B00IE9XHCM" rating="4" title="Una buena compra por mi parte.">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="Voy a contar mi experiencia personal, por si le vale de ayuda a alguien."/>
+            </Sentence>
+            <Sentence id="98:2">
+                <Text text="Por mi trabajo viajo casi todos los días y en el poco tiempo libre, pues me gusta hacer  fotos."/>
+            </Sentence>
+            <Sentence id="98:3">
+                <Text text="Anteriormente había tenido dos canon compactas de la gama básica y siempre me había resistido a entrar en el mundo de las réflex, principalmente por su tamaño."/>
+            </Sentence>
+            <Sentence id="98:4">
+                <Text text="Este año quise probar cosas nuevas y me planteé en principio comprar una compacta de gama alta, hasta que empecé a plantearme comprar una sin espejos."/>
+            </Sentence>
+            <Sentence id="98:5">
+                <Text text="Investigando aquí y allá, me pareció que la mas ajustada precio/prestaciones que había era esta cámara."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="98:6">
+                <Text text="Después de mes y medio, creo que he atinado plenamente."/>
+            </Sentence>
+            <Sentence id="98:7">
+                <Text text="No le doy cinco estrellas, por que desde mi punto de vista al panel LCD le falta claridad cuando hay bastante luz y por que las ópticas sony son mas caras que para otras marcas, o eso me está pareciendo: claro  que también te obliga a ver lo que hay en el mercado y agudizar ingenio - segunda mano, adaptadores, ... - La estoy disfrutando mucho."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="adrián" date="5-de-febrero-de-2017" id="cam8_99" language="es" product_id="B00IE9XHCM" rating="1" title="Una cámara muy completa">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="Cuidado con el servicio de Sony."/>
+            </Sentence>
+            <Sentence id="99:2">
+                <Text text="Como es de costumbre (ya tuve un par de Xperias), hardware decente, software de risa."/>
+            </Sentence>
+            <Sentence id="99:3">
+                <Text text="Intenté actualizar la mía hoy mismo , después de más de 1 año de normal funcionamiento para poder instalar al app de Timelapse y me he quedado sin cámara."/>
+            </Sentence>
+            <Sentence id="99:4">
+                <Text text="Si en menos de 3 dias no me responden inciaré otras acciones."/>
+            </Sentence>
+            <Sentence id="99:5">
+                <Text text="Es vergonzoso."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ana Burell Pérez" date="22-de-enero-de-2017" id="cam8_100" language="es" product_id="B00IE9XHCM" rating="5" title="Nada que envidiarle a una réflex">
+        <Sentences>
+            <Sentence id="100:1">
+                <Text text="Hace unos añitos me compré una réflex y al final la acabe vendiendo porque me resultaba pesada e incómoda de transportar, siempre con la mochila a cuestas en excursiones y viajes..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="T.Q" date="18-de-enero-de-2017" id="cam8_101" language="es" product_id="B00IE9XHCM" rating="4" title="todo bien">
+        <Sentences>
+            <Sentence id="101:1">
+                <Text text="la camara esta bien, pero lo que no me gusta es la correa que tiene, es muy aspera y al rozar con el cuello es muy incomoda, creo que por el precio que tiene, podria tener una correa mejor, el resto bien"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="roman" date="15-de-enero-de-2017" id="cam8_102" language="es" product_id="B00IE9XHCM" rating="5" title="Impresionante">
+        <Sentences>
+            <Sentence id="102:1">
+                <Text text="Como primeras impresiones decir que es la mejor cámara que he tenido."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="102:2">
+                <Text text="Indicando que he tenido Pentax KX, Pentax K5, (que me encantaba), Nikon D7200 (Pepino de cámara) y ahora esta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="17-de-enero-de-2019" id="cam8_103" language="es" product_id="B00IE9XHCM" rating="5" title="Calidad">
+        <Sentences>
+            <Sentence id="103:1">
+                <Text text="Me gusta la calidad, tenía una compacta avanzada, peto nada que ver."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alex" date="15-de-enero-de-2019" id="cam8_104" language="es" product_id="B00IE9XHCM" rating="4" title="Bien">
+        <Sentences>
+            <Sentence id="104:1">
+                <Text text="Bastante bien, lo único a resaltar es q su batería es un poco justa sin usar el flash."/>
+            </Sentence>
+            <Sentence id="104:2">
+                <Text text="Con el dura muy poco"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jesus" date="14-de-enero-de-2019" id="cam8_105" language="es" product_id="B00IE9XHCM" rating="2" title="Sobrevalorada">
+        <Sentences>
+            <Sentence id="105:1">
+                <Text text="No ha cumplido en absoluto mis espectativas."/>
+            </Sentence>
+            <Sentence id="105:2">
+                <Text text="Camara muy sobrevalorada."/>
+            </Sentence>
+            <Sentence id="105:3">
+                <Text text="Manejo muy complicad"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manejo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Carlos" date="12-de-enero-de-2019" id="cam8_106" language="es" product_id="B00IE9XHCM" rating="5" title="Camarón!">
+        <Sentences>
+            <Sentence id="106:1">
+                <Text text="Buena cámara, Sony es otro nivel y este modelo es muy bueno!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="106:2">
+                <Text text="Recomendable"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mamen" date="7-de-enero-de-2019" id="cam8_107" language="es" product_id="B00IE9XHCM" rating="5" title="Estoy encantada">
+        <Sentences>
+            <Sentence id="107:1">
+                <Text text="Muy buena compra."/>
+            </Sentence>
+            <Sentence id="107:2">
+                <Text text="Ya había visto opinones positivas sobre la cámara, pero la verdad es que a la hora de utilizarla me he quedado encantada."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:3">
+                <Text text="Es muy adecuada para iniciación a la fotografía semi profesional e ideal para llevártela de viaje."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografía"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:4">
+                <Text text="Ligera y poco aparatosa con muy buena calidad de imagen."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:5">
+                <Text text="Lo que me ha gustado mas es la rapidez a la hora del enfoque automático, es difícil que te salga una foto movida."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="107:6">
+                <Text text="Genial la relación calidad/precio."/>
+            </Sentence>
+            <Sentence id="107:7">
+                <Text text="Muy recomendable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Almanzor" date="5-de-enero-de-2019" id="cam8_108" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámará a buen precio">
+        <Sentences>
+            <Sentence id="108:1">
+                <Text text="La cámara obedece es lo que esperaba."/>
+            </Sentence>
+            <Sentence id="108:2">
+                <Text text="Las descripciones que hay en internet, no solo en Amazon, son suficientes para hacerse una buena idea de lo que compras."/>
+            </Sentence>
+            <Sentence id="108:3">
+                <Text text="Va muy bien, y la compré en un momento en que el precio era muy bueno, por lo que estoy muy satisfecho."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="4-de-enero-de-2019" id="cam8_109" language="es" product_id="B00IE9XHCM" rating="4" title="pequeña, práctica, dinamica y con muy buenos resultados. Como si fuese reflex">
+        <Sentences>
+            <Sentence id="109:1">
+                <Text text="la adquiri para usar unas lentes antiguas de KaRl SWEISS y va perfecta"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="XauXau" date="2-de-enero-de-2019" id="cam8_110" language="es" product_id="B00IE9XHCM" rating="5" title="Muy buena cámara, relación calidad precio genial.">
+        <Sentences>
+            <Sentence id="110:1">
+                <Text text="Una cámara fantástica para aficionados de la fotografía, cámara pequeña muy manejable, con una gran cantidad de funciones como el enfoque ultra rápido genial para hacer vídeos, tiene una gran calidad de imagen con una gran cantidad de objetivos tipo E para a elegir en el mercado."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="110:2">
+                <Text text="El objetivo del Kit esta bien para salir del paso, la batería dura un día haciendo fotos, pero comparase unas de repuesto es muy barato y vale la pena."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batería"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="110:3">
+                <Text text="Recomiendo la cámara sin dudar."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Xavier Fernandez" date="24-de-diciembre-de-2018" id="cam8_111" language="es" product_id="B00IE9XHCM" rating="5" title="Su tamaño.">
+        <Sentences>
+            <Sentence id="111:1">
+                <Text text="He usado esta cámara para fotografía urbana y es muy manejable."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografía"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aritz g" date="20-de-diciembre-de-2018" id="cam8_112" language="es" product_id="B00IE9XHCM" rating="5" title="Gran compra">
+        <Sentences>
+            <Sentence id="112:1">
+                <Text text="Muy contento con la compra, recomendable."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anónimo" date="15-de-diciembre-de-2015" id="cam8_113" language="es" product_id="B00IE9XHCM" rating="4" title="Una cámara muy buena, de alta calidad, sirve como segunda opción para un profesional">
+        <Sentences>
+            <Sentence id="113:1">
+                <Text text="La cámara es muy ligera, lo que hace que se pueda portar fácilmente."/>
+            </Sentence>
+            <Sentence id="113:2">
+                <Text text="Las fotos que hace son de muy buena calidad y el tiempo de enfoque es espectacular."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="113:3">
+                <Text text="El objetivo es mejorable, aunque inicialmente puede servir para hacer la mayor parte de las fotos sin grandes problemas."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivo"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="8-de-diciembre-de-2015" id="cam8_114" language="es" product_id="B00IE9XHCM" rating="5" title="¡¡¡¡¡¡¡¡ GENIAL !!!!!!!!">
+        <Sentences>
+            <Sentence id="114:1">
+                <Text text="La cámara está genial!!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="114:2">
+                <Text text="Sus prestaciones son, sin duda, de las mejores del mercado."/>
+            </Sentence>
+            <Sentence id="114:3">
+                <Text text="El envío correcto, bien precintado."/>
+            </Sentence>
+            <Sentence id="114:4">
+                <Text text="Par se la primera compra ha estado muy bien."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="2-de-diciembre-de-2015" id="cam8_115" language="es" product_id="B00IE9XHCM" rating="5" title="Espectacular">
+        <Sentences>
+            <Sentence id="115:1">
+                <Text text="Relación calidad-precio, impresionante."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcos Ferrández Sempere" date="13-de-noviembre-de-2015" id="cam8_116" language="es" product_id="B00IE9XHCM" rating="5" title="Una gran cámara a un muy buen precio">
+        <Sentences>
+            <Sentence id="116:1">
+                <Text text="Muy buena cámara con una gran calidad y a un precio muy asequible."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="116:2">
+                <Text text="El objetivo que viene con el kit es el único pero que se le puede poner"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ANTONI" date="9-de-noviembre-de-2015" id="cam8_117" language="es" product_id="B00IE9XHCM" rating="5" title="Lo tiene todo, muy completa.">
+        <Sentences>
+            <Sentence id="117:1">
+                <Text text="Una gran camara.Ergonomica, buen acabado, excelente."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Agustín" date="26-de-octubre-de-2015" id="cam8_118" language="es" product_id="B00IE9XHCM" rating="4" title="Demasiado compleja para un aficionado">
+        <Sentences>
+            <Sentence id="118:1">
+                <Text text="Todavía es pronto para opinar en profundidad, pero estoy desbordado por el potencial de esta cámara, demasiadas posibilidades, demasiados menús...el manual de instrucciones online no me satisface, no explica bien las cosas para mi gusto...La adquirí por sus características de vídeo y no me ha decepcionado en cuanto a calidad, pero lógicamente la ergonomía para este propósito no es la ideal, así que tiro desde trípode preferiblemente, aunque con objetivos estabilizados queda ese look tan de moda de cámara al hombro que acompañado de la poca profundidad de campo es muy atractivo."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MARC" date="13-de-octubre-de-2015" id="cam8_119" language="es" product_id="B00IE9XHCM" rating="5" title="BUENA CÁMARA">
+        <Sentences>
+            <Sentence id="119:1">
+                <Text text="Buena cámara, si lo que buscas es la calidad de una Reflex de gama media pero sin tener que cargar con una de ellas."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="119:2">
+                <Text text="Con este pack de objetivos puedes cubrir cualquier distancia si no necesitas ganarte el un sueldo."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="12-de-octubre-de-2015" id="cam8_120" language="es" product_id="B00IE9XHCM" rating="5" title="Espectacular cámara">
+        <Sentences>
+            <Sentence id="120:1">
+                <Text text="Una cámara espectacular por sus especificaciones y peso."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="120:2">
+                <Text text="Tienes todas las funciones de una cámara dslr en un formato más pequeño pero con la misma calidad ya que usa el mismo tamaño de sensor,  APSC."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="120:3">
+                <Text text="A esto hay que añadirle la ventaja de ser una cámara sin espejo,  que en mi opinión es indudablemente mejor que el concepto anticuado que sigue canon o nikon con sus cámaras."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="120:4">
+                <Text text="Sony es el futuro en lo que a cámara y sensores se refiere."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mpulgar" date="22-de-septiembre-de-2015" id="cam8_121" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente equipo, manual del usuario vergonzoso">
+        <Sentences>
+            <Sentence id="121:1">
+                <Text text="Migré de una Nikon D3100 ya que quería no solo una mejora en calidad sino también en una serie de funciones que ni Nikon ni Canon ofrecen en equipos de gama media o baja como este con su software original."/>
+            </Sentence>
+            <Sentence id="121:2">
+                <Text text="Esta cámara tiene un visor electrónico que permite ver exactamente como saldrá la foto (Nikon y Canon ofrecen visores analógicos que no permiten eso, incluso en las cámaras profesionales)."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visores"/>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="121:3">
+                <Text text="Tiene focus peaking y focus assist (zoom de enfoque), cebra para resaltar áreas sobre expuestas."/>
+            </Sentence>
+            <Sentence id="121:4">
+                <Text text="Los controles para mi son muy cómodos ya que si bien tiene un sistema de menúes muy complejos, la tecla FN permite ajustar lo más básico sin tener que entrar en los menúes."/>
+            </Sentence>
+            <Sentence id="121:5">
+                <Text text="El modo 'Memory Recall' (MR) es maravilloso!"/>
+            </Sentence>
+            <Sentence id="121:6">
+                <Text text="Se pueden guardar 3 conjuntos de configuraciones y recuperarlas rápidamente."/>
+            </Sentence>
+            <Sentence id="121:7">
+                <Text text="En mi caso que hago fotografía por diversión pero video más por trabajo (a nivel amateur también), es fundamental no omitir ninguna configuración para filmar ya que no es lo mismo errar en una foto que en varios minutos de video."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Silvia" date="2-de-agosto-de-2015" id="cam8_122" language="es" product_id="B00IE9XHCM" rating="5" title="Una cámara estupenda si te gusta la fotografía pero también viajar ligero.">
+        <Sentences>
+            <Sentence id="122:1">
+                <Text text="Me compré esta cámara para viajar con ella sin que el cuello terminase al final del día doblado por llevar una réflex de casi un kilo."/>
+            </Sentence>
+            <Sentence id="122:2">
+                <Text text="Y tengo que decir que estoy encantada con esta cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="122:3">
+                <Text text="Es ligera pero la calidad de las fotos es impresionante."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Miguelete de Albacete" date="1-de-abril-de-2016" id="cam8_123" language="es" product_id="B00IE9XHCM" rating="5" title="Realmente satisfecho">
+        <Sentences>
+            <Sentence id="123:1">
+                <Text text="Está cumpliendo con creces las expectativas creadas."/>
+            </Sentence>
+            <Sentence id="123:2">
+                <Text text="Personalmente creo que las cámaras réflex serán sustituidas por las mirrorless paulatinamente, ya que casi en el tamaño de una compacta tienes toda la calidad de las réflex."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="26-de-marzo-de-2016" id="cam8_124" language="es" product_id="B00IE9XHCM" rating="5" title="Espectacular y facilidad de uso">
+        <Sentences>
+            <Sentence id="124:1">
+                <Text text="Simplemente espectacular."/>
+            </Sentence>
+            <Sentence id="124:2">
+                <Text text="He realizado un viaje de 45 días por Sudamérica y he realizado fotos increíbles."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="124:3">
+                <Text text="Cualquiera que quiera una cámara de calidad buenísima renunciando al peso y dimensiones de una reflex....se lo recomiendo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="DIMENSION" target="peso"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Toni" date="21-de-marzo-de-2016" id="cam8_125" language="es" product_id="B00IE9XHCM" rating="4" title="muy buena EVIL a no tan buen precio">
+        <Sentences>
+            <Sentence id="125:1">
+                <Text text="Es muy buena camara."/>
+            </Sentence>
+            <Sentence id="125:2">
+                <Text text="El efoque es rapido y tiene varias opciones más que su hermana pequeña la A5100, si bien el precio es practicamente el doble."/>
+            </Sentence>
+            <Sentence id="125:3">
+                <Text text="Para mi lo mejor de la cámara es la posibilidad de disparar 11 fotos por segundo (idea si buscas fotos de deportes o actividades de velocidad)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="125:4">
+                <Text text="Y el mirador va muy bien."/>
+            </Sentence>
+            <Sentence id="125:5">
+                <Text text="Por el mirador me acabe decidiendo por esta y no por la A5100, a poco sol que haga la pantalla no se ve demasiado bien y necesitas como el agua usar el mirador."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Eduardo Ferreyra" date="18-de-marzo-de-2016" id="cam8_126" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente cámara">
+        <Sentences>
+            <Sentence id="126:1">
+                <Text text="Me compré está cámara porque me la recomendó un amigo y estoy muy muy satisfecho."/>
+            </Sentence>
+            <Sentence id="126:2">
+                <Text text="Tiene una gran calidad en el acabo y en su funcionamiento, es muy muy rápida 11 fps."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="126:3">
+                <Text text="Además puedes controlarla con el movil cosa que resulta muy util mas de lo pensado!"/>
+            </Sentence>
+            <Sentence id="126:4">
+                <Text text="La recomiendo!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose Manuel Teruel Antolín" date="11-de-marzo-de-2016" id="cam8_127" language="es" product_id="B00IE9XHCM" rating="5" title="Lo mejor de lo mejor en segmento">
+        <Sentences>
+            <Sentence id="127:1">
+                <Text text="Adquirí la cámara para evitar llevar mi reflex a un viaje y sinceramente volví encantado."/>
+            </Sentence>
+            <Sentence id="127:2">
+                <Text text="El único pero que pude encontrarle es el precio de los objetivos, pero son de una gran calidad; dicho esto, su contraste, su enfoque, su comodidad, la personalización de botones... todo es excepcional y de no disponer de un completísimo equipo Canon sin duda esta sustituiría a mi buena 70D como principal."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="oscar" date="4-de-marzo-de-2016" id="cam8_128" language="es" product_id="B00IE9XHCM" rating="5" title="SOny A600">
+        <Sentences>
+            <Sentence id="128:1">
+                <Text text="DEspués de una cámara compacta de gama alta y un reflex de sony y bastantes dudas me dacanté por provar el mirrorless de sony."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="128:2">
+                <Text text="Decir que estoy encantado con la cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="128:3">
+                <Text text="Fotos buenas a isos altos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="EXPOSURE CONTROL" target="isos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="128:4">
+                <Text text="Te olvidas del flash en muchas ocasiones ya que la cámara trabaja muy bién y el procesador trabaja muy bién el ruido."/>
+            </Sentence>
+            <Sentence id="128:5">
+                <Text text="La gran ventaja és el tamaño que tiene frente a las réflex clásicas, que te hace llevarla a más lugares."/>
+            </Sentence>
+            <Sentence id="128:6">
+                <Text text="CAbe en un bolsillo de chaqueta."/>
+            </Sentence>
+            <Sentence id="128:7">
+                <Text text="Como contras indicar que los objetivos son sensiblemente más caros que una réflex normal, aunque hay adaptadores para objetivos normales, la cámara pierde la esencia si le pones objetivos normales."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="réflex"/>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="128:8">
+                <Text text="Le pondría algún botón más de acceso directo."/>
+            </Sentence>
+            <Sentence id="128:9">
+                <Text text="Para los más vagos o menos expertos, decir que tiene la función inteligente+ con la cual solo te preocupas de enfocar y disparar."/>
+            </Sentence>
+            <Sentence id="128:10">
+                <Text text="Por cierto, enfoque muy rápido incluso con poca luz."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="128:11">
+                <Text text="CAlidad de funcionamiento a nivel de réflex de gama media o semiprofesional"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="24-de-febrero-de-2016" id="cam8_129" language="es" product_id="B00IE9XHCM" rating="5" title="Gran camara">
+        <Sentences>
+            <Sentence id="129:1">
+                <Text text="Si buscas una buena camara con grandes prestaciones esta camara es la tuya."/>
+            </Sentence>
+            <Sentence id="129:2">
+                <Text text="Una excelente compra."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="129:3">
+                <Text text="La recomiendo totalmente."/>
+            </Sentence>
+            <Sentence id="129:4">
+                <Text text="Estoy muy contento."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="pau" date="12-de-febrero-de-2016" id="cam8_130" language="es" product_id="B00IE9XHCM" rating="4" title="Sony A6000">
+        <Sentences>
+            <Sentence id="130:1">
+                <Text text="Buena cámara, muy rapida ,con mucho potencial y con una configuración personalizada excelente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anme" date="10-de-febrero-de-2016" id="cam8_131" language="es" product_id="B00IE9XHCM" rating="5" title="Cámara profesional">
+        <Sentences>
+            <Sentence id="131:1">
+                <Text text="He dado el salto a nivel profesional desde el nivel “aficionadillo avanzado”."/>
+            </Sentence>
+            <Sentence id="131:2">
+                <Text text="Tengo una cámara Canon G1x Mark I y todas las comparativas de esta review se van a hacer con esa cámara."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="domo" date="3-de-febrero-de-2016" id="cam8_132" language="es" product_id="B00IE9XHCM" rating="5" title="Me encanta">
+        <Sentences>
+            <Sentence id="132:1">
+                <Text text="Despues de 7 meses de uso, me sigue encantando esta camara, lo que mas me gusta es lo facil que es adaptarle objetivos antiguos y asi poder probar cristales realmente buenos, simplemente con adaptadores que apenas cuestan dinero."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="alberto ayulo kelly" date="24-de-abril-de-2015" id="cam8_133" language="es" product_id="B00IE9XHCM" rating="5" title="Sony A6000">
+        <Sentences>
+            <Sentence id="133:1">
+                <Text text="Después de tener las NEX 3, NEX 5N Y NEX 6 (ademas de la incombustible Nikon D7000 + Nikkor AI 50mm f2 + Canon 6D y el súper 85mm 1.8), la A6000 cumple todas mis expectativas para un uso diario, como segunda cámara TT."/>
+            </Sentence>
+            <Sentence id="133:2">
+                <Text text="Ligera, con una óptica del kit de calidad satisfactoria, un acabado de materiales de primera categoría y, por fin, un nuevo diseño del menú, con información ordenada, al estilo de las DLSR, ¡adiós a los dichosos iconos!."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="133:3">
+                <Text text="Si bien la calidad del visor electrónico se ha visto reducida con respecto a la NEX 6 compensa la velocidad del AF, sus cientos de puntos de enfoque y el poco ruido a ISOS altos."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                    <Opinion category="EXPOSURE CONTROL" target="isos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="133:4">
+                <Text text="En mi opinión, la convierten en LA CAMARA COMPACTA Mirror-less APS-C DE REFERENCIA por su relación calidad/precio."/>
+            </Sentence>
+            <Sentence id="133:5">
+                <Text text="Si te lo puedes permitir, no lo dudes, ni Lumix LX100, ni Sony RM100M3, ni Canon G1X II."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Raúl Luna" date="15-de-abril-de-2015" id="cam8_134" language="es" product_id="B00IE9XHCM" rating="4" title="Servicio técnico y ecosistema de aplicaciones, dos grandes fallos de esta cámara (Era: Tal y como la esperaba">
+        <Sentences>
+            <Sentence id="134:1">
+                <Text text="Actualización a 06/12/2016: se me ha estropeado y aunque Sony no tiene un servicio técnico, he de decir que las empresas que prestan el servicio tienen una calidad muy aceptable."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="134:2">
+                <Text text="Mi único pero es que he tenido que pagar los gastos de envío y recogida de la cámara."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Francisco Rodríguez Fuertes" date="21-de-marzo-de-2015" id="cam8_135" language="es" product_id="B00IE9XHCM" rating="5" title="Perfecta">
+        <Sentences>
+            <Sentence id="135:1">
+                <Text text="He de decir que soy solo un aficionado y un principiante."/>
+            </Sentence>
+            <Sentence id="135:2">
+                <Text text="Previamente he tenido Reflex analógicas (Nikon) y posteriormente una reflex Bridge también de Nikon, con las que he realizado fotos muy adecuadas a mi nivel."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="135:3">
+                <Text text="Sin embargo este ha sido un gran salto."/>
+            </Sentence>
+            <Sentence id="135:4">
+                <Text text="Es una cámara con un buen sensor (A^S-C), de objetivos intercambiables, sin espejo lo que la hace pequeña y muy manejable."/>
+                <Opinions>
+                    <Opinion category="LENS" target="sensor"/>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="135:5">
+                <Text text="Tiene muchas posibilidades de mejora, dado que se pueden adquirir objetivos para casi todo."/>
+            </Sentence>
+            <Sentence id="135:6">
+                <Text text="Las fotos son extraordinarias con el objetivo del Kit que no está muy laureado en las redes."/>
+            </Sentence>
+            <Sentence id="135:7">
+                <Text text="La verdad es que yo estoy encantado."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ronaldo" date="9-de-marzo-de-2015" id="cam8_136" language="es" product_id="B00IE9XHCM" rating="5" title="Great camera. Beautifull results.">
+        <Sentences>
+            <Sentence id="136:1">
+                <Text text="Its my first system camera and this is realy a Great camera from Sony."/>
+            </Sentence>
+            <Sentence id="136:2">
+                <Text text="Photo's are from midrange SLR level."/>
+            </Sentence>
+            <Sentence id="136:3">
+                <Text text="In combination with a Sony 50mm 1.8 you will be suprised with potrait photo's."/>
+            </Sentence>
+            <Sentence id="136:4">
+                <Text text="Also the silver color with black is very nice."/>
+            </Sentence>
+            <Sentence id="136:5">
+                <Text text="I am very happy with te camera and this will be my favorite."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manuel" date="14-de-febrero-de-2015" id="cam8_137" language="es" product_id="B00IE9XHCM" rating="5" title="Genial">
+        <Sentences>
+            <Sentence id="137:1">
+                <Text text="Totalmente recomendable, perfecta ergonomía, el sensor es una maravilla, ligera... Como única pega, el visor de noche mete mucho ruido y se hace complicado enfocar manualmente en objetivos antiguos."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="137:2">
+                <Text text="Por lo demás, inmejorable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gabriel Marti" date="19-de-diciembre-de-2014" id="cam8_138" language="es" product_id="B00IE9XHCM" rating="3" title="Buena camara, objetivos no tan buenos.">
+        <Sentences>
+            <Sentence id="138:1">
+                <Text text="La cámara es buena, con muchos controles, muy versátil, muy rápida de enfoque y se hacen fotos realmente fantásticas."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="LENS" target="enfoque"/>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aitor Gonzalez Martinez" date="3-de-diciembre-de-2014" id="cam8_139" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente cámara">
+        <Sentences>
+            <Sentence id="139:1">
+                <Text text="Esta cámara cumple con todo lo que yo esperaba."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jacobo Janeiro" date="21-de-octubre-de-2014" id="cam8_140" language="es" product_id="B00IE9XHCM" rating="5" title="La mejor en su segmento (2014)">
+        <Sentences>
+            <Sentence id="140:1">
+                <Text text="Por sus opciones de configuración (mejores que la NEX 6), su ergonomía (La mejor empuñadura de su segmento) y su incontestable calidad de imagen, hacen que la a6000 sea una cámara redonda, en mi opinión."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="imagen"/>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="vemarro" date="26-de-septiembre-de-2014" id="cam8_141" language="es" product_id="B00IE9XHCM" rating="4" title="Ideal para viajar">
+        <Sentences>
+            <Sentence id="141:1">
+                <Text text="No le doy el 10 debido a la duración de la batería."/>
+            </Sentence>
+            <Sentence id="141:2">
+                <Text text="Tal vez se deba a que la probé de viaje por La India y hacía un calor de mil demonios."/>
+            </Sentence>
+            <Sentence id="141:3">
+                <Text text="La sujección es ideal, tremendamente ergonómica."/>
+            </Sentence>
+            <Sentence id="141:4">
+                <Text text="El objetivo no es de mis favoritos, pero cumplió con su función."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Charles Sena" date="26-de-septiembre-de-2014" id="cam8_142" language="es" product_id="B00IE9XHCM" rating="4" title="La mejor cámara EVIL actualmente, pero algo prepotente">
+        <Sentences>
+            <Sentence id="142:1">
+                <Text text="Las cámaras EVIL tienen en la A6000 un referente a imitar y si es posible mejorar."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="142:2">
+                <Text text="El sensor APS-C es sin duda el tamaño más adecuado paraeste tipo de cánaras compactas que intentan reducir el tamaño de cámara y objetivos al mínimo aumentando sin embargo al máximo posible la resolución, definición y calidad de imagen."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="142:3">
+                <Text text="Con 24 Megapíxeles han establecido un hito a mejorar, aunque en mi parecido, no todo son megapíxeles, si no comparar con la Nikon D4s de formato completo y mejor cámara profesional, que 'tan solo' tiene 16 MP..  La Sony A6000 al comprimir tanto MP en un sensor más pequeño, sufre lógicamente de mayor aparición de ruido y menor calidad cuando las condiciones de luz no son idóneas o hay que emplear isos altos (más de 3000 ISO)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="LENS" target="sensor"/>
+                    <Opinion category="IMAGING" target="ruido"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="EXPOSURE CONTROL" target="isos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="142:4">
+                <Text text="Sus opciones de configuración son casi infinitas, lo que la hecen muy complicada para usar por un fotógrafo no profesional, a no ser que se emplee en modo 100% automático (con resultados inciertos), pero habiendo dicho todo esto, considero que Sony ha conseguido la mejor cámara EVIL existente en el mercado en la actualidad, además de tener un rango de ópticas bastante completo."/>
+            </Sentence>
+            <Sentence id="142:5">
+                <Text text="Irónicamente, no le puedo poner 5 estrellas por su exceso de mega píxeles..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="F.L." date="11-de-septiembre-de-2014" id="cam8_143" language="es" product_id="B00IE9XHCM" rating="4" title="Buena cámara a buen precio, pero precio de objetivos muy elevado">
+        <Sentences>
+            <Sentence id="143:1">
+                <Text text="Tras unos meses con esta cámara, estoy bastante satisfecho con ella."/>
+            </Sentence>
+            <Sentence id="143:2">
+                <Text text="Muy buen precio, tamaño comedido para sus prestaciones, AF muy rápido, buena calidad de imagen, rango dinámico impresionante, focus peaking utilísimo."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="imagen"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="143:3">
+                <Text text="Sus 24mp permiten el recorte con gran margen."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Adrian M." date="11-de-septiembre-de-2014" id="cam8_144" language="es" product_id="B00IE9XHCM" rating="5" title="calidad del sensor">
+        <Sentences>
+            <Sentence id="144:1">
+                <Text text="impresionante la calidad del sensor, vengo de una 7D y cansado de multimples objetivos y de un cuerpo muy pesado, cambie recientemente a la A6000 y a un zeiss 16-70, no puedo estar mas contento con la compra."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="DIMENSION" target="cuerpo"/>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="144:2">
+                <Text text="las fotos a iso 12800 son increíbles, ya me hubiera gustado poder hacer eso con la 7D"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio Bustamante" date="3-de-agosto-de-2014" id="cam8_145" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente cámara">
+        <Sentences>
+            <Sentence id="145:1">
+                <Text text="Reune todas las condiciones de manejabilidad y de calidad para ser una cámara ideal para viajes ya que es cómoda y no es pesada."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier Vargas" date="18-de-julio-de-2014" id="cam8_146" language="es" product_id="B00IE9XHCM" rating="5" title="Maravillosa cámara">
+        <Sentences>
+            <Sentence id="146:1">
+                <Text text="Nuevo producto de Sony que colma las mayores expectativas."/>
+            </Sentence>
+            <Sentence id="146:2">
+                <Text text="Calidad réflex en tamaño reducido, manejable."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="146:3">
+                <Text text="Estupenda mirrorless."/>
+            </Sentence>
+            <Sentence id="146:4">
+                <Text text="Acabamos de recibirla y aún no la hemos probado mucho pero ya muestra un gran potencial."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="juan" date="5-de-julio-de-2014" id="cam8_147" language="es" product_id="B00IE9XHCM" rating="5" title="Una camara grande en formato pequeño">
+        <Sentences>
+            <Sentence id="147:1">
+                <Text text="Es una cámara con una calidad increible pese a su pequeño cuerpo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="DIMENSION" target="cuerpo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="147:2">
+                <Text text="Ruido muy bajo, rápido enfoque, muy poco retardo."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="ruido"/>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="147:3">
+                <Text text="Unas prestaciones increible."/>
+            </Sentence>
+            <Sentence id="147:4">
+                <Text text="La conexión wifi con el movil con alcance corto (10 m sin obstáculos) Lo único es un poco cara."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sergio" date="30-de-junio-de-2014" id="cam8_148" language="es" product_id="B00IE9XHCM" rating="5" title="sergio">
+        <Sentences>
+            <Sentence id="148:1">
+                <Text text="Que os boy a decir de sony es una magnífica camara tanto de precio como de calidad y cómoda los objetivos del kitado están bastante bien."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="148:2">
+                <Text text="Personalmente para comprar una compacta me iría por esta la a6000 es un makinon."/>
+            </Sentence>
+            <Sentence id="148:3">
+                <Text text="Saludos"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nic" date="29-de-junio-de-2014" id="cam8_149" language="es" product_id="B00IE9XHCM" rating="5" title="Gran camara a precio razonable">
+        <Sentences>
+            <Sentence id="149:1">
+                <Text text="Pequeno tamano y peso, pero gran calidad fotografica y muhcas funcionalidades."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="peso"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="149:2">
+                <Text text="Realmente merece la pena."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Carlos" date="27-de-junio-de-2014" id="cam8_150" language="es" product_id="B00IE9XHCM" rating="5" title="Carlos">
+        <Sentences>
+            <Sentence id="150:1">
+                <Text text="Cámara fantástica, muy buenas prestaciones y un precio muy contenido."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="150:2">
+                <Text text="Muy recomendable para viajes por su tamaño y calidad de video."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="martýn alexandro" date="21-de-junio-de-2014" id="cam8_151" language="es" product_id="B00IE9XHCM" rating="5" title="¡Gran Cámara!">
+        <Sentences>
+            <Sentence id="151:1">
+                <Text text="¡Excelente cámara!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mick Seymour" date="4-de-junio-de-2014" id="cam8_152" language="es" product_id="B00IE9XHCM" rating="5" title="Excellent / Excelente">
+        <Sentences>
+            <Sentence id="152:1">
+                <Text text="This is a first class camera."/>
+            </Sentence>
+            <Sentence id="152:2">
+                <Text text="Light and very easy to use."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="9-de-octubre-de-2018" id="cam8_153" language="es" product_id="B00IE9XHCM" rating="1" title="Una cámara regular">
+        <Sentences>
+            <Sentence id="153:1">
+                <Text text="No puedo decir que esté satisfecho."/>
+            </Sentence>
+            <Sentence id="153:2">
+                <Text text="Hace buenas fotografías, pero después de comprarla he probado cámaras mejores por un precio parecido."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografías"/>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="153:3">
+                <Text text="Apenas he utilizado el vídeo."/>
+            </Sentence>
+            <Sentence id="153:4">
+                <Text text="A veces se echa de menos que la pantalla sea tactil."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="8-de-octubre-de-2018" id="cam8_154" language="es" product_id="B00IE9XHCM" rating="5" title="Continua sent una referència 4 anys després de néixer.">
+        <Sentences>
+            <Sentence id="154:1">
+                <Text text="Després de jugar amb moltes càmeres reflex i un parell de mirrorless, crec que aquest model segueix sent imbatible amb un preu de 527 EUR (amb la lent 16-50mm F3.5-5.6 OSS) si es busca una càmera ja sigui per fotografia urbana (amb una lent petita t'hi cap a la butxaca) o per iniciar-se en el món de la fotografia amateur."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alejandro" date="4-de-octubre-de-2018" id="cam8_155" language="es" product_id="B00IE9XHCM" rating="5" title="Muy buena calidad">
+        <Sentences>
+            <Sentence id="155:1">
+                <Text text="Hace unas fotos y videos increibles, ademas puedes poner el objetivo que quieras"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Omar" date="10-de-septiembre-de-2018" id="cam8_156" language="es" product_id="B00IE9XHCM" rating="2" title="Demasiadas expectativas">
+        <Sentences>
+            <Sentence id="156:1">
+                <Text text="Hay que tener mucho cuidado hoy en día, las características de un producto no tienen porqué ser en realidad funcionalidades prácticas o que realmente satisfagan las expectativas."/>
+            </Sentence>
+            <Sentence id="156:2">
+                <Text text="Sobretodo tened mucho cuidado con el precio, aunque te ponga que está en promoción del 50% para incentivar tu compra, luego van y la bajan aún más de precio, la compré a 550 y ahora está a 475!"/>
+            </Sentence>
+            <Sentence id="156:3">
+                <Text text="y eso que ya la había comprado en promo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="26-de-agosto-de-2018" id="cam8_157" language="es" product_id="B00IE9XHCM" rating="1" title="Si está en garantía, supongo que tendrá reparación o cambio, Cómo lo hago? Probe la Sony">
+        <Sentences>
+            <Sentence id="157:1">
+                <Text text="Después de haber probado la Sony con ilusión, llega el momento de descarga de imágenes y me encuentro con esto...vaya desastre!!!"/>
+            </Sentence>
+            <Sentence id="157:2">
+                <Text text="A la mayoría de las fotos les falta una parte que sale con trazas... y otras con unas rayitas de colores, no se porqué."/>
+            </Sentence>
+            <Sentence id="157:3">
+                <Text text="Me gustaría hacer el cambio de la cámara"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio" date="21-de-agosto-de-2018" id="cam8_158" language="es" product_id="B00IE9XHCM" rating="5" title="Fantastica">
+        <Sentences>
+            <Sentence id="158:1">
+                <Text text="Fantastatica , el producto me llego en un plazo cortisimo ademas del seguimiento desde la oficina de envio , llevo perfecto la caja perfecta la camara con todos los accesorios embaladas y los manuales  , solo he probado un par de salidas con ella y es fantastica"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javier Dana" date="13-de-agosto-de-2018" id="cam8_159" language="es" product_id="B00IE9XHCM" rating="5" title="Insuperable">
+        <Sentences>
+            <Sentence id="159:1">
+                <Text text="Tenía ya un modelo Alpha de Sony con el cual he estado haciendo fotos amateurs durante años."/>
+            </Sentence>
+            <Sentence id="159:2">
+                <Text text="Decidí dar un salto de calidad, y este modelo es el perfecto para ello."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="IreneG" date="8-de-agosto-de-2018" id="cam8_160" language="es" product_id="B00IE9XHCM" rating="5" title="En vez de réflex">
+        <Sentences>
+            <Sentence id="160:1">
+                <Text text="Una maravilla, me robaron la réflex y muy cómoda por el tamaño que tiene"/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cristi" date="3-de-agosto-de-2018" id="cam8_161" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente elección">
+        <Sentences>
+            <Sentence id="161:1">
+                <Text text="Tras leer muchísimo sobre qué cámara híbrida comprar, me decidí x esta."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:2">
+                <Text text="Pedazo de acierto!!!"/>
+            </Sentence>
+            <Sentence id="161:3">
+                <Text text="Acabo de regresar de un viaje y me traigo unas fotos excelentes, con los diferentes modos q tiene."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="EXPOSURE CONTROL" target="modos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:4">
+                <Text text="Me preocupaba la duración de la batería, pues me duraba el día completo haciendo fotos y vídeos a tope(supongo q en el modo RAW durará un poco menos)."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="161:5">
+                <Text text="Me llevé un cargador externo, el q uso para el móvil y no lo usé ni un día."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="yy" date="13-de-julio-de-2018" id="cam8_162" language="es" product_id="B00IE9XHCM" rating="1" title="Dos cámaras y las dos defectuosas">
+        <Sentences>
+            <Sentence id="162:1">
+                <Text text="La primera cámara sony a6000 que me enviaron tenía defectuoso el visor y parpadeaba."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="162:2">
+                <Text text="La devuelvo y me traen otra donde el visor no parpadea pero la segunda vez que enciendo la cámara me empiezan a salir las fotos oscuras, hace un ruido raro y me da error."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="IMAGING" target="ruido"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="162:3">
+                <Text text="Después de esto me pongo a leer sobre los fallos de sony a6000 y parece que es muy normal."/>
+            </Sentence>
+            <Sentence id="162:4">
+                <Text text="La calidad de las fotos era buena, pero no estoy dispuesta a tener que estar con la cámara cada dos por tres en el taller por problemas varios."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="162:5">
+                <Text text="Una pena."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Juan Gili Suarez" date="14-de-julio-de-2015" id="cam8_163" language="es" product_id="B00IE9XHCM" rating="5" title="Cámara compacta de calidad">
+        <Sentences>
+            <Sentence id="163:1">
+                <Text text="Muy compacta con objetivo 16/50 (q no es nada del otro mundo pero es casi como un pancake)."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="163:2">
+                <Text text="Uso la cámara porque quería hacer fotos de mayor calidad cuando salgo a la montaña, antes usaba Panasonic TZ60 que tiene un gran zoom pero un sensor muy pequeño lo que hace que las fotos no sean de la definición que buscaba."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="LENS" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="163:3">
+                <Text text="Tengo que decir que si buscas una cámara compacta para la montaña y no tienes intención de comprar más objetivos que el que viene de serie, os recomendaría comprar la Sony rx100 1 que cuesta bastante menos 350/400€ y hace unas fotos igual o mejores (un amigo tiene la rx100 y hemos comparado fotos) pese a tener sensor más pequeño de 1' Vs APS-C porque el objetivo q monta es mejor y la cámara es mucho más compacta."/>
+                <Opinions>
+                    <Opinion category="LENS" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="163:4">
+                <Text text="Otra cosa es si quieres empezar a usar filtros comprar objetivos... En este caso creo que es muy buena opción y de momento he quedado bastante contento."/>
+            </Sentence>
+            <Sentence id="163:5">
+                <Text text="Por poner una pega diría que no hay una gran variedad de objetivos donde elegir a un precio razonable."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objetivos"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="163:6">
+                <Text text="Hace poco compre Samyang 12mm y no tengo queja."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fernando Jimenez" date="10-de-julio-de-2015" id="cam8_164" language="es" product_id="B00IE9XHCM" rating="5" title="Un pepino">
+        <Sentences>
+            <Sentence id="164:1">
+                <Text text="Despues de mirar muchas cámaras esta era lo que buscaba, calidad en poco espacio."/>
+            </Sentence>
+            <Sentence id="164:2">
+                <Text text="Una camara con muy buenas prestaciones."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jaime Ollero Perea" date="11-de-junio-de-2015" id="cam8_165" language="es" product_id="B00IE9XHCM" rating="5" title="Entrega rápida y se ajusta a la descripción.">
+        <Sentences>
+            <Sentence id="165:1">
+                <Text text="El producto se entregó rápidamente y se ajusta a la descripción."/>
+            </Sentence>
+            <Sentence id="165:2">
+                <Text text="Todo perfecto."/>
+            </Sentence>
+            <Sentence id="165:3">
+                <Text text="Hay que tener cuidado con el cubre visor de la cámara, un pequeño golpe puede hacerlo saltar de su sitio y se pierde con facilidad."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="165:4">
+                <Text text="Por lo demás la cámara es una joya."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Ignacio" date="9-de-junio-de-2015" id="cam8_166" language="es" product_id="B00IE9XHCM" rating="4" title="Mucho en poco espacio">
+        <Sentences>
+            <Sentence id="166:1">
+                <Text text="Queria una camara compacta y estoy satisfecho con la eleccion."/>
+            </Sentence>
+            <Sentence id="166:2">
+                <Text text="Lo mas flojo de esta eleccion es el objetivo del kit que defrauda un poco."/>
+            </Sentence>
+            <Sentence id="166:3">
+                <Text text="Y lo que mas me a gustado es la rafaga que se consigue."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vangi" date="22-de-mayo-de-2015" id="cam8_167" language="es" product_id="B00IE9XHCM" rating="5" title="Sony alfa a6000 - cámara evil de 24 mp. de color gris">
+        <Sentences>
+            <Sentence id="167:1">
+                <Text text="La Sony Alfa a6000, cámara evil de 24 Mp."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="167:2">
+                <Text text="de color gris, es fantástica por su tamaño."/>
+            </Sentence>
+            <Sentence id="167:3">
+                <Text text="Aún me falta aprender como funciona pero tiene muy buena pinta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jcmarina" date="18-de-mayo-de-2015" id="cam8_168" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámara a buen precio.">
+        <Sentences>
+            <Sentence id="168:1">
+                <Text text="Excelente cámara para aficionados avanzados."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javixuwi" date="11-de-mayo-de-2015" id="cam8_169" language="es" product_id="B00IE9XHCM" rating="5" title="Lo mejor de lo mejor">
+        <Sentences>
+            <Sentence id="169:1">
+                <Text text="Por el precio, y por la calidad de las fotos."/>
+            </Sentence>
+            <Sentence id="169:2">
+                <Text text="La cantidad de ajustes manuales, teclas rápidas y configurables."/>
+            </Sentence>
+            <Sentence id="169:3">
+                <Text text="Calidad de video en Full HD excelente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="169:4">
+                <Text text="El autofoco es enormemente veloz."/>
+            </Sentence>
+            <Sentence id="169:5">
+                <Text text="Esta cámara sustituye a una Nikon D3100 y la verdad, aunque nos dió lástima sustituirla, esta cámara consigue de lejos nuestras espectativas."/>
+            </Sentence>
+            <Sentence id="169:6">
+                <Text text="Nos queda cámara para rato."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="analazza" date="10-de-mayo-de-2015" id="cam8_170" language="es" product_id="B00IE9XHCM" rating="5" title="Estoy muy contento">
+        <Sentences>
+            <Sentence id="170:1">
+                <Text text="Después de muchos analisis y más comparaciones, había otra cámara con una puntuación más alta y con un sensor full frame (Nikon 610) No obstante la diferencia en puntuación era tan pequeña que el precio y el tamaño me inclinaron a elegir la ILCE 6000."/>
+                <Opinions>
+                    <Opinion category="LENS" target="sensor"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mariano Parodi Hernandez" date="4-de-mayo-de-2015" id="cam8_171" language="es" product_id="B00IE9XHCM" rating="5" title="Genial">
+        <Sentences>
+            <Sentence id="171:1">
+                <Text text="Muy buena cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="171:2">
+                <Text text="La envidia de mis amigos gracias a su tamaño y calidad."/>
+            </Sentence>
+            <Sentence id="171:3">
+                <Text text="Muy contento con la compra."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="171:4">
+                <Text text="Aun practicando con ella"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Natalia P." date="25-de-abril-de-2015" id="cam8_172" language="es" product_id="B00IE9XHCM" rating="5" title="Sustituta perfecta para mi reflex de Gama baja">
+        <Sentences>
+            <Sentence id="172:1">
+                <Text text="Gran calidad de imagen, muy rápida,precio competitivo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="imagen"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lewis" date="2-de-febrero-de-2016" id="cam8_173" language="es" product_id="B00IE9XHCM" rating="4" title="Me encanta">
+        <Sentences>
+            <Sentence id="173:1">
+                <Text text="Usada durante un buen periodo de tiempo y estoy enamorado."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nacho" date="31-de-enero-de-2016" id="cam8_174" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente cámara con un tamaño muy contenido.">
+        <Sentences>
+            <Sentence id="174:1">
+                <Text text="Es la cámara perfecta para un aficionado con interés en profundizar en los controles manuales de la fotografía, pero sin el compromiso suficiente para 'cargar' con una cámara de mayor tamaño como puede ser una reflex."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografía"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="174:2">
+                <Text text="Por otra parte el precio de este kot tiene una excelente relacion calidad precio."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pau" date="29-de-enero-de-2016" id="cam8_175" language="es" product_id="B00IE9XHCM" rating="5" title="Gran cámara">
+        <Sentences>
+            <Sentence id="175:1">
+                <Text text="Soy aficionado tirando a principiante y debo decir que con esta cámara, sin hacer nada especial, ni tener demasiados conocimientos sobre fotografía, salen unas tomas espectaculares."/>
+            </Sentence>
+            <Sentence id="175:2">
+                <Text text="És realmente fácil de usar tanto en el modo automático como en las diferentes escenas pre programadas."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="175:3">
+                <Text text="Estoy muy contento con a adquisición."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrés" date="28-de-enero-de-2016" id="cam8_176" language="es" product_id="B00IE9XHCM" rating="5" title="Estoy encantado">
+        <Sentences>
+            <Sentence id="176:1">
+                <Text text="El nivel de control de ruido en la tomas a ISO alta es excepcional, el enfoque en modo ráfaga es muy rápido, el agarre de la empuñadura transmite seguridad a pesar de su tamaño.. una muy buena cámara que te anima a tenerla en la mano constantemente."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="iso"/>
+                    <Opinion category="LENS" target="enfoque"/>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="176:2">
+                <Text text="Mejor comprar solo el cuerpo y buscar los objetivos por separado."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="juanan" date="24-de-enero-de-2016" id="cam8_177" language="es" product_id="B00IE9XHCM" rating="5" title="Juanan">
+        <Sentences>
+            <Sentence id="177:1">
+                <Text text="Una gran Camara."/>
+            </Sentence>
+            <Sentence id="177:2">
+                <Text text="Excelente precio para una cámara casi profesional.requiere mucho tiempo para sacarle partido, muy satisfecho con la compra."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                    <Opinion category="GENERAL" target="compra"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Manu Moreno" date="16-de-enero-de-2016" id="cam8_178" language="es" product_id="B00IE9XHCM" rating="4" title="Excelente camara">
+        <Sentences>
+            <Sentence id="178:1">
+                <Text text="Cámara muy completa que responde a las expectativas prevista."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="178:2">
+                <Text text="El proceso de entrega cumplió las indicaciones marcadas desde el inicio de la compra"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Javi" date="11-de-enero-de-2016" id="cam8_179" language="es" product_id="B00IE9XHCM" rating="5" title="Cámara impresionante">
+        <Sentences>
+            <Sentence id="179:1">
+                <Text text="Compré ésta cámara con una oferta genial y no me arrepiento en absoluto."/>
+            </Sentence>
+            <Sentence id="179:2">
+                <Text text="Hace una fotos de una calidad increíble."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="179:3">
+                <Text text="Siendo nuevo en el mundo de la fotografía al principio impone un poco el manejo, ya que tiene muchas opciones y requiere tiempo aprender a sacarle todo el potencial, después de dos meses de uso me queda mucho por descubrir, pero es un disfrute aprender con ésta cámara."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="11-de-enero-de-2016" id="cam8_180" language="es" product_id="B00IE9XHCM" rating="5" title="Magnifica">
+        <Sentences>
+            <Sentence id="180:1">
+                <Text text="Muy buena compra."/>
+            </Sentence>
+            <Sentence id="180:2">
+                <Text text="Estoy explorando todavía las posibilidades."/>
+            </Sentence>
+            <Sentence id="180:3">
+                <Text text="Antes tenía una canon 450D."/>
+            </Sentence>
+            <Sentence id="180:4">
+                <Text text="Para un usuario medio las prestaciones son magníficas y por su tamaño la puedes llevar contigo a todos lados."/>
+            </Sentence>
+            <Sentence id="180:5">
+                <Text text="Me gusta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="3-de-enero-de-2016" id="cam8_181" language="es" product_id="B00IE9XHCM" rating="5" title="Harish">
+        <Sentences>
+            <Sentence id="181:1">
+                <Text text="Great camera."/>
+            </Sentence>
+            <Sentence id="181:2">
+                <Text text="Great pictures."/>
+            </Sentence>
+            <Sentence id="181:3">
+                <Text text="As soon as you learn all about it the sooner you will love it."/>
+            </Sentence>
+            <Sentence id="181:4">
+                <Text text="Best choise in the marketing for this kind of cam."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lalos" date="15-de-diciembre-de-2015" id="cam8_182" language="es" product_id="B00IE9XHCM" rating="4" title="Muy buena compra">
+        <Sentences>
+            <Sentence id="182:1">
+                <Text text="Aprovechando el black friday,realmente la compre a un muy buen precio.Estoy encantado con ella.El tamaño de la camara junto al objetivo incluido,ocupa realmente muy poco espacio,y a parte de ser bastante manejable,la calidad de las fotos es bastante buena."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="precio"/>
+                    <Opinion category="LENS" target="objetivo"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Infinity" date="27-de-diciembre-de-2016" id="cam8_183" language="es" product_id="B00IE9XHCM" rating="5" title="Maravillosa">
+        <Sentences>
+            <Sentence id="183:1">
+                <Text text="Sólo puedo hablar maravillas de cómo funciona esta cámara EVIL."/>
+            </Sentence>
+            <Sentence id="183:2">
+                <Text text="Es un salto bastante grande con respecto a las cámaras reflex de gama media."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámaras"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jose Rios Lopez" date="27-de-diciembre-de-2016" id="cam8_184" language="es" product_id="B00IE9XHCM" rating="5" title="Camara recomendable 100%">
+        <Sentences>
+            <Sentence id="184:1">
+                <Text text="Manejo sencillo, modos de autofocus una pasada."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manejo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="184:2">
+                <Text text="No te fallara ni una sola fotografía."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografía"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="184:3">
+                <Text text="Menús muy amplios para personalizarla a tu gusto."/>
+            </Sentence>
+            <Sentence id="184:4">
+                <Text text="Los JPGE configurados en vivido salen para no retocar nada."/>
+            </Sentence>
+            <Sentence id="184:5">
+                <Text text="La opción de reducción de ruido a altas sensibilidades trabaja fenomenalmente."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="ruido"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="184:6">
+                <Text text="Peso y tamaño muy equilibrado, para llevarla siempre encima.El autofocus continuo no lo supera para nada mi Canon EOS 60 D. Superrapida, no tiene ningun retardo."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="peso"/>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="184:7">
+                <Text text="Eso si tienes que perder un para de buenos ratos en aprender a configurarla correctamente."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="17-de-octubre-de-2016" id="cam8_185" language="es" product_id="B00IE9XHCM" rating="4" title="Buena maquina pero complicada">
+        <Sentences>
+            <Sentence id="185:1">
+                <Text text="Muy buenas cámara, estoy contento."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="185:2">
+                <Text text="El único problema és que para sacarle partido té tienes que comprar algún libro donde té expliquen para que sirve cada cosa, porque en el manual que tienes que bajarte de internet no té esplican por ejemplo los diferentes tipos de enfoque, etc."/>
+                <Opinions>
+                    <Opinion category="LENS" target="enfoque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="185:3">
+                <Text text="Reza para que el niño no toque ningún botón sinó no sabes ponerlo bien"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="1-de-octubre-de-2016" id="cam8_186" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente en situaciones de poca luz">
+        <Sentences>
+            <Sentence id="186:1">
+                <Text text="Todavía no le he sacado mucho partido pero hay varias impresiones que tengo claras:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="30-de-septiembre-de-2016" id="cam8_187" language="es" product_id="B00IE9XHCM" rating="3" title="esperaba mas del equipo , al disparar se siente la falta de calidad , igual que cuando se cierra la puerta de un coche .">
+        <Sentences>
+            <Sentence id="187:1">
+                <Text text="esperaba mas del equipo , al disparar se siente la falta de calidad , igual que cuando se cierra la puerta de un coche"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fernando" date="19-de-septiembre-de-2016" id="cam8_188" language="es" product_id="B00IE9XHCM" rating="4" title="Estupenda!!">
+        <Sentences>
+            <Sentence id="188:1">
+                <Text text="La utilizo como segunda cámara para tomas de vídeo y su calidad es excelente en comparación con su precio y tamaño."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio Eduardo Ruiz Arenas" date="10-de-agosto-de-2016" id="cam8_189" language="es" product_id="B00IE9XHCM" rating="5" title="Gran cámara evil">
+        <Sentences>
+            <Sentence id="189:1">
+                <Text text="Perfecta, con incertidumbre inicial pero me ha resultado muy grata, manejera, comoda, con muchas opciones y una gran calidad de fotografía"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="IMAGING" target="fotografía"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JoseAB" date="7-de-agosto-de-2016" id="cam8_190" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámara, buen sensor y buena óptica.">
+        <Sentences>
+            <Sentence id="190:1">
+                <Text text="Muy buena cámara compacta, fácil de utilizar y de ajustar."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="190:2">
+                <Text text="Complementandola con algún objetivo más, una gran cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="190:3">
+                <Text text="Un saludo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="EBL" date="2-de-agosto-de-2016" id="cam8_191" language="es" product_id="B00IE9XHCM" rating="4" title="Sony A6000">
+        <Sentences>
+            <Sentence id="191:1">
+                <Text text="La cámara funciona muy bien, cubre las expectativas que tenía sobre ella."/>
+            </Sentence>
+            <Sentence id="191:2">
+                <Text text="Es una cámara para llevarla a cualquier sitio, pesa poco y tiene un tamaño aceptable."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="21-de-julio-de-2016" id="cam8_192" language="es" product_id="B00IE9XHCM" rating="5" title="Excelente cámara. Prestaciones increibles y calidad excelente.">
+        <Sentences>
+            <Sentence id="192:1">
+                <Text text="Cámara de altísimas prestaciones."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="192:2">
+                <Text text="La compré influenciado por la propaganda y la verdad es que no me ha defraudado en absoluto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fernando" date="18-de-julio-de-2016" id="cam8_193" language="es" product_id="B00IE9XHCM" rating="5" title="Enamorado de la cámara">
+        <Sentences>
+            <Sentence id="193:1">
+                <Text text="Es mi primera cámara 'reflex' y estoy encantado con las funcionalidades que tiene."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="193:2">
+                <Text text="El autoenfoque es bestial, funciona muy rápido."/>
+            </Sentence>
+            <Sentence id="193:3">
+                <Text text="El software es veloz."/>
+            </Sentence>
+            <Sentence id="193:4">
+                <Text text="NFC y Wifi espectacular."/>
+            </Sentence>
+            <Sentence id="193:5">
+                <Text text="Todo perfecto!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Anna G." date="12-de-junio-de-2016" id="cam8_194" language="es" product_id="B00IE9XHCM" rating="3" title="Tendríamos que esperar al menos año y medio para hacer reseñas, cada vez más decepcionada, los componenetes son de baja calidad">
+        <Sentences>
+            <Sentence id="194:1">
+                <Text text="No puedo poner 2 estrellas porqué significa 'No me gusta', pero poner 3 'Está bien' tampoco es lo apropiado."/>
+            </Sentence>
+            <Sentence id="194:2">
+                <Text text="Con un 'pasable' sería suficiente."/>
+            </Sentence>
+            <Sentence id="194:3">
+                <Text text="Dudo que la volviese a comprar."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jesus Sanchez Aguilar" date="10-de-junio-de-2016" id="cam8_195" language="es" product_id="B00IE9XHCM" rating="5" title="Para que tener una camara réflex?">
+        <Sentences>
+            <Sentence id="195:1">
+                <Text text="Por donde empezar?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Felix Ayuso" date="2-de-junio-de-2016" id="cam8_196" language="es" product_id="B00IE9XHCM" rating="5" title="Muy buena cámara para viaje.">
+        <Sentences>
+            <Sentence id="196:1">
+                <Text text="La he adquirido para llevarla a la montaña, por su pequeño tamaño y su buen sensor."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="tamaño"/>
+                    <Opinion category="LENS" target="sensor"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="196:2">
+                <Text text="La he puesto el objetivo de Sony 18-200 y el resultado es magnífico."/>
+            </Sentence>
+            <Sentence id="196:3">
+                <Text text="La cámara es muy rápida y sencilla de manejar."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Chimo" date="19-de-mayo-de-2016" id="cam8_197" language="es" product_id="B00IE9XHCM" rating="4" title="Buena camara">
+        <Sentences>
+            <Sentence id="197:1">
+                <Text text="es muy rapida, la batería sobre 300 disparos, hasta 1600 de iso poco ruido y hay que configurarla antes , para sacarle partido,  pero es una buena opción como segundo cuerpo a una réflex"/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batería"/>
+                    <Opinion category="DIMENSION" target="cuerpo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Adolfo Alcaraz" date="16-de-mayo-de-2016" id="cam8_198" language="es" product_id="B00IE9XHCM" rating="5" title="Fabulosa">
+        <Sentences>
+            <Sentence id="198:1">
+                <Text text="Llevo poco tiempo con ella pero cada vez que pruebo una novedad me sorprende gratamente, cualquier opción que se me ocurra la cámara es capaz de hacerlo.El objetiivo del pack, sin ser una maravilla, es preciso y bastante luminoso, a la espera de adquirir nuevos objetivos me funciona perfectamente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="LENS" target="objetivos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="F. Romero" date="13-de-mayo-de-2016" id="cam8_199" language="es" product_id="B00IE9XHCM" rating="5" title="Una muy buena cámara">
+        <Sentences>
+            <Sentence id="199:1">
+                <Text text="Hace unas fotos de gran calidad teniendo en cuenta lo versátil que es y lo que cuesta, realmente en su clase de precio/prestaciones creo que ahora mismo no tiene rival."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Germain" date="25-de-abril-de-2016" id="cam8_200" language="es" product_id="B00IE9XHCM" rating="5" title="Muy buena cámara">
+        <Sentences>
+            <Sentence id="200:1">
+                <Text text="Me dedico a realizar vídeos de boda con estilo cinematográfico y me parece una excelente elección como segundo equipo."/>
+            </Sentence>
+            <Sentence id="200:2">
+                <Text text="Teniendo en cuenta la llegada del 4K y la sustituta A6300 sigue manteniéndose con muy buenas prestaciones esta cámara."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="200:3">
+                <Text text="He leído mucho sobre el tema de las baterías pero tampoco he notado mucha diferencia de duración (es cierto que duran menos que las DSLR con espejo) pero con un grip y contando con 2 ó 4 repuestos lo tienes controlado."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="25-de-abril-de-2016" id="cam8_201" language="es" product_id="B00IE9XHCM" rating="4" title="Buena óptica Sony alpha a6000">
+        <Sentences>
+            <Sentence id="201:1">
+                <Text text="Acostumbrado a las Canon, cuesta un poco hacerse con ella."/>
+            </Sentence>
+            <Sentence id="201:2">
+                <Text text="La pantalla LCD está llena de información y de iconos, muy pequeños para mi gusto, y su movilidad es mucho menor que la de mi G12 de Canon."/>
+            </Sentence>
+            <Sentence id="201:3">
+                <Text text="Con todo, tengo que recoocer  que llos objetivos que trae logran fotos con una profundidad  y una nitidez que no había conseguido hasta ahora."/>
+            </Sentence>
+            <Sentence id="201:4">
+                <Text text="Las fotos panorámicas una maravilla, y las posibilidades de manejo manual infinitas."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                    <Opinion category="OTHER" target="manejo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Martin" date="9-de-abril-de-2016" id="cam8_202" language="es" product_id="B00IE9XHCM" rating="4" title="Muy buena opcion para aquel que, tenga objetivos Minolta MD (necesita tambien un adaptador MD-NEX)">
+        <Sentences>
+            <Sentence id="202:1">
+                <Text text="Es una buena cámara para aquel que quiera seguir usando sus objetivos de Minolta, también el precio es razonable."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="202:2">
+                <Text text="Incopatibilidad de aplicaciones  de la A6000 para MAC El Capitan pero, no pasa nada, Fotos de Apple, abre la memoria sin problemas."/>
+            </Sentence>
+            <Sentence id="202:3">
+                <Text text="Aun que, la batería que viene en la caja se recarga con el cable que viene también, es conveniente pedir adicionalmente otra bateria y un cargador externo, también es necesario un flash y una tarjeta SD."/>
+            </Sentence>
+            <Sentence id="202:4">
+                <Text text="Sin la SD no funciona la cámara."/>
+            </Sentence>
+            <Sentence id="202:5">
+                <Text text="El manual está en ingles solo, pero tampoco eso es un problema."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alb.F." date="6-de-mayo-de-2018" id="cam8_203" language="es" product_id="B00IE9XHCM" rating="5" title="Buena maquina">
+        <Sentences>
+            <Sentence id="203:1">
+                <Text text="Perfecta, semiprofecional y amateur, aún que es la mas sencilla con visor incorporado tiene todas las  funciones necesarias para disfrutar haciendo fotografías."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="visor"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio Parejo" date="30-de-abril-de-2018" id="cam8_204" language="es" product_id="B00IE9XHCM" rating="4" title="Gran camara y de poco peso">
+        <Sentences>
+            <Sentence id="204:1">
+                <Text text="Ideal para fotos en viajes y cuando no puedas llevar el peso de una reflex."/>
+            </Sentence>
+            <Sentence id="204:2">
+                <Text text="Tiene bastante calidad y nitidez, manejo fácil y comoda de llevar."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="manejo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="204:3">
+                <Text text="En su contra, poca duracion de batería y modo automatico demasiado rigido, sin poder cambiar nada."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="agar" date="26-de-abril-de-2018" id="cam8_205" language="es" product_id="B00IE9XHCM" rating="5" title="Camara Evil">
+        <Sentences>
+            <Sentence id="205:1">
+                <Text text="Hola, de momento bien nunca he tenido este tipo de cámaras, tengo la Sony a390 y me ha ido bien."/>
+            </Sentence>
+            <Sentence id="205:2">
+                <Text text="Por lo poco que he visto es muy singular, pesa poco, es muy manejable y la he recibido hoy, no puedo opinar casi nada, estoy trasteando con ella"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="21-de-abril-de-2018" id="cam8_206" language="es" product_id="B00IE9XHCM" rating="5" title="Buena cámara para su rango de precio">
+        <Sentences>
+            <Sentence id="206:1">
+                <Text text="Tiene unas prestaciones muy buenas para lo que cuesta."/>
+            </Sentence>
+            <Sentence id="206:2">
+                <Text text="Además graba vídeo FullHD con una calidad bastante decente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="206:3">
+                <Text text="La electrónica es muy buena, la única pega es la óptica que trae, pero por ese precio tampoco se pueden pedir milagros."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="domingo" date="13-de-abril-de-2018" id="cam8_207" language="es" product_id="B00IE9XHCM" rating="5" title="Genial">
+        <Sentences>
+            <Sentence id="207:1">
+                <Text text="Genial,si buscas versatilidad,facilidad de uso y calidad fotográfica es tu camara.Desde los aficionados hasta los profesionales el grado de uso de esta cámara abarca todo el rango,ojo y esperar a una oferta,yo estuve detrás de ella mucho tiempo y se mueve en margenes de precio muy grandes entre mas de 450 y menos de 650.casi 200, si tenéis objetivos antiguos de monturas diferentes,existen adaptadores para todos ellos con el ahorro que supone en objetivos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                    <Opinion category="GENERAL" target="cámara"/>
+                    <Opinion category="PRICE" target="precio"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Augustas" date="21-de-marzo-de-2018" id="cam8_208" language="es" product_id="B00IE9XHCM" rating="5" title="Augustas Leikunas">
+        <Sentences>
+            <Sentence id="208:1">
+                <Text text="Increíble, no puedo estar más satisfecho, fácil de usar con un par de tutoriales aprendes a configurar la cámara a tu gusto."/>
+            </Sentence>
+            <Sentence id="208:2">
+                <Text text="Es la primera cámara que me compro y con las grandes cosas que empiezo a hacer con ella me temo que voy a durar años y años antes de siquiera mirar otra opción"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="cámara"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="10-de-marzo-de-2018" id="cam8_209" language="es" product_id="B00IE9XHCM" rating="5" title="Una buena opción">
+        <Sentences>
+            <Sentence id="209:1">
+                <Text text="luego de buscar y buscar una cámara que cumpliera con todas las características que buscaba encontré Sony Alpha 6000."/>
+            </Sentence>
+            <Sentence id="209:2">
+                <Text text="Yo no tengo experiencia en fotografía y la cámara ha sido muy amigable, si bien tengo mucho por aprender aún considero que es una excelente opción para alguien que quiere comenzar con una cámara de muy buena calidad."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="calidad"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="209:3">
+                <Text text="La aplicación para sacar fotos monitoreadas por el celular (iPhone) es muy fácil de usar."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="209:4">
+                <Text text="Recomiendo comprar un estuche o funda para protegerla desde el día 1 y también una memoria porque no viene incluida."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="3-de-marzo-de-2018" id="cam8_210" language="es" product_id="B00IE9XHCM" rating="4" title="Buen aparato per quidado con el microfono.">
+        <Sentences>
+            <Sentence id="210:1">
+                <Text text="Buena imágenes, buenos videos estoy satisfecho de su trabajo."/>
+            </Sentence>
+            <Sentence id="210:2">
+                <Text text="Pequeña cómoda para ser llevada."/>
+            </Sentence>
+            <Sentence id="210:3">
+                <Text text="Estoy bastante satisfecho."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Igor" date="12-de-febrero-de-2018" id="cam8_211" language="es" product_id="B00IE9XHCM" rating="5" title="Igor Moreno">
+        <Sentences>
+            <Sentence id="211:1">
+                <Text text="Camarón!!!"/>
+            </Sentence>
+            <Sentence id="211:2">
+                <Text text="Perfecta para poder llevarla a cualquier lado y en cualquier lado."/>
+            </Sentence>
+            <Sentence id="211:3">
+                <Text text="Cámara al bolsillo de la chaqueta y a callejear!"/>
+            </Sentence>
+            <Sentence id="211:4">
+                <Text text="Muy contento con el producto."/>
+            </Sentence>
+            <Sentence id="211:5">
+                <Text text="Cumpliendo las expectativas"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="antonio" date="9-de-febrero-de-2018" id="cam8_212" language="es" product_id="B00IE9XHCM" rating="5" title="LA MEJOR DE SU GAMA DE LEJOS!">
+        <Sentences>
+            <Sentence id="212:1">
+                <Text text="Bueno, empezare por decir que soy fotógrafo, aunque ya no hago muchas bodas, he usado cámaras de todo tipo y marca, desde nikon a fuji, desde mamiya en formatos 4,5x6, a 6x7, y desde zenza bronica hasta hasselblad."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

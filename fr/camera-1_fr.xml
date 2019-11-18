@@ -1,0 +1,904 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="TesteurDeTout" date="27-août-2013" id="cam1_1" language="fr" product_id="B00DM8R866" rating="5" title="Le nirvana de la photo !">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Je ne vous parlerai pas ici de megapixels, de processeurs d'image ou de zoom optique."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="1:2">
+                <Text text="Tous les renseignements techniques étant disponibles sur la fiche Amazon de cet appareil numérique."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vince" date="13-août-2013" id="cam1_2" language="fr" product_id="B00DM8R866" rating="4" title="Etonné...">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="J'ai sans doute trop lu et relu les commentaires des sites spécialisés et j'ai, par conséquent, peut être trop attendu de cet appareil..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pierre 14" date="7-août-2013" id="cam1_3" language="fr" product_id="B00DM8R866" rating="4" title="RX 100 M 2">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Un apn fabuleux qui produit de très belles photos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="apn"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marc A." date="31-juillet-2013" id="cam1_4" language="fr" product_id="B00DM8R866" rating="5" title="Le rx100 ameliore">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Meme qualite superlative que le rx100 1ere version"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="C.L." date="28-août-2014" id="cam1_5" language="fr" product_id="B00DM8R866" rating="5" title="meilleur compact pour moi">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="possédant un réflexe canon, je me voyais mal avec un nouveau compact."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="compact"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="5:2">
+                <Text text="Or pour les vacances en rando, le reflex est un peu encombrant et lourd... j'ai donc opter pour ce petit bijou de technologie, je ne suis pas déçue du tout !"/>
+            </Sentence>
+            <Sentence id="5:3">
+                <Text text="une merveille, une qualité photo exceptionnelle... à 2 doigts de me faire vendre mon réflexe."/>
+            </Sentence>
+            <Sentence id="5:4">
+                <Text text="Les vidéos sont incroyable le son est très bon !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pierre Desgranges" date="26-août-2014" id="cam1_6" language="fr" product_id="B00DM8R866" rating="4" title="excellent achat">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Appareil de qualité, robuste, muni de fonctionnalités originales et performantes (le mode panoramique, la gestion des contre-jour)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="OTHER" target="fonctionnalités"/>
+                    <Opinion category="EXPOSURE CONTROL" target="mode"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="La bague manuelle de commande du zoom est un plus, de même que la capacité de charge de la batterie."/>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="Le transfert wifi est simple de fonctionnement avec un smartphone."/>
+            </Sentence>
+            <Sentence id="6:4">
+                <Text text="Serait parfait avec un flash intégré un peu plus performant et situé ailleurs que sous le doigt de la prise en main."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="chicour" date="25-août-2014" id="cam1_7" language="fr" product_id="B00DM8R866" rating="5" title="Bon mais si vous avez les moyens prenez le mkiii">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="J'ai acheté cet appareil photo pour revendre un compact hx20v bon caméscope mais piètre appareil photo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="THEVENOT" date="7-août-2014" id="cam1_8" language="fr" product_id="B00DM8R866" rating="5" title="Satisfait">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Je suis complètement satisfait de mon RX 100 M2 , il répond exactement à mes attentes : Rapidité d'utilisation à l'instant T , qualité d'image , ses multiples réglages et surtout sa taille .Toujours sans surprise avec Sony ,de mon ampli à mon Bravia .Du bon matériel fiable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Martinez" date="5-août-2014" id="cam1_9" language="fr" product_id="B00DM8R866" rating="5" title="RAVIE">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="J'ai mis longtemps à me décider sur le modèle."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="J'ai hésité avec le Panasonic Lumix DMC-GM1."/>
+            </Sentence>
+            <Sentence id="9:3">
+                <Text text="J'ai d'abord commandé le Panasonic que j'ai retourné pour choisir finalement le Sony DSC-RX100M2."/>
+            </Sentence>
+            <Sentence id="9:4">
+                <Text text="Il est compact, l'objectif une fois rétracté n'est pas encombrant."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JPMAG83" date="3-août-2014" id="cam1_10" language="fr" product_id="B00DM8R866" rating="4" title="La qualité dans la poche!">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="Enfin un compact qui fait de 'vraies' photos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="10:2">
+                <Text text="C'est également un produit très cher: Il vaut le prix d'un réflex d'entrée de gamme..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ER.paris" date="19-juillet-2014" id="cam1_11" language="fr" product_id="B00DM8R866" rating="4" title="du tres bon avec quelques restrictions">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Je ne suis pas completement d'accord avec l'option attrape tout choisie par Sony.En fait ce boitier se veut expert et presente par contre certaines caractéristiques tres amateur.On est perdu dans toutes ses commandes."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Romain mari" date="14-juillet-2014" id="cam1_12" language="fr" product_id="B00DM8R866" rating="5" title="genial">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="comment dire j'en suis tomber amoureux depuis que je l'ai il me suis dans tout mes deplacement la qualité d'un reflex dans un compact juste genial"/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="compact"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="jeanpasse" date="6-juillet-2014" id="cam1_13" language="fr" product_id="B00DM8R866" rating="5" title="Difficile hors sentiers battus">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="La qualité des images est au top."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Thierry Pechoux" date="21-juin-2014" id="cam1_14" language="fr" product_id="B00DM8R866" rating="4" title="Pas mal">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="+ Superbe pour des photos difficiles à faible éclairage"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="G.P" date="18-janvier-2016" id="cam1_15" language="fr" product_id="B00DM8R866" rating="5" title="Compact de qualité">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Un compact au potentiel impressionnant!"/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="Il s'aura convenir aux novices comme au plus expérimentés grâce à ces différents mode d'utilisation!"/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="mode"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client Amazon" date="7-août-2015" id="cam1_16" language="fr" product_id="B00DM8R866" rating="5" title="très très bon appareil photo">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="avec un zoom de x30, cet appareil est parfait."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:2">
+                <Text text="dommage que l'écran ne se tourne pas dans tous les sens, mais c'est déjà pas si mal."/>
+            </Sentence>
+            <Sentence id="16:3">
+                <Text text="pour le travail qu'il fait, il vaut bien un gros appareil super encombrant."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="16:4">
+                <Text text="je l'ai toujours dans mon sac, dans une petite pochette en toile."/>
+            </Sentence>
+            <Sentence id="16:5">
+                <Text text="vite dégainé si besoin est !!"/>
+            </Sentence>
+            <Sentence id="16:6">
+                <Text text="je le recommande"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="despin" date="8-juillet-2015" id="cam1_17" language="fr" product_id="B00DM8R866" rating="2" title="Vraiment dommage...">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="... de vendre ce produit aussi cher en faisant passer ça pour une offre spéciale quand le même produit + carte SD + housse est à 50€ de moins chez la concurrence.... (y)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="xav" date="5-juillet-2015" id="cam1_18" language="fr" product_id="B00DM8R866" rating="4" title="EXELLENT COMPACT : le m2 est le meilleur des 3!.">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="La  mauvaise prise en main est résolu avec la pose d'un grip  en option (assez cher ).IL ne faut pas avoir de gros doigts  car les boutons sont rapprochés mais ceci dit  c'est un compact , on sait  donc a quoi on s'attend!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="prise"/>
+                    <Opinion category="OTHER" target="boutons"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="(il peut d'ailleurs tenir dans la poche arrière du pantalon).Le m2 reste le meilleur des 3 : exellentes photos ,  qualité vidéo remarquable (mieux que le m 3) , ect.. L'écran est amovible cependant on ne peut pas le retouner complétement(comme le m3) pour des 'autoportaits' (excusez moi mais je déteste le mot 'selfie'!"/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="écran"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text=").Sur le m 2, j'ai adoré la griffe multiaccessoires."/>
+            </Sentence>
+            <Sentence id="18:4">
+                <Text text="A noter que l'on peut rajouter un viseur alors que sur le m3 : il est intégré et ca peut parfois  poser problème!..Je n'aime pas trop la politique de prix de chez Sony, l'apn comme ses acessoires sont trop cher!.Attention  de ne pas prendre le client pour un 'américain', la concurrence se ressere!."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marc FRITZ" date="7-juin-2015" id="cam1_19" language="fr" product_id="B00DM8R866" rating="4" title="Technologique et super qualité optique">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Très bien au niveau performances, possibilités et liberté de création au niveau du logiciel très large, cet appareil est complet à ce niveau, mais, l'écran inclinable fait un peu 'fragile' et surtout, le flash intégré est sorti une fois de son logement quand je l'ai testé, depuis, il n'est plus aligné dans sa position d'origine !!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                    <Opinion category="DISPLAY" target="écran"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:2">
+                <Text text="Pas grave du tout car parfaitement opérationnel, mais cela détonne de la finition soignée du reste du boitier."/>
+            </Sentence>
+            <Sentence id="19:3">
+                <Text text="Un boitier un petit peu plus grand pour ceux qui ont des mains de bonne taille (9 et +) serait le top !"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="boitier"/>
+                    <Opinion category="DIMENSION" target="taille"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="19:4">
+                <Text text="Sinon super piqué et bokeh à f1.8.. Je le recommande à tous ceux qui ne veulent pas porter des kilos de matériel pendant les voyages et qui sont exigeants sur la qualité d'image."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="info88" date="8-février-2015" id="cam1_20" language="fr" product_id="B00DM8R866" rating="1" title="Un produit loterie">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Certains ont la chance de tomber sur de très bons produits, d'autres (voir les nombreuses plaintes sur les forums français ou étranger) tombent sur des mauvais numéros."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="thierry" date="20-janvier-2015" id="cam1_21" language="fr" product_id="B00DM8R866" rating="4" title="Un vrai Compact haut de gamme">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="Même si les Iphones et autres smartphones sont très bien , il s'avère que là, le plaisir de prendre une photo est préservé."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pascal" date="5-janvier-2015" id="cam1_22" language="fr" product_id="B00DM8R866" rating="5" title="Appareil pour sa luminosité">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="Il y a peu d'appareils avec un capteur de grande dimension et un objectif lumineux dans les APN (sony et canon)."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objectif"/>
+                    <Opinion category="GENERAL" target="apn"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Le RX100M2 marche très bien dans les musées, dans les pièces sombres sans flash mais correspond aussi bien à la majorité des usages en voyage."/>
+            </Sentence>
+            <Sentence id="22:3">
+                <Text text="Le capteur est mieux que sur le RX100M1 et identique à celui du RX100M3."/>
+            </Sentence>
+            <Sentence id="22:4">
+                <Text text="Je ne prends plus mon reflex pour mes voyages où le zoom est inutile."/>
+            </Sentence>
+            <Sentence id="22:5">
+                <Text text="L'écran inclinable permet de prendre des photos cadrées bras tendu."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="écran"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="22:6">
+                <Text text="Par contre, les adeptes du selfie devront s'orienter vers un RX100M3."/>
+            </Sentence>
+            <Sentence id="22:7">
+                <Text text="Acheté il y a 4 mois et vraiment très satisfait."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christophe VANDENDRIES" date="19-octobre-2014" id="cam1_23" language="fr" product_id="B00DM8R866" rating="5" title="So Good">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="I did an entire trip to Australia with this amazing handful camera."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mastrouz" date="26-septembre-2014" id="cam1_24" language="fr" product_id="B00DM8R866" rating="5" title="Le compact de rêve.">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Excellent APN."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="apn"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Je viens d'un reflex d'entrée de gamme (D5000) et bien que le capteur soit plus petit, ce qui se sent, la qualité et la facilité de prise vue sont excellentes."/>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="Juste dommage que le viseur optique ne soit apparu que sur la version suivante, dans certaines conditions de forte luminosité, c'eût été pratique, mais la différence de prix est encore importante, je ne regrette pas."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="luminosité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mj piazza d'olmo" date="16-juin-2014" id="cam1_25" language="fr" product_id="B00DM8R866" rating="5" title="Super appareil">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Grandes possibilités grâce aux modes intelligent et intelligent plus, très bon rendu même sans flash,  capacités du zoom optique accrues, panoramiques saisissants."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="modes"/>
+                    <Opinion category="ZOOM" target="zoom"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="Un peu long à être opérationnel, mais compensé par la qualité des photos."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="criticoptic" date="14-juin-2014" id="cam1_26" language="fr" product_id="B00DM8R866" rating="5" title="Une petite merveille à un prix abordable. Mes recommandations pour une caméra universelle.">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="En ce qui me concerne, la RX100 MII est particulièrement bien équilibrée:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="homer" date="21-mai-2014" id="cam1_27" language="fr" product_id="B00DM8R866" rating="3" title="Presque très bien...">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Articles conforme a ce que je désirais , livrer dans les délais et bien protégé."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="8-mai-2014" id="cam1_28" language="fr" product_id="B00DM8R866" rating="5" title="Etonnant !">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Appareil léger, facile à utiliser et surtout, donnant des images d'une très grande qualité, égale à celle de mon reflex Nikon."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="revedemer" date="15-avril-2014" id="cam1_29" language="fr" product_id="B00DM8R866" rating="5" title="Toujours avec moi !...">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Je l'utilise totalement en manuel et en raw avec la mise au point par la bague frontale."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="dghis" date="31-mars-2014" id="cam1_30" language="fr" product_id="B00DM8R866" rating="4" title="Sony RX 100 M2">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Ce boitier avec le zoom du HX 50V et on obtient l'appareil compact parfait."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="Il ne me quitte plus surtout avec son étui cuir."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kaki" date="27-mars-2014" id="cam1_31" language="fr" product_id="B00DM8R866" rating="5" title="Que c'est beau">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Comme tous les appareils il ne fera pas l'unanimité .."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareils"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mr. Thierry Martin" date="17-février-2014" id="cam1_32" language="fr" product_id="B00DM8R866" rating="5" title="Un petit bijou">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Produit qui respire la santé."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="santoro laurent" date="3-février-2014" id="cam1_33" language="fr" product_id="B00DM8R866" rating="4" title="Très bien">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="L'appreil photo semble vraiment super au bout des 1eres utilisations."/>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="Mais peur qu'il me glisse des mains à chaque fois (il est vraiment petit !!"/>
+            </Sentence>
+            <Sentence id="33:3">
+                <Text text=".. ce qui est un avantage ^^ !)."/>
+            </Sentence>
+            <Sentence id="33:4">
+                <Text text="Livré très vite."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tinatou" date="20-janvier-2014" id="cam1_34" language="fr" product_id="B00DM8R866" rating="3" title="Bijou mais pas vraiment parfait">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Les images 'daylight' sont excellentes et piquées, les possibilités multiples mais pour moi, il y a deux écueils: en position 'fine', les photos en basse lumière sont 'bouchées' et verdâtres et il y faut une correction, pas facile quand on veut prendre rapidement à main levée."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                    <Opinion category="EXPOSURE CONTROL" target="lumière"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="34:2">
+                <Text text="Toujours en basse lumière, les photos 'Raw' sont bleutées et curieusement, on constate une forte distorsion des lignes droites dans le champ (courbure de chambranle d'une porte qui n'existe pas en JPEG...Cela est désagréable."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lumière"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="GAETAN BARRE" date="1-janvier-2019" id="cam1_35" language="fr" product_id="B00DM8R866" rating="5" title="conforme à mes attentes">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="conforme à mes attentes"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Echo" date="22-novembre-2018" id="cam1_36" language="fr" product_id="B00DM8R866" rating="3" title="Manque de piqué">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="L'appareil est vraiment compact, un peu au détriment de l'ergonomie mais pas de miracle !"/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="La construction semble sérieuse."/>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="Le range du zoom est correct, même si la luminosité baisse drastiquement au téléobjectif."/>
+                <Opinions>
+                    <Opinion category="ZOOM" target="zoom"/>
+                    <Opinion category="EXPOSURE CONTROL" target="luminosité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jean-Pierre" date="15-septembre-2017" id="cam1_37" language="fr" product_id="B00DM8R866" rating="5" title="ça fait 4 ans que je l'utilise et il fonctionne toujours">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="Je l'utilise pour ma chaine Youtube, j'ai fais plusieurs centaines de vidéos en 1080p à 50 images secondes et j'ai déjà pris plus de 15000 photos en RAW et il fonctionne toujours...c'est du bon matériel il n'y pas dire...petite note j'utilise un filtre pour protéger l'objectif des saletés et des chocs."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="images"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Erydjel" date="7-juin-2017" id="cam1_38" language="fr" product_id="B00DM8R866" rating="4" title="Le top du top pour un compact">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Facile d'utilisation, pratique, format mini et une qualité d'image impeccable."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="format"/>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="IMAGING" target="image"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="J'en suis encore à la découverte de toute ces fonctionnalités et pour l'instant je n'ai jamais été déçue de mes photos ou vidéos (qualité HD)."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="fonctionnalités"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Pour un premier achat ou pour quelqu'un qui commence un peu à s'y connaitre il sera un achat plus que satisfaisant."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kabloona" date="26-mars-2017" id="cam1_39" language="fr" product_id="B00DM8R866" rating="5" title="Exceptionnel">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Possesseur d'un reflex (SLT) Sony, je voulais un petit APN produisant des photos de qualité pour les situations où il est préférable de s'affranchir du poids d'un 'gros' appareil."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="apn"/>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="Les  hybrides me semblaient hors sujet et hors de prix car nécessitant un nouveau parc d'objectifs."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objectifs"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:3">
+                <Text text="Je me  suis donc tourné vers les compacts experts."/>
+            </Sentence>
+            <Sentence id="39:4">
+                <Text text="Après avoir longuement hésité avec le Canon G7X plus moderne (écran tactile et filtre ND intégré) je me suis finalement décidé pour le Sony RX100M2."/>
+            </Sentence>
+            <Sentence id="39:5">
+                <Text text="Si le range du zoom est un peu plus limité sur ce dernier que sur le Canon, l'optique Zeiss y est beaucoup plus homogène : de mon point de vue, cela fait la différence."/>
+            </Sentence>
+            <Sentence id="39:6">
+                <Text text="Pourquoi le M2 ?"/>
+            </Sentence>
+            <Sentence id="39:7">
+                <Text text="D'abord parce que les M3, M4 et M5 dotés, entre autres, d'un viseur électronique et d'un écran tactile sont extrêmement chers (presque 1200 euros environ pour le plus récent !)"/>
+            </Sentence>
+            <Sentence id="39:8">
+                <Text text="sans finalement que cela change grand-chose à la qualité des photos."/>
+            </Sentence>
+            <Sentence id="39:9">
+                <Text text="Ensuite parce que même s'ils ont un vrai grand angle, un zoom à 70 est vraiment trop limite pour moi."/>
+                <Opinions>
+                    <Opinion category="LENS" target="angle"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:10">
+                <Text text="J'ai également éliminé le M1 qui n'a pas d'écran articulé et dont le capteur est moins performant."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="écran"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:11">
+                <Text text="J'utilise donc le M2 depuis quelques jours et je dois dire que je suis impressionné par la (petite) bête."/>
+            </Sentence>
+            <Sentence id="39:12">
+                <Text text="L'appareil est plutôt beau et la finition de bonne facture."/>
+            </Sentence>
+            <Sentence id="39:13">
+                <Text text="L'écran de visé (non tactile) délivre des images très définies et est lisible en plein soleil si on le règle en luminosité maximale."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="luminosité"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:14">
+                <Text text="Il est articulé vers le bas et vers le haut ce qui est très utile."/>
+            </Sentence>
+            <Sentence id="39:15">
+                <Text text="J'ai lu dans un test qu'il se rayait facilement alors je l'ai tout de suite protégé avec un verre adhésif."/>
+            </Sentence>
+            <Sentence id="39:16">
+                <Text text="Comme il occupe la majeure partie de la surface arrière de l'APN, les boutons de contrôle sont minuscules, mais finalement, même avec de grandes mains, on  les utilise facilement et sans erreur."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="apn"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:17">
+                <Text text="Je dirais que globalement l'ergonomie est bonne : un renflement sur la partie avant droite aurait sans doute été bienvenu pour une meilleure prise en main car la peinture mate est un peu glissante."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="ergonomie"/>
+                    <Opinion category="OTHER" target="prise"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:18">
+                <Text text="La bague de réglage autour de l'objectif est paramétrable."/>
+                <Opinions>
+                    <Opinion category="LENS" target="objectif"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:19">
+                <Text text="J’y ai affecté le zoom car on peut le régler plus précisément qu'avec la gâchette."/>
+            </Sentence>
+            <Sentence id="39:20">
+                <Text text="La bague n'est pas crantée, donc silencieuse, c'est optimal pour la vidéo."/>
+            </Sentence>
+            <Sentence id="39:21">
+                <Text text="Les menus peuvent être un peu déconcertants pour un habitué des Canon et de leur organisation limpide, mais un utilisateur de reflex Sony y retrouvera vite ses marques."/>
+            </Sentence>
+            <Sentence id="39:22">
+                <Text text="En terme de qualité d'image, de tenue dans la montée en ISO, de réactivité, de possibilités de réglages et de possibilités de personnalisation, on est vraiment très proche d'un bon reflex."/>
+            </Sentence>
+            <Sentence id="39:23">
+                <Text text="Le tout dans un boitier certes plus lourd qu'un compact basique, mais de taille vraiment raisonnable, y compris en épaisseur."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="compact"/>
+                    <Opinion category="DIMENSION" target="taille"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:24">
+                <Text text="Avec un capteur de 1 pouce et un objectif de cette qualité, c'est une très belle performance."/>
+            </Sentence>
+            <Sentence id="39:25">
+                <Text text="À propos des images elles ne manquent de piqué à aucune focale."/>
+            </Sentence>
+            <Sentence id="39:26">
+                <Text text="Les meilleurs résultats sont entre f/5.6 et f/8 mais même à f/1.8 (exclusivement en grand angle car l'ouverture maximale chute vite) les résultats sont très corrects, en tout cas, au centre de l'image."/>
+                <Opinions>
+                    <Opinion category="LENS" target="angle"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:27">
+                <Text text="D'une manière générale et à toutes les ouvertures, les bords sont classiquement moins piqués que le centre, mais cela restera toujours quasi indécelable sur un tirage de taille moyenne."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="taille"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:28">
+                <Text text="Il n'y a pas d'aberrations chromatiques visibles ni aucune déformation au grand angle sur les jpeg (pour les raw, il faudra utiliser le profil de correction ad hoc) En basse lumières, on garde une bonne qualité d'image jusqu'à 3200 ISO ce qui est exceptionnel sur ce type d'appareil."/>
+                <Opinions>
+                    <Opinion category="LENS" target="angle"/>
+                    <Opinion category="EXPOSURE CONTROL" target="lumières"/>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="IMAGING" target="image"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:29">
+                <Text text="En résumé, que du tout bon, ou presque !"/>
+            </Sentence>
+            <Sentence id="39:30">
+                <Text text="Si je chipote un peu, je trouve tout de même quelques petits défauts."/>
+            </Sentence>
+            <Sentence id="39:31">
+                <Text text="La balance des blancs en intérieur sous éclairage artificiel perd vite les pédales et donne des images beaucoup trop chaudes."/>
+            </Sentence>
+            <Sentence id="39:32">
+                <Text text="Je note également dans cette même situation une tendance assez nette à la sous exposition (mais on le voit vite en affichant l'histogramme à la prise de vue)."/>
+            </Sentence>
+            <Sentence id="39:33">
+                <Text text="En dehors de la superbe qualité d'image, un autre point fort du RX100M2 c'est sa réactivité."/>
+            </Sentence>
+            <Sentence id="39:34">
+                <Text text="L'appareil est vif, l'autofocus accroche bien la plupart du temps même s'il patine un peu en basse lumière."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lumière"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:35">
+                <Text text="En rafale et en jpeg, il peut monter à 7 images par seconde : c'est très bon (utiliser l'AF continu avec le mode rafale rapide et le suivi du sujet déclenché par le bouton central) Autre atout important : la personnalisation."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="images"/>
+                    <Opinion category="EXPOSURE CONTROL" target="mode"/>
+                    <Opinion category="OTHER" target="bouton"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:36">
+                <Text text="Trois mémoires sont disponibles sur la molette des modes."/>
+            </Sentence>
+            <Sentence id="39:37">
+                <Text text="Une configuration complète de prise de vue est enregistrable dans chacune d'entre elles (par exemple pour la photo de personnes/objets en mouvement comme décrit précédemment)."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="prise"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:38">
+                <Text text="On peut également configurer la touche Fn pour 7 types de sélection de paramètres."/>
+            </Sentence>
+            <Sentence id="39:39">
+                <Text text="Très utile, en particulier parce qu'aller chercher des choses dans le menus peut s'avérer fastidieux."/>
+            </Sentence>
+            <Sentence id="39:40">
+                <Text text="Cela permet également de contourner un des rares défauts d'ergonomie de l'appareil : aucune touche n'est prévue pour la mémorisation de l'exposition."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="ergonomie"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:41">
+                <Text text="Je l'ai donc affectée à la touche gauche de la roue de contrôle normalement dédiée à la sélection prise de vue unique/rafale et (bizarrement) au bracketing."/>
+            </Sentence>
+            <Sentence id="39:42">
+                <Text text="J'ai ensuite mis cette sélection de mode dans un des choix de la touche Fn."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Photo" date="22-février-2017" id="cam1_40" language="fr" product_id="B00DM8R866" rating="3" title="Trop cher">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="L'appareil est très bien mais trop cher."/>
+            </Sentence>
+            <Sentence id="40:2">
+                <Text text="Il n'y a pas de stabilisation 5 axes, ce qui est obligatoire pour un appareil a ce prix."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Robert G." date="12-septembre-2016" id="cam1_41" language="fr" product_id="B00DM8R866" rating="2" title="Après 6 mois: flash HS, panne zoom, cache mini USB défectueux">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="Très satisfait de la qualité des images et des vidéos."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="41:2">
+                <Text text="Cependant la prise de vidéo est beaucoup trop sensible au vent même très léger."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ALR" date="13-juillet-2016" id="cam1_42" language="fr" product_id="B00DM8R866" rating="5" title="Au top">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Je recherchais un appareil photo compact en plus de mon reflex Canon qui est un peu encombrant."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="26-janvier-2016" id="cam1_43" language="fr" product_id="B00DM8R866" rating="4" title="Un compact très performant qui peut vous suivre partout">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="N'utilisant ques des reflex (Nikon D70, puis D90 et D700) depuis près de 10 ans, j'avais envie d'un compact à emporter partout avec soi, quand on rechigne parfois à s'encombrer avec un reflex."/>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Ce Sony RX100 remplit pleinement sa fonction : dans une grande majorité de situations (paysages, portraits 'souvenirs',...), dès lors que l'on n'est pas dans des conditions un peu extrême (faible lumière, besoin de mise au point manuelle, pas vraiment aisée...), il donne pleinement satisfaction, y compris en priorité vitesse ou ouverture (mode que j'utilise le plus souvent)."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lumière"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="Je ne l'utiliserais pas pour de la photo concert ou des séances portrait un peu compliquées, surtout avec flash, mais il est presque toujours dans ma poche au quotidien."/>
+            </Sentence>
+            <Sentence id="43:4">
+                <Text text="Son écran inclinable est bien pratique pour la photo de rue, où le besoin de discrétion se fait sentir."/>
+                <Opinions>
+                    <Opinion category="DISPLAY" target="écran"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="43:5">
+                <Text text="Il faut un peu de temps pour se familiariser avec les méandres des menus, mais la personnalisation des touches est bien pratique pour accéder facilement aux réglages que l'on utilise le plus souvent."/>
+            </Sentence>
+            <Sentence id="43:6">
+                <Text text="Très correct en jpg, il offre aussi la liberté permise par le Raw (pas à se soucier de la balance des blancs ou d'un petit défaut d'exposition)."/>
+            </Sentence>
+            <Sentence id="43:7">
+                <Text text="La housse 'officielle' Sony est très bien adaptée pour tirer tous les avantages de l'appareil (facilité d'accès aux réglages, finesse de l'étui qui préserve le côté 'tient dans la poche')."/>
+            </Sentence>
+            <Sentence id="43:8">
+                <Text text="Elle est certes beaucoup trop chère, mais je m'y suis résigné après avoir essayé une housse 'générique' de piètre qualité."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Amazon Customer" date="20-janvier-2016" id="cam1_44" language="fr" product_id="B00DM8R866" rating="4" title="Trop cher pour ce qui fait">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Je vous conseille de lire les tests de différents sites internets spécialisés pour vous faire un avis sur le technique."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marc Ancion" date="9-janvier-2014" id="cam1_45" language="fr" product_id="B00DM8R866" rating="4" title="Superbe appareil....">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Images et fonctionnalités parfaites."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="fonctionnalités"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mchlsgchr" date="8-janvier-2014" id="cam1_46" language="fr" product_id="B00DM8R866" rating="5" title="ergonomie, qualité, fiabilité">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="recommander pour des photos de grandes qualités en toutes circonstances sans expertise particulière"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                    <Opinion category="GENERAL" target="qualités"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Carmine77" date="20-décembre-2013" id="cam1_47" language="fr" product_id="B00DM8R866" rating="4" title="Formidable mais complexe">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Mon RX100 est formidable mais un peu complexe à utiliser."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="laboutique" date="2-décembre-2013" id="cam1_48" language="fr" product_id="B00DM8R866" rating="2" title="déçu">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="en vidéo  il y a vite du bruit dès que l'on monte en iso ... et ceci des 400 iso !"/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="certes mon point de comparaison avec mon canon 5d markii  ....  je vais un 2e petit boitier de  façon a toujours l'avaoir avec  moi .... c'est raté ..."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="boitier"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Patlag" date="14-novembre-2013" id="cam1_49" language="fr" product_id="B00DM8R866" rating="5" title="The best">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Je suis un humble amateur de photo."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="Dès que je l'ai eu en main, j'ai été impressionné et timide avec lui parce que, dès que  l'écran s'allume vous avez l'impression d'être devant une console d'un A380 avec un plein d'information à comprendre.Mais maintenant que les présentations ont été faites, lui et moi nous nous quittons plus."/>
+            </Sentence>
+            <Sentence id="49:3">
+                <Text text="Peut-être qu'il va faire de moi un amateur éclairé, il en a vraiment toutes les capacités pour me faire progresser."/>
+            </Sentence>
+            <Sentence id="49:4">
+                <Text text="Également, son autonomie est extra,toujours en forme et ce malgré 400 photos au format maxi, avec et sans flash, par tous les temps, deux semaines d’utilisation et pas une seule recharge, peut être une batterie survitaminée?"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="format"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mok" date="19-octobre-2013" id="cam1_50" language="fr" product_id="B00DM8R866" rating="5" title="Superbe &amp; performant">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Très bel appareil, très performant, compact et permettant de nombreux réglage."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                    <Opinion category="DIMENSION" target="compact"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="Idéal pour amateur confirmé souhaitant un bloc-note photographique de qualité sans l'encombrement d'un hybride ou d'un reflex"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Zorglub" date="16-octobre-2013" id="cam1_51" language="fr" product_id="B00DM8R866" rating="5" title="Excellent pour un compact !">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="J'ai un Canon 7D qui me fait des images impeccables, ce RX100 ne le vaut pas MAIS, MAIS, il fait de très belles photos : on peut presque comparer ce compact aux boitiers reflex 'experts'."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="images"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                    <Opinion category="OTHER" target="boitiers"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="(il vaut sans problème un reflex Canon d'entrée de gamme)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="lacroix" date="5-octobre-2013" id="cam1_52" language="fr" product_id="B00DM8R866" rating="5" title="parfait">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="réactivité excellente a la mise en route ,vidéo bien défini."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Ecran lisible même en pleine lumière."/>
+                <Opinions>
+                    <Opinion category="EXPOSURE CONTROL" target="lumière"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="52:3">
+                <Text text="Photo lumineuse et pleine de couleurs"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sarkis" date="22-septembre-2013" id="cam1_53" language="fr" product_id="B00DM8R866" rating="5" title="même pour un laicaïste comme moi depuis 40 ans c'est un appareil incroyablement bon !">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="même pour un laicaïste comme moi depuis 40 ans c'est un appareil incroyablement bon !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="53:2">
+                <Text text="je le porte à côté de mon M9."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kaoam" date="5-septembre-2013" id="cam1_54" language="fr" product_id="B00DM8R866" rating="4" title="L ​a performance a un prix​!">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Ce compact fait d’excellentes photos et ceci n’est pas un hasard."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="avec son capteur de 1” (le plus grand capteur des compacts) et son optique super lumineuse, le résultat est à la hauteur de mes attentes."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="compacts"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:3">
+                <Text text="Les photos sont vivantes et les effets de flous sur les portraits son étonnants pour un compact."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

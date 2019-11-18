@@ -1,0 +1,1462 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="Nico" date="2-giugno-2014" id="cam3_1" language="it" product_id="B008GVXKUW" rating="5" title="POLAROID Z 2300">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="Acquistata per mio figlio (10 anni)."/>
+            </Sentence>
+            <Sentence id="1:2">
+                <Text text="Le istantanee non hanno i colori che ci si aspetta, sembrano foto degli anni 70 che comunque sono state apprezzate dai soggetti fotografati."/>
+            </Sentence>
+            <Sentence id="1:3">
+                <Text text="Consigliata, quindi, ad utenti giovanissimi."/>
+            </Sentence>
+            <Sentence id="1:4">
+                <Text text="Ottimo il prezzo su amazon, ho risparmiato circa 100 euro rispetto ai grandi negozi che tutti conosciamo."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="1:5">
+                <Text text="Tempi di consegna, imballo e prezzo sono la conferma che Amazon rispecchia ciò che un acquirente si aspetta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="giovanni" date="13-aprile-2014" id="cam3_2" language="it" product_id="B008GVXKUW" rating="1" title="deluso...">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="ne ho acquistato due: la prima dopo qualche mese restava accesa la spia di ricarica nonostante fosse stata ricaricata e così questa spia accesa scaricava la batteria...l'assistenza ha preferito ridarmi indietro i soldi."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batteria"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="2:2">
+                <Text text="la seconda non trascina più la carta blu del pacchetto di cartine e quindi non riesco a stampare più le foto....le foto!"/>
+            </Sentence>
+            <Sentence id="2:3">
+                <Text text="la nitidezza delle foto che c'è nella reclame scordatevela."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="luca pasquero elia" date="6-marzo-2014" id="cam3_3" language="it" product_id="B008GVXKUW" rating="5" title="wow">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="è un regalo fantastico, una miscela di vintage e di moderno, con un rimasuglio di tradizione, non completamente digitalizzata, è ancora in grado di regalare emozioni, l'unica pecca forse è la dimensione, grossina."/>
+            </Sentence>
+            <Sentence id="3:2">
+                <Text text="Spedizione leggermente in ritardo credo dovuto alle vacanze natalizie"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matteo verucchi" date="5-febbraio-2014" id="cam3_4" language="it" product_id="B008GVXKUW" rating="5" title="Perfetto">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="Ciò che mi aspettavo..."/>
+            </Sentence>
+            <Sentence id="4:2">
+                <Text text="Non piccolissima ma comunque utilizzabile per vacanze o escursioni... Qualità di stampa non perfetta ."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="4:3">
+                <Text text="."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Antonio Giulio D'Ambrosio" date="10-gennaio-2014" id="cam3_5" language="it" product_id="B008GVXKUW" rating="2" title="Confusione dei colori">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Ho appena regalato questa fotocamera ed i colori delle foto risultano completamente falsati (prevalenza di verde)."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cristina" date="3-gennaio-2014" id="cam3_6" language="it" product_id="B008GVXKUW" rating="5" title="Ottimo prodotto!">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Premessa: è un regalo, non sono io ad usarlo."/>
+            </Sentence>
+            <Sentence id="6:2">
+                <Text text="Ho preso questa fotocamera al mio ragazzo per Natale e ne è entusiasta."/>
+            </Sentence>
+            <Sentence id="6:3">
+                <Text text="L'unico consiglio che vi posso dare e prenderle subito una scheda SD, non come noi che siamo andati in montagna senza e abbiamo potuto fare solo tre foto in croce..."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="amodeofra" date="2-gennaio-2014" id="cam3_7" language="it" product_id="B008GVXKUW" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Il piacere di avere subito una foto ma con la possibilità di scegliere quale stampare"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Govo" date="16-dicembre-2013" id="cam3_8" language="it" product_id="B008GVXKUW" rating="4" title="Ottimo prodotto">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Buona macchina fotografica, necessario assolutamente acquistare un sd aggiuntiva."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="8:2">
+                <Text text="Costi delle ricariche della carta più che accettabili."/>
+            </Sentence>
+            <Sentence id="8:3">
+                <Text text="Ottima per far divertire la famiglia"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luca" date="24-novembre-2013" id="cam3_9" language="it" product_id="B008GVXKUW" rating="5" title="Polaroid Z 2300 Fotocamera digitale 10 megapixel">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="Niente di più divertente che scattare e stampare."/>
+            </Sentence>
+            <Sentence id="9:2">
+                <Text text="Non sarà come la vecchia polaroid analogica ma ti permette di scegliere lo scatto migliore e... stampare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nicholas" date="30-agosto-2013" id="cam3_10" language="it" product_id="B008GVXKUW" rating="1" title="Prodotto mediocre">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="la macchina e grossa ed ingombrante e le foto sono pessime ... risparmiate i vostri soldi e prendete il prodotto della Fuji che è molto migliore"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alias" date="17-gennaio-2016" id="cam3_11" language="it" product_id="B008GVXKUW" rating="4" title="Fantastica!">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Ottima e mi porta indietro di anni."/>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="Per nostalgici."/>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="Unico problema stampa su tonalità di blu."/>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="Ma si può siatemare la foto prima di stampare"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dario" date="14-gennaio-2016" id="cam3_12" language="it" product_id="B008GVXKUW" rating="1" title="Non mi è  piaciuta">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="Buona idea a realizzare una polaroid come quelle di una volta e ottimo perché è senza inchiostro...però si sono troppo limitati estetica pessima, foto pessime e grafica pessima...non ve la consiglio!!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="12:2">
+                <Text text="Prendetevi la zip"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="13-gennaio-2016" id="cam3_13" language="it" product_id="B008GVXKUW" rating="4" title="Soddisfatto">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Il prodotto è buono anche se mi aspettavo qualcosa in più per le foto in ambienti interni ma comunque svolge il suo lavoro."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="1-gennaio-2016" id="cam3_14" language="it" product_id="B008GVXKUW" rating="4" title="Polaroid z2300">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="Ottimo prodotto molto semplice da usare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:2">
+                <Text text="Le foto scattate e stampate immediatamente nonostante le piccole dimensioni sono nitide e con bei colori."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="dimensioni"/>
+                    <Opinion category="OTHER" target="colori"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="14:3">
+                <Text text="Acquisto consigliato se non siete provetti fotografi ma vi dilettante di fotografia a livello amatoriale ed avete un gusto vintage"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Darbulae" date="26-novembre-2015" id="cam3_15" language="it" product_id="B008GVXKUW" rating="2" title="Sconsiglio vivamente">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="Non mi dilungherò troppo e andrò dritto al punto."/>
+            </Sentence>
+            <Sentence id="15:2">
+                <Text text="La digitalizzazione è di per sé un paradosso se accostata allo scatto di istantanee, ma quando la qualità della macchina digitale è scarsa allora diventa una vera e propria assurdità."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="15:3">
+                <Text text="Non solo la qualità della macchina è piuttosto scarsa, ma anche la stampa non è affatto buona."/>
+            </Sentence>
+            <Sentence id="15:4">
+                <Text text="Da possessore di una Instax Wide 210 (Fujifilm), vi posso assicurare che la qualità della stampa di questa macchina è decisamente bassa."/>
+            </Sentence>
+            <Sentence id="15:5">
+                <Text text="Tutte le foto hanno una dominante verdognola che è a dir poco imbarazzante per il prezzo di questo prodotto!"/>
+            </Sentence>
+            <Sentence id="15:6">
+                <Text text="Quanto prima procederò ad avere un rimborso."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefano Furlan" date="22-novembre-2015" id="cam3_16" language="it" product_id="B008GVXKUW" rating="5" title="Davvero un ottimo prodotto">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="La polaroid z2300 ha rispettato tutte le mie aspettative e ha soddisfatto la persona a cui l'ho regalata."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Andrea" date="7-novembre-2015" id="cam3_17" language="it" product_id="B008GVXKUW" rating="5" title="Bellissima">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Davvero bella!"/>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="Lo schermo non sembra di una qualità grafica molto attuale, ma le funzioni sono davvero belle!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:3">
+                <Text text="Aggiungere cornici, luminosità alle foto anche prima di stamparle."/>
+            </Sentence>
+            <Sentence id="17:4">
+                <Text text="Per la stampa tutto bene, le foto escono abbastanza limpide!"/>
+            </Sentence>
+            <Sentence id="17:5">
+                <Text text="Alla fine sono comunque 10MP quindi di buona qualità!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="17:6">
+                <Text text="Nel complesso, rapporto qualità prezzo davvero ottimo!!!!!!"/>
+            </Sentence>
+            <Sentence id="17:7">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="fausto" date="5-ottobre-2015" id="cam3_18" language="it" product_id="B008GVXKUW" rating="4" title="macchina perfetta come da descrizione....">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="perfetta e funzionante come nelle aspettative... ."/>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:3">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:4">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:5">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:6">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:7">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:8">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:9">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:10">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:11">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:12">
+                <Text text="..  ."/>
+            </Sentence>
+            <Sentence id="18:13">
+                <Text text="."/>
+            </Sentence>
+            <Sentence id="18:14">
+                <Text text="."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Natale" date="11-giugno-2015" id="cam3_19" language="it" product_id="B008GVXKUW" rating="4" title="Polaroid Z 2300">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Il prodotto è stato consegnato con puntualità rispetto a quanto previsto DOPO avere effettuato l'ordine,  ma in ritardo per quanto concerne la tempistica prevista da amazon al momento del perfezionamento dell'acquisto, nulla di particolarmente grave ma la cosa mi ha lasciato perplesso, visto che ho effettuato l'ordine in funzione di quanto suggerito prima del perfezionamento stesso."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paolo Orso" date="26-aprile-2015" id="cam3_20" language="it" product_id="B008GVXKUW" rating="1" title="Banale">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Se sapevo che era quasi un giocattolo non la comperavo."/>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Potevano fare di meglio, le foto piccole e di bassa qualità"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MASSIMO CARDIA" date="31-luglio-2018" id="cam3_21" language="it" product_id="B008GVXKUW" rating="5" title="eccellente">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="buon prodotto per i più piccoli per quando fanno delle gite sia con la scuola e non."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="si ha la possibilità di scegliere se sviluppare una foto piuttosto che un'altra."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gabri" date="30-ottobre-2017" id="cam3_22" language="it" product_id="B008GVXKUW" rating="5" title="Fotocamera istantanea da avere assolutamente!">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="È un dispositivo ottimo per avere foto sia da stampare all'istante – avendo l'utilissima facoltà di scegliere quale foto stampare – sia da tenere come copia digitale."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="dispositivo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="Buoni anche la compattezza e l'ingombro della macchinetta."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michele" date="19-ottobre-2017" id="cam3_23" language="it" product_id="B008GVXKUW" rating="1" title="Pessima qualità">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Qualità bassa delle foto, stampa con linee bianche o colori per niente simili agli originali, alcune foto risultano totalmente blu."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="OTHER" target="colori"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cri" date="5-ottobre-2017" id="cam3_24" language="it" product_id="B008GVXKUW" rating="4" title="divertente, senza pretese">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="Ovviamente, questa macchina va comprata con l'intento di divertirsi."/>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Non è una macchina professionale e non fa foto professionali."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Pier Paolo" date="28-settembre-2017" id="cam3_25" language="it" product_id="B008GVXKUW" rating="4" title="Ottima qualità ma prezzo troppo elevato">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Ottima macchinetta fotografica, qualità uguale alla touch ma anche con più funzioni, purtroppo il prezzo a mio."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchinetta"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="Parere è ancora troppo elevato"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Simonavi!" date="10-agosto-2017" id="cam3_26" language="it" product_id="B008GVXKUW" rating="5" title="La adoro">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="La macchia fotografica è fantastica, anche se compatta un po grande!"/>
+            </Sentence>
+            <Sentence id="26:2">
+                <Text text="Le foto sono piccole e vintage, ma per un amante delle foto istantanea è fantastica!"/>
+            </Sentence>
+            <Sentence id="26:3">
+                <Text text="La consiglio, l unica pecca è che era imballata poco e solo per fortuna è arrivata intera!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="18-luglio-2017" id="cam3_27" language="it" product_id="B008GVXKUW" rating="4" title="bene">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Arrivato puntuale come sempre, prodotto integro e perfettamente funzionante, la bambina che l'ha ricevuta come regalo di comunione ne è entusiasta, tolgo una stella perchè mancava la plastica esterna della confezione"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                    <Opinion category="OTHER" target="confezione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Gianluigi" date="17-luglio-2017" id="cam3_28" language="it" product_id="B008GVXKUW" rating="5" title="Fotocamera supersonica">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Se volete fare un regalo per sorprendere le nuove generazioni....questo articolo è la congiunzione tra retrò e moderno...."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="27-giugno-2017" id="cam3_29" language="it" product_id="B008GVXKUW" rating="4" title="Customer service eccellente!">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Dopo un anno dall'acquisto, ho cominciato ad avere dei problemi con l'alimentatore, problema forse dovuto anche dal poco utilizzo della camera."/>
+            </Sentence>
+            <Sentence id="29:2">
+                <Text text="Ho contattato il servizio clienti, non tramite Amazon, ma inviando una mail all' indirizzo presente sul sito polaroid.com.dopo aver spiegato brevemente il problema riscontrato, il servizio clienti, ha immediatamente trovato una soluzione."/>
+            </Sentence>
+            <Sentence id="29:3">
+                <Text text="Nel giro di 15 giorni, ho ricevuto a casa una nuova polaroid, perfettamente funzionante."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="29:4">
+                <Text text="Che dire, non mi era mai successo di risolvere un problema così velocemente e senza dare troppe spiegazioni."/>
+            </Sentence>
+            <Sentence id="29:5">
+                <Text text="Un customer Service d'eccellenza."/>
+            </Sentence>
+            <Sentence id="29:6">
+                <Text text="Unico neo, ho dovuto inviare a mie spese la polarpid in Inghilterra."/>
+            </Sentence>
+            <Sentence id="29:7">
+                <Text text="Nel caso utilizzate Ups 18 euro consegna in 24 ore."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="andreathanks" date="6-giugno-2017" id="cam3_30" language="it" product_id="B008GVXKUW" rating="5" title="CARINA">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Comprata come regalo 'richiesto' dal destinatario."/>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="Vengono fuori delle foto in miniatura (più piccole di quelle della Polaroid di un tempo)."/>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="Se si è consapevoli dell'acquisto il prodotto merita 5 stelle."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:4">
+                <Text text="Se invece si pensa di far venir fuori foto giganti allora....comprate una stampante fotografica."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="OTHER" target="stampante"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paolo G." date="15-gennaio-2017" id="cam3_31" language="it" product_id="B008GVXKUW" rating="4" title="Grande, plasticosa, ma Polaroid!">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Ho comprato questa Polaroid perché è una delle poche in grado di scegliere quali delle tante foto scattate stampare."/>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="Se bene perda un pò nell'effetto originale questa soluzione permette di risparmiare sui fogli zero ink che supporta."/>
+            </Sentence>
+            <Sentence id="31:3">
+                <Text text="La macchina è più grande di quanto si possa immaginare e al tatto troppo plasticosa per i miei gusti, ma fa il suo dovere!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Jack" date="9-gennaio-2017" id="cam3_32" language="it" product_id="B008GVXKUW" rating="5" title="soddisfatto">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="consigliato per chi vuole avere un immediato ricordo di un momento della propria vita."/>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="Semplice ed intuito l'utilizzo."/>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="acquistato con polaroid 2x3 pollici"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michele Cimini" date="4-gennaio-2017" id="cam3_33" language="it" product_id="B008GVXKUW" rating="3" title="Soddisfatto a metà, ecco perchè">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="Affidandomi all'importanza del brand POLAROID ho deciso di acquistare questa istant camera come regalo natalizio."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alessandro" date="2-gennaio-2017" id="cam3_34" language="it" product_id="B008GVXKUW" rating="1" title="Attenzione prodotto di scarsa qualità">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="Un prodotto di bassa qualità con un prezzo esagerato."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="34:2">
+                <Text text="Per fare buone foto occorre avere molta luce, già dentro casa iniziano ad avere una brutta resa."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="34:3">
+                <Text text="Lo scermo lcd ha una bassissima risoluzione e visibilità precaria soprattutto alla luce del sole non si riesce a vedere nulla, per cui fare foto diventa difficile."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="34:4">
+                <Text text="Le stampe sono accettabili ma non buone, alcune vengono con qualche rigo qua e là."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampe"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="15-dicembre-2016" id="cam3_35" language="it" product_id="B008GVXKUW" rating="5" title="Ottimo">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Super macchina fotografica ."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="L' ho regalata a mia figlia che ne è entusiasta."/>
+            </Sentence>
+            <Sentence id="35:3">
+                <Text text="Le foto possono essere modificate prima di procedere alla stampa ."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="35:4">
+                <Text text="Molto soddisfatta"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="adriano" date="15-dicembre-2016" id="cam3_36" language="it" product_id="B008GVXKUW" rating="4" title="e' bella l'idea di stampare le foto !">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="ho acquistato questa macchinetta, proprio per l'idea di poter stampare le foto."/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="ha tutte le caratteristiche di una classica compatta, e' possibile salvare le foto su microsd, e stamparle anche in un secondo momento."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="ha molti programmi anche di modifica delle foto."/>
+            </Sentence>
+            <Sentence id="36:4">
+                <Text text="fa delle belle foto, ma consiglio di usare la carta migliore, per avere dei colori piu' veritieri."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="7-dicembre-2016" id="cam3_37" language="it" product_id="B008GVXKUW" rating="5" title="Ottimo affare">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="È arrivata alla data prevista!"/>
+            </Sentence>
+            <Sentence id="37:2">
+                <Text text="Senza difetti almeno per il momento, ha Tutti gli accessori, la consiglio."/>
+            </Sentence>
+            <Sentence id="37:3">
+                <Text text="Le foto le stampa in un formato piccolo però era stato specificato nelle caratteristiche."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Davide Di Filippo" date="6-dicembre-2016" id="cam3_38" language="it" product_id="B008GVXKUW" rating="5" title="Un'icona di macchinetta fotografica">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Ottima macchinetta fotografica per divertirsi ad immortalare bei momenti con amici e parenti."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchinetta"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Offre anche effetti carini per rendere ancora più simpatiche le foto stampate"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Francesco" date="28-novembre-2016" id="cam3_39" language="it" product_id="B008GVXKUW" rating="4" title="Eccellente idea regalo">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="Ottima macchina fotografica, la possibilità di stampare ovunque è davvero intrigante."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:2">
+                <Text text="Ancora meglio il fatto che le foto stampate possono essere incollate come comuni adesivi semplicemente tirando via una pellicola sul retro."/>
+            </Sentence>
+            <Sentence id="39:3">
+                <Text text="Sebbene le stampe siano molto più piccole della maggior parte dei formati stampati comuni, sono di grande precisione e con colori vividi."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="colori"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="39:4">
+                <Text text="Inoltre il processo è veloce, rendendola capace di cogliere l'attimo dove altre macchine fotografiche non riuscirebbero."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchine"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="michele" date="19-novembre-2016" id="cam3_40" language="it" product_id="B008GVXKUW" rating="3" title="INSOMMA">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="A distanza di un pò di tempo volevo recensire questo articolo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="17-novembre-2016" id="cam3_41" language="it" product_id="B008GVXKUW" rating="5" title="regalo di natale">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="dato che è un regalo natalizio non posso dare maggiori informazioni sul prodotto, ma non sono mai stato deluso da amazon e dai suoi prodotti"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="annamaria" date="16-novembre-2016" id="cam3_42" language="it" product_id="B008GVXKUW" rating="3" title="Mediocre">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Il costo è davvero esorbitante!"/>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Le foto sono piccolissime ed hanno colori molto sbiaditi."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="OTHER" target="colori"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="42:3">
+                <Text text="L'unica cosa positiva è il fatto di poter scegliere le foto da stampare, in modo da evitare sprechi, visto anche il costo altissimo della carta."/>
+            </Sentence>
+            <Sentence id="42:4">
+                <Text text="E' molto di moda tra gli adolescenti ma secondo me non vale la spesa."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="14-novembre-2016" id="cam3_43" language="it" product_id="B008GVXKUW" rating="3" title="s.o.s">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="Aiuto!!"/>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="vorrei tanto stampare con la mia polaroid le foto fatte dal cellulare tramite scheda miscrosd, ma nonostante le foto ci siano tutte la macchina non le trova, perche?"/>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="ho provato a fare foto con tutti formati possibili.."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Rox" date="14-novembre-2016" id="cam3_44" language="it" product_id="B008GVXKUW" rating="5" title="Polaroid Z2300 10MP - Ottimo prodotto!">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="Polaroid Z2300 10MP è un ottimo acquisto, proprio quello che cercavo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="44:2">
+                <Text text="L'unica delusione la grandezza delle foto stampate, pensavo fossero più grandi"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Kriss" date="8-novembre-2016" id="cam3_45" language="it" product_id="B008GVXKUW" rating="5" title="Ottima">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="La qualità delle foto è comunque rapportata ai megapixel, ma per le dimensioni con le quali si stampa è ottima."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="45:2">
+                <Text text="Piacevole divertimento, non di sicuro di fotografia professionale (se volete una reflex compratevi quella)."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="45:3">
+                <Text text="Si può decidere cosa stampare e cosa tenere in memoria e scaricare poi su pc."/>
+            </Sentence>
+            <Sentence id="45:4">
+                <Text text="Può essere una prima macchina da dare ad un bambino per iniziare a dilettarsi con la fotografia e imparare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matteo" date="11-ottobre-2016" id="cam3_46" language="it" product_id="B008GVXKUW" rating="5" title="Finalmente la vera polaroid !!!">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="Finalmente una polaroid di formato 'umano' portatile, espandibile con scheda di memoria SD, la durata della batteria è molto buona almeno 50 foto scattate e stampate, consigliata su tutta la linea, non perderete occasione di stampare le foto piu' belle."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fabrizio Ferrari" date="7-ottobre-2016" id="cam3_47" language="it" product_id="B008GVXKUW" rating="1" title="Non ci siamo proprio!">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Purtroppo la Polaroid non risulta (per me) essere un buon acquisto, di fatti, la stampante interna è di qualità scadente."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                    <Opinion category="OTHER" target="stampante"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="Basandomi sulle recensioni e sul prezzo elevato ho erroneamente investito su questa macchinetta che ha una memoria interna praticamente inesistente, una stampante di pessima qualità, e un prezzo assolutamente troppo elevato!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampante"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mindfulness" date="25-settembre-2016" id="cam3_48" language="it" product_id="B008GVXKUW" rating="1" title="Programma di stampa non funziona">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="Non riesco a installare il software di stampa."/>
+            </Sentence>
+            <Sentence id="48:2">
+                <Text text="Quando stampa stampa bianco."/>
+            </Sentence>
+            <Sentence id="48:3">
+                <Text text="Sarebbe già dovuto essere installato."/>
+            </Sentence>
+            <Sentence id="48:4">
+                <Text text="Il CD si blocca e l'installazione non va. La fotocamera fa uscire le foto bianche."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Dmoriconr" date="22-settembre-2016" id="cam3_49" language="it" product_id="B008GVXKUW" rating="1" title="un giocattolo costoso">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="la valutazione negativa è per il prezzo spropositato."/>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="E' un giocattolo niente di più."/>
+            </Sentence>
+            <Sentence id="49:3">
+                <Text text="Qualità video che anche nel 2012 quando è uscita era scandalosamente bassa, oggi non ha senso."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="49:4">
+                <Text text="Qualità della stampa davvero troppo scarsa."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="49:5">
+                <Text text="L'avessi comprata per 50 euro poteva anche andare bene ma per 200 assolutamente no!"/>
+            </Sentence>
+            <Sentence id="49:6">
+                <Text text="E' un peccato perché l'idea non è male"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Federica" date="12-settembre-2016" id="cam3_50" language="it" product_id="B008GVXKUW" rating="3" title="Polaroid">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="Macchina carina."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="Le foto mi aspettavo avessero una dimensione maggiore e tendono un po al verde-blu nella stampa."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Le pellicole sono ovviamente un po costose."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="21-luglio-2016" id="cam3_51" language="it" product_id="B008GVXKUW" rating="5" title="super veloce e perfetto">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="spedizione veloce...la polaroid funziona benissimo !!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="spedizione"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="51:2">
+                <Text text="le foto sono molto carine e volendo c'è anche l'opzione cornici per aggiungerle alle vostre foto !!"/>
+            </Sentence>
+            <Sentence id="51:3">
+                <Text text="facile da usare e stampa veloce"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Giuseppe Ernandez" date="20-luglio-2016" id="cam3_52" language="it" product_id="B008GVXKUW" rating="4" title="La classica polaroid, ma nuova">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Lette svariate recensioni su internet prima di procedere all'acquisto, tutte diverse e discordanti."/>
+            </Sentence>
+            <Sentence id="52:2">
+                <Text text="Per esperienza personale posso dire:"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="24-giugno-2016" id="cam3_53" language="it" product_id="B008GVXKUW" rating="4" title="pk">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="spedizione e merce ok"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Erika" date="22-giugno-2016" id="cam3_54" language="it" product_id="B008GVXKUW" rating="4" title="Mi piace">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Carina, ideale per foto veloci piccoline e per gli appassionati del vintage."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="54:2">
+                <Text text="Unica pecca che costano un po' le ricariche"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Spicespan" date="20-giugno-2016" id="cam3_55" language="it" product_id="B008GVXKUW" rating="4" title="Molto buono">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Premetto che ho fatto ancora poche foto e,sapendo che sono piccoline,sono soddisfatta.Non si possono paragonare a quelle fatte con una fotocamera normale ma,per hobbystica,da applicare su un album di scrapbooking,vanno più che bene!Costano un po' le ricariche ma ho preferito questa alla Instax Fuji perchè mi permette di scegliere la foto da stampare,al contrario della concorrente citata."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Carlo Politi" date="30-maggio-2016" id="cam3_56" language="it" product_id="B008GVXKUW" rating="3" title="bella ma.. stampando la batteria dura poco">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Acquistata per una festa, dopo aver caricato completamente la batteria ho lasciato a casa il caricabatterie.. ebbene, dopo una ventina di foto (fatte usando il flash), e stampate, la batteria era ad una sola tacca, sono riuscito a fare altre 20 foto circa (senza stamparle) prima che si spegnesse."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="silvia89" date="26-aprile-2016" id="cam3_57" language="it" product_id="B008GVXKUW" rating="2" title="Mah">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="Arrivata con confezione intatta ma lo schermo della fotocamera era tutto rovinato e graffiato!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="confezione"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="57:2">
+                <Text text="Per quanto riguarda il resto niente da dire.. fa delle belle foto e belle stampe anche se un po piccole."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="OTHER" target="stampe"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="57:3">
+                <Text text="Me le aspettavo piu grandi."/>
+            </Sentence>
+            <Sentence id="57:4">
+                <Text text="Forse nn vale 220 euro."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="7-aprile-2016" id="cam3_58" language="it" product_id="B008GVXKUW" rating="2" title="Una come tante">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="Ha perso l'originalità della polaroid.. Fotografie piccole e bordi bianchi praticamente inutilizzabili dato che le foto risulterebbero minuscole mettendoli.. Sono rimasta un po' delusa.. È una qualunque macchina fotografica che stampa foto."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="fotografie"/>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="yu" date="2-aprile-2016" id="cam3_59" language="it" product_id="B008GVXKUW" rating="3" title="Speriamo bene....">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="Fotocamera arrivata prima del previsto...mi aspettavo qualcosa di meglio...la prima foto  non promette bene...è venuta tutta verde spero sia solo un problema di regolazione altrimenti sarà stato un vero spreco di denaro!!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="59:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Iacopo F" date="27-gennaio-2016" id="cam3_60" language="it" product_id="B008GVXKUW" rating="5" title="tutto in ordine">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="consegna puntuale, prodotto funzionante."/>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="non ci sono stati problemi, le foto sono buone, idem le stampe: tendenzialmente bisogna essere consapevoli del fatto che i fogli sono piccolini"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="OTHER" target="stampe"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Elisa" date="8-settembre-2016" id="cam3_61" language="it" product_id="B008GVXKUW" rating="3" title="Buona ma non ottima">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Ha molte funzionalità come macchinetta polaroid, molte opzioni di scelta, vari scenari (tramonto, notte, paesaggio ...)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchinetta"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marco" date="7-settembre-2016" id="cam3_62" language="it" product_id="B008GVXKUW" rating="5" title="Fantastica!!">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Come quelle di un tempo ma digitalizzata!"/>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="Le foto vengono più piccole di quelle di una volta ma il bello è che puoi vederle e sceglierle prima di stamparle!"/>
+            </Sentence>
+            <Sentence id="62:3">
+                <Text text="Acquisto eccellente e durante il prime day anche ad un buonissimo prezzo!!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="acquisto"/>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="62:4">
+                <Text text="Amazon come sempre 5 stelle per la celerità"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="3-settembre-2016" id="cam3_63" language="it" product_id="B008GVXKUW" rating="1" title="occhio a la descrizione">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Polaroid e fantastica, piccolissima e buona qualità."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Alfano C." date="1-settembre-2016" id="cam3_64" language="it" product_id="B008GVXKUW" rating="4" title="Sorprendente.">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Pagato poco più di 130 euro è risultata essere un ottimo prodotto sia per le promessa di esse comunque una polaroid quasi istantanea (e tiene bene alla parola data) che per la qualità delle foto (migliorabili senz'altro) ma comunque per quel che costa fa il suo lavoro."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marcello" date="29-agosto-2016" id="cam3_65" language="it" product_id="B008GVXKUW" rating="1" title="Oggetto non all'altezza">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="Ho dovuto rivenderla dopo quasi 6 mesi."/>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="Sembra quasi un giocattolino, non vale i soldi spesi."/>
+            </Sentence>
+            <Sentence id="65:3">
+                <Text text="Carina come idea ma le prestazioni non sono all'altezza."/>
+            </Sentence>
+            <Sentence id="65:4">
+                <Text text="Non penso sia davvero una 10 mp di risoluzione visto i risultati."/>
+            </Sentence>
+            <Sentence id="65:5">
+                <Text text="Le stampe per quando carine, restituiscono colori quasi da fumetti."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bestiola" date="27-agosto-2016" id="cam3_66" language="it" product_id="B008GVXKUW" rating="4" title="Un regalo stupendo !">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Ho ricevuto in regalo dal mio ragazzo questa polaroid un mesetto fa e ne sono pienamente soddisfatta !"/>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="Presenta un sacco di funzioni molto utili ma anche divertenti, quali il poter cambiare il colore delle foto ( ad esempio farle in bianco e nero ) o mettere delle carinissime cornici."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="funzioni"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:3">
+                <Text text="Presenta anche una levetta laterale per modificare l'impostazione in base alla foto da scattare: macro o da lontano."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:4">
+                <Text text="Le foto appaiono più sfocato sullo schermo, ma in realtà una volta stampate risultano essere migliori di quanto ci si aspettasse."/>
+            </Sentence>
+            <Sentence id="66:5">
+                <Text text="La stampa è anche abbastanza veloce a mio parere, anche se non vi è la possibilità di scattare e stampare contemporaneamente come nella Snap ( a mio parere un dettaglio irrilevante )."/>
+            </Sentence>
+            <Sentence id="66:6">
+                <Text text="Unica pecca, la durata della batteria."/>
+            </Sentence>
+            <Sentence id="66:7">
+                <Text text="Ha una buona durata se si scattano foto e basta, ma se si stampano dura molto poco."/>
+            </Sentence>
+            <Sentence id="66:8">
+                <Text text="In ogni caso, è stato un regalo che ho enormemente apprezzato e che continuo ad usare tantissimo anche epiche non è necessario cambiare alcun tipo di toner vista la tecnologia Zink ( zero ink )."/>
+            </Sentence>
+            <Sentence id="66:9">
+                <Text text="La possibilità poi di inserire una memory card e salvare tutte le foto a prescindere che vengono stampate o no è veramente utile secondo me."/>
+            </Sentence>
+            <Sentence id="66:10">
+                <Text text="Insomma, ottima !"/>
+            </Sentence>
+            <Sentence id="66:11">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michele" date="17-agosto-2016" id="cam3_67" language="it" product_id="B008GVXKUW" rating="5" title="Soddisfatto dell'acquisto">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Acquistata per un regalo (durante l'amazon prime day), è stata apprezzata."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="8-agosto-2016" id="cam3_68" language="it" product_id="B008GVXKUW" rating="1" title="delusione">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="Sono veramente deluso per questo prodotto!"/>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="!le aspettative erano alte ma alla prima stampa mi sono reso conto dei limiti che aveva!le foto stampate tendono tutte al blu!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:3">
+                <Text text="!peccato"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Luca Dall'Olio" date="5-agosto-2016" id="cam3_69" language="it" product_id="B008GVXKUW" rating="5" title="DA AVERE">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="Diffidate delle opinioni negative in merito a questo dispositivo, probabilmente molta gente non la sa neanche accendere!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="ulissedisse" date="1-agosto-2016" id="cam3_70" language="it" product_id="B008GVXKUW" rating="1" title="Un disastro, da Amazon al prodotto!">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="Ho acquistato questa camera al Prime Day e avrei dovuto riceverla il venerdì stesso (3 giorni di spedizione sebbene io sia cliente Prime)."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="federico" date="12-marzo-2015" id="cam3_71" language="it" product_id="B008GVXKUW" rating="5" title="Una buona idea in un buon prodotto">
+        <Sentences>
+            <Sentence id="71:1">
+                <Text text="Soddisfatto del prodotto, è esattamente quello che mi aspettavo : ovviamente non progettata per raggiungere la perfezione nella qualità della foto , ma come facevano le vecchie polaroid , per divertirsi ed averere ma possibilità di stampare i vostri momenti ."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="daniele" date="21-gennaio-2015" id="cam3_72" language="it" product_id="B008GVXKUW" rating="4" title="Un tuffo nel passato">
+        <Sentences>
+            <Sentence id="72:1">
+                <Text text="Macchina fotografica di costruzione ed estetica non molto buone, eccellente però per gli appassionati di polaroid essendo digitale permette quanto meno di scegliere la foto da stampare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="72:2">
+                <Text text="Le ricariche sono un po' troppo costose."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Aiello L." date="17-dicembre-2014" id="cam3_73" language="it" product_id="B008GVXKUW" rating="4" title="RICEVIMENTO MERCE PERFETTO">
+        <Sentences>
+            <Sentence id="73:1">
+                <Text text="REGALO DI NATALE, RICEVUTO UN GIORNO DOPO LA DATA GARANTITA, MA COMUNQUE ASSOLUTAMENTE NEI TEMPI."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marco" date="22-novembre-2014" id="cam3_74" language="it" product_id="B008GVXKUW" rating="5" title="Audio dei video">
+        <Sentences>
+            <Sentence id="74:1">
+                <Text text="Bella.. Ho solo da chiedere un parere: avete mai fatto un video ad un concerto con questa macchina?"/>
+            </Sentence>
+            <Sentence id="74:2">
+                <Text text="Come viene l'audio?"/>
+            </Sentence>
+            <Sentence id="74:3">
+                <Text text="Grazie!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Winchester80" date="10-novembre-2014" id="cam3_75" language="it" product_id="B008GVXKUW" rating="5" title="Fantastica">
+        <Sentences>
+            <Sentence id="75:1">
+                <Text text="Offre quello che permette di fare una Polaroid normale con una cosa in più; puoi scegliere cosa stampare."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="75:2">
+                <Text text="E non è una cosa da poco."/>
+            </Sentence>
+            <Sentence id="75:3">
+                <Text text="Il formato di stampa è particolare, ma il risultato è davvero originale e la qualità delle immagini (anche se sfalsa leggermente i colori) è davvero buono, così come la definizione."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Futura" date="10-ottobre-2014" id="cam3_76" language="it" product_id="B008GVXKUW" rating="4" title="Bene">
+        <Sentences>
+            <Sentence id="76:1">
+                <Text text="Bella e sicuramente per il prezzo accessibile che ha, fa il suo gran bel lavoro."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prezzo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="76:2">
+                <Text text="Ovviamente la si prende per la nostalgia delle vecchie polaroid, anche se sicuramente la risoluzione non la fa da padrone."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sandro Bottaro" date="29-settembre-2014" id="cam3_77" language="it" product_id="B008GVXKUW" rating="4" title="Polaroid">
+        <Sentences>
+            <Sentence id="77:1">
+                <Text text="Consegna e integrita' del prodotto perfetta."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Stefano Daniele Cargnino" date="5-settembre-2014" id="cam3_78" language="it" product_id="B008GVXKUW" rating="5" title="ottimo acquisto per chi non stampa mai le foto dal fotografo">
+        <Sentences>
+            <Sentence id="78:1">
+                <Text text="Ottima macchina."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:2">
+                <Text text="la qualità della foto non è eccezionale ma le foto stampate sono perfette."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="78:3">
+                <Text text="permette anche di avere formati da passaporto o carta di identità."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="alessio" date="25-agosto-2014" id="cam3_79" language="it" product_id="B008GVXKUW" rating="4" title="buona!">
+        <Sentences>
+            <Sentence id="79:1">
+                <Text text="molto carina ,stampa abbastanza bene le foto anche se sono un po' piccole però è divertente da usare in compagnia!"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Daniela Pantosti" date="19-agosto-2014" id="cam3_80" language="it" product_id="B008GVXKUW" rating="4" title="Informazione">
+        <Sentences>
+            <Sentence id="80:1">
+                <Text text="Ho comprato da poco la polaroid Z2300 e sono soddisfatta del mio acquisto, soltanto che ad alcune foto stampate appaiono delle rigoline piú chiare."/>
+            </Sentence>
+            <Sentence id="80:2">
+                <Text text="È normale?"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="8-aprile-2017" id="cam3_81" language="it" product_id="B008GVXKUW" rating="1" title="Immagini azzurre!">
+        <Sentences>
+            <Sentence id="81:1">
+                <Text text="Articolo arrivato in tempo, e in buone condizioni."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="fragiuchia" date="2-aprile-2017" id="cam3_82" language="it" product_id="B008GVXKUW" rating="4" title="Buon prodotto, peccato x le modalità di restituzione.">
+        <Sentences>
+            <Sentence id="82:1">
+                <Text text="Avevo visto il prodotto in un negozio ma non.era disponibile, così l'ho ordinato su Amazon."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="14-marzo-2017" id="cam3_83" language="it" product_id="B008GVXKUW" rating="5" title="Ottima camera polaroid">
+        <Sentences>
+            <Sentence id="83:1">
+                <Text text="Ottima fotocamera in perfetto stile polaroid."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="VRGL" date="7-marzo-2017" id="cam3_84" language="it" product_id="B008GVXKUW" rating="1" title="una stella che brilla poco">
+        <Sentences>
+            <Sentence id="84:1">
+                <Text text="iniziamo col dire che la qualità è quella che è e lo sapevo quando l'ho comprata e non mi preoccupo, dopo un anno di utilizzo, circa 100 foto e una ventina di stampe, la batteria non si ricarica più, ho contattato il servizio polaroid che mi dice che non esiste più il pezzo di ricambio ... ne ho trovata una in un altro sito a 60 euro - questo ovviamente pregiudica qualsiasi bontà del prodotto, verrà utilizzata per giocare con mia figlia piccola in casa rimanendo attaccati alla rete domestica e stamperò gli ultimi due pacchetti che mi sono rimasti della zink, di certo non andrò in giro con un anker per usare la polaroid .... e poi la butterò ... veramente allucinante"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Marika" date="4-marzo-2017" id="cam3_85" language="it" product_id="B008GVXKUW" rating="3" title="Foto piccole">
+        <Sentences>
+            <Sentence id="85:1">
+                <Text text="Il design è bello ma le foto sono veramente piccole niente a che vedere con le vecchie polaroid."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="85:2">
+                <Text text="Un po' deludente"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Fabio Basso" date="2-marzo-2017" id="cam3_86" language="it" product_id="B008GVXKUW" rating="3" title="L'evoluzione delle classiche Polaroid">
+        <Sentences>
+            <Sentence id="86:1">
+                <Text text="Carina l'idea di stampare direttamente."/>
+            </Sentence>
+            <Sentence id="86:2">
+                <Text text="La fotocamera è si un 10MP ma non si nota nella stampata, anzi la risoluzione di stampa è un po' bassa"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="fotocamera"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="14-febbraio-2017" id="cam3_87" language="it" product_id="B008GVXKUW" rating="5" title="Bellissima">
+        <Sentences>
+            <Sentence id="87:1">
+                <Text text="Davvero una bella polaroid, ho provato anche il modello snap e il modello snap touch, ma si sono rivelate molto deludenti in confronto a questa."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:2">
+                <Text text="Foto migliori e migliore personalizzazione delle funzioni come ISO, WB ed esposizione, quindi non un semplice giocattolino come possono essere gli altri modelli, ma un dispositivo più solido."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="OTHER" target="funzioni"/>
+                    <Opinion category="GENERAL" target="dispositivo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="87:3">
+                <Text text="La consiglio!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="4-febbraio-2017" id="cam3_88" language="it" product_id="B008GVXKUW" rating="5" title="macchinetta fotografica come descritta">
+        <Sentences>
+            <Sentence id="88:1">
+                <Text text="ho dato questa valutazione per la macchinetta che è come era descritta ,mi è piaciuta la confezione accurata ,mi è piaciuto il prezzo e anche per la qualità delle foto ."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="confezione"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Lorenzo" date="28-gennaio-2017" id="cam3_89" language="it" product_id="B008GVXKUW" rating="4" title="Pensavo meglio">
+        <Sentences>
+            <Sentence id="89:1">
+                <Text text="Il materiale della macchina all'esterno non è dei migliori."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="89:2">
+                <Text text="La macchina quando è scarica stampa male le foto però tutto sommato per il prezzo che ha mi aspettavo di meglio"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cliente Amazon" date="26-gennaio-2017" id="cam3_90" language="it" product_id="B008GVXKUW" rating="4" title="Perfetta per divertirsi!">
+        <Sentences>
+            <Sentence id="90:1">
+                <Text text="Non è una macchina fotografica professionale, la qualità delle foto non è delle migliori; sicuramente un bel prodotto per chi vuole immortalare ogni momento ed avere subito una foto a portata di mano, da scambiare con gli amici appena conosciuti in vacanza o da portare nel portafoglio."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="filippo bellavita" date="28-agosto-2013" id="cam3_91" language="it" product_id="B008GVXKUW" rating="2" title="polaroid">
+        <Sentences>
+            <Sentence id="91:1">
+                <Text text="sinceramente dalla foto sembra piu fino e sottile invece è sono ben 5 cm di spessore, poi le foto non hanno una gran risoluzione in stampa e la stampa stessa è molto piccola nel formato."/>
+            </Sentence>
+            <Sentence id="91:2">
+                <Text text="non c'è paragone rispetto alla vecchia polaroid!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="91:3">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="magico" date="27-agosto-2013" id="cam3_92" language="it" product_id="B008GVXKUW" rating="4" title="polaroid Z 2300 FOTOCAMERA">
+        <Sentences>
+            <Sentence id="92:1">
+                <Text text="ARTICOLO ACQUISTATO COME REGALO, IL PRODOTTO E' CONFORME ALLA PRESENTAZIONE VISTA SUL SITO IMPACCHETTATA A DOVERE CON I TEMPI DI SPEDIZIONE RAPIDI COME DI CONSUETO OTTIMO"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Flavio Dal Canto" date="2-agosto-2013" id="cam3_93" language="it" product_id="B008GVXKUW" rating="5" title="Eccezionale">
+        <Sentences>
+            <Sentence id="93:1">
+                <Text text="Perfetto per chi adora stampare le proprie foto dopo averle scattate, buona qualità di fotografia e stampa.. un compatta a cui si unisce la classica funzione di stampa !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tofu" date="2-luglio-2013" id="cam3_94" language="it" product_id="B008GVXKUW" rating="5" title="Il ritorno della Polaroid per tutti">
+        <Sentences>
+            <Sentence id="94:1">
+                <Text text="E' un'unità semplice e compatta, facile da usare e che consente a tutti di fotografare in libertà."/>
+            </Sentence>
+            <Sentence id="94:2">
+                <Text text="Dieci megapixel sono più che sufficienti per l'utente causale ed amatoriale che vuole portare a casa il ricordo degli eventi che vive, e la batteria ricaricabile integrata (ma sostituibile facilmente in caso di usura) evita la ricerca di alcaline nei luoghi di vacanza."/>
+                <Opinions>
+                    <Opinion category="BATTERY" target="batteria"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Paolo" date="12-giugno-2013" id="cam3_95" language="it" product_id="B008GVXKUW" rating="4" title="Divertente e velocissima!">
+        <Sentences>
+            <Sentence id="95:1">
+                <Text text="Parliamoci chiaro, non è una fotocamera che mi porterei in vacanza o per fare scatti di particolare qualità."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="francesca" date="20-maggio-2013" id="cam3_96" language="it" product_id="B008GVXKUW" rating="4" title="ottima la rapidità di spedizione, il prodotto è versatile">
+        <Sentences>
+            <Sentence id="96:1">
+                <Text text="La fotocamera è sicuramente adatta ai ragazzi."/>
+            </Sentence>
+            <Sentence id="96:2">
+                <Text text="Buona la qualità delle stampe anche se un pò piccoline..., forse l'unica pecca sono le dimensioni poco contenute della fotocamera che le tolgono un pò di praticità."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualità"/>
+                    <Opinion category="DIMENSION" target="dimensioni"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="96:3">
+                <Text text="In compenso ho trovato ottima la presenza del display e la possibilità di scaricare le foto su pc."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="luca marzullo" date="29-aprile-2013" id="cam3_97" language="it" product_id="B008GVXKUW" rating="5" title="polaroid z 2300">
+        <Sentences>
+            <Sentence id="97:1">
+                <Text text="Ottimo prodotto."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="prodotto"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="97:2">
+                <Text text="Ideale per i nostalgici della polaroid associata alla fotografia digitale."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                    <Opinion category="IMAGING" target="fotografia"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="97:3">
+                <Text text="Consigliato."/>
+            </Sentence>
+            <Sentence id="97:4">
+                <Text text="Non aspettatevi la qualità delle reflex o grandi formati."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="fbpisa" date="2-aprile-2013" id="cam3_98" language="it" product_id="B008GVXKUW" rating="4" title="ottima">
+        <Sentences>
+            <Sentence id="98:1">
+                <Text text="Ha tutto per essere una vera macchina digitale...con ampia scelta nelle funzioni (es sport,mare,paesaggio,tramonto,etc) regolazione automatica o manuale della foto.... e in + ha la caratteristica delle vecchie Polaroid..la stampa immediata.."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="macchina"/>
+                    <Opinion category="IMAGING" target="foto"/>
+                    <Opinion category="GENERAL" target="polaroid"/>
+                    <Opinion category="OTHER" target="stampa"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Zanon Luca" date="14-marzo-2013" id="cam3_99" language="it" product_id="B008GVXKUW" rating="5" title="Puntuale">
+        <Sentences>
+            <Sentence id="99:1">
+                <Text text="Era quello che mi ero immaginato dalla descrizione, inoltre il prodotto è arrivato prima della data prevista in fase di acquisto."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>

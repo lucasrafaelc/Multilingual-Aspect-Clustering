@@ -1,0 +1,875 @@
+<?xml version="1.0" ?>
+<Reviews>
+    <Review author="yvan" date="25-novembre-2018" id="cam5_1" language="fr" product_id="B00HH8A2CE" rating="3" title="simple">
+        <Sentences>
+            <Sentence id="1:1">
+                <Text text="livraison rapide, appareil simple a utiliser, photo de nuit pas super."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="pascaldjcrow" date="17-novembre-2018" id="cam5_2" language="fr" product_id="B00HH8A2CE" rating="5" title="Il marche parfaitement bien très content 😊">
+        <Sentences>
+            <Sentence id="2:1">
+                <Text text="Il est superbe pratique et fonctionne bien !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Francis 64" date="6-novembre-2018" id="cam5_3" language="fr" product_id="B00HH8A2CE" rating="4" title="Très bon pour un débutant">
+        <Sentences>
+            <Sentence id="3:1">
+                <Text text="Parfait pour un débutant ou un ado."/>
+            </Sentence>
+            <Sentence id="3:2">
+                <Text text="Il fait de bonnes photos et des petites vidéos (12min env."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="3:3">
+                <Text text="par séquence)."/>
+            </Sentence>
+            <Sentence id="3:4">
+                <Text text="Il est petit et tiens facilement dans une poche."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="itosu" date="6-novembre-2018" id="cam5_4" language="fr" product_id="B00HH8A2CE" rating="5" title="reçu">
+        <Sentences>
+            <Sentence id="4:1">
+                <Text text="bien reçu merci"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="11-octobre-2018" id="cam5_5" language="fr" product_id="B00HH8A2CE" rating="4" title="Les frais annexes obligée d acheter un logiciel coûteux et une carte flash">
+        <Sentences>
+            <Sentence id="5:1">
+                <Text text="Pour le loisir"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tony Evrard" date="9-octobre-2018" id="cam5_6" language="fr" product_id="B00HH8A2CE" rating="5" title="Bon produit">
+        <Sentences>
+            <Sentence id="6:1">
+                <Text text="Simple et efficace"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Matth" date="11-septembre-2018" id="cam5_7" language="fr" product_id="B00HH8A2CE" rating="4" title="bon rapport qualité prix">
+        <Sentences>
+            <Sentence id="7:1">
+                <Text text="Ecran pas top mais photo sur ecran d'ordi de qualité pour le prix."/>
+            </Sentence>
+            <Sentence id="7:2">
+                <Text text="Raisonnable je recommande pour petit budget."/>
+            </Sentence>
+            <Sentence id="7:3">
+                <Text text="Photo en interieur moyennes"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Magali" date="15-août-2018" id="cam5_8" language="fr" product_id="B00HH8A2CE" rating="4" title="APN">
+        <Sentences>
+            <Sentence id="8:1">
+                <Text text="Usage à titre professionnel."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="usage"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="lamarche isabelle" date="12-août-2018" id="cam5_9" language="fr" product_id="B00HH8A2CE" rating="5" title="bon rapport qualité-prix">
+        <Sentences>
+            <Sentence id="9:1">
+                <Text text="satisfait mes attentes"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="monmaxou" date="10-août-2018" id="cam5_10" language="fr" product_id="B00HH8A2CE" rating="5" title="super">
+        <Sentences>
+            <Sentence id="10:1">
+                <Text text="très contente de cet achat"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Hélène" date="12-juillet-2018" id="cam5_11" language="fr" product_id="B00HH8A2CE" rating="1" title="Vraiment déçue !">
+        <Sentences>
+            <Sentence id="11:1">
+                <Text text="Petit appareil d'appoint choisi pour l'avoir facilement dans mon sac, sachant que la qualité des photos ne serait jamais époustouflante mais là, quelle déception !!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:2">
+                <Text text="Les photos sont granuleuses, pâles, presque floues."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="11:3">
+                <Text text="Le temps d'obturation est très long, même avec une lumière suffisante."/>
+            </Sentence>
+            <Sentence id="11:4">
+                <Text text="Bref... je ne m'attendais à de la grande qualité mais cet appareil est absolument NUL !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="29-juin-2018" id="cam5_12" language="fr" product_id="B00HH8A2CE" rating="5" title="appareille photo">
+        <Sentences>
+            <Sentence id="12:1">
+                <Text text="cette appareille photo fait de belle photo leger a porter a la main ou sac noir classe on peut zoumer"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="laucaz" date="17-mai-2018" id="cam5_13" language="fr" product_id="B00HH8A2CE" rating="2" title="Format 'carte de crédit' vraiment très fragile.">
+        <Sentences>
+            <Sentence id="13:1">
+                <Text text="Très déçu par cet achat, certes j'en ai eu pour 93 € mais quand même, qualité médiocre, d'apparence fragile!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="13:2">
+                <Text text="je n'aime pas."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="elfemagique" date="24-mars-2018" id="cam5_14" language="fr" product_id="B00HH8A2CE" rating="5" title="appareil photo">
+        <Sentences>
+            <Sentence id="14:1">
+                <Text text="alors là le top, les photos sont très belles, les couleurs rendues exactement comme je les aime, je suis très satisfaite de cet appareil photo numérique qui va m'accompagner tous le temps dans mes superbes voyages SONY à recommander pour la qualité de son matériel"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="couleurs"/>
+                    <Opinion category="GENERAL" target="appareil photo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="victoria" date="24-mars-2018" id="cam5_15" language="fr" product_id="B00HH8A2CE" rating="4" title="appareil photo">
+        <Sentences>
+            <Sentence id="15:1">
+                <Text text="bien reçu mais revoir l'emballage trop grand par rapport au contenu, sinon l'installation facile mais prend du temps (nouvelle fonction et synchronisation entre appareil) utilisation simple pour la batterie un peu juste pour les passionnés de photos prévoir une deuxième batterie"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="emballage"/>
+                    <Opinion category="OTHER" target="utilisation"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cedric P" date="16-mars-2018" id="cam5_16" language="fr" product_id="B00HH8A2CE" rating="3" title="Appareil photo compact">
+        <Sentences>
+            <Sentence id="16:1">
+                <Text text="Appareil photo compact idéal pour prendre des photos en période ensoleillé car la résolution n'est pas très bonne en période couverte très dessus venant de Sony"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="20-février-2018" id="cam5_17" language="fr" product_id="B00HH8A2CE" rating="4" title="Parfait">
+        <Sentences>
+            <Sentence id="17:1">
+                <Text text="Le produit a répondu parfaitement à ce que nous attendions."/>
+            </Sentence>
+            <Sentence id="17:2">
+                <Text text="La prise en main a été rapide car c'est le deuxième appareil que nous possédons."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Michelet Delphine" date="15-février-2018" id="cam5_18" language="fr" product_id="B00HH8A2CE" rating="3" title="bon rapport qualité prix">
+        <Sentences>
+            <Sentence id="18:1">
+                <Text text="Il y a un bon rapport qualité prix."/>
+            </Sentence>
+            <Sentence id="18:2">
+                <Text text="Le bémol c'est que le temps de réaction pour prendre la photo est trop long."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Derckel" date="22-janvier-2018" id="cam5_19" language="fr" product_id="B00HH8A2CE" rating="5" title="R.A.S.">
+        <Sentences>
+            <Sentence id="19:1">
+                <Text text="Ji'ai choisi cet appareil pour son excellent rapport qualité-prix.Cat appareil est à recommander à celles et ceux qui veulent des souvenirs faciles à réaliser."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="rapport qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Consomateur sérieux" date="4-janvier-2018" id="cam5_20" language="fr" product_id="B00HH8A2CE" rating="4" title="Joli et bien">
+        <Sentences>
+            <Sentence id="20:1">
+                <Text text="Je suis très content de ce produit."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produit"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="20:2">
+                <Text text="Comme on dit, il tout d'un grand."/>
+            </Sentence>
+            <Sentence id="20:3">
+                <Text text="La seule chose que l'on peut reprocher, c'est le manque d'accessoires comme un étui que j'ai du acheter a part, dommage."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Cathy M." date="29-novembre-2017" id="cam5_21" language="fr" product_id="B00HH8A2CE" rating="2" title="mauvais achat">
+        <Sentences>
+            <Sentence id="21:1">
+                <Text text="acheté en remplacement d'un lumix."/>
+            </Sentence>
+            <Sentence id="21:2">
+                <Text text="Mauvais objectif ."/>
+            </Sentence>
+            <Sentence id="21:3">
+                <Text text="La mise au point se fait toute seule pendant que l'on filme et le film est flou par moments."/>
+            </Sentence>
+            <Sentence id="21:4">
+                <Text text="Qualité des photos moins bonne mais simple à utiliser"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="raynal celine" date="27-octobre-2017" id="cam5_22" language="fr" product_id="B00HH8A2CE" rating="4" title="commentaire">
+        <Sentences>
+            <Sentence id="22:1">
+                <Text text="J'avais le même en noir super en rose!"/>
+            </Sentence>
+            <Sentence id="22:2">
+                <Text text="et dommage de ne pas avoir comme mon noir un chargeur batterie séparément ( en enlevant la batterie)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="christelle" date="16-octobre-2017" id="cam5_23" language="fr" product_id="B00HH8A2CE" rating="5" title="Article parfait">
+        <Sentences>
+            <Sentence id="23:1">
+                <Text text="Très satisfaite de cet appareil, le flou se contrôle automatiquement, les photos sont de belles qualités je recommande cet appareil"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualités"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="kate" date="12-septembre-2017" id="cam5_24" language="fr" product_id="B00HH8A2CE" rating="1" title="camelote">
+        <Sentences>
+            <Sentence id="24:1">
+                <Text text="mauvais appareil, gros, mauvaises finitions - je l'ai renvoyé."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:2">
+                <Text text="Qualité incompatible avec le nom de Sony."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="24:3">
+                <Text text="Où sont passés les concepteurs du regretté Sony Cybershot TX..  : appareil bien fini, léger, très fin et étanche."/>
+            </Sentence>
+            <Sentence id="24:4">
+                <Text text="Les nouveaux produits Sony sur ce créneau sont énormes , mal finis et basiques."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Augusto" date="5-septembre-2017" id="cam5_25" language="fr" product_id="B00HH8A2CE" rating="3" title="Pas mal">
+        <Sentences>
+            <Sentence id="25:1">
+                <Text text="Parfait pour."/>
+            </Sentence>
+            <Sentence id="25:2">
+                <Text text="L anniversaire de ma fille de 9 ans."/>
+            </Sentence>
+            <Sentence id="25:3">
+                <Text text="Très simple d utilisation."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="utilisation"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="25:4">
+                <Text text="Par contre temps d affichage de l image un peu long."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="mp429" date="3-septembre-2017" id="cam5_26" language="fr" product_id="B00HH8A2CE" rating="5" title="Très contente">
+        <Sentences>
+            <Sentence id="26:1">
+                <Text text="Je ne suis pas du tout utilisatrice des appareils car avec les téléphones c'est facile d'accès,"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareils"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="AS" date="26-août-2017" id="cam5_27" language="fr" product_id="B00HH8A2CE" rating="1" title="Très mauvaise qualité">
+        <Sentences>
+            <Sentence id="27:1">
+                <Text text="Appareil photo d'entrée de gamme et presque sans aucune utilité."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="vuillermoz josiane" date="7-août-2017" id="cam5_28" language="fr" product_id="B00HH8A2CE" rating="5" title="Compact">
+        <Sentences>
+            <Sentence id="28:1">
+                <Text text="Petit compact très fonctionnel,  mon fils l'a trouver très bien , il fait beaucoup de sport, avec sa housse, il l'emmène partout , très facile de fonctionnement et avec ses piles au lithium,  autonomie très correcte,  aux vus des premiers clichés,  jolies photos,  , mon fils est très content !!!!"/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="compact"/>
+                    <Opinion category="BATTERY" target="autonomie"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="28:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="18-juillet-2017" id="cam5_29" language="fr" product_id="B00HH8A2CE" rating="4" title="Ravi">
+        <Sentences>
+            <Sentence id="29:1">
+                <Text text="Performant, pratique, belles images, c'est ce que j'attendais, Sony est une bonne marque."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="images"/>
+                    <Opinion category="GENERAL" target="marque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="29:2">
+                <Text text="En plus il ne prend pas de place"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cenestquemonavis" date="3-juillet-2017" id="cam5_30" language="fr" product_id="B00HH8A2CE" rating="1" title="Très déçu">
+        <Sentences>
+            <Sentence id="30:1">
+                <Text text="Très déçu !!!"/>
+            </Sentence>
+            <Sentence id="30:2">
+                <Text text="20Mega pixels ?"/>
+            </Sentence>
+            <Sentence id="30:3">
+                <Text text="mais je n'oserais même pas faire un tirage supérieure à du 20x30 avec cet appareil !"/>
+            </Sentence>
+            <Sentence id="30:4">
+                <Text text="(alors qu'avec une autre marque, moins cher, avec moins de Mpix, je tenterai sans problème)."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="marque"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="30:5">
+                <Text text="La 'qualité' est médiocre."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="MS" date="11-septembre-2015" id="cam5_31" language="fr" product_id="B00HH8A2CE" rating="5" title="Perfect">
+        <Sentences>
+            <Sentence id="31:1">
+                <Text text="Great camera."/>
+            </Sentence>
+            <Sentence id="31:2">
+                <Text text="High quality pics."/>
+            </Sentence>
+            <Sentence id="31:3">
+                <Text text="Easy to use."/>
+            </Sentence>
+            <Sentence id="31:4">
+                <Text text="Good price."/>
+            </Sentence>
+            <Sentence id="31:5">
+                <Text text="Safely delivered and quickly."/>
+            </Sentence>
+            <Sentence id="31:6">
+                <Text text="Legendary Sony quality both body and lens"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Angie Mélidune" date="3-septembre-2015" id="cam5_32" language="fr" product_id="B00HH8A2CE" rating="2" title="Un peu déçue de cet article, qui fait un peu 'jouet' à mon humble avis ...">
+        <Sentences>
+            <Sentence id="32:1">
+                <Text text="Je cherchais un appareil pas trop cher, mais d'une qualité correcte, pour remplacer mon Panasonic DMC-TZ8, qui était PARFAIT, mais qui a fini par rendre l'âme après des années de bons et loyaux services (et une chute dans les rues de New-York, merci Chéri ...) Je n'avais pas beaucoup de sous à mettre dedans (reprendre un Panasonic était au dessus de mon budget ...), donc après quelques recherches (rapides, car je ne tiendrais jamais longtemps sans un appareil photo), mon choix s'est porté sur le Sony DSCW810P.CE3."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="32:2">
+                <Text text="La première fois que je l'ai tenu dans les mains, je l'ai trouvé extrêmement léger, ce qui peut sembler un bon point, mais en réalité ça m'a vraiment donné l'impression que je tenais un jouet dans les mains !"/>
+            </Sentence>
+            <Sentence id="32:3">
+                <Text text="Bon, le fait qu'il soit rose n'aide pas, mais ça c'était un choix de ma part, totalement assumé !"/>
+            </Sentence>
+            <Sentence id="32:4">
+                <Text text=":-)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Onzia" date="23-août-2015" id="cam5_33" language="fr" product_id="B00HH8A2CE" rating="4" title="c est un tres bon appareil">
+        <Sentences>
+            <Sentence id="33:1">
+                <Text text="C'est un très bon appareil simple à  utiliser il correspond tout à fait avec ce que je voulais."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="33:2">
+                <Text text="Il est très léger."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="murphi6666" date="20-août-2015" id="cam5_34" language="fr" product_id="B00HH8A2CE" rating="1" title="Sony DSCW810B.CE3 Appareil photo numérique... Sony">
+        <Sentences>
+            <Sentence id="34:1">
+                <Text text="deux appareil  achetés"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Tha" date="10-août-2015" id="cam5_35" language="fr" product_id="B00HH8A2CE" rating="5" title="Mon Compagnons pendant l'été.">
+        <Sentences>
+            <Sentence id="35:1">
+                <Text text="Je trouve cette APN Sony de poche de qualité et pratique, tant dans la prise en main rapide et simple."/>
+            </Sentence>
+            <Sentence id="35:2">
+                <Text text="Les photos prise son belle et le prix est abordable en plus avec 20.1 Pixel; je le recommande."/>
+                <Opinions>
+                    <Opinion category="PRICE" target="prix"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="LAROCHELLE" date="6-juillet-2015" id="cam5_36" language="fr" product_id="B00HH8A2CE" rating="4" title="Appareil fonctionnel mais impossible d'enchainer les prises de vues">
+        <Sentences>
+            <Sentence id="36:1">
+                <Text text="L'appareil est plutôt très facile à utiliser même sans lire la notice d'utilisation."/>
+            </Sentence>
+            <Sentence id="36:2">
+                <Text text="Beaucoup de choix de fonctions de prise de vues."/>
+            </Sentence>
+            <Sentence id="36:3">
+                <Text text="A vérifier sur un usage plus prolongé, le temps de latence après une prise de vue afin de pouvoir prendre une nouvelle photo est extrêmement long."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="36:4">
+                <Text text="Si cela se confirmait, il s'agirait d'un véritable handicap, un défaut majeur car impossible d'enchainer les photos à un rythme raisonnable."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="sabinou" date="23-juin-2015" id="cam5_37" language="fr" product_id="B00HH8A2CE" rating="5" title="appareil photo">
+        <Sentences>
+            <Sentence id="37:1">
+                <Text text="cet appareil photo numérique est très pratique, compact et fait de très belle photo ; je le recommande ; penser a acheter la carte mémoire car il est vide"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil photo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Danielle" date="20-juin-2015" id="cam5_38" language="fr" product_id="B00HH8A2CE" rating="4" title="Je recommande cet appareil">
+        <Sentences>
+            <Sentence id="38:1">
+                <Text text="Petit appareil compact très pratique , belles photos."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="38:2">
+                <Text text="Le seul inconvénient est la batterie qui s'arrête sans crier gare."/>
+            </Sentence>
+            <Sentence id="38:3">
+                <Text text="Le charger tous les soirs est la meilleure solution pendant les voyages."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Josselyne NELL" date="8-juin-2015" id="cam5_39" language="fr" product_id="B00HH8A2CE" rating="3" title="appareil photo">
+        <Sentences>
+            <Sentence id="39:1">
+                <Text text="la notice d' emploi en Français est absente ,"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="moi" date="4-juin-2015" id="cam5_40" language="fr" product_id="B00HH8A2CE" rating="4" title="très bon rapport qualité/prix">
+        <Sentences>
+            <Sentence id="40:1">
+                <Text text="très satisfait dans l'ensemble"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="marine" date="3-juin-2015" id="cam5_41" language="fr" product_id="B00HH8A2CE" rating="4" title="conforme à la description ,fonctionnement facile">
+        <Sentences>
+            <Sentence id="41:1">
+                <Text text="produit conforme à la description , usage facile , bonne qualité de photos sur ordi et une fois imprimées , seul point en moins le zoom me parait fragile"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="produit"/>
+                    <Opinion category="OTHER" target="usage"/>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="wilkinson" date="1-juin-2015" id="cam5_42" language="fr" product_id="B00HH8A2CE" rating="3" title="Bon rapport qualité prix mais fragile">
+        <Sentences>
+            <Sentence id="42:1">
+                <Text text="Cette appareil photos fait ce que l'on attends de lui, pour son prix c'est bien, mais à manipuler avec précaution, en effet même une petite chute suffira pour arrêter sa carrière (20 cm sur  une surface dur alors qu'il était éteint à suffit pour le rendre inutilisable, une semaine après l'avoir acheté)."/>
+            </Sentence>
+            <Sentence id="42:2">
+                <Text text="Bilan si vous êtes du genre soigneux et économe c’est bon pour vous sinon mieux vaut éviter cette appareil."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="laurent chau" date="29-mai-2015" id="cam5_43" language="fr" product_id="B00HH8A2CE" rating="5" title="apareil photo super genial">
+        <Sentences>
+            <Sentence id="43:1">
+                <Text text="prise en main très façile."/>
+            </Sentence>
+            <Sentence id="43:2">
+                <Text text="Il est très très léger."/>
+            </Sentence>
+            <Sentence id="43:3">
+                <Text text="J'ai mi une carte S.D."/>
+            </Sentence>
+            <Sentence id="43:4">
+                <Text text="de 8 G.O."/>
+            </Sentence>
+            <Sentence id="43:5">
+                <Text text="dedans : j'espere que la taille et la batterie pourront durer assez longtemps en voyage."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="CORCELLE CARINE" date="25-mai-2015" id="cam5_44" language="fr" product_id="B00HH8A2CE" rating="4" title="ras">
+        <Sentences>
+            <Sentence id="44:1">
+                <Text text="pas de surprise par rapport au descriptif"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Bourguignon Patricia" date="24-mai-2015" id="cam5_45" language="fr" product_id="B00HH8A2CE" rating="4" title="Appareil photo numérique SONY">
+        <Sentences>
+            <Sentence id="45:1">
+                <Text text="Très satisfaite de cet article, très simple d'utilisation et très maniable Sony est une très bonne marque RAS"/>
+                <Opinions>
+                    <Opinion category="OTHER" target="utilisation"/>
+                    <Opinion category="GENERAL" target="sony"/>
+                    <Opinion category="GENERAL" target="marque"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cindy" date="11-mai-2015" id="cam5_46" language="fr" product_id="B00HH8A2CE" rating="2" title="Grosse déception">
+        <Sentences>
+            <Sentence id="46:1">
+                <Text text="J'ai acheté cet appareil comme cadeau de 'futur' papa à mon compagnon."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="thalie" date="2-mai-2015" id="cam5_47" language="fr" product_id="B00HH8A2CE" rating="5" title="parfait">
+        <Sentences>
+            <Sentence id="47:1">
+                <Text text="Il est parfait dans toutes conditions : faible luminosité ou de nuit."/>
+            </Sentence>
+            <Sentence id="47:2">
+                <Text text="bien, bien, bien, bien, bien, bien, bien, bien."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Valérie G." date="27-mars-2015" id="cam5_48" language="fr" product_id="B00HH8A2CE" rating="5" title="Apareil photo">
+        <Sentences>
+            <Sentence id="48:1">
+                <Text text="J'ai choisi de mettre cette note"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nana13170" date="30-novembre-2014" id="cam5_49" language="fr" product_id="B00HH8A2CE" rating="5" title="Excellent">
+        <Sentences>
+            <Sentence id="49:1">
+                <Text text="Appareil de très haute qualité, utilisation simplifiée pour un prix très raisonnable, achat coup de cœur et a vraiment pas regretté !!"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="OTHER" target="utilisation"/>
+                    <Opinion category="PRICE" target="prix"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="49:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Prince du LEVANT" date="4-juillet-2014" id="cam5_50" language="fr" product_id="B00HH8A2CE" rating="3" title="appareil complet Fait de blles photos Prix competitif  Mecanique tres fragile a deconseiller pour enfants ou premier appareil">
+        <Sentences>
+            <Sentence id="50:1">
+                <Text text="J'ai achete cet appareil sur un autre site et j'ai pu l'utilise pendant quelques semaines."/>
+            </Sentence>
+            <Sentence id="50:2">
+                <Text text="Appareil assez complet et fait de belles photos avec en plus possibilite de retouche (modifier le teint du visage, enlever des rides, rendre le sourire plus beau avec le blanchiment des  dents...) Malheureusement son mecanique est tres delicat et son objectif se bloque assez facilement d'ou necessite de renvoyer pour reparation."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:3">
+                <Text text="Donc, appareil delicat et fragile Ne convient qu'a des personnes tres soignees et sachant exploiter toutes ses possibilites."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="50:4">
+                <Text text="Par ailleurs sortie en prise USB specifique a Sony, batterie type telephone portable a recharger dans l'appareil, donc attention a la compatibilite si on oublie le cordon Sony livre avec l'appareil."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="prise usb"/>
+                    <Opinion category="GENERAL" target="sony"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Sarah bm" date="18-janvier-2019" id="cam5_51" language="fr" product_id="B00HH8A2CE" rating="5" title="Très bien">
+        <Sentences>
+            <Sentence id="51:1">
+                <Text text="Très bien"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Vero.B" date="12-janvier-2019" id="cam5_52" language="fr" product_id="B00HH8A2CE" rating="1" title="Decue">
+        <Sentences>
+            <Sentence id="52:1">
+                <Text text="Très déçue tant sur la qualité que sur la finition des photos"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="rebecca" date="3-janvier-2019" id="cam5_53" language="fr" product_id="B00HH8A2CE" rating="5" title="super">
+        <Sentences>
+            <Sentence id="53:1">
+                <Text text="rien a dire je recommande"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="claudine jeanniot" date="31-décembre-2018" id="cam5_54" language="fr" product_id="B00HH8A2CE" rating="4" title="Facile d utilisation et pratique">
+        <Sentences>
+            <Sentence id="54:1">
+                <Text text="Utiliser pour nos fêtes de fin d année lors des dîner de famille"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Isabelle PINTO BAPTISTIN" date="27-décembre-2018" id="cam5_55" language="fr" product_id="B00HH8A2CE" rating="2" title="Décevant, mais bonnes photos">
+        <Sentences>
+            <Sentence id="55:1">
+                <Text text="Déçue par la qualité des touches et la prise en main"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="iaazza zineb" date="23-décembre-2018" id="cam5_56" language="fr" product_id="B00HH8A2CE" rating="2" title="Ne pas commander">
+        <Sentences>
+            <Sentence id="56:1">
+                <Text text="Les photos ne sont pas de bonne qualité"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Mme M. Claire Allard" date="10-décembre-2018" id="cam5_57" language="fr" product_id="B00HH8A2CE" rating="5" title="Appareil photo prix raisonnable et bonne qualité">
+        <Sentences>
+            <Sentence id="57:1">
+                <Text text="Offert pour Noël."/>
+            </Sentence>
+            <Sentence id="57:2">
+                <Text text="Essai fonctionne très bien"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="3-décembre-2018" id="cam5_58" language="fr" product_id="B00HH8A2CE" rating="4" title="trés bon rapport qualité prix">
+        <Sentences>
+            <Sentence id="58:1">
+                <Text text="très content de cet appareil photo .très belle photo"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil photo"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="2-décembre-2018" id="cam5_59" language="fr" product_id="B00HH8A2CE" rating="5" title="APN Sony DSCW810P">
+        <Sentences>
+            <Sentence id="59:1">
+                <Text text="compact pratique très bonne qualité très bon prix"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="PRICE" target="prix"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="VIRATELLE SYLVIE" date="27-novembre-2018" id="cam5_60" language="fr" product_id="B00HH8A2CE" rating="5" title="Merci  à votre équipe .">
+        <Sentences>
+            <Sentence id="60:1">
+                <Text text="L'appareil photo numérique  SONY est beau,  la couleur gris  me plaît beaucoup."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil photo"/>
+                    <Opinion category="GENERAL" target="sony"/>
+                    <Opinion category="OTHER" target="couleur"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="60:2">
+                <Text text="Facile à  mettre  dans la  sacoche."/>
+            </Sentence>
+            <Sentence id="60:3">
+                <Text text="Il faut que j'apprends  à  me servir  de l'appareil photo."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="client satisfait mais pas pour tous les vendeurs" date="23-mai-2017" id="cam5_61" language="fr" product_id="B00HH8A2CE" rating="5" title="très contente">
+        <Sentences>
+            <Sentence id="61:1">
+                <Text text="Très bon appareil photo."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil photo"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="61:2">
+                <Text text="Très pratique puisqu'il est petit et il tient dans une poche ou autre."/>
+            </Sentence>
+            <Sentence id="61:3">
+                <Text text="Très facile d'utilisation."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="utilisation"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="61:4">
+                <Text text="Je recommande ce produit"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Florence Rouch" date="21-mai-2017" id="cam5_62" language="fr" product_id="B00HH8A2CE" rating="3" title="Autonomie très limite">
+        <Sentences>
+            <Sentence id="62:1">
+                <Text text="Bon appareil, très compact, mais autonomie ridicule."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                    <Opinion category="BATTERY" target="autonomie"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="62:2">
+                <Text text="Même éteint il se décharge en quelques jours."/>
+            </Sentence>
+            <Sentence id="62:3">
+                <Text text="Prévoyez 1 ou 2 batteries de rechange ;-)"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="leroy" date="13-avril-2017" id="cam5_63" language="fr" product_id="B00HH8A2CE" rating="3" title="appareil standard">
+        <Sentences>
+            <Sentence id="63:1">
+                <Text text="Ne pas tenir compte d un avis précédent que j ai indiqué si toutefois il est publié en effet l'appareil vendu sur un autre site est une occasion reconditionnée !"/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="63:2">
+                <Text text="Erreur de ma part ."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Nicolas de Bodinat" date="2-avril-2017" id="cam5_64" language="fr" product_id="B00HH8A2CE" rating="3" title="Fin et correct. Sans plus.">
+        <Sentences>
+            <Sentence id="64:1">
+                <Text text="Je m'attendais à légèrement mieux venant de SONY."/>
+            </Sentence>
+            <Sentence id="64:2">
+                <Text text="La mise au point est assez rapide, mais la qualité du capteur n'est pas vraiment au rendez vous."/>
+            </Sentence>
+            <Sentence id="64:3">
+                <Text text="Mon ancien KODAK 4M qui a plus de 12 ans fait de meilleures photos."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="JOCHYMSKI P." date="28-mars-2017" id="cam5_65" language="fr" product_id="B00HH8A2CE" rating="1" title="DECEVANT">
+        <Sentences>
+            <Sentence id="65:1">
+                <Text text="A PART QU IL FAIT DE BELLES PHOTOS L APPAREIL EST TRES DECEVANT JE LE DECONSEILLE TROP CHER ET MAL CONCU!"/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                    <Opinion category="GENERAL" target="appareil"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="65:2">
+                <Text text="!"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Loubna Bouhayda" date="22-février-2017" id="cam5_66" language="fr" product_id="B00HH8A2CE" rating="1" title="Déception">
+        <Sentences>
+            <Sentence id="66:1">
+                <Text text="Très déçu pour le prix c'est vraiment cher pour ce que c'est."/>
+            </Sentence>
+            <Sentence id="66:2">
+                <Text text="Je l'ai acheter précipitamment car je partais en vacances et celui que j'avais était trop gros, mais j'ai du areter de l'utiliser et utiliser mon téléphone qui avais une meilleure qualité d'image."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="IMAGING" target="image"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="66:3">
+                <Text text="Vraiment domage Si je pouvais je le retournerais !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="cascabel" date="14-août-2016" id="cam5_67" language="fr" product_id="B00HH8A2CE" rating="5" title="Très satisfaite">
+        <Sentences>
+            <Sentence id="67:1">
+                <Text text="Appareil photo de très bonne qualité, en pleine lumière, flash très bien en moins bonne lumière."/>
+                <Opinions>
+                    <Opinion category="GENERAL" target="qualité"/>
+                    <Opinion category="EXPOSURE CONTROL" target="flash"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="67:2">
+                <Text text="Zoom moyen, bon réflexe surtout pour la prise de cibles mouvantes."/>
+            </Sentence>
+            <Sentence id="67:3">
+                <Text text="Bon rapport qualité/prix, penser à bien prévoir une Carte SD standard ou un adaptateur standard si micro SD."/>
+                <Opinions>
+                    <Opinion category="OTHER" target="rapport qualité"/>
+                    <Opinion category="MEMORY" target="micro sd"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="67:4">
+                <Text text="Toute la qualité Sony, je suis ravie !"/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="KKV" date="22-avril-2016" id="cam5_68" language="fr" product_id="B00HH8A2CE" rating="5" title="Rapport qualité prix">
+        <Sentences>
+            <Sentence id="68:1">
+                <Text text="très rapport qualité prix, de petite taille mais réalise de belles choses, très facile à ranger."/>
+                <Opinions>
+                    <Opinion category="DIMENSION" target="taille"/>
+                </Opinions>
+            </Sentence>
+            <Sentence id="68:2">
+                <Text text="la batterie est très durable, peut prendre plus de 1000 photos sans être décharger."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Client d'Amazon" date="25-février-2016" id="cam5_69" language="fr" product_id="B00HH8A2CE" rating="1" title="Mauvaise qualitée">
+        <Sentences>
+            <Sentence id="69:1">
+                <Text text="J'ai l'impression qu'il n'y a pas de stabilisateur."/>
+            </Sentence>
+        </Sentences>
+    </Review>
+    <Review author="Christelle" date="30-décembre-2015" id="cam5_70" language="fr" product_id="B00HH8A2CE" rating="5" title="Tres bien">
+        <Sentences>
+            <Sentence id="70:1">
+                <Text text="Ras très bien pour prendre des photos facile d utilisation je l'ai acheté pour une utilisation de tout les jours."/>
+                <Opinions>
+                    <Opinion category="IMAGING" target="photos"/>
+                </Opinions>
+            </Sentence>
+        </Sentences>
+    </Review>
+</Reviews>
